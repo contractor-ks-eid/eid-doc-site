@@ -135,7 +135,7 @@ multilang:
     - lang: "sq"
       name: "Shqip"
     - lang: "sr"
-      name: "Serbian"
+      name: "Srpski"
   siteLanguage: 0
   fallbackLang: 0
   needsTranslation:
