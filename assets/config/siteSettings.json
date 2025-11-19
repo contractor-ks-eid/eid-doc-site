@@ -184,7 +184,7 @@
           "name": "English"
         }
       ],
-      "siteLanguage": 0,
+      "siteLanguage": 1,
       "fallbackLang": 0,
       "needsTranslation": [
         "body"
@@ -225,10 +225,10 @@
         "docs"
       ],
       "excerpt": "pagebuildconfig, documentation, configuration, page, document, configured, header, section, yml, entry",
-      "lastUpdate": "2025-11-19 19:10:03 +0200",
+      "lastUpdate": "2025-11-20 00:22:45 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2025-11-19 19:10:03 +0200",
-      "createTimeUTC": 1763572203,
+      "createTime": "2025-11-20 00:22:45 +0200",
+      "createTimeUTC": 1763590965,
       "relatedPages": [],
       "autoSummary": "This document can be configured to appear in the home page, header section as the entry point to the documentation. The configuration shall be made in: _datapagebuildconfig.yml, section, key and is used in as _datAPagebuild configuration.",
       "similarByContent": [],
@@ -247,7 +247,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "19-Nov-2025"
+          "lastUpdate": "20-Nov-2025"
         }
       ],
       "numPages": 1
@@ -257,7 +257,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "19-Nov-2025"
+          "lastUpdate": "20-Nov-2025"
         }
       ],
       "numPages": 1
@@ -272,7 +272,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "19-Nov-2025"
+          "lastUpdate": "20-Nov-2025"
         }
       ],
       "numPages": 1
