@@ -184,7 +184,7 @@
           "name": "Srpski"
         }
       ],
-      "siteLanguage": 0,
+      "siteLanguage": 1,
       "fallbackLang": 0,
       "needsTranslation": [
         "body"
