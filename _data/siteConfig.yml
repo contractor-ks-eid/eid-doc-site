@@ -136,7 +136,7 @@ multilang:
       name: "Srpski"
     - lang: "en"
       name: "English"
-  siteLanguage: 0
+  siteLanguage: 1
   fallbackLang: 0
   needsTranslation:
     - "body"
