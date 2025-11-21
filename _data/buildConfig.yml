@@ -89,17 +89,17 @@ siteFooter:
         <a href="https://pmc-expert.com" target=_blank>PMC</a>
 googleAnalytics:
   enabled: false #enable/disable GA integration
-  ga: ""
+  ga: "G-S12CV9TTQG"
 googleTagManager:
   enabled: false #enable/disable GTM integration
   gtm: ""
 breadcrumbs:
   depth: 100
 hubspot:
-  portalID: ""
-  region: ""
+  portalID: "147281790"
+  region: "eu1"
   feedbackFormID: 
-    ID: ""
+    ID: "b19ed661-3883-4909-a685-7d9765cbf752"
 faq:
   enabled: true #enable/disable FAQ feature
   pagination: true

@@ -110,7 +110,7 @@
     },
     "navPrevNextEnabled": true,
     "hsIntegration": {
-      "enabled": false,
+      "enabled": true,
       "bootstrapCSS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css",
       "bootstrapJS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js",
       "bootstrapIconsCSS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css",
@@ -122,7 +122,7 @@
         },
         "submisionSource": {
           "propName": "source",
-          "propValue": "docaroo"
+          "propValue": "eid_docs"
         },
         "prefLang": {
           "propName": "hs_language"
@@ -137,7 +137,7 @@
       "fontFamily": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
     },
     "links": {
-      "privacyLink": "https://innohub.space/eng/privacy",
+      "privacyLink": "https://ks-eid.com/privacy",
       "supportLink": "https://innohub.space/eng/mypmc/technical-support/"
     },
     "selectedTextContextMenu": {
@@ -225,10 +225,10 @@
         "docs"
       ],
       "excerpt": "pagebuildconfig, documentation, configuration, page, document, configured, header, section, yml, entry",
-      "lastUpdate": "2025-11-20 11:51:05 +0200",
+      "lastUpdate": "2025-11-20 11:55:36 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2025-11-20 11:51:05 +0200",
-      "createTimeUTC": 1763632265,
+      "createTime": "2025-11-20 11:55:36 +0200",
+      "createTimeUTC": 1763632536,
       "relatedPages": [],
       "autoSummary": "This document can be configured to appear in the home page, header section as the entry point to the documentation. The configuration shall be made in: _datapagebuildconfig.yml, section, key and is used in as _datAPagebuild configuration.",
       "similarByContent": [],
@@ -278,7 +278,14 @@
       "numPages": 1
     }
   },
-  "hsSettings": {},
+  "hsSettings": {
+    "region": "eu1",
+    "portalID": "147281790",
+    "feedbackFormID": "b19ed661-3883-4909-a685-7d9765cbf752",
+    "feedbackForm": {
+      "ID": "b19ed661-3883-4909-a685-7d9765cbf752"
+    }
+  },
   "algoliaSettings": {},
   "pageSettings": {
     "/": {
@@ -293,7 +300,7 @@
   "gData": {
     "ga": {
       "enabled": false,
-      "ga": ""
+      "ga": "G-S12CV9TTQG"
     },
     "gtm": {
       "enabled": false,
