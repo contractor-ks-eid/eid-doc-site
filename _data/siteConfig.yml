@@ -84,6 +84,7 @@ similarByContent:
 navPrevNextEnabled: true # enable/disable page Prev/Next navigation feature
 hsIntegration:
   enabled: false
+  legacyForms: false
   bootstrapCSS: "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css"
   bootstrapJS: "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js"
   bootstrapIconsCSS: "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
