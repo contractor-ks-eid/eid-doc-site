@@ -104,7 +104,7 @@ scripts:
   fontFamily: "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
 links:
   privacyLink: "https://ks-eid.com/privacy"
-  supportLink: "https://innohub.space/eng/mypmc/technical-support/"
+  supportLink: "https://ks-eid.com/support"
 selectedTextContextMenu:
   enabled: true  # enable/disable context menu feature on desktop for page content. better to be disabled if Algolia is not used
   minWords: 1

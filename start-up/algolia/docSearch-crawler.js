@@ -1,5 +1,9 @@
 // replace or fill-in missing parts
 // edit your Algolia DocSearch crawler and replace it with this code
+/*
+ *  HEADS UP!!!!!
+ *  REPLACE THE PLACEHOLDERS WITH THE VALUES FROM YOUR ALGOLIA INSTANCE
+ */
 
 new Crawler({
   appId: ".....", // Algolia DocSearch AppID
@@ -133,7 +137,7 @@ new Crawler({
   ],
   sitemaps: ["<site_url>/sitemap.xml"],
   initialIndexSettings: {
-    "aroo-innohub": {
+    "<YOUR-INDEX-NAME>": {
       advancedSyntax: true,
       allowTyposOnNumericTokens: false,
       attributeCriteriaComputedByMinProximity: true,
