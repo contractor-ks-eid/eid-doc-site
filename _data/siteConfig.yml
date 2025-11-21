@@ -94,7 +94,7 @@ hsIntegration:
       submittedMessage: ".submitted-message"
     submisionSource: 
       propName: "source"
-      propValue: "docaroo"
+      propValue: "eid_docs"
     prefLang:
       propName: "hs_language"
     userToken:
@@ -103,8 +103,8 @@ scripts:
   jQuery: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
   fontFamily: "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
 links:
-  privacyLink: "https://ks-eid.com/privacy"
-  supportLink: "https://ks-eid.com/eng/mypmc/technical-support/"
+  privacyLink: "https://ks-eid.com/sr/privacy"
+  supportLink: "https://ks-eid.com/sr/support/"
 selectedTextContextMenu:
   enabled: true  # enable/disable context menu feature on desktop for page content. better to be disabled if Algolia is not used
   minWords: 1
