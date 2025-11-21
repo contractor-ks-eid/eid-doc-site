@@ -83,7 +83,7 @@ similarByContent:
   maxPages: 4
 navPrevNextEnabled: true # enable/disable page Prev/Next navigation feature
 hsIntegration:
-  enabled: false
+  enabled: true
   legacyForms: false
   bootstrapCSS: "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css"
   bootstrapJS: "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js"
