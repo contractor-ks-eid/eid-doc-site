@@ -87,11 +87,11 @@ siteFooter:
         <i class="bi bi-c-circle"></i> 
         <a href="https://me.rks-gov.net/sr/" target=_blank>Ministarstvo Ekonomije</a>
 googleAnalytics:
-  enabled: false #enable/disable GA integration
-  ga: ""
+  enabled: true #enable/disable GA integration
+  ga: "G-S12CV9TTQG"
 googleTagManager:
-  enabled: false #enable/disable GTM integration
-  gtm: ""
+  enabled: true #enable/disable GTM integration
+  gtm: "GTM-NWK7XCJQ"
 breadcrumbs:
   depth: 100
 hubspot:
