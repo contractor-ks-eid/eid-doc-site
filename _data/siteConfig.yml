@@ -94,7 +94,7 @@ hsIntegration:
       submittedMessage: ".submitted-message"
     submisionSource: 
       propName: "source"
-      propValue: "docaroo"
+      propValue: "docs-eid"
     prefLang:
       propName: "hs_language"
     userToken:
