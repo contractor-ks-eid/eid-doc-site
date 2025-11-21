@@ -81,18 +81,17 @@ siteFooter:
   container: ".site-footer"
   rows:
     - content: >
-        <a href="https://innohub.space/eng/terms-of-service/" target=_blank>Terms</a> |
-        <a href="https://innohub.space/eng/privacy/" target=_blank>Privacy</a> |
-        <a href="https://innohub.space/eng/cookie-policy/" target=_blank>Cookies</a>
+        <a href="https://ks-eid.com/privacy" target=_blank>Privacy</a> |
+        <a href="https://ks-eid.com/cookies" target=_blank>Cookies</a>
     - content: > 
-        Copyright <i class="bi bi-c-circle"></i> 
-        <a href="https://pmc-expert.com" target=_blank>PMC</a>
+        <i class="bi bi-c-circle"></i> 
+        <a href="https://me.rks-gov.net/" target=_blank>Ministria e Ekonomisë</a>
 googleAnalytics:
-  enabled: false #enable/disable GA integration
+  enabled: true #enable/disable GA integration
   ga: "G-S12CV9TTQG"
 googleTagManager:
-  enabled: false #enable/disable GTM integration
-  gtm: ""
+  enabled: true #enable/disable GTM integration
+  gtm: "GTM-NWK7XCJQ"
 breadcrumbs:
   depth: 100
 hubspot:

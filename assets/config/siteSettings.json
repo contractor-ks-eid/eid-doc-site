@@ -299,12 +299,12 @@
   },
   "gData": {
     "ga": {
-      "enabled": false,
+      "enabled": true,
       "ga": "G-S12CV9TTQG"
     },
     "gtm": {
-      "enabled": false,
-      "gtm": ""
+      "enabled": true,
+      "gtm": "GTM-NWK7XCJQ"
     }
   },
   "newRelicSettings": {
