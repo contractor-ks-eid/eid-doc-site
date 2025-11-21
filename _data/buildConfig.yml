@@ -95,10 +95,10 @@ googleTagManager:
 breadcrumbs:
   depth: 100
 hubspot:
-  portalID: ""
-  region: ""
+  portalID: "147281790"
+  region: "eu1"
   feedbackFormID: 
-    ID: ""
+    ID: "b19ed661-3883-4909-a685-7d9765cbf752"
 faq:
   enabled: true #enable/disable FAQ feature
   pagination: true
