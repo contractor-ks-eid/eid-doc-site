@@ -53,9 +53,9 @@ pageKeywords:
   maxKeywords: 15
 github:
   enabled: true 
-  user: "pmc-community"
-  repo: "jekyll-site-template"
-  discussionOrg: "pmc-community"
+  user: "contractor-ks-eid"
+  repo: "eid-doc-site"
+  discussionOrg: "contractor-ks-eid"
   discussionsRepo: "discussions"
 readingTime:
   enabled: true #enable/disable reading time calculation feature
