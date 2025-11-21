@@ -110,7 +110,8 @@
     },
     "navPrevNextEnabled": true,
     "hsIntegration": {
-      "enabled": false,
+      "enabled": true,
+      "legacyForms": false,
       "bootstrapCSS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css",
       "bootstrapJS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js",
       "bootstrapIconsCSS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css",
@@ -278,7 +279,14 @@
       "numPages": 1
     }
   },
-  "hsSettings": {},
+  "hsSettings": {
+    "region": "eu1",
+    "portalID": "147281790",
+    "feedbackFormID": "b19ed661-3883-4909-a685-7d9765cbf752",
+    "feedbackForm": {
+      "ID": "b19ed661-3883-4909-a685-7d9765cbf752"
+    }
+  },
   "algoliaSettings": {
     "algoliaEnabled": true,
     "algoliaAppID": "R9K37K90J0",
@@ -291,7 +299,7 @@
     "algoliaSendInsights": true,
     "algoliaTextHighlightPrefixTag": "<mark>",
     "algoliaTextHighlightPostfixTag": "</mark>",
-    "algoliaRaiseIssueLink": "https://github.com/pmc-community/jekyll-site-template/issues/new?title=",
+    "algoliaRaiseIssueLink": "https://github.com/contractor-ks-eid/eid-doc-site/issues/new?title=",
     "algoliaDocSearchEnabled": true,
     "algoliaCustomEnabled": false
   },
