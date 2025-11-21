@@ -47,7 +47,7 @@ window.customiseTheme = (pageObj = null) => {
     // clean local storage, remove orphan datatables such as site-pages searchPanes tables
     getOrphanDataTables('').forEach( table => { localStorage.removeItem(table); });
     
-    setTheTheme();
+    setTimeout(()=>setTheTheme(), 100);
     setGoToTopBtn();
     if (pagePermalink !== '/') setFullPageToc();
     if (pagePermalink !== '/') handleTocOnWindowsResize();
