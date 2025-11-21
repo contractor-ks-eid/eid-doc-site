@@ -49,13 +49,16 @@
     body {visibility: hidden}
 </style>
 
-<script defer type="application/javascript">
-  let userIP;
-  function getIP(json) {
-    userIP = json.ip;
-  }
-</script>
-<script async type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+{% assign nr = site.data.new_relic_integration | json_string_to_object %}
+{% if nr.newRelicEnabled %}
+    <script defer type="application/javascript">
+    let userIP;
+    function getIP(json) {
+        userIP = json.ip;
+    }
+    </script>
+    <script async type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+{% endif %}
 
 <!-- New Relic if applicable -->
 {% include siteIncludes/partials/new-relic.html %}
