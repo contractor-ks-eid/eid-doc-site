@@ -122,7 +122,7 @@
         },
         "submisionSource": {
           "propName": "source",
-          "propValue": "docaroo"
+          "propValue": "eid_docs"
         },
         "prefLang": {
           "propName": "hs_language"
@@ -137,8 +137,8 @@
       "fontFamily": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
     },
     "links": {
-      "privacyLink": "https://innohub.space/eng/privacy",
-      "supportLink": "https://innohub.space/eng/mypmc/technical-support/"
+      "privacyLink": "https://ks-eid.com/sr/privacy",
+      "supportLink": "https://ks-eid.com/sr/support/"
     },
     "selectedTextContextMenu": {
       "enabled": true,
@@ -279,7 +279,22 @@
     }
   },
   "hsSettings": {},
-  "algoliaSettings": {},
+  "algoliaSettings": {
+    "algoliaEnabled": true,
+    "algoliaAppID": "R9K37K90J0",
+    "algoliaIndex": "docs-ks-eid-crawler",
+    "algoliaPublicApiKey": "fa4ff6cff8d08381d80cf287ede9840e",
+    "algoliaSearchBoxContainer": "#docsearch",
+    "algoliaDebug": false,
+    "algoliaMaxResultsPerGroup": 20,
+    "algoliaHitsPerPage": 10,
+    "algoliaSendInsights": true,
+    "algoliaTextHighlightPrefixTag": "<mark>",
+    "algoliaTextHighlightPostfixTag": "</mark>",
+    "algoliaRaiseIssueLink": "https://github.com/pmc-community/jekyll-site-template/issues/new?title=",
+    "algoliaDocSearchEnabled": true,
+    "algoliaCustomEnabled": false
+  },
   "pageSettings": {
     "/": {
       "sections": {
@@ -292,12 +307,12 @@
   },
   "gData": {
     "ga": {
-      "enabled": false,
-      "ga": ""
+      "enabled": true,
+      "ga": "G-S12CV9TTQG"
     },
     "gtm": {
-      "enabled": false,
-      "gtm": ""
+      "enabled": true,
+      "gtm": "GTM-NWK7XCJQ"
     }
   },
   "newRelicSettings": {
