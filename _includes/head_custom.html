@@ -501,11 +501,19 @@
     </script>
 
     <script>    
-        window.addEventListener("cookieconsent_accepted", function(){
-            if (window.loadYouTubeApi) {
-                window.loadYouTubeApi();
-            }
-        });
+        var _hsp = window._hsp = window._hsp || [];
+        _hsp.push([
+            "addPrivacyConsentListener",
+            function (consent) {
+                if (consent.allowed) {
+                    console.log("User accepted cookies");
+                    window.loadYouTubeApi();
+                }
+                console.log("Analytics consent:", consent.categories.analytics);
+                console.log("Ads consent:", consent.categories.advertisement);
+                console.log("Functionality consent:", consent.categories.functionality);
+            },
+        ]);
     </script>
 
 {% else %}
