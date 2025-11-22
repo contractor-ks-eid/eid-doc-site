@@ -490,4 +490,31 @@
 
 <!-- YouTube API -->
 {% comment %} Needed to control the YouTube player with API {% endcomment %}
-<script src="https://www.youtube.com/iframe_api" defer async></script>
+{% if site.data.siteConfig.hsIntegration.enabled %}
+    <script data-cookieconsent="marketing">
+        window.loadYouTubeApi = function() {
+            var tag = document.createElement('script');
+            tag.src = "https://www.youtube.com/iframe_api";
+            document.head.appendChild(tag);
+        };
+    </script>
+
+    <script>    
+        var _hsp = window._hsp = window._hsp || [];
+        _hsp.push([
+            "addPrivacyConsentListener",
+            function (consent) {
+                if (consent.allowed) {
+                    console.log("User accepted cookies");
+                    window.loadYouTubeApi();
+                }
+                console.log("Analytics consent:", consent.categories.analytics);
+                console.log("Ads consent:", consent.categories.advertisement);
+                console.log("Functionality consent:", consent.categories.functionality);
+            },
+        ]);
+    </script>
+
+{% else %}
+    <script src="https://www.youtube.com/iframe_api" defer async></script>
+{% endif %}
