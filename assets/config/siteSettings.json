@@ -71,7 +71,7 @@
     "layouts": {
       "headerArea": {
         "mobileMenuButton": "#menu-button",
-        "siteLogo": "logo-s.webp"
+        "siteLogo": "eid-logo-512.png"
       },
       "contentArea": {
         "mainContainer": ".main-content-wrap",
@@ -111,7 +111,7 @@
     "navPrevNextEnabled": true,
     "hsIntegration": {
       "enabled": true,
-      "legacyForms": false,
+      "legacyForms": true,
       "bootstrapCSS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css",
       "bootstrapJS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js",
       "bootstrapIconsCSS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css",
@@ -282,9 +282,9 @@
   "hsSettings": {
     "region": "eu1",
     "portalID": "147281790",
-    "feedbackFormID": "b19ed661-3883-4909-a685-7d9765cbf752",
+    "feedbackFormID": "6eabc000-c2ca-4037-a12e-152bc26ec3b8",
     "feedbackForm": {
-      "ID": "b19ed661-3883-4909-a685-7d9765cbf752"
+      "ID": "6eabc000-c2ca-4037-a12e-152bc26ec3b8"
     }
   },
   "algoliaSettings": {
