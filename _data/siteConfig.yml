@@ -56,7 +56,7 @@ headerAboveContent:
 layouts:
   headerArea:
     mobileMenuButton: "#menu-button"
-    siteLogo: "eid-logo-512.webp"
+    siteLogo: "eid-logo-512.png"
   contentArea:
     mainContainer: ".main-content-wrap"
     contentContainer: ".main-content main"
