@@ -71,7 +71,7 @@
     "layouts": {
       "headerArea": {
         "mobileMenuButton": "#menu-button",
-        "siteLogo": "logo-s.webp"
+        "siteLogo": "eid-logo-512.png"
       },
       "contentArea": {
         "mainContainer": ".main-content-wrap",
