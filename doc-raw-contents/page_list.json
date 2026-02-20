@@ -1,5 +1,73 @@
 [
   {
+    "title": "eID API",
+    "permalink": "/api/intro/",
+    "categories": [
+      "Integration"
+    ],
+    "tags": [
+      "wallet",
+      "integration",
+      "signature",
+      "seal"
+    ],
+    "excerpt": "eid, api, integrators, features, provided, allow, use, systems, party",
+    "lastUpdate": "2026-02-20 12:39:37 +0200",
+    "lastUpdateUTC": 1771583977,
+    "createTime": "2026-02-20 12:39:37 +0200",
+    "createTimeUTC": 1771583977,
+    "relatedPages": [],
+    "autoSummary": "Eid API is provided to allow third party integrators to use eid features in their systems.eid is an open source programming language.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Signing Apps",
+    "permalink": "/sign-apps/intro/",
+    "categories": [
+      "Signature",
+      "Seal"
+    ],
+    "tags": [
+      "seal",
+      "signature"
+    ],
+    "excerpt": "apps, signing, desktop, stamping, documents, mobile, electronic, using, allow, used",
+    "lastUpdate": "2026-02-20 12:40:27 +0200",
+    "lastUpdateUTC": 1771584027,
+    "createTime": "2026-02-20 12:40:27 +0200",
+    "createTimeUTC": 1771584027,
+    "relatedPages": [],
+    "autoSummary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The apps are available on iOS and Android.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Kosovo Wallet",
+    "permalink": "/wallet/intro/",
+    "categories": [
+      "Wallet"
+    ],
+    "tags": [
+      "wallet"
+    ],
+    "excerpt": "wallet, kosovo, app, credentials, seal, safely, mobile, electronic, used",
+    "lastUpdate": "2026-02-20 12:41:10 +0200",
+    "lastUpdateUTC": 1771584070,
+    "createTime": "2026-02-20 12:41:10 +0200",
+    "createTimeUTC": 1771584070,
+    "relatedPages": [],
+    "autoSummary": "Kosovo wallet is a mobile app used to safely keep the credentials of the electronic id or electronic seal. It is available for iOS and Android devices.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
     "title": "Introduction",
     "permalink": "/intro/",
     "categories": [

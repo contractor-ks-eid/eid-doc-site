@@ -1,5 +1,36 @@
 [
   {
+    "permalink": "/api/intro/",
+    "related": [
+      {
+        "title": "Signing Apps",
+        "permalink": "/sign-apps/intro/"
+      }
+    ]
+  },
+  {
+    "permalink": "/sign-apps/intro/",
+    "related": [
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
+      },
+      {
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
+      }
+    ]
+  },
+  {
+    "permalink": "/wallet/intro/",
+    "related": [
+      {
+        "title": "Signing Apps",
+        "permalink": "/sign-apps/intro/"
+      }
+    ]
+  },
+  {
     "permalink": "/intro/",
     "related": []
   }
