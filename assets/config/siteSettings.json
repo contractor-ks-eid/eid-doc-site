@@ -228,10 +228,10 @@
         "seal"
       ],
       "excerpt": "eid, api, integrators, features, provided, allow, use, systems, party",
-      "lastUpdate": "2026-02-20 12:26:06 +0200",
+      "lastUpdate": "2026-02-20 12:33:34 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:26:06 +0200",
-      "createTimeUTC": 1771583166,
+      "createTime": "2026-02-20 12:33:34 +0200",
+      "createTimeUTC": 1771583614,
       "relatedPages": [
         {
           "title": "Introduction",
@@ -264,10 +264,10 @@
         "signature"
       ],
       "excerpt": "apps, signing, desktop, stamping, documents, mobile, electronic, using, allow, used",
-      "lastUpdate": "2026-02-20 12:29:03 +0200",
+      "lastUpdate": "2026-02-20 12:33:34 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:29:03 +0200",
-      "createTimeUTC": 1771583343,
+      "createTime": "2026-02-20 12:33:34 +0200",
+      "createTimeUTC": 1771583614,
       "relatedPages": [
         {
           "title": "Introduction",
@@ -298,10 +298,10 @@
         "wallet"
       ],
       "excerpt": "wallet, kosovo, app, credentials, seal, safely, mobile, electronic, used",
-      "lastUpdate": "2026-02-20 12:19:06 +0200",
+      "lastUpdate": "2026-02-20 12:33:34 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:19:06 +0200",
-      "createTimeUTC": 1771582746,
+      "createTime": "2026-02-20 12:33:34 +0200",
+      "createTimeUTC": 1771583614,
       "relatedPages": [
         {
           "title": "Manage eID",
@@ -336,10 +336,10 @@
         "seal"
       ],
       "excerpt": "eid, enrollment, arbk, arc, passing, digital, electronic, getting, process, involves",
-      "lastUpdate": "2026-02-20 12:14:33 +0200",
+      "lastUpdate": "2026-02-20 12:33:34 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:14:33 +0200",
-      "createTimeUTC": 1771582473,
+      "createTime": "2026-02-20 12:33:34 +0200",
+      "createTimeUTC": 1771583614,
       "relatedPages": [
         {
           "title": "Introduction",
@@ -376,10 +376,10 @@
         "seal"
       ],
       "excerpt": "kosovo, authenticate, eid, ebanking, registration, certificate, identities, signing, documents, arbk",
-      "lastUpdate": "2025-11-20 11:55:36 +0200",
+      "lastUpdate": "2026-02-20 12:33:34 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2025-11-20 11:55:36 +0200",
-      "createTimeUTC": 1763632536,
+      "createTime": "2026-02-20 12:33:34 +0200",
+      "createTimeUTC": 1771583614,
       "relatedPages": [
         {
           "title": "Get eID",
@@ -413,10 +413,10 @@
         "seal"
       ],
       "excerpt": "certificate, portal, service, self, manage, used, cycle, life",
-      "lastUpdate": "2026-02-20 12:14:41 +0200",
+      "lastUpdate": "2026-02-20 12:33:34 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:14:41 +0200",
-      "createTimeUTC": 1771582481,
+      "createTime": "2026-02-20 12:33:34 +0200",
+      "createTimeUTC": 1771583614,
       "relatedPages": [
         {
           "title": "Get eID",
@@ -455,7 +455,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Nov-2025"
+          "lastUpdate": "20-Feb-2026"
         }
       ],
       "numPages": 1
@@ -465,7 +465,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Nov-2025"
+          "lastUpdate": "20-Feb-2026"
         }
       ],
       "numPages": 1
@@ -480,7 +480,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Nov-2025"
+          "lastUpdate": "20-Feb-2026"
         }
       ],
       "numPages": 2
@@ -510,7 +510,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Nov-2025"
+          "lastUpdate": "20-Feb-2026"
         }
       ],
       "numPages": 2
@@ -535,7 +535,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Nov-2025"
+          "lastUpdate": "20-Feb-2026"
         },
         {
           "title": "Manage eID",
@@ -570,7 +570,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Nov-2025"
+          "lastUpdate": "20-Feb-2026"
         }
       ],
       "numPages": 3
@@ -595,7 +595,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Nov-2025"
+          "lastUpdate": "20-Feb-2026"
         },
         {
           "title": "Manage eID",
@@ -646,7 +646,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Nov-2025"
+          "lastUpdate": "20-Feb-2026"
         }
       ],
       "numPages": 1
