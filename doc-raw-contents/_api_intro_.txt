@@ -1,0 +1,1 @@
+eid api is provided to allow third party integrators to use eid features in their systems

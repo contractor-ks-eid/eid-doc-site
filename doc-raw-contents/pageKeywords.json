@@ -14,6 +14,49 @@
         "yml",
         "entry"
       ]
+    },
+    {
+      "permalink": "/api/intro/",
+      "keywords": [
+        "eid",
+        "api",
+        "integrators",
+        "features",
+        "provided",
+        "allow",
+        "use",
+        "systems",
+        "party"
+      ]
+    },
+    {
+      "permalink": "/sign-apps/intro/",
+      "keywords": [
+        "apps",
+        "signing",
+        "desktop",
+        "stamping",
+        "documents",
+        "mobile",
+        "electronic",
+        "using",
+        "allow",
+        "used"
+      ]
+    },
+    {
+      "permalink": "/wallet/intro/",
+      "keywords": [
+        "wallet",
+        "kosovo",
+        "app",
+        "credentials",
+        "seal",
+        "safely",
+        "mobile",
+        "electronic",
+        "used"
+      ]
     }
   ]
 }

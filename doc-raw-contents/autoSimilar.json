@@ -2,5 +2,17 @@
     {
         "permalink": "/intro/",
         "similarFiles": []
+    },
+    {
+        "permalink": "/api/intro/",
+        "similarFiles": []
+    },
+    {
+        "permalink": "/sign-apps/intro/",
+        "similarFiles": []
+    },
+    {
+        "permalink": "/wallet/intro/",
+        "similarFiles": []
     }
 ]

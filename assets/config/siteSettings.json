@@ -216,6 +216,93 @@
   },
   "pageList": [
     {
+      "title": "eID API",
+      "permalink": "/api/intro/",
+      "categories": [
+        "Integration"
+      ],
+      "tags": [
+        "wallet",
+        "integration",
+        "signature",
+        "seal"
+      ],
+      "excerpt": "eid, api, integrators, features, provided, allow, use, systems, party",
+      "lastUpdate": "2026-02-20 12:44:29 +0200",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-02-20 12:44:29 +0200",
+      "createTimeUTC": 1771584269,
+      "relatedPages": [
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/"
+        }
+      ],
+      "autoSummary": "Eid API is provided to allow third party integrators to use eid features in their systems.eid is an open source programming language.",
+      "similarByContent": [],
+      "readingTime": 1,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
+      "title": "Signing Apps",
+      "permalink": "/sign-apps/intro/",
+      "categories": [
+        "Signature",
+        "Seal"
+      ],
+      "tags": [
+        "seal",
+        "signature"
+      ],
+      "excerpt": "apps, signing, desktop, stamping, documents, mobile, electronic, using, allow, used",
+      "lastUpdate": "2026-02-20 12:45:05 +0200",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-02-20 12:45:05 +0200",
+      "createTimeUTC": 1771584305,
+      "relatedPages": [
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/"
+        },
+        {
+          "title": "Kosovo Wallet",
+          "permalink": "/wallet/intro/"
+        }
+      ],
+      "autoSummary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The apps are available on iOS and Android.",
+      "similarByContent": [],
+      "readingTime": 1,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
+      "title": "Kosovo Wallet",
+      "permalink": "/wallet/intro/",
+      "categories": [
+        "Wallet"
+      ],
+      "tags": [
+        "wallet"
+      ],
+      "excerpt": "wallet, kosovo, app, credentials, seal, safely, mobile, electronic, used",
+      "lastUpdate": "2026-02-20 12:45:31 +0200",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-02-20 12:45:31 +0200",
+      "createTimeUTC": 1771584331,
+      "relatedPages": [
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/"
+        }
+      ],
+      "autoSummary": "Kosovo wallet is a mobile app used to safely keep the credentials of the electronic id or electronic seal. It is available for iOS and Android devices.",
+      "similarByContent": [],
+      "readingTime": 1,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
       "title": "Introduction",
       "permalink": "/intro/",
       "categories": [
@@ -268,16 +355,59 @@
       "numPages": 1
     },
     "integration": {
-      "pages": []
+      "pages": [
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        }
+      ],
+      "numPages": 1
     },
     "seal": {
-      "pages": []
+      "pages": [
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        },
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/",
+          "lastUpdate": "20-Feb-2026"
+        }
+      ],
+      "numPages": 2
     },
     "signature": {
-      "pages": []
+      "pages": [
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        },
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/",
+          "lastUpdate": "20-Feb-2026"
+        }
+      ],
+      "numPages": 2
     },
     "wallet": {
-      "pages": []
+      "pages": [
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        },
+        {
+          "title": "Kosovo Wallet",
+          "permalink": "/wallet/intro/",
+          "lastUpdate": "20-Feb-2026"
+        }
+      ],
+      "numPages": 2
     }
   },
   "catList": [
@@ -299,16 +429,44 @@
       "numPages": 1
     },
     "Integration": {
-      "pages": []
+      "pages": [
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        }
+      ],
+      "numPages": 1
     },
     "Seal": {
-      "pages": []
+      "pages": [
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/",
+          "lastUpdate": "20-Feb-2026"
+        }
+      ],
+      "numPages": 1
     },
     "Signature": {
-      "pages": []
+      "pages": [
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/",
+          "lastUpdate": "20-Feb-2026"
+        }
+      ],
+      "numPages": 1
     },
     "Wallet": {
-      "pages": []
+      "pages": [
+        {
+          "title": "Kosovo Wallet",
+          "permalink": "/wallet/intro/",
+          "lastUpdate": "20-Feb-2026"
+        }
+      ],
+      "numPages": 1
     }
   },
   "hsSettings": {

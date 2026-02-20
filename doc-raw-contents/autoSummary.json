@@ -3,6 +3,18 @@
         {
             "permalink": "/intro/",
             "summary": "This document can be configured to appear in the home page, header section as the entry point to the documentation. The configuration shall be made in: _datapagebuildconfig.yml, section, key and is used in as _datAPagebuild configuration."
+        },
+        {
+            "permalink": "/api/intro/",
+            "summary": "Eid API is provided to allow third party integrators to use eid features in their systems.eid is an open source programming language."
+        },
+        {
+            "permalink": "/sign-apps/intro/",
+            "summary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The apps are available on iOS and Android."
+        },
+        {
+            "permalink": "/wallet/intro/",
+            "summary": "Kosovo wallet is a mobile app used to safely keep the credentials of the electronic id or electronic seal. It is available for iOS and Android devices."
         }
     ]
 }
