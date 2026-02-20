@@ -3,16 +3,16 @@
     {
       "permalink": "/intro/",
       "keywords": [
-        "pagebuildconfig",
-        "documentation",
-        "configuration",
-        "page",
-        "document",
-        "configured",
-        "header",
-        "section",
-        "yml",
-        "entry"
+        "eid",
+        "kosovo",
+        "authenticate",
+        "ebanking",
+        "certificate",
+        "api",
+        "enrollment",
+        "digitally",
+        "wallet",
+        "database"
       ]
     },
     {
@@ -56,6 +56,34 @@
         "mobile",
         "electronic",
         "used"
+      ]
+    },
+    {
+      "permalink": "/get-eid/",
+      "keywords": [
+        "eid",
+        "enrollment",
+        "arbk",
+        "arc",
+        "passing",
+        "digital",
+        "electronic",
+        "getting",
+        "process",
+        "involves"
+      ]
+    },
+    {
+      "permalink": "/manage-eid/",
+      "keywords": [
+        "certificate",
+        "portal",
+        "service",
+        "self",
+        "manage",
+        "used",
+        "cycle",
+        "life"
       ]
     }
   ]

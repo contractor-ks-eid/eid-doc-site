@@ -1,0 +1,1 @@
+Apply for eID API integration and get onboard. Let your users to login with the wallet and sign documents directly from your app.

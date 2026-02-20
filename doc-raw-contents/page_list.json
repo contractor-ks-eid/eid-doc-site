@@ -68,6 +68,31 @@
     "parent": ""
   },
   {
+    "title": "Get eID",
+    "permalink": "/get-eid/",
+    "categories": [
+      "Enrollment",
+      "Certificates"
+    ],
+    "tags": [
+      "wallet",
+      "enrollment",
+      "identity",
+      "seal"
+    ],
+    "excerpt": "eid, enrollment, arbk, arc, passing, digital, electronic, getting, process, involves",
+    "lastUpdate": "2026-02-20 18:59:44 +0200",
+    "lastUpdateUTC": 1771606784,
+    "createTime": "2026-02-20 18:59:44 +0200",
+    "createTimeUTC": 1771606784,
+    "relatedPages": [],
+    "autoSummary": "Getting eid involves passing the enrollment process at arc (for the electronic id) or at arbk ( for the digital seal).",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
     "title": "Introduction",
     "permalink": "/intro/",
     "categories": [
@@ -75,15 +100,44 @@
     ],
     "tags": [
       "documentation",
-      "docs"
+      "docs",
+      "wallet",
+      "enrollment",
+      "integration",
+      "signature",
+      "seal"
     ],
-    "excerpt": "pagebuildconfig, documentation, configuration, page, document, configured, header, section, yml, entry",
+    "excerpt": "eid, kosovo, authenticate, ebanking, certificate, api, enrollment, digitally, wallet, database",
     "lastUpdate": "2025-11-20 00:23:38 +0200",
     "lastUpdateUTC": 1763591018,
     "createTime": "2025-11-20 00:23:38 +0200",
     "createTimeUTC": 1763591018,
     "relatedPages": [],
-    "autoSummary": "This document can be configured to appear in the home page, header section as the entry point to the documentation. The configuration shall be made in: _datapagebuildconfig.yml, section, key and is used in as _datAPagebuild configuration.",
+    "autoSummary": "Kosovo eid is the national system that manages electronic identities. An electronic id is a free digital certificate issued by the government of kosovo, valid for 2 years. With it, citizens can securely sign (or stamp) documents online.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Manage eID",
+    "permalink": "/manage-eid/",
+    "categories": [
+      "Certificates"
+    ],
+    "tags": [
+      "wallet",
+      "self-service",
+      "identity",
+      "seal"
+    ],
+    "excerpt": "certificate, portal, service, self, manage, used, cycle, life",
+    "lastUpdate": "2026-02-20 18:59:44 +0200",
+    "lastUpdateUTC": 1771606784,
+    "createTime": "2026-02-20 18:59:44 +0200",
+    "createTimeUTC": 1771606784,
+    "relatedPages": [],
+    "autoSummary": "The self service portal can be used to manage the life cycle of the certificate. The certificate can also be managed by the user via the website.",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,

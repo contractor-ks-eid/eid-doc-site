@@ -2,7 +2,7 @@
     "summaries": [
         {
             "permalink": "/intro/",
-            "summary": "This document can be configured to appear in the home page, header section as the entry point to the documentation. The configuration shall be made in: _datapagebuildconfig.yml, section, key and is used in as _datAPagebuild configuration."
+            "summary": "Kosovo eid is the national system that manages electronic identities. An electronic id is a free digital certificate issued by the government of kosovo, valid for 2 years. With it, citizens can securely sign (or stamp) documents online."
         },
         {
             "permalink": "/api/intro/",
@@ -15,6 +15,14 @@
         {
             "permalink": "/wallet/intro/",
             "summary": "Kosovo wallet is a mobile app used to safely keep the credentials of the electronic id or electronic seal. It is available for iOS and Android devices."
+        },
+        {
+            "permalink": "/get-eid/",
+            "summary": "Getting eid involves passing the enrollment process at arc (for the electronic id) or at arbk ( for the digital seal)."
+        },
+        {
+            "permalink": "/manage-eid/",
+            "summary": "The self service portal can be used to manage the life cycle of the certificate. The certificate can also be managed by the user via the website."
         }
     ]
 }
