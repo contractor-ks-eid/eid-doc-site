@@ -5,6 +5,7 @@ permalink: /wallet/intro/
 categories: [Wallet]
 tags: [wallet]
 nav_order: 1
+start: true
 ---
 
 # Intro
