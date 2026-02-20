@@ -228,10 +228,10 @@
         "seal"
       ],
       "excerpt": "eid, api, integrators, features, provided, allow, use, systems, party",
-      "lastUpdate": "2026-02-20 12:39:37 +0200",
+      "lastUpdate": "2026-02-20 12:50:25 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:39:37 +0200",
-      "createTimeUTC": 1771583977,
+      "createTime": "2026-02-20 12:50:25 +0200",
+      "createTimeUTC": 1771584625,
       "relatedPages": [
         {
           "title": "Signing Apps",
@@ -256,10 +256,10 @@
         "signature"
       ],
       "excerpt": "apps, signing, desktop, stamping, documents, mobile, electronic, using, allow, used",
-      "lastUpdate": "2026-02-20 12:40:27 +0200",
+      "lastUpdate": "2026-02-20 12:50:25 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:40:27 +0200",
-      "createTimeUTC": 1771584027,
+      "createTime": "2026-02-20 12:50:25 +0200",
+      "createTimeUTC": 1771584625,
       "relatedPages": [
         {
           "title": "eID API",
@@ -286,10 +286,10 @@
         "wallet"
       ],
       "excerpt": "wallet, kosovo, app, credentials, seal, safely, mobile, electronic, used",
-      "lastUpdate": "2026-02-20 12:41:10 +0200",
+      "lastUpdate": "2026-02-20 12:50:25 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:41:10 +0200",
-      "createTimeUTC": 1771584070,
+      "createTime": "2026-02-20 12:50:25 +0200",
+      "createTimeUTC": 1771584625,
       "relatedPages": [
         {
           "title": "Signing Apps",
@@ -328,8 +328,11 @@
   "tagList": [
     "docs",
     "documentation",
+    "enrollment",
+    "identity",
     "integration",
     "seal",
+    "self-service",
     "signature",
     "wallet"
   ],
@@ -353,6 +356,12 @@
         }
       ],
       "numPages": 1
+    },
+    "enrollment": {
+      "pages": []
+    },
+    "identity": {
+      "pages": []
     },
     "integration": {
       "pages": [
@@ -378,6 +387,9 @@
         }
       ],
       "numPages": 2
+    },
+    "self-service": {
+      "pages": []
     },
     "signature": {
       "pages": [
@@ -411,6 +423,8 @@
     }
   },
   "catList": [
+    "Certificates",
+    "Enrollment",
     "General",
     "Integration",
     "Seal",
@@ -418,6 +432,12 @@
     "Wallet"
   ],
   "catDetails": {
+    "Certificates": {
+      "pages": []
+    },
+    "Enrollment": {
+      "pages": []
+    },
     "General": {
       "pages": [
         {
