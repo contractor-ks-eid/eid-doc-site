@@ -5,6 +5,7 @@ permalink: /api/intro/
 categories: [Integration]
 tags: [wallet, integration, signature, seal]
 nav_order: 1
+start: true
 ---
 
 # Intro
