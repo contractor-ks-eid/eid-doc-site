@@ -2,7 +2,27 @@
     "summaries": [
         {
             "permalink": "/intro/",
-            "summary": "This document can be configured to appear in the home page, header section as the entry point to the documentation. The configuration shall be made in: _datapagebuildconfig.yml, section, key and is used in as _datAPagebuild configuration."
+            "summary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. With an electronic id and the signing app, citizens and businesses can digitally sign or stamp documents. By law, an electronic signature has the same legal value as a handwritten one."
+        },
+        {
+            "permalink": "/get-eid/",
+            "summary": "Getting eid involves passing the enrollment process at arc (for the electronic id) or at arbk ( for the digital seal)."
+        },
+        {
+            "permalink": "/manage-eid/",
+            "summary": "The self service portal can be used to manage the life cycle of the certificate. The certificate can also be managed by the user via the website."
+        },
+        {
+            "permalink": "/wallet/intro/",
+            "summary": "Kosovo wallet is a mobile app used to safely keep the credentials of the electronic id or electronic seal. It is available for iOS and Android devices."
+        },
+        {
+            "permalink": "/api/intro/",
+            "summary": "Eid API is provided to allow third party integrators to use eid features in their systems.eid is an open source programming language."
+        },
+        {
+            "permalink": "/sign-apps/intro/",
+            "summary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The apps are available on iOS and Android."
         }
     ]
 }

@@ -2,5 +2,25 @@
     {
         "permalink": "/intro/",
         "similarFiles": []
+    },
+    {
+        "permalink": "/get-eid/",
+        "similarFiles": []
+    },
+    {
+        "permalink": "/manage-eid/",
+        "similarFiles": []
+    },
+    {
+        "permalink": "/wallet/intro/",
+        "similarFiles": []
+    },
+    {
+        "permalink": "/api/intro/",
+        "similarFiles": []
+    },
+    {
+        "permalink": "/sign-apps/intro/",
+        "similarFiles": []
     }
 ]
