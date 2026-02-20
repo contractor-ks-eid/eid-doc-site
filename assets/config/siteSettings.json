@@ -240,7 +240,11 @@
   ],
   "tagList": [
     "docs",
-    "documentation"
+    "documentation",
+    "integration",
+    "seal",
+    "signature",
+    "wallet"
   ],
   "tagDetails": {
     "docs": {
@@ -262,10 +266,26 @@
         }
       ],
       "numPages": 1
+    },
+    "integration": {
+      "pages": []
+    },
+    "seal": {
+      "pages": []
+    },
+    "signature": {
+      "pages": []
+    },
+    "wallet": {
+      "pages": []
     }
   },
   "catList": [
-    "General"
+    "General",
+    "Integration",
+    "Seal",
+    "Signature",
+    "Wallet"
   ],
   "catDetails": {
     "General": {
@@ -277,6 +297,18 @@
         }
       ],
       "numPages": 1
+    },
+    "Integration": {
+      "pages": []
+    },
+    "Seal": {
+      "pages": []
+    },
+    "Signature": {
+      "pages": []
+    },
+    "Wallet": {
+      "pages": []
     }
   },
   "hsSettings": {

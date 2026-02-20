@@ -95,7 +95,17 @@ collections_dir: doc-contents
 collections:
 
   # custom collections
-  
+  api:
+    permalink: "/:collection/:path"
+    output: true
+
+  wallet:
+    permalink: "/:collection/:path"
+    output: true
+
+  sign-apps:
+    permalink: "/:collection/:path"
+    output: true
 
   # default collections (last position(s)) --- do not modify
   tools:
@@ -110,6 +120,17 @@ collections:
 just_the_docs:
   collections:
     # custom collections
+    api:
+      name: eID API
+      nav_fold: true
+
+    wallet:
+      name: Kosovo Wallet
+      nav_fold: true
+
+    sign-apps:
+      name: Sign and Stamp
+      nav_fold: true
 
     # default collections (last position(s)) --- do not modify
     tools:
