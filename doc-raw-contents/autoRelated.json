@@ -37,16 +37,16 @@
     "permalink": "/wallet/intro/",
     "related": [
       {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      },
+      {
         "title": "Manage eID",
         "permalink": "/manage-eid/"
       },
       {
         "title": "Get eID",
         "permalink": "/get-eid/"
-      },
-      {
-        "title": "Signing Apps",
-        "permalink": "/sign-apps/intro/"
       }
     ]
   },

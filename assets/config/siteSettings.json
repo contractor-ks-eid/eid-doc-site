@@ -228,10 +228,10 @@
         "seal"
       ],
       "excerpt": "eid, api, integrators, features, provided, allow, use, systems, party",
-      "lastUpdate": "2026-02-20 12:33:34 +0200",
+      "lastUpdate": "2026-02-20 12:51:13 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:33:34 +0200",
-      "createTimeUTC": 1771583614,
+      "createTime": "2026-02-20 12:51:13 +0200",
+      "createTimeUTC": 1771584673,
       "relatedPages": [
         {
           "title": "Introduction",
@@ -264,10 +264,10 @@
         "signature"
       ],
       "excerpt": "apps, signing, desktop, stamping, documents, mobile, electronic, using, allow, used",
-      "lastUpdate": "2026-02-20 12:33:34 +0200",
+      "lastUpdate": "2026-02-20 12:51:13 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:33:34 +0200",
-      "createTimeUTC": 1771583614,
+      "createTime": "2026-02-20 12:51:13 +0200",
+      "createTimeUTC": 1771584673,
       "relatedPages": [
         {
           "title": "Introduction",
@@ -298,11 +298,15 @@
         "wallet"
       ],
       "excerpt": "wallet, kosovo, app, credentials, seal, safely, mobile, electronic, used",
-      "lastUpdate": "2026-02-20 12:33:34 +0200",
+      "lastUpdate": "2026-02-20 12:51:13 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:33:34 +0200",
-      "createTimeUTC": 1771583614,
+      "createTime": "2026-02-20 12:51:13 +0200",
+      "createTimeUTC": 1771584673,
       "relatedPages": [
+        {
+          "title": "Introduction",
+          "permalink": "/intro/"
+        },
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/"
@@ -310,10 +314,6 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/"
-        },
-        {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/"
         }
       ],
       "autoSummary": "Kosovo wallet is a mobile app used to safely keep the credentials of the electronic id or electronic seal. It is available for iOS and Android devices.",
@@ -375,7 +375,7 @@
         "signature",
         "seal"
       ],
-      "excerpt": "kosovo, authenticate, eid, ebanking, registration, certificate, identities, signing, documents, arbk",
+      "excerpt": "kosovo, eid, authenticate, certificate, ebanking, documents, enrollment, database, counters, electronic",
       "lastUpdate": "2026-02-20 12:33:34 +0200",
       "lastUpdateUTC": 0,
       "createTime": "2026-02-20 12:33:34 +0200",
@@ -394,9 +394,9 @@
           "permalink": "/sign-apps/intro/"
         }
       ],
-      "autoSummary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. With an electronic id and the signing app, citizens and businesses can digitally sign or stamp documents. By law, an electronic signature has the same legal value as a handwritten one.",
+      "autoSummary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. With an electronic id (or electronic seal) and the signing app, citizens and businesses can digitally sign or stamp documents.",
       "similarByContent": [],
-      "readingTime": 1,
+      "readingTime": 2,
       "hasDynamicContent": false,
       "parent": ""
     },
