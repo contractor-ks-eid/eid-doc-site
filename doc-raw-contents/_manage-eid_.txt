@@ -1,0 +1,1 @@
+the self service portal can be used to manage the life cycle of the certificate

@@ -1,0 +1,1 @@
+getting eid involves passing the enrollment process at arc (for the electronic id) or at arbk (for the digital seal)

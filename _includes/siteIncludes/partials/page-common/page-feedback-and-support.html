@@ -200,12 +200,14 @@
                 class="col-md-4 col-12">
                 <!-- feedback form-->
                 {% if site.data.siteConfig.hsIntegration.enabled %}
-                    <span 
-                        class="fs-6 fw-medium ghBtnLink" 
-                        data-i18n="page_footer_help_us_improve_col_title">
-                        Help us improve!!
-                    </span> 
-                    {% include siteIncludes/partials/page-common/page-feedback-form.html %}
+                    {% if site.data.siteConfig.hsIntegration.legacyForms %}
+                        <span 
+                            class="fs-6 fw-medium ghBtnLink" 
+                            data-i18n="page_footer_help_us_improve_col_title">
+                            Help us improve!!
+                        </span> 
+                        {% include siteIncludes/partials/page-common/page-feedback-form.html %}
+                    {% endif %}
                 {% endif %}
             </div>
 

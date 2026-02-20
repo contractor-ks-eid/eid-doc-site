@@ -1,6 +1,104 @@
 [
   {
+    "permalink": "/api/intro/",
+    "related": [
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      },
+      {
+        "title": "Signing Apps",
+        "permalink": "/sign-apps/intro/"
+      },
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      }
+    ]
+  },
+  {
+    "permalink": "/sign-apps/intro/",
+    "related": [
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
+      },
+      {
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
+      },
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      }
+    ]
+  },
+  {
+    "permalink": "/wallet/intro/",
+    "related": [
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      },
+      {
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
+      },
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      }
+    ]
+  },
+  {
+    "permalink": "/get-eid/",
+    "related": [
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      },
+      {
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
+      },
+      {
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
+      }
+    ]
+  },
+  {
     "permalink": "/intro/",
-    "related": []
+    "related": [
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
+      },
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      },
+      {
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
+      }
+    ]
+  },
+  {
+    "permalink": "/manage-eid/",
+    "related": [
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      },
+      {
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
+      },
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      }
+    ]
   }
 ]

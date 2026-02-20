@@ -49,13 +49,16 @@
     body {visibility: hidden}
 </style>
 
-<script defer type="application/javascript">
-  let userIP;
-  function getIP(json) {
-    userIP = json.ip;
-  }
-</script>
-<script async type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+{% assign nr = site.data.new_relic_integration | json_string_to_object %}
+{% if nr.newRelicEnabled %}
+    <script defer type="application/javascript">
+    let userIP;
+    function getIP(json) {
+        userIP = json.ip;
+    }
+    </script>
+    <script async type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+{% endif %}
 
 <!-- New Relic if applicable -->
 {% include siteIncludes/partials/new-relic.html %}
@@ -486,6 +489,33 @@
 {% include siteIncludes/partials/gtm-head.html %}
 
 <!-- YouTube API -->
-{% comment %} Needed to control the YouTube player with API {% endcomment %}
-<script src="https://www.youtube.com/iframe_api" defer async></script>
+{% comment %} 
+    Needed to control the YouTube player with API
+    When cookie banner is from HS, it is loaded after consent, otherwise is setting some cookies.
+    On dev and without HS cookie banner, it is loaded by default, setting also the cookies 
+{% endcomment %}
 
+{% if site.data.siteConfig.hsIntegration.enabled %}
+    <script data-cookieconsent="marketing">
+        window.loadYouTubeApi = function() {
+            const tag = document.createElement('script');
+            tag.src = "https://www.youtube.com/iframe_api";
+            document.head.appendChild(tag);
+        };
+    </script>
+
+    <script>    
+        _hsp = window._hsp = window._hsp || [];
+        _hsp.push([
+            "addPrivacyConsentListener",
+            function (consent) {
+                if (consent.allowed) {
+                    window.loadYouTubeApi();
+                }
+            },
+        ]);
+    </script>
+
+{% else %}
+    <script src="https://www.youtube.com/iframe_api" defer async></script>
+{% endif %}

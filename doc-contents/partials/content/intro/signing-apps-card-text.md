@@ -1,0 +1,1 @@
+Install the desktop and/or mobile sigining app and start signing and stamping documents.

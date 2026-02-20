@@ -260,3 +260,11 @@ $liWithoutDefaultMargin: (
         }
 }
 
+$alwaysWhiteBackgroundElements: ('#hs-eu-cookie-confirmation');
+@each $element in $alwaysWhiteBackgroundElements {
+   #{$element} {
+        background: $c-white !important;
+    }
+}
+
+

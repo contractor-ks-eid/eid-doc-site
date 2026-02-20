@@ -3,16 +3,87 @@
     {
       "permalink": "/intro/",
       "keywords": [
-        "pagebuildconfig",
-        "documentation",
-        "configuration",
-        "page",
-        "document",
-        "configured",
-        "header",
-        "section",
-        "yml",
-        "entry"
+        "eid",
+        "kosovo",
+        "authenticate",
+        "ebanking",
+        "certificate",
+        "api",
+        "enrollment",
+        "digitally",
+        "wallet",
+        "database"
+      ]
+    },
+    {
+      "permalink": "/get-eid/",
+      "keywords": [
+        "eid",
+        "enrollment",
+        "arbk",
+        "arc",
+        "passing",
+        "digital",
+        "electronic",
+        "getting",
+        "process",
+        "involves"
+      ]
+    },
+    {
+      "permalink": "/manage-eid/",
+      "keywords": [
+        "certificate",
+        "portal",
+        "service",
+        "self",
+        "manage",
+        "used",
+        "cycle",
+        "life"
+      ]
+    },
+    {
+      "permalink": "/wallet/intro/",
+      "keywords": [
+        "wallet",
+        "kosovo",
+        "app",
+        "credentials",
+        "seal",
+        "safely",
+        "mobile",
+        "electronic",
+        "used"
+      ]
+    },
+    {
+      "permalink": "/api/intro/",
+      "keywords": [
+        "eid",
+        "api",
+        "integrators",
+        "features",
+        "provided",
+        "allow",
+        "use",
+        "systems",
+        "party"
+      ]
+    },
+    {
+      "permalink": "/sign-apps/intro/",
+      "keywords": [
+        "apps",
+        "signing",
+        "desktop",
+        "stamping",
+        "documents",
+        "mobile",
+        "electronic",
+        "using",
+        "allow",
+        "used"
       ]
     }
   ]
