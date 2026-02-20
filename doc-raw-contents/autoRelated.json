@@ -20,16 +20,16 @@
     "permalink": "/sign-apps/intro/",
     "related": [
       {
-        "title": "Introduction",
-        "permalink": "/intro/"
-      },
-      {
         "title": "eID API",
         "permalink": "/api/intro/"
       },
       {
         "title": "Kosovo Wallet",
         "permalink": "/wallet/intro/"
+      },
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
       }
     ]
   },
@@ -71,16 +71,16 @@
     "permalink": "/intro/",
     "related": [
       {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
-      },
-      {
         "title": "eID API",
         "permalink": "/api/intro/"
       },
       {
-        "title": "Signing Apps",
-        "permalink": "/sign-apps/intro/"
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      },
+      {
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
       }
     ]
   },

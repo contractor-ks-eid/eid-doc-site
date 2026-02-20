@@ -1,0 +1,1 @@
+Get your digital ID and/or seal(s) through the enrollment process and manage them with the self-service portal.

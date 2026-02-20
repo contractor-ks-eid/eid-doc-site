@@ -270,16 +270,16 @@
       "createTimeUTC": 1771584673,
       "relatedPages": [
         {
-          "title": "Introduction",
-          "permalink": "/intro/"
-        },
-        {
           "title": "eID API",
           "permalink": "/api/intro/"
         },
         {
           "title": "Kosovo Wallet",
           "permalink": "/wallet/intro/"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/"
         }
       ],
       "autoSummary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The apps are available on iOS and Android.",
@@ -375,26 +375,26 @@
         "signature",
         "seal"
       ],
-      "excerpt": "kosovo, eid, authenticate, certificate, ebanking, documents, enrollment, database, counters, electronic",
-      "lastUpdate": "2026-02-20 12:33:34 +0200",
+      "excerpt": "eid, kosovo, authenticate, ebanking, certificate, api, enrollment, digitally, wallet, database",
+      "lastUpdate": "2026-02-20 18:09:47 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:33:34 +0200",
-      "createTimeUTC": 1771583614,
+      "createTime": "2026-02-20 18:09:47 +0200",
+      "createTimeUTC": 1771603787,
       "relatedPages": [
-        {
-          "title": "Get eID",
-          "permalink": "/get-eid/"
-        },
         {
           "title": "eID API",
           "permalink": "/api/intro/"
         },
         {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/"
+          "title": "Get eID",
+          "permalink": "/get-eid/"
+        },
+        {
+          "title": "Kosovo Wallet",
+          "permalink": "/wallet/intro/"
         }
       ],
-      "autoSummary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. With an electronic id (or electronic seal) and the signing app, citizens and businesses can digitally sign or stamp documents.",
+      "autoSummary": "Kosovo eid is the national system that manages electronic identities. An electronic id is a free digital certificate issued by the government of kosovo, valid for 2 years. With it, citizens can securely sign (or stamp) documents online.",
       "similarByContent": [],
       "readingTime": 2,
       "hasDynamicContent": false,

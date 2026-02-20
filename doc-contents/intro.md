@@ -13,6 +13,15 @@ Kosovo eID is the national system that manages electronic identities for citizen
 # 🧩 Components
 The Kosovo eID system brings together a few key pieces: the **`electronic ID`** (and **`electronic Seal`**), the **`Kosovo Wallet`**, the **`Signing Apps`**, and the **`eID integration`** engine (or **`eID API`**).
 
+
+{% include elements/card-gallery-from-folder.html 
+  folder="partials/content/intro/components-cards/"
+  oneRow=true
+%}
+
+
+
+
 # 🚀 Enrollment
 Citizens can get their electronic ID by going through a enrollment process at the Civil Registration Offices (`ARC`) counters. Once issued, the ID can be securely stored in the Kosovo Wallet. In a similar way, citizens can obtain an electronic Seal through the enrollment process at the Kosovo Business Registration Agency (`ARBK`) counters.
 
