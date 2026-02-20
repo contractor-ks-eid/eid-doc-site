@@ -98,7 +98,7 @@ hubspot:
   portalID: "147281790"
   region: "eu1"
   feedbackFormID: 
-    ID: "b19ed661-3883-4909-a685-7d9765cbf752"
+    ID: "6eabc000-c2ca-4037-a12e-152bc26ec3b8"
 faq:
   enabled: true #enable/disable FAQ feature
   pagination: true
