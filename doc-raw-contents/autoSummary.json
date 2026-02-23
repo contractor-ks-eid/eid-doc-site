@@ -23,6 +23,10 @@
         {
             "permalink": "/sign-apps/intro/",
             "summary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The apps are available on iOS and Android."
+        },
+        {
+            "permalink": "/api/api-docs/",
+            "summary": "Strong authentication is a very useful and powerful feature provided by eid. This feature will allow your users to . Strong authentication be aware that we cannot authorise your users inside your systems. We can only authenticate them. Test it for implementing the strong authentication with kosovo wallet in the."
         }
     ]
 }

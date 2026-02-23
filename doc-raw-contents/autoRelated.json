@@ -1,7 +1,28 @@
 [
   {
+    "permalink": "/api/api-docs/",
+    "related": [
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
+      },
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      },
+      {
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
+      }
+    ]
+  },
+  {
     "permalink": "/api/intro/",
     "related": [
+      {
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
+      },
       {
         "title": "Introduction",
         "permalink": "/intro/"
@@ -9,10 +30,6 @@
       {
         "title": "Signing Apps",
         "permalink": "/sign-apps/intro/"
-      },
-      {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
       }
     ]
   },
@@ -28,8 +45,8 @@
         "permalink": "/wallet/intro/"
       },
       {
-        "title": "Introduction",
-        "permalink": "/intro/"
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
       }
     ]
   },
@@ -37,12 +54,12 @@
     "permalink": "/wallet/intro/",
     "related": [
       {
-        "title": "Introduction",
-        "permalink": "/intro/"
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
       },
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
+        "title": "Introduction",
+        "permalink": "/intro/"
       },
       {
         "title": "Get eID",
@@ -71,16 +88,16 @@
     "permalink": "/intro/",
     "related": [
       {
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
+      },
+      {
         "title": "eID API",
         "permalink": "/api/intro/"
       },
       {
         "title": "Get eID",
         "permalink": "/get-eid/"
-      },
-      {
-        "title": "Kosovo Wallet",
-        "permalink": "/wallet/intro/"
       }
     ]
   },
