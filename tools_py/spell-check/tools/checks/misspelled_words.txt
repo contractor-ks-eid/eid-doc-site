@@ -1,17 +1,17 @@
 Permalink: /api/intro/
 File: _api/intro.md
 Language detected: en
-No misspellings detected.
+Misspelled words: api, backend, eid, fot, ll, tes, uri, whch
 
 Permalink: /get-eid/
 File: get-eid.md
 Language detected: en
-No misspellings detected.
+Misspelled words: arbk, eid, enrollment
 
 Permalink: /intro/
 File: intro.md
 Language detected: en
-No misspellings detected.
+Misspelled words: api, coounter, ebanking, eid, ekosova, enrollment, eservice, eservices, ios, sigining
 
 Permalink: /manage-eid/
 File: manage-eid.md

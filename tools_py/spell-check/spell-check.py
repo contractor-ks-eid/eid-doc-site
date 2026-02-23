@@ -296,7 +296,7 @@ def main(txt_folder, md_folder):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python spellcheck_symspell.py <txt_folder> <md_folder>")
+        print("Usage: python spell-check.py <txt_folder> <md_folder>")
         sys.exit(1)
     txt_folder = sys.argv[1]
     md_folder = sys.argv[2]

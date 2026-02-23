@@ -227,11 +227,11 @@
         "signature",
         "seal"
       ],
-      "excerpt": "api, integration, integrators, eid, submit, kosovo, apply, connect, backend, access",
-      "lastUpdate": "2026-02-20 12:51:13 +0200",
+      "excerpt": "api, integrate, integrators, eid, submit, kosovo, authentication, backend, contact, ask",
+      "lastUpdate": "2026-02-23 14:26:43 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:51:13 +0200",
-      "createTimeUTC": 1771584673,
+      "createTime": "2026-02-23 14:26:43 +0200",
+      "createTimeUTC": 1771849603,
       "relatedPages": [
         {
           "title": "Introduction",
@@ -248,7 +248,7 @@
       ],
       "autoSummary": "The eid API is available for third-party integrators who want to add kosovo eid features into their own systems. Any software — web, mobile, or backend — that has a permanent internet connection can connect to the eidapi.",
       "similarByContent": [],
-      "readingTime": 1,
+      "readingTime": 3,
       "hasDynamicContent": false,
       "parent": ""
     },
@@ -375,7 +375,7 @@
         "signature",
         "seal"
       ],
-      "excerpt": "eid, kosovo, authenticate, ebanking, certificate, api, enrollment, digitally, wallet, database",
+      "excerpt": "kosovo, authenticate, eid, ebanking, certificate, api, identities, enrollment, wallet, digitally",
       "lastUpdate": "2026-02-20 18:47:28 +0200",
       "lastUpdateUTC": 0,
       "createTime": "2026-02-20 18:47:28 +0200",
@@ -505,7 +505,7 @@
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         },
         {
           "title": "Introduction",
@@ -520,7 +520,7 @@
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         },
         {
           "title": "Signing Apps",
@@ -560,7 +560,7 @@
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         },
         {
           "title": "Signing Apps",
@@ -580,7 +580,7 @@
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         },
         {
           "title": "Kosovo Wallet",
@@ -656,7 +656,7 @@
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         }
       ],
       "numPages": 1

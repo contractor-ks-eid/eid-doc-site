@@ -181,3 +181,13 @@ txt
 iawriter
 ios
 vpn
+eid
+arbk
+cra
+arc
+ekosova
+eservices
+eservice
+ebanking
+enrollment
+uri
