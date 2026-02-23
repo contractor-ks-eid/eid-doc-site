@@ -18,7 +18,7 @@
         },
         {
             "permalink": "/api/intro/",
-            "summary": "Eid API is provided to allow third party integrators to use eid features in their systems.eid is an open source programming language."
+            "summary": "The eid API is available for third-party integrators who want to add kosovo eid features into their own systems. Any software \u2014 web, mobile, or backend \u2014 that has a permanent internet connection can connect to the eidapi."
         },
         {
             "permalink": "/sign-apps/intro/",
