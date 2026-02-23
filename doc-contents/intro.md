@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 # 👋 About Kosovo eID
-Kosovo eID is the national system that manages electronic identities for citizens of Kosovo. An electronic ID is a free digital certificate issued by the Government of Kosovo, valid for 2 years. With it, citizens can securely sign (or stamp) documents online and access digital services that partner with the Kosovo eID system.
+Kosovo eID is the national system that manages electronic identities for citizens of Kosovo. An electronic ID is a free digital certificate issued by the Government of Kosovo, valid for 2 years. With it, citizens can securely sign (or stamp) documents and access digital services that partner with the Kosovo eID system.
 
 # 🧩 Components
 The Kosovo eID system brings together a few key pieces: the **`electronic ID`** (and **`electronic Seal`**), the **`Kosovo Wallet`**, the **`Signing Apps`**, and the **`eID integration`** engine (or **`eID API`**).

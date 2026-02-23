@@ -229,10 +229,10 @@
         "authentication"
       ],
       "excerpt": "authentication, api, authorise, wallet, eid, strong, kosovo, useful, features, requires",
-      "lastUpdate": "2026-02-23 17:49:53 +0200",
+      "lastUpdate": "2026-02-23 17:50:43 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-23 17:49:53 +0200",
-      "createTimeUTC": 1771861793,
+      "createTime": "2026-02-23 17:50:43 +0200",
+      "createTimeUTC": 1771861843,
       "relatedPages": [
         {
           "title": "eID API",
@@ -266,10 +266,10 @@
         "seal"
       ],
       "excerpt": "api, integrate, integrators, eid, submit, kosovo, authentication, backend, contact, ask",
-      "lastUpdate": "2026-02-23 16:34:01 +0200",
+      "lastUpdate": "2026-02-23 17:50:43 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-23 16:34:01 +0200",
-      "createTimeUTC": 1771857241,
+      "createTime": "2026-02-23 17:50:43 +0200",
+      "createTimeUTC": 1771861843,
       "relatedPages": [
         {
           "title": "eID API Docs",
@@ -414,10 +414,10 @@
         "seal"
       ],
       "excerpt": "kosovo, authenticate, eid, ebanking, certificate, api, identities, enrollment, wallet, digitally",
-      "lastUpdate": "2026-02-20 18:47:28 +0200",
+      "lastUpdate": "2026-02-23 17:50:43 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 18:47:28 +0200",
-      "createTimeUTC": 1771606048,
+      "createTime": "2026-02-23 17:50:43 +0200",
+      "createTimeUTC": 1771861843,
       "relatedPages": [
         {
           "title": "eID API Docs",
@@ -432,7 +432,7 @@
           "permalink": "/get-eid/"
         }
       ],
-      "autoSummary": "Kosovo eid is the national system that manages electronic identities. An electronic id is a free digital certificate issued by the government of kosovo, valid for 2 years. With it, citizens can securely sign (or stamp) documents online.",
+      "autoSummary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. Citizens can get their electronic id by going through a enrollment process at the civil registration offices ( ) counters. In a similar way, citizens can obtain an electronic seal through the enrollment process.",
       "similarByContent": [],
       "readingTime": 2,
       "hasDynamicContent": false,
@@ -504,7 +504,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         }
       ],
       "numPages": 1
@@ -514,7 +514,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         }
       ],
       "numPages": 1
@@ -529,7 +529,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         }
       ],
       "numPages": 2
@@ -564,7 +564,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         }
       ],
       "numPages": 3
@@ -594,7 +594,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         },
         {
           "title": "Manage eID",
@@ -634,7 +634,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         }
       ],
       "numPages": 4
@@ -664,7 +664,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         },
         {
           "title": "Manage eID",
@@ -715,7 +715,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "23-Feb-2026"
         }
       ],
       "numPages": 1
