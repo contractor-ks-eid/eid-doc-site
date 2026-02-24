@@ -6,7 +6,7 @@
         },
         {
             "permalink": "/get-eid/",
-            "summary": "Getting eid involves passing the enrollment process at arc (for the electronic id) or at arbk ( for the digital seal)."
+            "summary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc). For a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available. This is intentional, to ensure the highest possible."
         },
         {
             "permalink": "/manage-eid/",

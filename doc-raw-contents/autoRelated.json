@@ -11,8 +11,8 @@
         "permalink": "/intro/"
       },
       {
-        "title": "Kosovo Wallet",
-        "permalink": "/wallet/intro/"
+        "title": "Get eID",
+        "permalink": "/get-eid/"
       }
     ]
   },
@@ -28,8 +28,8 @@
         "permalink": "/intro/"
       },
       {
-        "title": "Signing Apps",
-        "permalink": "/sign-apps/intro/"
+        "title": "Get eID",
+        "permalink": "/get-eid/"
       }
     ]
   },
@@ -37,12 +37,12 @@
     "permalink": "/sign-apps/intro/",
     "related": [
       {
-        "title": "eID API",
-        "permalink": "/api/intro/"
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
       },
       {
-        "title": "Kosovo Wallet",
-        "permalink": "/wallet/intro/"
+        "title": "Introduction",
+        "permalink": "/intro/"
       },
       {
         "title": "eID API Docs",
@@ -54,16 +54,16 @@
     "permalink": "/wallet/intro/",
     "related": [
       {
-        "title": "eID API Docs",
-        "permalink": "/api/api-docs/"
+        "title": "Get eID",
+        "permalink": "/get-eid/"
       },
       {
         "title": "Introduction",
         "permalink": "/intro/"
       },
       {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
       }
     ]
   },
@@ -75,12 +75,12 @@
         "permalink": "/intro/"
       },
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
       },
       {
-        "title": "Kosovo Wallet",
-        "permalink": "/wallet/intro/"
+        "title": "eID API",
+        "permalink": "/api/intro/"
       }
     ]
   },
@@ -88,16 +88,16 @@
     "permalink": "/intro/",
     "related": [
       {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      },
+      {
         "title": "eID API Docs",
         "permalink": "/api/api-docs/"
       },
       {
         "title": "eID API",
         "permalink": "/api/intro/"
-      },
-      {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
       }
     ]
   },
@@ -109,8 +109,8 @@
         "permalink": "/get-eid/"
       },
       {
-        "title": "Kosovo Wallet",
-        "permalink": "/wallet/intro/"
+        "title": "Signing Apps",
+        "permalink": "/sign-apps/intro/"
       },
       {
         "title": "Introduction",

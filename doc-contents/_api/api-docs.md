@@ -2,8 +2,8 @@
 layout: page
 title: eID API Docs
 permalink: /api/api-docs/
-categories: [Integration]
-tags: [wallet, integration, signature, seal, authentication]
+categories: [Integration, API]
+tags: [wallet, integration, signature, seal, authentication, identity]
 nav_order: 2
 start: false
 ---
@@ -56,7 +56,7 @@ Second, we invite you to check out code examples for the most frequent tech stac
 {% include elements/link-btn-group.html buttons=buttons %}
 
 # Sign/Stamp
-This API allows you to implement the specific signature (or stamping, or time stamping) flow in your app. This flow is illustrated next (click to enlarge picture).
+This API allows you to **`implement the specific signature (or stamping, or time stamping) flow in your app`**. This flow is illustrated next (click to enlarge picture).
 
 {% capture img %}
     source="partials/media/api/api-sign-flow-s.png"|caption="Sign/Stamp API flow"|captionBorder="true"
@@ -74,7 +74,7 @@ This API allows you to implement the specific signature (or stamping, or time st
   title="Signature flow implementation" 
 %}
 
-For implementing the signing (or stamping, or time stamping) in the right way, we made available some resources that you will find next. These resources are the detailed API docs and the POSTMAN environments and collections to explore the API. API docs is valid for both test and production environments, while the POSTMAN collections are given individually for each environment.
+For implementing the signing (or stamping, or time stamping) flow in the right way, we made available some resources that you will find next. These resources are the detailed API docs and the POSTMAN environments and collections to explore the API. API docs is valid for both test and production environments, while the POSTMAN collections are given individually for each environment.
 
 {% capture downloads %}
       type=primary|outline=false|text=API Docs|file="api/eID platform API_v1.2.pdf"|downloadName="eID platform API_v1.2.pdf"|downloadsDir="true",

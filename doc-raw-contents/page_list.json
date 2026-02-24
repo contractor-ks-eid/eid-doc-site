@@ -3,14 +3,16 @@
     "title": "eID API Docs",
     "permalink": "/api/api-docs/",
     "categories": [
-      "Integration"
+      "Integration",
+      "API"
     ],
     "tags": [
       "wallet",
       "integration",
       "signature",
       "seal",
-      "authentication"
+      "authentication",
+      "identity"
     ],
     "excerpt": "authentication, api, authorise, wallet, eid, strong, kosovo, useful, features, requires",
     "lastUpdate": "2026-02-23 17:50:43 +0200",
@@ -28,13 +30,16 @@
     "title": "eID API",
     "permalink": "/api/intro/",
     "categories": [
-      "Integration"
+      "Integration",
+      "API"
     ],
     "tags": [
       "wallet",
       "integration",
       "signature",
-      "seal"
+      "seal",
+      "identity",
+      "authentication"
     ],
     "excerpt": "api, integrate, integrators, eid, submit, kosovo, authentication, backend, contact, ask",
     "lastUpdate": "2026-02-23 17:50:43 +0200",
@@ -57,7 +62,8 @@
     ],
     "tags": [
       "seal",
-      "signature"
+      "signature",
+      "identity"
     ],
     "excerpt": "apps, signing, desktop, stamping, documents, mobile, electronic, using, allow, used",
     "lastUpdate": "2026-02-20 12:51:13 +0200",
@@ -105,13 +111,13 @@
       "identity",
       "seal"
     ],
-    "excerpt": "eid, enrollment, arbk, arc, passing, digital, electronic, getting, process, involves",
+    "excerpt": "authentication, eid, wallet, certificate, enrollment, kosovo, digitally, arbk, email, seals",
     "lastUpdate": "2026-02-20 12:33:34 +0200",
     "lastUpdateUTC": 1771583614,
     "createTime": "2026-02-20 12:33:34 +0200",
     "createTimeUTC": 1771583614,
     "relatedPages": [],
-    "autoSummary": "Getting eid involves passing the enrollment process at arc (for the electronic id) or at arbk ( for the digital seal).",
+    "autoSummary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc). For a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available. This is intentional, to ensure the highest possible.",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,
@@ -124,19 +130,19 @@
       "General"
     ],
     "tags": [
-      "documentation",
       "docs",
       "wallet",
       "enrollment",
       "integration",
       "signature",
-      "seal"
+      "seal",
+      "identity"
     ],
     "excerpt": "kosovo, authenticate, eid, ebanking, certificate, api, identities, enrollment, wallet, digitally",
-    "lastUpdate": "2026-02-23 17:50:43 +0200",
-    "lastUpdateUTC": 1771861843,
-    "createTime": "2026-02-23 17:50:43 +0200",
-    "createTimeUTC": 1771861843,
+    "lastUpdate": "2026-02-23 18:07:24 +0200",
+    "lastUpdateUTC": 1771862844,
+    "createTime": "2026-02-23 18:07:24 +0200",
+    "createTimeUTC": 1771862844,
     "relatedPages": [],
     "autoSummary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. Citizens can get their electronic id by going through a enrollment process at the civil registration offices ( ) counters. In a similar way, citizens can obtain an electronic seal through the enrollment process.",
     "similarByContent": [],

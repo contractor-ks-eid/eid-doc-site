@@ -2,8 +2,8 @@
 layout: page
 title: eID API
 permalink: /api/intro/
-categories: [Integration]
-tags: [wallet, integration, signature, seal]
+categories: [Integration, API]
+tags: [wallet, integration, signature, seal, identity, authentication]
 nav_order: 1
 start: true
 ---
@@ -117,12 +117,12 @@ Once your integration is approved for production, you will receive the needed cr
 
 {% include elements/alert.html 
   class="warning" 
-  content="Besides the credentials for the test/production environments which you will be receiving from us, there is one critical parameter that depends on you, the **`Redirect URI`** for the test/production environments. Please to not forget to mention it on the **`Application Form`**."
+  content="Besides the credentials for the test/production environments which you will be receiving from us, there is one critical parameter that depends on you, the **`Redirect URI`** for the test/production environments. Please to not forget to mention it in the **`Application Form`**."
   title="Redirect URI" 
 %}
 
 # Go live
-Once you finalise the migration to the production environment your integration is live. Any eID holder can use it. We will continue to monitor your integration just to be sure that everything works well and secure. You can benefit on out support services when needed.
+Once you finalise the migration to the production environment your integration is live. Any eID holder can use it. We will continue to monitor your integration just to be sure that everything works well and secure. You can benefit on our support services when needed.
 
 {% include elements/link-btn.html 
     type="primary" 

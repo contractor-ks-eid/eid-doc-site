@@ -192,3 +192,9 @@ ebanking
 enrollment
 uri
 nodejs
+erc
+otp
+sms
+os
+pin
+puk

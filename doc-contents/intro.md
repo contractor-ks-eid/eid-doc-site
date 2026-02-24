@@ -3,7 +3,7 @@ layout: page
 title: Introduction
 permalink: /intro/
 categories: [General]
-tags: [documentation, docs, wallet, enrollment, integration, signature, seal]
+tags: [docs, wallet, enrollment, integration, signature, seal, identity]
 nav_order: 1
 ---
 
