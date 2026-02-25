@@ -33,7 +33,7 @@ In the context of Kosovo eID, the purpose of the wallet is to safely store the c
 {% include elements/scroll-spy.html
     source="partials/content/wallet/install-tabs" 
     h="200px" 
-    btn="true" 
+    btn="false" 
     btnType="primary" 
     outline="false" 
     separators="true" 

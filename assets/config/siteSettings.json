@@ -343,10 +343,10 @@
         "authentication"
       ],
       "excerpt": "kosovo, wallet, authentication, app, developer, api, license, storing, ios, eid",
-      "lastUpdate": "2026-02-20 12:51:13 +0200",
+      "lastUpdate": "2026-02-25 17:53:27 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:51:13 +0200",
-      "createTimeUTC": 1771584673,
+      "createTime": "2026-02-25 17:53:27 +0200",
+      "createTimeUTC": 1772034807,
       "relatedPages": [
         {
           "title": "Use Kosovo Wallet",
@@ -377,10 +377,10 @@
         "wallet"
       ],
       "excerpt": "authentication, wallet, credentials, kosovo, certificate, features, provides, protected, applications, eid",
-      "lastUpdate": "2026-02-25 17:48:57 +0200",
+      "lastUpdate": "2026-02-25 17:53:27 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-25 17:48:57 +0200",
-      "createTimeUTC": 1772034537,
+      "createTime": "2026-02-25 17:53:27 +0200",
+      "createTimeUTC": 1772034807,
       "relatedPages": [
         {
           "title": "Kosovo Wallet",
@@ -492,10 +492,10 @@
         "seal"
       ],
       "excerpt": "certificates, password, portal, access, self, service, enrollment, profile, unlock, user",
-      "lastUpdate": "2026-02-25 16:16:21 +0200",
+      "lastUpdate": "2026-02-25 17:53:27 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-25 16:16:21 +0200",
-      "createTimeUTC": 1772028981,
+      "createTime": "2026-02-25 17:53:27 +0200",
+      "createTimeUTC": 1772034807,
       "relatedPages": [
         {
           "title": "Get eID",
@@ -544,7 +544,7 @@
         {
           "title": "Kosovo Wallet",
           "permalink": "/wallet/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "25-Feb-2026"
         }
       ],
       "numPages": 3
@@ -714,7 +714,7 @@
         {
           "title": "Kosovo Wallet",
           "permalink": "/wallet/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "25-Feb-2026"
         },
         {
           "title": "Use Kosovo Wallet",
@@ -841,7 +841,7 @@
         {
           "title": "Kosovo Wallet",
           "permalink": "/wallet/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "25-Feb-2026"
         },
         {
           "title": "Use Kosovo Wallet",
