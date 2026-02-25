@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 # Intro
-The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password). The self service portal can be acessed from any browser, from desktop and from mobile devices.
+The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password). The self service portal can be accessed from any browser, from desktop and from mobile devices.
 
 # Lost info
 In the case when you did not save the certificate information, the self **`service portal allows you to change or recover the missing part of the certificate information`**. What you need to **`always remember is the email used for enrollment and your Kosovo personal number`**. Using this information and following the instructions **`you can recover the Emergengy Recovery Code (ERC) and your user name or you can reset your password`**.

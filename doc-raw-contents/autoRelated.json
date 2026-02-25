@@ -11,8 +11,8 @@
         "permalink": "/intro/"
       },
       {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
       }
     ]
   },
@@ -28,8 +28,8 @@
         "permalink": "/intro/"
       },
       {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
       }
     ]
   },
@@ -54,12 +54,29 @@
     "permalink": "/wallet/intro/",
     "related": [
       {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
+        "title": "Use Kosovo Wallet",
+        "permalink": "/wallet/use-wallet/"
       },
       {
-        "title": "Introduction",
-        "permalink": "/intro/"
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
+      },
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
+      }
+    ]
+  },
+  {
+    "permalink": "/wallet/use-wallet/",
+    "related": [
+      {
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
+      },
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
       },
       {
         "title": "eID API Docs",

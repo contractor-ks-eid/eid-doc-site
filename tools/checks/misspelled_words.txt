@@ -21,7 +21,7 @@ No misspellings detected.
 Permalink: /manage-eid/
 File: manage-eid.md
 Language detected: en
-Misspelled words: ceertificate
+No misspellings detected.
 
 Permalink: /sign-apps/intro/
 File: _sign-apps/intro.md
@@ -30,6 +30,11 @@ No misspellings detected.
 
 Permalink: /wallet/intro/
 File: _wallet/intro.md
+Language detected: en
+No misspellings detected.
+
+Permalink: /wallet/use-wallet/
+File: _wallet/use-wallet.md
 Language detected: en
 No misspellings detected.
 

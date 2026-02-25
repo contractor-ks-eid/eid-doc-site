@@ -41,22 +41,23 @@
         "service",
         "enrollment",
         "profile",
-        "user",
-        "browser"
+        "unlock",
+        "user"
       ]
     },
     {
       "permalink": "/wallet/intro/",
       "keywords": [
-        "wallet",
         "kosovo",
+        "wallet",
+        "authentication",
         "app",
-        "credentials",
-        "seal",
-        "safely",
-        "mobile",
-        "electronic",
-        "used"
+        "developer",
+        "api",
+        "license",
+        "storing",
+        "ios",
+        "eid"
       ]
     },
     {
@@ -102,6 +103,21 @@
         "useful",
         "features",
         "requires"
+      ]
+    },
+    {
+      "permalink": "/wallet/use-wallet/",
+      "keywords": [
+        "authentication",
+        "wallet",
+        "credentials",
+        "kosovo",
+        "certificate",
+        "features",
+        "provides",
+        "protected",
+        "applications",
+        "eid"
       ]
     }
   ]
