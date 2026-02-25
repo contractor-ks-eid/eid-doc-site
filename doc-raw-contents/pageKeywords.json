@@ -3,44 +3,46 @@
     {
       "permalink": "/intro/",
       "keywords": [
-        "eid",
         "kosovo",
         "authenticate",
+        "eid",
         "ebanking",
         "certificate",
         "api",
+        "identities",
         "enrollment",
-        "digitally",
         "wallet",
-        "database"
+        "digitally"
       ]
     },
     {
       "permalink": "/get-eid/",
       "keywords": [
+        "authentication",
         "eid",
+        "wallet",
+        "certificate",
         "enrollment",
+        "kosovo",
+        "digitally",
         "arbk",
-        "arc",
-        "passing",
-        "digital",
-        "electronic",
-        "getting",
-        "process",
-        "involves"
+        "email",
+        "seals"
       ]
     },
     {
       "permalink": "/manage-eid/",
       "keywords": [
-        "certificate",
+        "certificates",
+        "password",
         "portal",
-        "service",
+        "access",
         "self",
-        "manage",
-        "used",
-        "cycle",
-        "life"
+        "service",
+        "enrollment",
+        "profile",
+        "user",
+        "browser"
       ]
     },
     {
@@ -60,15 +62,16 @@
     {
       "permalink": "/api/intro/",
       "keywords": [
-        "eid",
         "api",
+        "integrate",
         "integrators",
-        "features",
-        "provided",
-        "allow",
-        "use",
-        "systems",
-        "party"
+        "eid",
+        "submit",
+        "kosovo",
+        "authentication",
+        "backend",
+        "contact",
+        "ask"
       ]
     },
     {
@@ -84,6 +87,21 @@
         "using",
         "allow",
         "used"
+      ]
+    },
+    {
+      "permalink": "/api/api-docs/",
+      "keywords": [
+        "authentication",
+        "api",
+        "authorise",
+        "wallet",
+        "eid",
+        "strong",
+        "kosovo",
+        "useful",
+        "features",
+        "requires"
       ]
     }
   ]

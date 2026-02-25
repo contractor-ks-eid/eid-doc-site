@@ -3,7 +3,7 @@ layout: page
 title: Signing Apps
 permalink: /sign-apps/intro/
 categories: [Signature, Seal]
-tags: [seal, signature]
+tags: [seal, signature, identity]
 nav_order: 1
 start: true
 ---

@@ -1,0 +1,1 @@
+Run ./build script for a complete spell-check on all documents.
