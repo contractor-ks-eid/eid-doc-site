@@ -456,11 +456,11 @@
         "identity",
         "seal"
       ],
-      "excerpt": "certificates, login, portal, accessing, self, enrollment, profile, unlock, connect, user",
-      "lastUpdate": "2026-02-20 12:33:34 +0200",
+      "excerpt": "certificates, password, portal, access, self, service, enrollment, profile, user, browser",
+      "lastUpdate": "2026-02-25 16:08:57 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:33:34 +0200",
-      "createTimeUTC": 1771583614,
+      "createTime": "2026-02-25 16:08:57 +0200",
+      "createTimeUTC": 1772028537,
       "relatedPages": [
         {
           "title": "Get eID",
@@ -564,7 +564,7 @@
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "25-Feb-2026"
         }
       ],
       "numPages": 6
@@ -619,7 +619,7 @@
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "25-Feb-2026"
         }
       ],
       "numPages": 6
@@ -629,7 +629,7 @@
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "25-Feb-2026"
         }
       ],
       "numPages": 1
@@ -689,7 +689,7 @@
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "25-Feb-2026"
         }
       ],
       "numPages": 6
@@ -731,7 +731,7 @@
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "25-Feb-2026"
         }
       ],
       "numPages": 2
