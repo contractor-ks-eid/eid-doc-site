@@ -21,7 +21,7 @@ No misspellings detected.
 Permalink: /manage-eid/
 File: manage-eid.md
 Language detected: en
-No misspellings detected.
+Misspelled words: ceertificate
 
 Permalink: /sign-apps/intro/
 File: _sign-apps/intro.md

@@ -10,7 +10,7 @@
         },
         {
             "permalink": "/manage-eid/",
-            "summary": "The self service portal can be used to manage the life cycle of the certificate. The certificate can also be managed by the user via the website."
+            "summary": "The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password)."
         },
         {
             "permalink": "/wallet/intro/",

@@ -37,16 +37,16 @@
     "permalink": "/sign-apps/intro/",
     "related": [
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
-      },
-      {
         "title": "Introduction",
         "permalink": "/intro/"
       },
       {
         "title": "eID API Docs",
         "permalink": "/api/api-docs/"
+      },
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
       }
     ]
   },
@@ -62,8 +62,8 @@
         "permalink": "/intro/"
       },
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
       }
     ]
   },
@@ -79,8 +79,8 @@
         "permalink": "/api/api-docs/"
       },
       {
-        "title": "eID API",
-        "permalink": "/api/intro/"
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
       }
     ]
   },
@@ -109,12 +109,12 @@
         "permalink": "/get-eid/"
       },
       {
-        "title": "Signing Apps",
-        "permalink": "/sign-apps/intro/"
-      },
-      {
         "title": "Introduction",
         "permalink": "/intro/"
+      },
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
       }
     ]
   }
