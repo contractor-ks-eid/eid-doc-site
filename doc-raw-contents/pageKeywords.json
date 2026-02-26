@@ -109,15 +109,15 @@
       "permalink": "/wallet/use-wallet/",
       "keywords": [
         "authentication",
-        "wallet",
-        "credentials",
+        "credential",
         "kosovo",
-        "certificate",
+        "wallet",
+        "notifications",
         "features",
-        "provides",
-        "protected",
-        "applications",
-        "eid"
+        "certificate",
+        "access",
+        "select",
+        "modal"
       ]
     }
   ]

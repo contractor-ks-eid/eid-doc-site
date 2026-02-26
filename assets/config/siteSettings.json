@@ -231,10 +231,10 @@
         "identity"
       ],
       "excerpt": "authentication, api, authorise, wallet, eid, strong, kosovo, useful, features, requires",
-      "lastUpdate": "2026-02-24 18:02:45 +0200",
+      "lastUpdate": "2026-02-26 13:04:04 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-24 18:02:45 +0200",
-      "createTimeUTC": 1771948965,
+      "createTime": "2026-02-26 13:04:04 +0200",
+      "createTimeUTC": 1772103844,
       "relatedPages": [
         {
           "title": "eID API",
@@ -271,10 +271,10 @@
         "authentication"
       ],
       "excerpt": "api, integrate, integrators, eid, submit, kosovo, authentication, backend, contact, ask",
-      "lastUpdate": "2026-02-24 18:02:45 +0200",
+      "lastUpdate": "2026-02-26 13:04:04 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-24 18:02:45 +0200",
-      "createTimeUTC": 1771948965,
+      "createTime": "2026-02-26 13:04:04 +0200",
+      "createTimeUTC": 1772103844,
       "relatedPages": [
         {
           "title": "eID API Docs",
@@ -376,7 +376,7 @@
       "tags": [
         "wallet"
       ],
-      "excerpt": "authentication, wallet, credentials, kosovo, certificate, features, provides, protected, applications, eid",
+      "excerpt": "authentication, credential, kosovo, wallet, notifications, features, certificate, access, select, modal",
       "lastUpdate": "2026-02-25 17:53:27 +0200",
       "lastUpdateUTC": 0,
       "createTime": "2026-02-25 17:53:27 +0200",
@@ -395,9 +395,9 @@
           "permalink": "/api/api-docs/"
         }
       ],
-      "autoSummary": "Kosovo wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device. You can organise credentials and use the credentials in applications that are in the kosovo eid ecosystem.",
+      "autoSummary": "Kosovo wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device. You can organise credentials and use the credentials in applications that are in the kosovo eid ecosystem and offers strong authentication.",
       "similarByContent": [],
-      "readingTime": 1,
+      "readingTime": 4,
       "hasDynamicContent": false,
       "parent": ""
     },
@@ -415,10 +415,10 @@
         "seal"
       ],
       "excerpt": "authentication, eid, wallet, certificate, enrollment, kosovo, digitally, arbk, email, seals",
-      "lastUpdate": "2026-02-24 18:02:45 +0200",
+      "lastUpdate": "2026-02-26 13:04:04 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-24 18:02:45 +0200",
-      "createTimeUTC": 1771948965,
+      "createTime": "2026-02-26 13:04:04 +0200",
+      "createTimeUTC": 1772103844,
       "relatedPages": [
         {
           "title": "Introduction",
@@ -455,10 +455,10 @@
         "identity"
       ],
       "excerpt": "kosovo, authenticate, eid, ebanking, certificate, api, identities, enrollment, wallet, digitally",
-      "lastUpdate": "2026-02-24 18:02:45 +0200",
+      "lastUpdate": "2026-02-26 13:04:04 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-24 18:02:45 +0200",
-      "createTimeUTC": 1771948965,
+      "createTime": "2026-02-26 13:04:04 +0200",
+      "createTimeUTC": 1772103844,
       "relatedPages": [
         {
           "title": "Get eID",
@@ -492,10 +492,10 @@
         "seal"
       ],
       "excerpt": "certificates, password, portal, access, self, service, enrollment, profile, unlock, user",
-      "lastUpdate": "2026-02-25 17:53:27 +0200",
+      "lastUpdate": "2026-02-26 13:04:04 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-25 17:53:27 +0200",
-      "createTimeUTC": 1772034807,
+      "createTime": "2026-02-26 13:04:04 +0200",
+      "createTimeUTC": 1772103844,
       "relatedPages": [
         {
           "title": "Get eID",
@@ -506,8 +506,8 @@
           "permalink": "/intro/"
         },
         {
-          "title": "eID API",
-          "permalink": "/api/intro/"
+          "title": "Use Kosovo Wallet",
+          "permalink": "/wallet/use-wallet/"
         }
       ],
       "autoSummary": "The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password).",
@@ -534,12 +534,12 @@
         {
           "title": "eID API Docs",
           "permalink": "/api/api-docs/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Kosovo Wallet",
@@ -554,7 +554,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 1
@@ -564,12 +564,12 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 2
@@ -579,12 +579,12 @@
         {
           "title": "eID API Docs",
           "permalink": "/api/api-docs/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Signing Apps",
@@ -594,17 +594,17 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "25-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 6
@@ -614,17 +614,17 @@
         {
           "title": "eID API Docs",
           "permalink": "/api/api-docs/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 3
@@ -634,12 +634,12 @@
         {
           "title": "eID API Docs",
           "permalink": "/api/api-docs/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Signing Apps",
@@ -649,17 +649,17 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "25-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 6
@@ -669,7 +669,7 @@
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "25-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 1
@@ -679,12 +679,12 @@
         {
           "title": "eID API Docs",
           "permalink": "/api/api-docs/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Signing Apps",
@@ -694,7 +694,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 4
@@ -704,12 +704,12 @@
         {
           "title": "eID API Docs",
           "permalink": "/api/api-docs/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Kosovo Wallet",
@@ -724,17 +724,17 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "25-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 7
@@ -756,12 +756,12 @@
         {
           "title": "eID API Docs",
           "permalink": "/api/api-docs/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 2
@@ -771,12 +771,12 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "25-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 2
@@ -786,7 +786,7 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 1
@@ -796,7 +796,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 1
@@ -806,12 +806,12 @@
         {
           "title": "eID API Docs",
           "permalink": "/api/api-docs/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 2

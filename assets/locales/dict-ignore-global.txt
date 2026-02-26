@@ -198,3 +198,4 @@ sms
 os
 pin
 puk
+qr
