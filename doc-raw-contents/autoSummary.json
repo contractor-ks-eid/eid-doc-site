@@ -14,7 +14,7 @@
         },
         {
             "permalink": "/wallet/intro/",
-            "summary": "Kosovo wallet is a mobile app used to safely keep the credentials of the electronic id or electronic seal. It is available for iOS and Android devices."
+            "summary": "Kosovo wallet is a mobile app used to safely store the credentials of your electronic id or your electronic seal(s) It can be installed as any other mobile application from google play (for android) or from app store (for ios). Installation and usage, without any limitations, are free of charge."
         },
         {
             "permalink": "/api/intro/",
@@ -22,11 +22,15 @@
         },
         {
             "permalink": "/sign-apps/intro/",
-            "summary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The apps are available on iOS and Android."
+            "summary": "Desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. Installation and usage, without any limitations, are free of charge."
         },
         {
             "permalink": "/api/api-docs/",
             "summary": "Strong authentication is a very useful and powerful feature provided by eid. This feature will allow your users to . Strong authentication be aware that we cannot authorise your users inside your systems. We can only authenticate them. Test it for implementing the strong authentication with kosovo wallet in the."
+        },
+        {
+            "permalink": "/wallet/use-wallet/",
+            "summary": "Kosovo wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device. You can organise credentials and use the credentials in applications that are in the kosovo eid ecosystem and offers strong authentication."
         }
     ]
 }

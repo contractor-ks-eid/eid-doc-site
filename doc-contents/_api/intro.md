@@ -43,7 +43,7 @@ Once everything is completed and submitted, the review process can begin.
 {% endcapture %}
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content=c 
   title="Application form"
 %}
@@ -86,13 +86,13 @@ We will make the following items available for you:
 
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content="If you want to integrate the feature of strong authentication with Kosovo Wallet, you will then need to store the certificates credentials in the test version of Kosovo Wallet"
   title="Strong Authentication" 
 %}
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content="If you want to integrate only the digital signature/stamping flow, you will not need Kosovo Wallet."
   title="API signing and stamping" 
 %}

@@ -36,7 +36,7 @@ To get your eID or digital Seal(s) you will need:
 {% endcapture %}
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content=c 
   title="Kosovo Wallet"
 %}
@@ -72,13 +72,13 @@ The registration officer will **`approve your request for issuing a digital ID (
 %}
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content="The certificate information is associated with only one certificate. This means that you may have multiple sets of such type of information if you will have a digital ID and multiple digital seals."
   title="Certificate information"
 %}
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content="Do not panic if you forget/lose the certificate information, the self-service portal provides you with features that will help you to recover/change them."
   title="Forgetting information"
 %}
@@ -90,7 +90,7 @@ Click on the link from the last email you received and you will be directed to t
 If you want to connect the wallet during enrollment, select **`Connect Wallet`**.
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content="We highly recommend to connect your wallet during the enrollment process because the registration officer is there to assist you if something does not goes as expected. However, using the self-service portal you can connect your wallet later."
   title="Connect wallet"
 %}
@@ -99,7 +99,7 @@ If you want to connect the wallet during enrollment, select **`Connect Wallet`**
 The last step is to **`sign the certificate`**. You have to click on **`Sign`**, wait for another One Time Password (SMS message), input it in the related place and send it back. Then your new certificate will be **`issued and will become valid for the next 2 years`**.
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content="Do not panic if you forget/lose the PIN or PUK, the self-service portal provides you with features that will help you to recover/change them."
   title="PIN/PUK"
 %}

@@ -198,3 +198,5 @@ sms
 os
 pin
 puk
+qr
+distro

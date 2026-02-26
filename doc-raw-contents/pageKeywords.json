@@ -41,22 +41,23 @@
         "service",
         "enrollment",
         "profile",
-        "user",
-        "browser"
+        "unlock",
+        "user"
       ]
     },
     {
       "permalink": "/wallet/intro/",
       "keywords": [
-        "wallet",
         "kosovo",
-        "app",
-        "credentials",
-        "seal",
-        "safely",
-        "mobile",
-        "electronic",
-        "used"
+        "wallet",
+        "authentication",
+        "application",
+        "developer",
+        "api",
+        "ios",
+        "license",
+        "storing",
+        "google"
       ]
     },
     {
@@ -77,16 +78,16 @@
     {
       "permalink": "/sign-apps/intro/",
       "keywords": [
-        "apps",
         "signing",
-        "desktop",
-        "stamping",
-        "documents",
-        "mobile",
-        "electronic",
-        "using",
-        "allow",
-        "used"
+        "macos",
+        "certificates",
+        "app",
+        "stamp",
+        "document",
+        "download",
+        "validity",
+        "verify",
+        "desktop"
       ]
     },
     {
@@ -102,6 +103,21 @@
         "useful",
         "features",
         "requires"
+      ]
+    },
+    {
+      "permalink": "/wallet/use-wallet/",
+      "keywords": [
+        "authentication",
+        "credential",
+        "kosovo",
+        "wallet",
+        "notifications",
+        "features",
+        "certificate",
+        "access",
+        "select",
+        "modal"
       ]
     }
   ]
