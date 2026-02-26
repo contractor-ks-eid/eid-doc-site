@@ -245,8 +245,8 @@
           "permalink": "/intro/"
         },
         {
-          "title": "Kosovo Wallet",
-          "permalink": "/wallet/intro/"
+          "title": "Get eID",
+          "permalink": "/get-eid/"
         }
       ],
       "autoSummary": "Strong authentication is a very useful and powerful feature provided by eid. This feature will allow your users to . Strong authentication be aware that we cannot authorise your users inside your systems. We can only authenticate them. Test it for implementing the strong authentication with kosovo wallet in the.",
@@ -285,8 +285,8 @@
           "permalink": "/intro/"
         },
         {
-          "title": "Kosovo Wallet",
-          "permalink": "/wallet/intro/"
+          "title": "Get eID",
+          "permalink": "/get-eid/"
         }
       ],
       "autoSummary": "The eid API is available for third-party integrators who want to add kosovo eid features into their own systems. Any software — web, mobile, or backend — that has a permanent internet connection can connect to the eidapi.",
@@ -342,11 +342,11 @@
         "wallet",
         "authentication"
       ],
-      "excerpt": "kosovo, wallet, authentication, app, developer, api, license, storing, ios, eid",
-      "lastUpdate": "2026-02-25 17:53:27 +0200",
+      "excerpt": "kosovo, wallet, authentication, application, developer, api, ios, license, storing, google",
+      "lastUpdate": "2026-02-25 18:00:34 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-25 17:53:27 +0200",
-      "createTimeUTC": 1772034807,
+      "createTime": "2026-02-25 18:00:34 +0200",
+      "createTimeUTC": 1772035234,
       "relatedPages": [
         {
           "title": "Use Kosovo Wallet",

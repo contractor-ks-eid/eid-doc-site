@@ -17,7 +17,7 @@ name: iOS
 {% endcapture %}
 
 {% include elements/alert.html 
-  class="warning" 
+  class="primary" 
   content=c 
 %}
 

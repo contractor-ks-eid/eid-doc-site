@@ -17,7 +17,7 @@ eID provides two separate API sets, each of it serving a certain purpose and cov
 Strong authentication is a very useful and powerful feature provided by eID. This feature will allow your users to **`login to your systems using their national eID and their Kosovo Wallet`**.  
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content="Be aware that we cannot authorise your users inside your systems. We can only authenticate them. After successful passing the login flow with Kosovo Wallet we will return to you the user information that you may need for further authorisation inside your system, according to your authorisation policies."
   title="Strong Authentication" 
 %}

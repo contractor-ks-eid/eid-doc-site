@@ -33,7 +33,7 @@ In the case when you did not save the certificate information, the self **`servi
 You can see your profile information by accessing the related option after click on the user icon on the top-right of the screen.
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content="Your profile information is encoded in the certificate at enrollment time, thus you are not allowed to modify it in the self-service portal. The only information related to your profile that you can modify is the password for accessing the self-service portal."
   title="Profile info"
 %}

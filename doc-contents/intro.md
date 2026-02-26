@@ -105,7 +105,7 @@ Using the electronic ID together with the Kosovo Wallet, citizens can also log i
 {% endcapture %}
 
 {% include elements/alert.html 
-  class="info" 
+  class="primary" 
   content=c 
   title="eID API"
 %}

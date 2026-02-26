@@ -1,5 +1,5 @@
 
-You must have at least iOS 13 for installing Kosovo Wallet."
+You must have at least iOS 13 for installing Kosovo Wallet.
 
 {% include elements/image.html 
   source="partials/media/wallet/app-store.svg"
