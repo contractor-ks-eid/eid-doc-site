@@ -308,10 +308,10 @@
         "identity"
       ],
       "excerpt": "signing, macos, certificates, app, stamp, document, download, validity, verify, desktop",
-      "lastUpdate": "2026-02-24 18:02:45 +0200",
+      "lastUpdate": "2026-02-26 17:52:48 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-24 18:02:45 +0200",
-      "createTimeUTC": 1771948965,
+      "createTime": "2026-02-26 17:52:48 +0200",
+      "createTimeUTC": 1772121168,
       "relatedPages": [
         {
           "title": "Manage eID",
@@ -589,7 +589,7 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Get eID",
@@ -644,7 +644,7 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Get eID",
@@ -689,7 +689,7 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         },
         {
           "title": "Introduction",
@@ -821,7 +821,7 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 1
@@ -831,7 +831,7 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "24-Feb-2026"
+          "lastUpdate": "26-Feb-2026"
         }
       ],
       "numPages": 1

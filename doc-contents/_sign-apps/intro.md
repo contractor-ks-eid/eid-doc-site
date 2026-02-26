@@ -38,6 +38,16 @@ In the context of Kosovo eID, the purpose of the signing apps is to verify the c
     spyBorder="true"
 %}
 
+# Use
+Follow the instructions from the next video to understand how to use the signing apps.
+
+{% include elements/youtube.html 
+    id="OTNiEsfceuc" 
+    width="640" 
+    height="360"
+    moments=moments
+%}
+
 # Support
 We offer technical support for both users of signing apps.
 
