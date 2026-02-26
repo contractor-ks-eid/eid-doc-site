@@ -3,87 +3,121 @@
     {
       "permalink": "/intro/",
       "keywords": [
-        "eid",
         "kosovo",
         "authenticate",
+        "eid",
         "ebanking",
         "certificate",
         "api",
+        "identities",
         "enrollment",
-        "digitally",
         "wallet",
-        "database"
+        "digitally"
       ]
     },
     {
       "permalink": "/api/intro/",
       "keywords": [
-        "eid",
         "api",
+        "integrate",
         "integrators",
-        "features",
-        "provided",
-        "allow",
-        "use",
-        "systems",
-        "party"
+        "eid",
+        "submit",
+        "kosovo",
+        "authentication",
+        "backend",
+        "contact",
+        "ask"
       ]
     },
     {
       "permalink": "/sign-apps/intro/",
       "keywords": [
-        "apps",
         "signing",
-        "desktop",
-        "stamping",
-        "documents",
-        "mobile",
-        "electronic",
-        "using",
-        "allow",
-        "used"
+        "macos",
+        "certificates",
+        "app",
+        "stamp",
+        "document",
+        "download",
+        "validity",
+        "verify",
+        "desktop"
       ]
     },
     {
       "permalink": "/wallet/intro/",
       "keywords": [
-        "wallet",
         "kosovo",
-        "app",
-        "credentials",
-        "seal",
-        "safely",
-        "mobile",
-        "electronic",
-        "used"
+        "wallet",
+        "authentication",
+        "application",
+        "developer",
+        "api",
+        "ios",
+        "license",
+        "storing",
+        "google"
       ]
     },
     {
       "permalink": "/get-eid/",
       "keywords": [
+        "authentication",
         "eid",
+        "wallet",
+        "certificate",
         "enrollment",
+        "kosovo",
+        "digitally",
         "arbk",
-        "arc",
-        "passing",
-        "digital",
-        "electronic",
-        "getting",
-        "process",
-        "involves"
+        "email",
+        "seals"
       ]
     },
     {
       "permalink": "/manage-eid/",
       "keywords": [
-        "certificate",
+        "certificates",
+        "password",
         "portal",
-        "service",
+        "access",
         "self",
-        "manage",
-        "used",
-        "cycle",
-        "life"
+        "service",
+        "enrollment",
+        "profile",
+        "unlock",
+        "user"
+      ]
+    },
+    {
+      "permalink": "/api/api-docs/",
+      "keywords": [
+        "authentication",
+        "api",
+        "authorise",
+        "wallet",
+        "eid",
+        "strong",
+        "kosovo",
+        "useful",
+        "features",
+        "requires"
+      ]
+    },
+    {
+      "permalink": "/wallet/use-wallet/",
+      "keywords": [
+        "authentication",
+        "credential",
+        "kosovo",
+        "wallet",
+        "notifications",
+        "features",
+        "certificate",
+        "access",
+        "select",
+        "modal"
       ]
     }
   ]

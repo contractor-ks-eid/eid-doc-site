@@ -1,23 +1,53 @@
 [
   {
-    "title": "eID API",
-    "permalink": "/api/intro/",
+    "title": "eID API Docs",
+    "permalink": "/api/api-docs/",
     "categories": [
-      "Integration"
+      "Integration",
+      "API"
     ],
     "tags": [
       "wallet",
       "integration",
       "signature",
-      "seal"
+      "seal",
+      "authentication",
+      "identity"
     ],
-    "excerpt": "eid, api, integrators, features, provided, allow, use, systems, party",
+    "excerpt": "authentication, api, authorise, wallet, eid, strong, kosovo, useful, features, requires",
+    "lastUpdate": "2026-02-26 18:18:48 +0200",
+    "lastUpdateUTC": 1772122728,
+    "createTime": "2026-02-26 18:18:48 +0200",
+    "createTimeUTC": 1772122728,
+    "relatedPages": [],
+    "autoSummary": "Strong authentication is a very useful and powerful feature provided by eid. This feature will allow your users to . Strong authentication be aware that we cannot authorise your users inside your systems. We can only authenticate them. Test it for implementing the strong authentication with kosovo wallet in the.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "eID API",
+    "permalink": "/api/intro/",
+    "categories": [
+      "Integration",
+      "API"
+    ],
+    "tags": [
+      "wallet",
+      "integration",
+      "signature",
+      "seal",
+      "identity",
+      "authentication"
+    ],
+    "excerpt": "api, integrate, integrators, eid, submit, kosovo, authentication, backend, contact, ask",
     "lastUpdate": "2026-02-20 12:50:25 +0200",
     "lastUpdateUTC": 1771584625,
     "createTime": "2026-02-20 12:50:25 +0200",
     "createTimeUTC": 1771584625,
     "relatedPages": [],
-    "autoSummary": "Eid API is provided to allow third party integrators to use eid features in their systems.eid is an open source programming language.",
+    "autoSummary": "The eid API is available for third-party integrators who want to add kosovo eid features into their own systems. Any software — web, mobile, or backend — that has a permanent internet connection can connect to the eidapi.",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,
@@ -32,15 +62,16 @@
     ],
     "tags": [
       "seal",
-      "signature"
+      "signature",
+      "identity"
     ],
-    "excerpt": "apps, signing, desktop, stamping, documents, mobile, electronic, using, allow, used",
+    "excerpt": "signing, macos, certificates, app, stamp, document, download, validity, verify, desktop",
     "lastUpdate": "2026-02-20 12:50:25 +0200",
     "lastUpdateUTC": 1771584625,
     "createTime": "2026-02-20 12:50:25 +0200",
     "createTimeUTC": 1771584625,
     "relatedPages": [],
-    "autoSummary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The apps are available on iOS and Android.",
+    "autoSummary": "Desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. Installation and usage, without any limitations, are free of charge.",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,
@@ -53,15 +84,37 @@
       "Wallet"
     ],
     "tags": [
-      "wallet"
+      "wallet",
+      "authentication"
     ],
-    "excerpt": "wallet, kosovo, app, credentials, seal, safely, mobile, electronic, used",
+    "excerpt": "kosovo, wallet, authentication, application, developer, api, ios, license, storing, google",
     "lastUpdate": "2026-02-20 12:50:25 +0200",
     "lastUpdateUTC": 1771584625,
     "createTime": "2026-02-20 12:50:25 +0200",
     "createTimeUTC": 1771584625,
     "relatedPages": [],
-    "autoSummary": "Kosovo wallet is a mobile app used to safely keep the credentials of the electronic id or electronic seal. It is available for iOS and Android devices.",
+    "autoSummary": "Kosovo wallet is a mobile app used to safely store the credentials of your electronic id or your electronic seal(s) It can be installed as any other mobile application from google play (for android) or from app store (for ios). Installation and usage, without any limitations, are free of charge.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Use Kosovo Wallet",
+    "permalink": "/wallet/use-wallet/",
+    "categories": [
+      "Wallet"
+    ],
+    "tags": [
+      "wallet"
+    ],
+    "excerpt": "authentication, credential, kosovo, wallet, notifications, features, certificate, access, select, modal",
+    "lastUpdate": "2026-02-26 18:18:48 +0200",
+    "lastUpdateUTC": 1772122728,
+    "createTime": "2026-02-26 18:18:48 +0200",
+    "createTimeUTC": 1772122728,
+    "relatedPages": [],
+    "autoSummary": "Kosovo wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device. You can organise credentials and use the credentials in applications that are in the kosovo eid ecosystem and offers strong authentication.",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,
@@ -80,13 +133,13 @@
       "identity",
       "seal"
     ],
-    "excerpt": "eid, enrollment, arbk, arc, passing, digital, electronic, getting, process, involves",
-    "lastUpdate": "2026-02-20 18:59:44 +0200",
-    "lastUpdateUTC": 1771606784,
-    "createTime": "2026-02-20 18:59:44 +0200",
-    "createTimeUTC": 1771606784,
+    "excerpt": "authentication, eid, wallet, certificate, enrollment, kosovo, digitally, arbk, email, seals",
+    "lastUpdate": "2026-02-20 19:01:35 +0200",
+    "lastUpdateUTC": 1771606895,
+    "createTime": "2026-02-20 19:01:35 +0200",
+    "createTimeUTC": 1771606895,
     "relatedPages": [],
-    "autoSummary": "Getting eid involves passing the enrollment process at arc (for the electronic id) or at arbk ( for the digital seal).",
+    "autoSummary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc). For a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available. This is intentional, to ensure the highest possible.",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,
@@ -99,21 +152,21 @@
       "General"
     ],
     "tags": [
-      "documentation",
       "docs",
       "wallet",
       "enrollment",
       "integration",
       "signature",
-      "seal"
+      "seal",
+      "identity"
     ],
-    "excerpt": "eid, kosovo, authenticate, ebanking, certificate, api, enrollment, digitally, wallet, database",
-    "lastUpdate": "2025-11-20 00:23:38 +0200",
-    "lastUpdateUTC": 1763591018,
-    "createTime": "2025-11-20 00:23:38 +0200",
-    "createTimeUTC": 1763591018,
+    "excerpt": "kosovo, authenticate, eid, ebanking, certificate, api, identities, enrollment, wallet, digitally",
+    "lastUpdate": "2026-02-20 19:01:35 +0200",
+    "lastUpdateUTC": 1771606895,
+    "createTime": "2026-02-20 19:01:35 +0200",
+    "createTimeUTC": 1771606895,
     "relatedPages": [],
-    "autoSummary": "Kosovo eid is the national system that manages electronic identities. An electronic id is a free digital certificate issued by the government of kosovo, valid for 2 years. With it, citizens can securely sign (or stamp) documents online.",
+    "autoSummary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. Citizens can get their electronic id by going through a enrollment process at the civil registration offices ( ) counters. In a similar way, citizens can obtain an electronic seal through the enrollment process.",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,
@@ -131,13 +184,13 @@
       "identity",
       "seal"
     ],
-    "excerpt": "certificate, portal, service, self, manage, used, cycle, life",
-    "lastUpdate": "2026-02-20 18:59:44 +0200",
-    "lastUpdateUTC": 1771606784,
-    "createTime": "2026-02-20 18:59:44 +0200",
-    "createTimeUTC": 1771606784,
+    "excerpt": "certificates, password, portal, access, self, service, enrollment, profile, unlock, user",
+    "lastUpdate": "2026-02-20 19:01:35 +0200",
+    "lastUpdateUTC": 1771606895,
+    "createTime": "2026-02-20 19:01:35 +0200",
+    "createTimeUTC": 1771606895,
     "relatedPages": [],
-    "autoSummary": "The self service portal can be used to manage the life cycle of the certificate. The certificate can also be managed by the user via the website.",
+    "autoSummary": "The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password).",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,

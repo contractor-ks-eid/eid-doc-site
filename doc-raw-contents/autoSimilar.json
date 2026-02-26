@@ -1,11 +1,16 @@
 [
     {
         "permalink": "/intro/",
-        "similarFiles": []
+        "similarFiles": [
+            "/wallet/intro/",
+            "/get-eid/"
+        ]
     },
     {
         "permalink": "/api/intro/",
-        "similarFiles": []
+        "similarFiles": [
+            "/api/api-docs/"
+        ]
     },
     {
         "permalink": "/sign-apps/intro/",
@@ -13,14 +18,42 @@
     },
     {
         "permalink": "/wallet/intro/",
-        "similarFiles": []
+        "similarFiles": [
+            "/intro/",
+            "/wallet/use-wallet/",
+            "/get-eid/"
+        ]
     },
     {
         "permalink": "/get-eid/",
-        "similarFiles": []
+        "similarFiles": [
+            "/manage-eid/",
+            "/wallet/use-wallet/",
+            "/intro/",
+            "/wallet/intro/"
+        ]
     },
     {
         "permalink": "/manage-eid/",
-        "similarFiles": []
+        "similarFiles": [
+            "/get-eid/",
+            "/wallet/use-wallet/"
+        ]
+    },
+    {
+        "permalink": "/api/api-docs/",
+        "similarFiles": [
+            "/api/intro/",
+            "/wallet/use-wallet/"
+        ]
+    },
+    {
+        "permalink": "/wallet/use-wallet/",
+        "similarFiles": [
+            "/get-eid/",
+            "/manage-eid/",
+            "/api/api-docs/",
+            "/wallet/intro/"
+        ]
     }
 ]
