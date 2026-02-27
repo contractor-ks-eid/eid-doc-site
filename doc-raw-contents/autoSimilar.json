@@ -50,10 +50,7 @@
     {
         "permalink": "/wallet/use-wallet/",
         "similarFiles": [
-            "/get-eid/",
-            "/manage-eid/",
-            "/api/api-docs/",
-            "/wallet/intro/"
+            "/api/api-docs/"
         ]
     }
 ]

@@ -2,11 +2,6 @@
   "files": [
     "doc-raw-contents/_api_api-docs_.txt",
     "doc-raw-contents/_api_intro_.txt",
-    "doc-raw-contents/_sign-apps_intro_.txt",
-    "doc-raw-contents/_wallet_intro_.txt",
-    "doc-raw-contents/_wallet_use-wallet_.txt",
-    "doc-raw-contents/_get-eid_.txt",
-    "doc-raw-contents/_intro_.txt",
-    "doc-raw-contents/_manage-eid_.txt"
+    "doc-raw-contents/_sign-apps_intro_.txt"
   ]
 }
