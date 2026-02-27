@@ -16,7 +16,6 @@
 
 {% assign file = include.file || default: "" %}
 {% assign downloadName = include.downloadName || default: "" %}
-
 {% assign downloadsDir = include.downloadsDir || default: "false" %}
 
 {% if downloadsDir == "false" %}
@@ -32,43 +31,73 @@
     {{text}}
  </button>
 
+ <!-- Progress bar container -->
+ <div id="download-progress-container-{{did}}" style="display:none; margin-top:0.5rem;">
+    <div class="progress" style="height: 20px;">
+        <div id="download-progress-bar-{{did}}" class="progress-bar" role="progressbar" style="width:0%">0%</div>
+    </div>
+ </div>
 
  <script>
     $('#download-btn-{{did}}').on('click', function () {
-        const fileUrl = '{{source}}';
+    const fileUrl = '{{source}}';
+    const progressContainer = $('#download-progress-container-{{did}}');
+    const progressBar = $('#download-progress-bar-{{did}}');
 
-        {% if downloadName !="" %}
-            const fileName = '{{downloadName}}';
-        {% else %}
-            const fileName = fileUrl.split('/').pop();
-        {% endif %}
+    {% if downloadName !="" %}
+        const fileName = '{{downloadName}}';
+    {% else %}
+        const fileName = fileUrl.split('/').pop();
+    {% endif %}
 
-        fetch(fileUrl)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Failed to fetch file');
-                showToast(i18next.t('elements_downloads_download_file_not_found', { postProcess: 'sprintf', sprintf: [fileName] }), 'bg-danger', 'text-light');
-            }
-            return response.blob();
-        })
-        .then(blob => {
-            const blobUrl = URL.createObjectURL(blob);
+    progressContainer.show();
+    progressBar.css('width','0%').text('0%');
+
+    const xhr = new XMLHttpRequest();
+    xhr.open('GET', fileUrl, true);
+    xhr.responseType = 'blob';
+
+    xhr.onprogress = function (event) {
+        if (event.lengthComputable) {
+            const percent = Math.floor((event.loaded / event.total) * 100);
+            progressBar.css('width', percent + '%').text(percent + '%');
+        }
+    };
+
+    xhr.onload = function () {
+        if (xhr.status === 200) {
+            const blobUrl = URL.createObjectURL(xhr.response);
             const a = $('<a>')
-            .attr('href', blobUrl)
-            .attr('download', fileName)
-            .css('display', 'none')
-            .appendTo('body');
+                .attr('href', blobUrl)
+                .attr('download', fileName)
+                .css('display', 'none')
+                .appendTo('body');
 
             a[0].click();
             a.remove();
             URL.revokeObjectURL(blobUrl);
+
+            progressBar.css('width','100%').text('100%');
             showToast(i18next.t('elements_downloads_download_completed', { postProcess: 'sprintf', sprintf: [fileName] }), 'bg-success', 'text-light');
-        })
-        .catch(error => {
-            console.error('Download failed:', error);
+
+            setTimeout(() => {
+                progressContainer.hide();
+            }, 2000);
+        } else {
+            console.error('Download failed with status', xhr.status);
             showToast(i18next.t('elements_downloads_download_failed', { postProcess: 'sprintf', sprintf: [fileName] }), 'bg-danger', 'text-light');
-        });
-    });
+            progressContainer.hide();
+        }
+    };
+
+    xhr.onerror = function () {
+        console.error('Download failed due to network error');
+        showToast(i18next.t('elements_downloads_download_failed', { postProcess: 'sprintf', sprintf: [fileName] }), 'bg-danger', 'text-light');
+        progressContainer.hide();
+    };
+
+    xhr.send();
+});
  </script>
 
  {% else %}
