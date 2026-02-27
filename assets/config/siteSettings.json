@@ -111,7 +111,7 @@
     "navPrevNextEnabled": true,
     "hsIntegration": {
       "enabled": true,
-      "legacyForms": false,
+      "legacyForms": true,
       "bootstrapCSS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css",
       "bootstrapJS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js",
       "bootstrapIconsCSS": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css",
@@ -228,10 +228,10 @@
         "seal"
       ],
       "excerpt": "eid, api, integrators, features, provided, allow, use, systems, party",
-      "lastUpdate": "2026-02-20 12:44:29 +0200",
+      "lastUpdate": "2026-02-20 12:49:28 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:44:29 +0200",
-      "createTimeUTC": 1771584269,
+      "createTime": "2026-02-20 12:49:28 +0200",
+      "createTimeUTC": 1771584568,
       "relatedPages": [
         {
           "title": "Signing Apps",
@@ -256,10 +256,10 @@
         "signature"
       ],
       "excerpt": "apps, signing, desktop, stamping, documents, mobile, electronic, using, allow, used",
-      "lastUpdate": "2026-02-20 12:45:05 +0200",
+      "lastUpdate": "2026-02-20 12:49:28 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:45:05 +0200",
-      "createTimeUTC": 1771584305,
+      "createTime": "2026-02-20 12:49:28 +0200",
+      "createTimeUTC": 1771584568,
       "relatedPages": [
         {
           "title": "eID API",
@@ -286,10 +286,10 @@
         "wallet"
       ],
       "excerpt": "wallet, kosovo, app, credentials, seal, safely, mobile, electronic, used",
-      "lastUpdate": "2026-02-20 12:45:31 +0200",
+      "lastUpdate": "2026-02-20 12:49:28 +0200",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:45:31 +0200",
-      "createTimeUTC": 1771584331,
+      "createTime": "2026-02-20 12:49:28 +0200",
+      "createTimeUTC": 1771584568,
       "relatedPages": [
         {
           "title": "Signing Apps",
@@ -472,9 +472,9 @@
   "hsSettings": {
     "region": "eu1",
     "portalID": "147281790",
-    "feedbackFormID": "b19ed661-3883-4909-a685-7d9765cbf752",
+    "feedbackFormID": "6eabc000-c2ca-4037-a12e-152bc26ec3b8",
     "feedbackForm": {
-      "ID": "b19ed661-3883-4909-a685-7d9765cbf752"
+      "ID": "6eabc000-c2ca-4037-a12e-152bc26ec3b8"
     }
   },
   "algoliaSettings": {

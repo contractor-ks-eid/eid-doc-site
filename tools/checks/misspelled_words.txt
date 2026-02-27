@@ -1,5 +1,20 @@
+Permalink: /api/intro/
+File: _api/intro.md
+Language detected: en
+Misspelled words: eid
+
 Permalink: /intro/
 File: intro.md
 Language detected: en
 Misspelled words: pagebuildconfig
+
+Permalink: /sign-apps/intro/
+File: _sign-apps/intro.md
+Language detected: en
+No misspellings detected.
+
+Permalink: /wallet/intro/
+File: _wallet/intro.md
+Language detected: en
+No misspellings detected.
 
