@@ -17,7 +17,9 @@
     },
     {
         "permalink": "/api/intro/",
-        "similarFiles": []
+        "similarFiles": [
+            "/api/api-docs/"
+        ]
     },
     {
         "permalink": "/sign-apps/intro/",
@@ -25,7 +27,9 @@
     },
     {
         "permalink": "/api/api-docs/",
-        "similarFiles": []
+        "similarFiles": [
+            "/api/intro/"
+        ]
     },
     {
         "permalink": "/wallet/use-wallet/",
