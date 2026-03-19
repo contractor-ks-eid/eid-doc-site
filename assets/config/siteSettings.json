@@ -326,14 +326,21 @@
     }
   ],
   "tagList": [
+    "authentication",
     "docs",
     "documentation",
+    "enrollment",
+    "identity",
     "integration",
     "seal",
+    "self-service",
     "signature",
     "wallet"
   ],
   "tagDetails": {
+    "authentication": {
+      "pages": []
+    },
     "docs": {
       "pages": [
         {
@@ -353,6 +360,12 @@
         }
       ],
       "numPages": 1
+    },
+    "enrollment": {
+      "pages": []
+    },
+    "identity": {
+      "pages": []
     },
     "integration": {
       "pages": [
@@ -378,6 +391,9 @@
         }
       ],
       "numPages": 2
+    },
+    "self-service": {
+      "pages": []
     },
     "signature": {
       "pages": [
@@ -411,6 +427,9 @@
     }
   },
   "catList": [
+    "API",
+    "Certificates",
+    "Enrollment",
     "General",
     "Integration",
     "Seal",
@@ -418,6 +437,15 @@
     "Wallet"
   ],
   "catDetails": {
+    "API": {
+      "pages": []
+    },
+    "Certificates": {
+      "pages": []
+    },
+    "Enrollment": {
+      "pages": []
+    },
     "General": {
       "pages": [
         {
