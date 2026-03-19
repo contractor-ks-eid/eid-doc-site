@@ -100,7 +100,7 @@ hubspot:
   feedbackFormID: 
     ID: "6eabc000-c2ca-4037-a12e-152bc26ec3b8"
 faq:
-  enabled: true #enable/disable FAQ feature
+  enabled: false #enable/disable FAQ feature
   pagination: true
   displayedPagesDesktop: 10
   displayedPagesMobile: 7
