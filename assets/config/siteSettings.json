@@ -216,31 +216,96 @@
   },
   "pageList": [
     {
-      "title": "eID API",
-      "permalink": "/api/intro/",
+      "title": "eID API Docs",
+      "permalink": "/api/api-docs/",
       "categories": [
-        "Integration"
+        "Integration",
+        "API"
       ],
       "tags": [
         "wallet",
         "integration",
         "signature",
-        "seal"
+        "seal",
+        "authentication",
+        "identity"
       ],
-      "excerpt": "eid, api, integrators, features, provided, allow, use, systems, party",
+      "excerpt": "authentication, api, authorise, wallet, eid, strong, kosovo, features, useful, requires",
+      "lastUpdate": "2026-07-26 21:43:22 +0300",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-07-26 21:43:22 +0300",
+      "createTimeUTC": 1785091402,
+      "relatedPages": [
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/"
+        },
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/"
+        }
+      ],
+      "autoSummary": "Strong authentication is a very useful and powerful feature provided by eid. This feature will allow your users to . Strong authentication be aware that we cannot authorise your users inside your systems. We can only authenticate them. Test it for implementing the strong authentication with kosovo wallet in the.",
+      "similarByContent": [
+        {
+          "permalink": "/api/intro/",
+          "title": "eID API"
+        },
+        {
+          "permalink": "/wallet/use-wallet/",
+          "title": "Use Kosovo Wallet"
+        }
+      ],
+      "readingTime": 2,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
+      "title": "eID API",
+      "permalink": "/api/intro/",
+      "categories": [
+        "Integration",
+        "API"
+      ],
+      "tags": [
+        "wallet",
+        "integration",
+        "signature",
+        "seal",
+        "identity",
+        "authentication"
+      ],
+      "excerpt": "api, integrate, integrators, eid, submit, kosovo, authentication, backend, contact, ask",
       "lastUpdate": "2026-02-20 12:49:28 +0200",
       "lastUpdateUTC": 0,
       "createTime": "2026-02-20 12:49:28 +0200",
       "createTimeUTC": 1771584568,
       "relatedPages": [
         {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/"
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/"
+        },
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/"
         }
       ],
-      "autoSummary": "Eid API is provided to allow third party integrators to use eid features in their systems.eid is an open source programming language.",
-      "similarByContent": [],
-      "readingTime": 1,
+      "autoSummary": "The eid API is available for third-party integrators who want to add kosovo eid features into their own systems. Any software — web, mobile, or backend — that has a permanent internet connection can connect to the eidapi.",
+      "similarByContent": [
+        {
+          "permalink": "/api/api-docs/",
+          "title": "eID API Docs"
+        }
+      ],
+      "readingTime": 3,
       "hasDynamicContent": false,
       "parent": ""
     },
@@ -253,26 +318,130 @@
       ],
       "tags": [
         "seal",
-        "signature"
+        "signature",
+        "identity"
       ],
-      "excerpt": "apps, signing, desktop, stamping, documents, mobile, electronic, using, allow, used",
-      "lastUpdate": "2026-02-20 12:49:28 +0200",
+      "excerpt": "signing, macos, certificates, app, stamp, document, download, validity, verify, desktop",
+      "lastUpdate": "2026-07-26 17:06:16 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-20 12:49:28 +0200",
-      "createTimeUTC": 1771584568,
+      "createTime": "2026-07-26 17:06:16 +0300",
+      "createTimeUTC": 1785074776,
       "relatedPages": [
         {
-          "title": "eID API",
-          "permalink": "/api/intro/"
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/"
         },
         {
-          "title": "Kosovo Wallet",
-          "permalink": "/wallet/intro/"
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/"
+        },
+        {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/"
         }
       ],
-      "autoSummary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The apps are available on iOS and Android.",
-      "similarByContent": [],
-      "readingTime": 1,
+      "autoSummary": "Desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. Installation and usage, without any limitations, are free of charge.",
+      "similarByContent": [
+        {
+          "permalink": "/sign-apps/sign-docs/",
+          "title": "Sign Documents"
+        }
+      ],
+      "readingTime": 2,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
+      "title": "Sign Documents",
+      "permalink": "/sign-apps/sign-docs/",
+      "categories": [
+        "Signature",
+        "Seal"
+      ],
+      "tags": [
+        "seal",
+        "signature",
+        "identity"
+      ],
+      "excerpt": "signatures, cades, documents, apps, pdf, pades, certificate, xades, adobe, mobile",
+      "lastUpdate": "2026-07-26 21:43:22 +0300",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-07-26 21:43:22 +0300",
+      "createTimeUTC": 1785091402,
+      "relatedPages": [
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/"
+        },
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/"
+        }
+      ],
+      "autoSummary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature.",
+      "similarByContent": [
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Signing Apps"
+        },
+        {
+          "permalink": "/sign-apps/sign-office-docs/",
+          "title": "Sign Office Documents"
+        }
+      ],
+      "readingTime": 3,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
+      "title": "Sign Office Documents",
+      "permalink": "/sign-apps/sign-office-docs/",
+      "categories": [
+        "Signature",
+        "Seal"
+      ],
+      "tags": [
+        "seal",
+        "signature",
+        "identity",
+        "microsoft",
+        "office",
+        "word",
+        "excel",
+        "powerpoint",
+        "outlook"
+      ],
+      "excerpt": "signatures, outlook, document, microsoft, office, limitations, password, client, certification, ribbon",
+      "lastUpdate": "2026-07-26 21:43:22 +0300",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-07-26 21:43:22 +0300",
+      "createTimeUTC": 1785091402,
+      "relatedPages": [
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/"
+        },
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/"
+        },
+        {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/"
+        }
+      ],
+      "autoSummary": "You can sign microsoft office documents using your eid certificate and your digital seals. The minimum office version allowing digital signatures with certificates is office2007. Any newer version or office365 provides signature features.",
+      "similarByContent": [
+        {
+          "permalink": "/sign-apps/sign-docs/",
+          "title": "Sign Documents"
+        }
+      ],
+      "readingTime": 3,
       "hasDynamicContent": false,
       "parent": ""
     },
@@ -283,22 +452,150 @@
         "Wallet"
       ],
       "tags": [
-        "wallet"
+        "wallet",
+        "authentication"
       ],
-      "excerpt": "wallet, kosovo, app, credentials, seal, safely, mobile, electronic, used",
+      "excerpt": "kosovo, wallet, authentication, application, developer, api, ios, license, storing, google",
       "lastUpdate": "2026-02-20 12:49:28 +0200",
       "lastUpdateUTC": 0,
       "createTime": "2026-02-20 12:49:28 +0200",
       "createTimeUTC": 1771584568,
       "relatedPages": [
         {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/"
+          "title": "Use Kosovo Wallet",
+          "permalink": "/wallet/use-wallet/"
+        },
+        {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/"
+        },
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/"
         }
       ],
-      "autoSummary": "Kosovo wallet is a mobile app used to safely keep the credentials of the electronic id or electronic seal. It is available for iOS and Android devices.",
-      "similarByContent": [],
+      "autoSummary": "Kosovo wallet is a mobile app used to safely store the credentials of your electronic id or your electronic seal(s) It can be installed as any other mobile application from google play (for android) or from app store (for ios). Installation and usage, without any limitations, are free of charge.",
+      "similarByContent": [
+        {
+          "permalink": "/intro/",
+          "title": "Introduction"
+        },
+        {
+          "permalink": "/wallet/use-wallet/",
+          "title": "Use Kosovo Wallet"
+        },
+        {
+          "permalink": "/get-eid/",
+          "title": "Get eID"
+        }
+      ],
       "readingTime": 1,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
+      "title": "Use Kosovo Wallet",
+      "permalink": "/wallet/use-wallet/",
+      "categories": [
+        "Wallet"
+      ],
+      "tags": [
+        "wallet"
+      ],
+      "excerpt": "authentication, credential, kosovo, wallet, notifications, features, certificate, access, select, modal",
+      "lastUpdate": "2026-07-26 21:43:22 +0300",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-07-26 21:43:22 +0300",
+      "createTimeUTC": 1785091402,
+      "relatedPages": [
+        {
+          "title": "Kosovo Wallet",
+          "permalink": "/wallet/intro/"
+        },
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/"
+        },
+        {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/"
+        }
+      ],
+      "autoSummary": "Kosovo wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device. You can organise credentials and use the credentials in applications that are in the kosovo eid ecosystem and offers strong authentication.",
+      "similarByContent": [
+        {
+          "permalink": "/get-eid/",
+          "title": "Get eID"
+        },
+        {
+          "permalink": "/manage-eid/",
+          "title": "Manage eID"
+        },
+        {
+          "permalink": "/api/api-docs/",
+          "title": "eID API Docs"
+        },
+        {
+          "permalink": "/wallet/intro/",
+          "title": "Kosovo Wallet"
+        }
+      ],
+      "readingTime": 4,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
+      "title": "Get eID",
+      "permalink": "/get-eid/",
+      "categories": [
+        "Enrollment",
+        "Certificates"
+      ],
+      "tags": [
+        "wallet",
+        "enrollment",
+        "identity",
+        "seal"
+      ],
+      "excerpt": "authentication, eid, wallet, certificate, enrollment, kosovo, digitally, arbk, email, seals",
+      "lastUpdate": "2026-07-26 21:43:22 +0300",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-07-26 21:43:22 +0300",
+      "createTimeUTC": 1785091402,
+      "relatedPages": [
+        {
+          "title": "Introduction",
+          "permalink": "/intro/"
+        },
+        {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/"
+        },
+        {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/"
+        }
+      ],
+      "autoSummary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc). For a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available. This is intentional, to ensure the highest possible.",
+      "similarByContent": [
+        {
+          "permalink": "/manage-eid/",
+          "title": "Manage eID"
+        },
+        {
+          "permalink": "/wallet/use-wallet/",
+          "title": "Use Kosovo Wallet"
+        },
+        {
+          "permalink": "/intro/",
+          "title": "Introduction"
+        },
+        {
+          "permalink": "/wallet/intro/",
+          "title": "Kosovo Wallet"
+        }
+      ],
+      "readingTime": 4,
       "hasDynamicContent": false,
       "parent": ""
     },
@@ -309,18 +606,91 @@
         "General"
       ],
       "tags": [
-        "documentation",
-        "docs"
+        "docs",
+        "wallet",
+        "enrollment",
+        "integration",
+        "signature",
+        "seal",
+        "identity"
       ],
-      "excerpt": "pagebuildconfig, documentation, configuration, page, document, configured, header, section, yml, entry",
+      "excerpt": "kosovo, authenticate, eid, ebanking, certificate, api, identities, enrollment, wallet, digitally",
       "lastUpdate": "2025-11-20 00:22:45 +0200",
       "lastUpdateUTC": 0,
       "createTime": "2025-11-20 00:22:45 +0200",
       "createTimeUTC": 1763590965,
-      "relatedPages": [],
-      "autoSummary": "This document can be configured to appear in the home page, header section as the entry point to the documentation. The configuration shall be made in: _datapagebuildconfig.yml, section, key and is used in as _datAPagebuild configuration.",
-      "similarByContent": [],
-      "readingTime": 1,
+      "relatedPages": [
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/"
+        },
+        {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/"
+        },
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/"
+        }
+      ],
+      "autoSummary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. Citizens can get their electronic id by going through a enrollment process at the civil registration offices ( ) counters. In a similar way, citizens can obtain an electronic seal through the enrollment process.",
+      "similarByContent": [
+        {
+          "permalink": "/wallet/intro/",
+          "title": "Kosovo Wallet"
+        },
+        {
+          "permalink": "/get-eid/",
+          "title": "Get eID"
+        }
+      ],
+      "readingTime": 2,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
+      "title": "Manage eID",
+      "permalink": "/manage-eid/",
+      "categories": [
+        "Certificates"
+      ],
+      "tags": [
+        "wallet",
+        "self-service",
+        "identity",
+        "seal"
+      ],
+      "excerpt": "certificates, password, portal, access, self, service, enrollment, profile, unlock, user",
+      "lastUpdate": "2026-07-26 21:43:22 +0300",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-07-26 21:43:22 +0300",
+      "createTimeUTC": 1785091402,
+      "relatedPages": [
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/"
+        },
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/"
+        }
+      ],
+      "autoSummary": "The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password).",
+      "similarByContent": [
+        {
+          "permalink": "/get-eid/",
+          "title": "Get eID"
+        },
+        {
+          "permalink": "/wallet/use-wallet/",
+          "title": "Use Kosovo Wallet"
+        }
+      ],
+      "readingTime": 2,
       "hasDynamicContent": false,
       "parent": ""
     }
@@ -328,90 +698,28 @@
   "tagList": [
     "authentication",
     "docs",
-    "documentation",
     "enrollment",
+    "excel",
     "identity",
     "integration",
+    "microsoft",
+    "office",
+    "outlook",
+    "powerpoint",
     "seal",
     "self-service",
     "signature",
-    "wallet"
+    "wallet",
+    "word"
   ],
   "tagDetails": {
     "authentication": {
-      "pages": []
-    },
-    "docs": {
       "pages": [
         {
-          "title": "Introduction",
-          "permalink": "/intro/",
-          "lastUpdate": "20-Nov-2025"
-        }
-      ],
-      "numPages": 1
-    },
-    "documentation": {
-      "pages": [
-        {
-          "title": "Introduction",
-          "permalink": "/intro/",
-          "lastUpdate": "20-Nov-2025"
-        }
-      ],
-      "numPages": 1
-    },
-    "enrollment": {
-      "pages": []
-    },
-    "identity": {
-      "pages": []
-    },
-    "integration": {
-      "pages": [
-        {
-          "title": "eID API",
-          "permalink": "/api/intro/",
-          "lastUpdate": "20-Feb-2026"
-        }
-      ],
-      "numPages": 1
-    },
-    "seal": {
-      "pages": [
-        {
-          "title": "eID API",
-          "permalink": "/api/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
         },
-        {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/",
-          "lastUpdate": "20-Feb-2026"
-        }
-      ],
-      "numPages": 2
-    },
-    "self-service": {
-      "pages": []
-    },
-    "signature": {
-      "pages": [
-        {
-          "title": "eID API",
-          "permalink": "/api/intro/",
-          "lastUpdate": "20-Feb-2026"
-        },
-        {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/",
-          "lastUpdate": "20-Feb-2026"
-        }
-      ],
-      "numPages": 2
-    },
-    "wallet": {
-      "pages": [
         {
           "title": "eID API",
           "permalink": "/api/intro/",
@@ -423,7 +731,287 @@
           "lastUpdate": "20-Feb-2026"
         }
       ],
+      "numPages": 3
+    },
+    "docs": {
+      "pages": [
+        {
+          "title": "Introduction",
+          "permalink": "/intro/",
+          "lastUpdate": "20-Nov-2025"
+        }
+      ],
+      "numPages": 1
+    },
+    "enrollment": {
+      "pages": [
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/",
+          "lastUpdate": "20-Nov-2025"
+        }
+      ],
       "numPages": 2
+    },
+    "excel": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "identity": {
+      "pages": [
+        {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        },
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/",
+          "lastUpdate": "20-Nov-2025"
+        },
+        {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 8
+    },
+    "integration": {
+      "pages": [
+        {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/",
+          "lastUpdate": "20-Nov-2025"
+        }
+      ],
+      "numPages": 3
+    },
+    "microsoft": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "office": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "outlook": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "powerpoint": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "seal": {
+      "pages": [
+        {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        },
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/",
+          "lastUpdate": "20-Nov-2025"
+        },
+        {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 8
+    },
+    "self-service": {
+      "pages": [
+        {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "signature": {
+      "pages": [
+        {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        },
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/",
+          "lastUpdate": "20-Nov-2025"
+        }
+      ],
+      "numPages": 6
+    },
+    "wallet": {
+      "pages": [
+        {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        },
+        {
+          "title": "Kosovo Wallet",
+          "permalink": "/wallet/intro/",
+          "lastUpdate": "20-Feb-2026"
+        },
+        {
+          "title": "Use Kosovo Wallet",
+          "permalink": "/wallet/use-wallet/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/",
+          "lastUpdate": "20-Nov-2025"
+        },
+        {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 7
+    },
+    "word": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
     }
   },
   "catList": [
@@ -438,13 +1026,44 @@
   ],
   "catDetails": {
     "API": {
-      "pages": []
+      "pages": [
+        {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "20-Feb-2026"
+        }
+      ],
+      "numPages": 2
     },
     "Certificates": {
-      "pages": []
+      "pages": [
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 2
     },
     "Enrollment": {
-      "pages": []
+      "pages": [
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
     },
     "General": {
       "pages": [
@@ -459,32 +1078,57 @@
     "Integration": {
       "pages": [
         {
+          "title": "eID API Docs",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
           "title": "eID API",
           "permalink": "/api/intro/",
           "lastUpdate": "20-Feb-2026"
         }
       ],
-      "numPages": 1
+      "numPages": 2
     },
     "Seal": {
       "pages": [
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 1
+      "numPages": 3
     },
     "Signature": {
       "pages": [
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "20-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 1
+      "numPages": 3
     },
     "Wallet": {
       "pages": [
@@ -492,9 +1136,14 @@
           "title": "Kosovo Wallet",
           "permalink": "/wallet/intro/",
           "lastUpdate": "20-Feb-2026"
+        },
+        {
+          "title": "Use Kosovo Wallet",
+          "permalink": "/wallet/use-wallet/",
+          "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 1
+      "numPages": 2
     }
   },
   "hsSettings": {

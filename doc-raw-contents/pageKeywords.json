@@ -3,59 +3,151 @@
     {
       "permalink": "/intro/",
       "keywords": [
-        "pagebuildconfig",
-        "documentation",
-        "configuration",
-        "page",
-        "document",
-        "configured",
-        "header",
-        "section",
-        "yml",
-        "entry"
+        "kosovo",
+        "authenticate",
+        "eid",
+        "ebanking",
+        "certificate",
+        "api",
+        "identities",
+        "enrollment",
+        "wallet",
+        "digitally"
       ]
     },
     {
       "permalink": "/api/intro/",
       "keywords": [
-        "eid",
         "api",
+        "integrate",
         "integrators",
-        "features",
-        "provided",
-        "allow",
-        "use",
-        "systems",
-        "party"
+        "eid",
+        "submit",
+        "kosovo",
+        "authentication",
+        "backend",
+        "contact",
+        "ask"
       ]
     },
     {
       "permalink": "/sign-apps/intro/",
       "keywords": [
-        "apps",
         "signing",
-        "desktop",
-        "stamping",
-        "documents",
-        "mobile",
-        "electronic",
-        "using",
-        "allow",
-        "used"
+        "macos",
+        "certificates",
+        "app",
+        "stamp",
+        "document",
+        "download",
+        "validity",
+        "verify",
+        "desktop"
       ]
     },
     {
       "permalink": "/wallet/intro/",
       "keywords": [
-        "wallet",
         "kosovo",
-        "app",
-        "credentials",
-        "seal",
-        "safely",
-        "mobile",
-        "electronic",
-        "used"
+        "wallet",
+        "authentication",
+        "application",
+        "developer",
+        "api",
+        "ios",
+        "license",
+        "storing",
+        "google"
+      ]
+    },
+    {
+      "permalink": "/api/api-docs/",
+      "keywords": [
+        "authentication",
+        "api",
+        "authorise",
+        "wallet",
+        "eid",
+        "strong",
+        "kosovo",
+        "features",
+        "useful",
+        "requires"
+      ]
+    },
+    {
+      "permalink": "/sign-apps/sign-docs/",
+      "keywords": [
+        "signatures",
+        "cades",
+        "documents",
+        "apps",
+        "pdf",
+        "pades",
+        "certificate",
+        "xades",
+        "adobe",
+        "mobile"
+      ]
+    },
+    {
+      "permalink": "/sign-apps/sign-office-docs/",
+      "keywords": [
+        "signatures",
+        "outlook",
+        "document",
+        "microsoft",
+        "office",
+        "limitations",
+        "password",
+        "client",
+        "certification",
+        "ribbon"
+      ]
+    },
+    {
+      "permalink": "/wallet/use-wallet/",
+      "keywords": [
+        "authentication",
+        "credential",
+        "kosovo",
+        "wallet",
+        "notifications",
+        "features",
+        "certificate",
+        "access",
+        "select",
+        "modal"
+      ]
+    },
+    {
+      "permalink": "/get-eid/",
+      "keywords": [
+        "authentication",
+        "eid",
+        "wallet",
+        "certificate",
+        "enrollment",
+        "kosovo",
+        "digitally",
+        "arbk",
+        "email",
+        "seals"
+      ]
+    },
+    {
+      "permalink": "/manage-eid/",
+      "keywords": [
+        "certificates",
+        "password",
+        "portal",
+        "access",
+        "self",
+        "service",
+        "enrollment",
+        "profile",
+        "unlock",
+        "user"
       ]
     }
   ]

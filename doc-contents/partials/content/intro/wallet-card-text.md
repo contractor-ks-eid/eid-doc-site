@@ -1,0 +1,1 @@
+Install your wallet (Android or iOS), store your ID or Seals and use it to access partner eServices.

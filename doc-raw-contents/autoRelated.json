@@ -1,10 +1,35 @@
 [
   {
+    "permalink": "/api/api-docs/",
+    "related": [
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
+      },
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      },
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      }
+    ]
+  },
+  {
     "permalink": "/api/intro/",
     "related": [
       {
-        "title": "Signing Apps",
-        "permalink": "/sign-apps/intro/"
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
+      },
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      },
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
       }
     ]
   },
@@ -12,12 +37,50 @@
     "permalink": "/sign-apps/intro/",
     "related": [
       {
-        "title": "eID API",
-        "permalink": "/api/intro/"
+        "title": "Sign Documents",
+        "permalink": "/sign-apps/sign-docs/"
       },
       {
-        "title": "Kosovo Wallet",
-        "permalink": "/wallet/intro/"
+        "title": "Sign Office Documents",
+        "permalink": "/sign-apps/sign-office-docs/"
+      },
+      {
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
+      }
+    ]
+  },
+  {
+    "permalink": "/sign-apps/sign-docs/",
+    "related": [
+      {
+        "title": "Signing Apps",
+        "permalink": "/sign-apps/intro/"
+      },
+      {
+        "title": "Sign Office Documents",
+        "permalink": "/sign-apps/sign-office-docs/"
+      },
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      }
+    ]
+  },
+  {
+    "permalink": "/sign-apps/sign-office-docs/",
+    "related": [
+      {
+        "title": "Sign Documents",
+        "permalink": "/sign-apps/sign-docs/"
+      },
+      {
+        "title": "Signing Apps",
+        "permalink": "/sign-apps/intro/"
+      },
+      {
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
       }
     ]
   },
@@ -25,13 +88,85 @@
     "permalink": "/wallet/intro/",
     "related": [
       {
-        "title": "Signing Apps",
-        "permalink": "/sign-apps/intro/"
+        "title": "Use Kosovo Wallet",
+        "permalink": "/wallet/use-wallet/"
+      },
+      {
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
+      },
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
+      }
+    ]
+  },
+  {
+    "permalink": "/wallet/use-wallet/",
+    "related": [
+      {
+        "title": "Kosovo Wallet",
+        "permalink": "/wallet/intro/"
+      },
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      },
+      {
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
+      }
+    ]
+  },
+  {
+    "permalink": "/get-eid/",
+    "related": [
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      },
+      {
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
+      },
+      {
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
       }
     ]
   },
   {
     "permalink": "/intro/",
-    "related": []
+    "related": [
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      },
+      {
+        "title": "eID API Docs",
+        "permalink": "/api/api-docs/"
+      },
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
+      }
+    ]
+  },
+  {
+    "permalink": "/manage-eid/",
+    "related": [
+      {
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      },
+      {
+        "title": "Signing Apps",
+        "permalink": "/sign-apps/intro/"
+      },
+      {
+        "title": "Introduction",
+        "permalink": "/intro/"
+      }
+    ]
   }
 ]
