@@ -102,6 +102,36 @@
     "parent": ""
   },
   {
+    "title": "Sign Office Documents",
+    "permalink": "/sign-apps/sign-office-docs/",
+    "categories": [
+      "Signature",
+      "Seal"
+    ],
+    "tags": [
+      "seal",
+      "signature",
+      "identity",
+      "microsoft",
+      "office",
+      "word",
+      "excel",
+      "powerpoint",
+      "outlook"
+    ],
+    "excerpt": "signatures, document, emails, microsoft, limitations, office, client, certification, ribbon, marked",
+    "lastUpdate": "2026-07-26 20:33:41 +0300",
+    "lastUpdateUTC": 1785087221,
+    "createTime": "2026-07-26 20:33:41 +0300",
+    "createTimeUTC": 1785087221,
+    "relatedPages": [],
+    "autoSummary": "You can sign microsoft office documents using your eid certificate and your digital seals. Signed emails will carry a specific ribbon. Once a new signature is applied, the previous one is automatically removed.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
     "title": "Kosovo Wallet",
     "permalink": "/wallet/intro/",
     "categories": [

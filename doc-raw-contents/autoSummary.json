@@ -35,6 +35,10 @@
         {
             "permalink": "/sign-apps/sign-docs/",
             "summary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature."
+        },
+        {
+            "permalink": "/sign-apps/sign-office-docs/",
+            "summary": "You can sign microsoft office documents using your eid certificate and your digital seals. Signed emails will carry a specific ribbon. Once a new signature is applied, the previous one is automatically removed."
         }
     ]
 }
