@@ -1,18 +1,18 @@
 {
   "keywords": [
     {
-      "permalink": "/intro/",
+      "permalink": "/api/api-docs/",
       "keywords": [
-        "kosovo",
-        "authenticate",
-        "eid",
-        "ebanking",
-        "certificate",
+        "authentication",
         "api",
-        "identities",
-        "enrollment",
+        "authorise",
         "wallet",
-        "digitally"
+        "eid",
+        "strong",
+        "kosovo",
+        "features",
+        "useful",
+        "requires"
       ]
     },
     {
@@ -46,36 +46,6 @@
       ]
     },
     {
-      "permalink": "/wallet/intro/",
-      "keywords": [
-        "kosovo",
-        "wallet",
-        "authentication",
-        "application",
-        "developer",
-        "api",
-        "ios",
-        "license",
-        "storing",
-        "google"
-      ]
-    },
-    {
-      "permalink": "/api/api-docs/",
-      "keywords": [
-        "authentication",
-        "api",
-        "authorise",
-        "wallet",
-        "eid",
-        "strong",
-        "kosovo",
-        "features",
-        "useful",
-        "requires"
-      ]
-    },
-    {
       "permalink": "/sign-apps/sign-docs/",
       "keywords": [
         "signatures",
@@ -106,6 +76,21 @@
       ]
     },
     {
+      "permalink": "/wallet/intro/",
+      "keywords": [
+        "kosovo",
+        "wallet",
+        "authentication",
+        "application",
+        "developer",
+        "api",
+        "ios",
+        "license",
+        "storing",
+        "google"
+      ]
+    },
+    {
       "permalink": "/wallet/use-wallet/",
       "keywords": [
         "authentication",
@@ -133,6 +118,21 @@
         "arbk",
         "email",
         "seals"
+      ]
+    },
+    {
+      "permalink": "/intro/",
+      "keywords": [
+        "kosovo",
+        "authenticate",
+        "eid",
+        "ebanking",
+        "certificate",
+        "api",
+        "identities",
+        "enrollment",
+        "wallet",
+        "digitally"
       ]
     },
     {
