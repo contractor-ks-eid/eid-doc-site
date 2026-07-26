@@ -38,7 +38,7 @@
         },
         {
             "permalink": "/sign-apps/sign-office-docs/",
-            "summary": "You can sign microsoft office documents using your eid certificate and your digital seals. Signed emails will carry a specific ribbon. Once a new signature is applied, the previous one is automatically removed."
+            "summary": "You can sign microsoft office documents using your eid certificate and your digital seals. The minimum office version allowing digital signatures with certificates is office2007. Any newer version or office365 provides signature features."
         }
     ]
 }

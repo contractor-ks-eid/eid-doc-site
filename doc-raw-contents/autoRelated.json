@@ -77,6 +77,10 @@
       {
         "title": "Signing Apps",
         "permalink": "/sign-apps/intro/"
+      },
+      {
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
       }
     ]
   },
