@@ -22,7 +22,7 @@
         },
         {
             "permalink": "/sign-apps/intro/",
-            "summary": "Desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. Installation and usage, without any limitations, are free of charge."
+            "summary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The purpose of the signing apps is to verify the certificate that you want to use for signing or stamping against the eid database."
         },
         {
             "permalink": "/api/api-docs/",
