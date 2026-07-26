@@ -23,7 +23,9 @@
     },
     {
         "permalink": "/sign-apps/intro/",
-        "similarFiles": []
+        "similarFiles": [
+            "/sign-apps/sign-docs/"
+        ]
     },
     {
         "permalink": "/api/api-docs/",
@@ -34,5 +36,11 @@
     {
         "permalink": "/wallet/use-wallet/",
         "similarFiles": []
+    },
+    {
+        "permalink": "/sign-apps/sign-docs/",
+        "similarFiles": [
+            "/sign-apps/intro/"
+        ]
     }
 ]

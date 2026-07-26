@@ -78,6 +78,30 @@
     "parent": ""
   },
   {
+    "title": "Sign Documents",
+    "permalink": "/sign-apps/sign-docs/",
+    "categories": [
+      "Signature",
+      "Seal"
+    ],
+    "tags": [
+      "seal",
+      "signature",
+      "identity"
+    ],
+    "excerpt": "signatures, documentd, cades, apps, pdf, certificate, adobe, pades, xades, mobile",
+    "lastUpdate": "2026-07-26 17:00:13 +0300",
+    "lastUpdateUTC": 1785074413,
+    "createTime": "2026-07-26 17:00:13 +0300",
+    "createTimeUTC": 1785074413,
+    "relatedPages": [],
+    "autoSummary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
     "title": "Kosovo Wallet",
     "permalink": "/wallet/intro/",
     "categories": [

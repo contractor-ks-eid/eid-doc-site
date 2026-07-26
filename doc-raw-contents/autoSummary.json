@@ -31,6 +31,10 @@
         {
             "permalink": "/wallet/use-wallet/",
             "summary": "Kosovo wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device. You can organise credentials and use the credentials in applications that are in the kosovo eid ecosystem and offers strong authentication."
+        },
+        {
+            "permalink": "/sign-apps/sign-docs/",
+            "summary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature."
         }
     ]
 }
