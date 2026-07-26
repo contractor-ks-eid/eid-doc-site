@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 # Intro
-We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. Signing a document on desktop or laptop involves the usage of the signature features provided by different applications (Adobe or Office or similar). Our desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature. The desktop signing app will always check if the certificate is valid at the moment of signing and will ensure that the person who signs is the owner of the certificate by requiring the input of a One-Time-Password before aplying the signature.
+We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. Signing a document on desktop or laptop involves the usage of the signature features provided by different applications (Adobe or Office or similar). Our desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature. The desktop signing app will always check if the certificate is valid at the moment of signing and will ensure that the person who signs is the owner of the certificate by requiring the input of a One-Time-Password before applying the signature.
 
 Since the mobile apps are, usually, not providing signing features, additional to the certificate verification and One-Time-Password, the mobile signing app provides full signing features. 
 
@@ -17,8 +17,8 @@ Technically, any type of document can be signed since the most frequent signatur
 
 {% include elements/alert.html 
   class="warning" 
-  content="Except for the case when the used app (such as Adobe Acrobat or Microsoft Office) provides features to visualize a signed document and the signature(s) applied to it, the result of the signing process will be an ecrypted file that cannot be open in a classical way (using its specific app). First, a special app must be used to extract the original file from the encrypted signed file and, second, the file can be then open with its specific app."
-  title="Signed documentd"
+  content="Except for the case when the used app (such as Adobe Acrobat or Microsoft Office) provides features to visualize a signed document and the signature(s) applied to it, the result of the signing process will be an encrypted file that cannot be open in a classical way (using its specific app). First, a special app must be used to extract the original file from the encrypted signed file and, second, the file can be then open with its specific app."
+  title="Signed documents"
 %}
 
 {% include elements/alert.html 
@@ -29,7 +29,7 @@ Technically, any type of document can be signed since the most frequent signatur
 
 {% include elements/alert.html 
   class="warning" 
-  content="Only PDF files allows multiple signature since Adobe Acrobat signing feature allows this. Other apps (files) may not allow multiple signature. For example, Microsof Office files cannot be signed multiple times, each new signature will automatically remove the existing signature on the document."
+  content="Only PDF files allows multiple signature since Adobe Acrobat signing feature allows this. Other apps (files) may not allow multiple signature. For example, Microsoft Office files cannot be signed multiple times, each new signature will automatically remove the existing signature on the document."
   title="Multiple signatures"
 %}
 
@@ -66,7 +66,7 @@ To sign:
 1. open the Kosovo eSign app, go to **`Home`** tab (bottom of the screen) and select **`Sign`** from the tool bar
 2. select the file you want to sign
 3. select the signing standard (we recommend PAdES for PDF files and any other one for other files)
-4. check **`Apply Timestamp`** if needed (we recommed to check it)
+4. check **`Apply Timestamp`** if needed (we recommend to check it)
 5. tap **`Next`**
 6. for PDF filed you will be required to place the signature on the document
 7. input the certificate PIN code and **`tap the arrow icon on the right of the PIN input form`**

@@ -14,7 +14,9 @@
     },
     {
         "permalink": "/sign-apps/intro/",
-        "similarFiles": []
+        "similarFiles": [
+            "/sign-apps/sign-docs/"
+        ]
     },
     {
         "permalink": "/wallet/intro/",
@@ -51,6 +53,12 @@
         "permalink": "/wallet/use-wallet/",
         "similarFiles": [
             "/api/api-docs/"
+        ]
+    },
+    {
+        "permalink": "/sign-apps/sign-docs/",
+        "similarFiles": [
+            "/sign-apps/intro/"
         ]
     }
 ]

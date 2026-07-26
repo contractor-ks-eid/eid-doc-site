@@ -322,11 +322,15 @@
         "identity"
       ],
       "excerpt": "signing, macos, certificates, app, stamp, document, download, validity, verify, desktop",
-      "lastUpdate": "2026-02-26 18:21:50 +0200",
+      "lastUpdate": "2026-07-26 17:03:57 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-26 18:21:50 +0200",
-      "createTimeUTC": 1772122910,
+      "createTime": "2026-07-26 17:03:57 +0300",
+      "createTimeUTC": 1785074637,
       "relatedPages": [
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/"
+        },
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/"
@@ -334,15 +338,58 @@
         {
           "title": "eID API",
           "permalink": "/api/intro/"
-        },
-        {
-          "title": "eID API Docs",
-          "permalink": "/api/api-docs/"
         }
       ],
       "autoSummary": "Desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. Installation and usage, without any limitations, are free of charge.",
-      "similarByContent": [],
+      "similarByContent": [
+        {
+          "permalink": "/sign-apps/sign-docs/",
+          "title": "Sign Documents"
+        }
+      ],
       "readingTime": 2,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
+      "title": "Sign Documents",
+      "permalink": "/sign-apps/sign-docs/",
+      "categories": [
+        "Signature",
+        "Seal"
+      ],
+      "tags": [
+        "seal",
+        "signature",
+        "identity"
+      ],
+      "excerpt": "signatures, cades, documents, apps, pdf, pades, certificate, xades, adobe, mobile",
+      "lastUpdate": "2026-07-26 17:04:46 +0300",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-07-26 17:04:46 +0300",
+      "createTimeUTC": 1785074686,
+      "relatedPages": [
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/"
+        },
+        {
+          "title": "Get eID",
+          "permalink": "/get-eid/"
+        },
+        {
+          "title": "Introduction",
+          "permalink": "/intro/"
+        }
+      ],
+      "autoSummary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature.",
+      "similarByContent": [
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Signing Apps"
+        }
+      ],
+      "readingTime": 3,
       "hasDynamicContent": false,
       "parent": ""
     },
@@ -656,7 +703,12 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
         },
         {
           "title": "Get eID",
@@ -674,7 +726,7 @@
           "lastUpdate": "26-Feb-2026"
         }
       ],
-      "numPages": 6
+      "numPages": 7
     },
     "integration": {
       "pages": [
@@ -711,7 +763,12 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
         },
         {
           "title": "Get eID",
@@ -729,7 +786,7 @@
           "lastUpdate": "26-Feb-2026"
         }
       ],
-      "numPages": 6
+      "numPages": 7
     },
     "self-service": {
       "pages": [
@@ -756,7 +813,12 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
         },
         {
           "title": "Introduction",
@@ -764,7 +826,7 @@
           "lastUpdate": "26-Feb-2026"
         }
       ],
-      "numPages": 4
+      "numPages": 5
     },
     "wallet": {
       "pages": [
@@ -888,20 +950,30 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 1
+      "numPages": 2
     },
     "Signature": {
       "pages": [
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 1
+      "numPages": 2
     },
     "Wallet": {
       "pages": [
