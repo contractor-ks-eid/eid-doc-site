@@ -28,6 +28,7 @@ In the context of Kosovo eID, the purpose of the signing apps is to verify the c
 
 # Install
 
+## Desktop
 {% include elements/scroll-spy.html
     source="partials/content/sign-apps/install-tabs" 
     h="200px" 
@@ -38,18 +39,19 @@ In the context of Kosovo eID, the purpose of the signing apps is to verify the c
     spyBorder="true"
 %}
 
-# Use
-Follow the instructions from the next video to understand how to use the signing apps.
-
-{% include elements/youtube.html 
-    id="OTNiEsfceuc" 
-    width="640" 
-    height="360"
-    moments=moments
+## Mobile
+{% include elements/scroll-spy.html
+    source="partials/content/sign-apps/install-tabs-mobile" 
+    h="200px" 
+    btn="false" 
+    btnType="primary" 
+    outline="false" 
+    separators="true" 
+    spyBorder="true"
 %}
 
 # Support
-We offer technical support for both users of signing apps.
+We offer technical support for users of signing apps.
 
 {% include elements/link-btn.html 
     type="primary" 
