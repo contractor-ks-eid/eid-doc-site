@@ -41,12 +41,12 @@
         "permalink": "/sign-apps/sign-docs/"
       },
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
+        "title": "Sign Office Documents",
+        "permalink": "/sign-apps/sign-office-docs/"
       },
       {
-        "title": "eID API",
-        "permalink": "/api/intro/"
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
       }
     ]
   },
@@ -58,12 +58,29 @@
         "permalink": "/sign-apps/intro/"
       },
       {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
+        "title": "Sign Office Documents",
+        "permalink": "/sign-apps/sign-office-docs/"
       },
       {
-        "title": "Introduction",
-        "permalink": "/intro/"
+        "title": "Get eID",
+        "permalink": "/get-eid/"
+      }
+    ]
+  },
+  {
+    "permalink": "/sign-apps/sign-office-docs/",
+    "related": [
+      {
+        "title": "Sign Documents",
+        "permalink": "/sign-apps/sign-docs/"
+      },
+      {
+        "title": "Signing Apps",
+        "permalink": "/sign-apps/intro/"
+      },
+      {
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
       }
     ]
   },

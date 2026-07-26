@@ -318,22 +318,22 @@
         "identity"
       ],
       "excerpt": "signing, macos, certificates, app, stamp, document, download, validity, verify, desktop",
-      "lastUpdate": "2026-02-26 18:14:52 +0200",
+      "lastUpdate": "2026-07-26 17:02:44 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-02-26 18:14:52 +0200",
-      "createTimeUTC": 1772122492,
+      "createTime": "2026-07-26 17:02:44 +0300",
+      "createTimeUTC": 1785074564,
       "relatedPages": [
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/"
         },
         {
-          "title": "Manage eID",
-          "permalink": "/manage-eid/"
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/"
         },
         {
-          "title": "eID API",
-          "permalink": "/api/intro/"
+          "title": "Manage eID",
+          "permalink": "/manage-eid/"
         }
       ],
       "autoSummary": "Desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. Installation and usage, without any limitations, are free of charge.",
@@ -360,22 +360,22 @@
         "identity"
       ],
       "excerpt": "signatures, documentd, cades, apps, pdf, certificate, adobe, pades, xades, mobile",
-      "lastUpdate": "2026-07-26 17:00:13 +0300",
+      "lastUpdate": "2026-07-26 17:02:44 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-07-26 17:00:13 +0300",
-      "createTimeUTC": 1785074413,
+      "createTime": "2026-07-26 17:02:44 +0300",
+      "createTimeUTC": 1785074564,
       "relatedPages": [
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/"
         },
         {
-          "title": "Get eID",
-          "permalink": "/get-eid/"
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/"
         },
         {
-          "title": "Introduction",
-          "permalink": "/intro/"
+          "title": "Get eID",
+          "permalink": "/get-eid/"
         }
       ],
       "autoSummary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature.",
@@ -385,6 +385,49 @@
           "title": "Signing Apps"
         }
       ],
+      "readingTime": 3,
+      "hasDynamicContent": false,
+      "parent": ""
+    },
+    {
+      "title": "Sign Office Documents",
+      "permalink": "/sign-apps/sign-office-docs/",
+      "categories": [
+        "Signature",
+        "Seal"
+      ],
+      "tags": [
+        "seal",
+        "signature",
+        "identity",
+        "microsoft",
+        "office",
+        "word",
+        "excel",
+        "powerpoint",
+        "outlook"
+      ],
+      "excerpt": "signatures, outlook, document, microsoft, office, limitations, password, client, certification, ribbon",
+      "lastUpdate": "2026-07-26 21:31:38 +0300",
+      "lastUpdateUTC": 0,
+      "createTime": "2026-07-26 21:31:38 +0300",
+      "createTimeUTC": 1785090698,
+      "relatedPages": [
+        {
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/"
+        },
+        {
+          "title": "Signing Apps",
+          "permalink": "/sign-apps/intro/"
+        },
+        {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/"
+        }
+      ],
+      "autoSummary": "You can sign microsoft office documents using your eid certificate and your digital seals. The minimum office version allowing digital signatures with certificates is office2007. Any newer version or office365 provides signature features.",
+      "similarByContent": [],
       "readingTime": 3,
       "hasDynamicContent": false,
       "parent": ""
@@ -578,12 +621,18 @@
     "authentication",
     "docs",
     "enrollment",
+    "excel",
     "identity",
     "integration",
+    "microsoft",
+    "office",
+    "outlook",
+    "powerpoint",
     "seal",
     "self-service",
     "signature",
-    "wallet"
+    "wallet",
+    "word"
   ],
   "tagDetails": {
     "authentication": {
@@ -631,6 +680,16 @@
       ],
       "numPages": 2
     },
+    "excel": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
     "identity": {
       "pages": [
         {
@@ -646,11 +705,16 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
         },
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
           "lastUpdate": "26-Jul-2026"
         },
         {
@@ -669,7 +733,7 @@
           "lastUpdate": "26-Feb-2026"
         }
       ],
-      "numPages": 7
+      "numPages": 8
     },
     "integration": {
       "pages": [
@@ -691,6 +755,46 @@
       ],
       "numPages": 3
     },
+    "microsoft": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "office": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "outlook": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "powerpoint": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
     "seal": {
       "pages": [
         {
@@ -706,11 +810,16 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
         },
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
           "lastUpdate": "26-Jul-2026"
         },
         {
@@ -729,7 +838,7 @@
           "lastUpdate": "26-Feb-2026"
         }
       ],
-      "numPages": 7
+      "numPages": 8
     },
     "self-service": {
       "pages": [
@@ -756,11 +865,16 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
         },
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
           "lastUpdate": "26-Jul-2026"
         },
         {
@@ -769,7 +883,7 @@
           "lastUpdate": "26-Feb-2026"
         }
       ],
-      "numPages": 5
+      "numPages": 6
     },
     "wallet": {
       "pages": [
@@ -810,6 +924,16 @@
         }
       ],
       "numPages": 7
+    },
+    "word": {
+      "pages": [
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
     }
   },
   "catList": [
@@ -893,30 +1017,40 @@
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
         },
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
           "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 2
+      "numPages": 3
     },
     "Signature": {
       "pages": [
         {
           "title": "Signing Apps",
           "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Feb-2026"
+          "lastUpdate": "26-Jul-2026"
         },
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
           "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 2
+      "numPages": 3
     },
     "Wallet": {
       "pages": [

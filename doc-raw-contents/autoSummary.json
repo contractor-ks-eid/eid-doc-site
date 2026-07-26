@@ -35,6 +35,10 @@
         {
             "permalink": "/sign-apps/sign-docs/",
             "summary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature."
+        },
+        {
+            "permalink": "/sign-apps/sign-office-docs/",
+            "summary": "You can sign microsoft office documents using your eid certificate and your digital seals. The minimum office version allowing digital signatures with certificates is office2007. Any newer version or office365 provides signature features."
         }
     ]
 }
