@@ -1,50 +1,50 @@
 Permalink: /api/api-docs/
 File: _api/api-docs.md
 Language detected: en
-Misspelled words: eid, nodejs
+No misspellings detected.
 
 Permalink: /api/intro/
 File: _api/intro.md
 Language detected: en
-Misspelled words: eid, uri
+No misspellings detected.
 
 Permalink: /get-eid/
 File: get-eid.md
 Language detected: en
-Misspelled words: arbk, eid, enrollment, erc, os, otp, puk, sms
+No misspellings detected.
 
 Permalink: /intro/
 File: intro.md
 Language detected: en
-Misspelled words: ebanking, eid, ekosova, enrollment, eservice, eservices
+No misspellings detected.
 
 Permalink: /manage-eid/
 File: manage-eid.md
 Language detected: en
-Misspelled words: arbk, enrollment, erc, puk
+No misspellings detected.
 
 Permalink: /sign-apps/intro/
 File: _sign-apps/intro.md
 Language detected: en
-Misspelled words: distro, eid
+No misspellings detected.
 
 Permalink: /sign-apps/sign-docs/
 File: _sign-apps/sign-docs.md
 Language detected: en
-Misspelled words: cades, eid, enrollment, esign, pades, sms, xades
+No misspellings detected.
 
 Permalink: /sign-apps/sign-office-docs/
 File: _sign-apps/sign-msoffice.md
 Language detected: en
-Misspelled words: eid
+No misspellings detected.
 
 Permalink: /wallet/intro/
 File: _wallet/intro.md
 Language detected: en
-Misspelled words: eid
+No misspellings detected.
 
 Permalink: /wallet/use-wallet/
 File: _wallet/use-wallet.md
 Language detected: en
-Misspelled words: eid, enrollment, qr
+No misspellings detected.
 
