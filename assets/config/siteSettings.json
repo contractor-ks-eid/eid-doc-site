@@ -212,7 +212,7 @@
       "rowsPerPage": 5,
       "maxRowHeight": 75
     },
-    "siteTitle": "eID Dok"
+    "siteTitle": "eID Docs"
   },
   "pageList": [
     {
@@ -241,7 +241,7 @@
           "permalink": "/api/intro/"
         },
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/"
         },
         {
@@ -286,7 +286,7 @@
           "permalink": "/api/api-docs/"
         },
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/"
         },
         {
@@ -426,7 +426,7 @@
         },
         {
           "permalink": "/intro/",
-          "title": "Introduction"
+          "title": "Hyrje"
         },
         {
           "permalink": "/wallet/use-wallet/",
@@ -462,7 +462,7 @@
           "permalink": "/wallet/use-wallet/"
         },
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/"
         },
         {
@@ -474,7 +474,7 @@
       "similarByContent": [
         {
           "permalink": "/intro/",
-          "title": "Introduction"
+          "title": "Hyrje"
         },
         {
           "permalink": "/manage-eid/",
@@ -521,7 +521,7 @@
       "similarByContent": [
         {
           "permalink": "/intro/",
-          "title": "Introduction"
+          "title": "Hyrje"
         },
         {
           "permalink": "/get-eid/",
@@ -564,7 +564,7 @@
       "createTimeUTC": 1785943308,
       "relatedPages": [
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/"
         },
         {
@@ -592,7 +592,7 @@
         },
         {
           "permalink": "/intro/",
-          "title": "Introduction"
+          "title": "Hyrje"
         },
         {
           "permalink": "/wallet/intro/",
@@ -604,7 +604,7 @@
       "parent": ""
     },
     {
-      "title": "Introduction",
+      "title": "Hyrje",
       "permalink": "/intro/",
       "categories": [
         "Të përgjithshme"
@@ -619,10 +619,10 @@
         "Identiteti"
       ],
       "excerpt": "kosoves, certifikate, sistemi, eid, dokumente, eshte, kombetar, nenshkrimi, elektronike, dhe",
-      "lastUpdate": "2026-08-05 18:21:48 +0300",
+      "lastUpdate": "2026-08-05 23:45:11 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-08-05 18:21:48 +0300",
-      "createTimeUTC": 1785943308,
+      "createTime": "2026-08-05 23:45:11 +0300",
+      "createTimeUTC": 1785962711,
       "relatedPages": [
         {
           "title": "Pajisuni me eID",
@@ -687,7 +687,7 @@
           "permalink": "/get-eid/"
         },
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/"
         },
         {
@@ -711,7 +711,7 @@
         },
         {
           "permalink": "/intro/",
-          "title": "Introduction"
+          "title": "Hyrje"
         },
         {
           "permalink": "/wallet/intro/",
@@ -731,26 +731,17 @@
     "Nënshkrimi",
     "Regjistrimi",
     "Vula",
-    "autentifikacija",
     "autentifikimi",
     "dok",
     "excel",
-    "identitet",
     "identiteti",
-    "integracija",
     "integrimi",
     "kuleta",
     "microsoft",
-    "novčanik",
     "nënshkrimi",
     "office",
     "outlook",
-    "pečat",
-    "potpis",
     "powerpoint",
-    "registracija",
-    "samoposluživanje",
-    "signature",
     "vetë-shërbim",
     "vula",
     "word"
@@ -789,7 +780,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/",
           "lastUpdate": "05-Aug-2026"
         },
@@ -809,7 +800,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/",
           "lastUpdate": "05-Aug-2026"
         }
@@ -839,7 +830,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/",
           "lastUpdate": "05-Aug-2026"
         },
@@ -869,7 +860,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/",
           "lastUpdate": "05-Aug-2026"
         }
@@ -884,7 +875,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/",
           "lastUpdate": "05-Aug-2026"
         }
@@ -914,7 +905,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/",
           "lastUpdate": "05-Aug-2026"
         },
@@ -925,9 +916,6 @@
         }
       ],
       "numPages": 6
-    },
-    "autentifikacija": {
-      "pages": []
     },
     "autentifikimi": {
       "pages": [
@@ -942,7 +930,7 @@
     "dok": {
       "pages": [
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/",
           "lastUpdate": "05-Aug-2026"
         }
@@ -958,9 +946,6 @@
         }
       ],
       "numPages": 1
-    },
-    "identitet": {
-      "pages": []
     },
     "identiteti": {
       "pages": [
@@ -981,9 +966,6 @@
         }
       ],
       "numPages": 3
-    },
-    "integracija": {
-      "pages": []
     },
     "integrimi": {
       "pages": [
@@ -1014,9 +996,6 @@
         }
       ],
       "numPages": 1
-    },
-    "novčanik": {
-      "pages": []
     },
     "nënshkrimi": {
       "pages": [
@@ -1053,12 +1032,6 @@
       ],
       "numPages": 1
     },
-    "pečat": {
-      "pages": []
-    },
-    "potpis": {
-      "pages": []
-    },
     "powerpoint": {
       "pages": [
         {
@@ -1068,15 +1041,6 @@
         }
       ],
       "numPages": 1
-    },
-    "registracija": {
-      "pages": []
-    },
-    "samoposluživanje": {
-      "pages": []
-    },
-    "signature": {
-      "pages": []
     },
     "vetë-shërbim": {
       "pages": [
@@ -1117,17 +1081,10 @@
   "catList": [
     "API",
     "Certifikatat",
-    "General",
-    "Integracija",
     "Integrimi",
     "Kuleta",
-    "Novčanik",
     "Nënshkrimi",
-    "Pečat",
-    "Potpis",
-    "Registracija",
     "Regjistrimi",
-    "Sertifikati",
     "Të përgjithshme",
     "Vula"
   ],
@@ -1162,12 +1119,6 @@
       ],
       "numPages": 2
     },
-    "General": {
-      "pages": []
-    },
-    "Integracija": {
-      "pages": []
-    },
     "Integrimi": {
       "pages": [
         {
@@ -1198,9 +1149,6 @@
       ],
       "numPages": 2
     },
-    "Novčanik": {
-      "pages": []
-    },
     "Nënshkrimi": {
       "pages": [
         {
@@ -1221,15 +1169,6 @@
       ],
       "numPages": 3
     },
-    "Pečat": {
-      "pages": []
-    },
-    "Potpis": {
-      "pages": []
-    },
-    "Registracija": {
-      "pages": []
-    },
     "Regjistrimi": {
       "pages": [
         {
@@ -1240,13 +1179,10 @@
       ],
       "numPages": 1
     },
-    "Sertifikati": {
-      "pages": []
-    },
     "Të përgjithshme": {
       "pages": [
         {
-          "title": "Introduction",
+          "title": "Hyrje",
           "permalink": "/intro/",
           "lastUpdate": "05-Aug-2026"
         }

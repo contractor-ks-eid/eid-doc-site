@@ -200,7 +200,7 @@
     "parent": ""
   },
   {
-    "title": "Introduction",
+    "title": "Hyrje",
     "permalink": "/intro/",
     "categories": [
       "Të përgjithshme"
@@ -215,10 +215,10 @@
       "Identiteti"
     ],
     "excerpt": "kosoves, certifikate, sistemi, eid, dokumente, eshte, kombetar, nenshkrimi, elektronike, dhe",
-    "lastUpdate": "2026-08-05 18:21:48 +0300",
-    "lastUpdateUTC": 1785943308,
-    "createTime": "2026-08-05 18:21:48 +0300",
-    "createTimeUTC": 1785943308,
+    "lastUpdate": "2026-08-05 23:45:11 +0300",
+    "lastUpdateUTC": 1785962711,
+    "createTime": "2026-08-05 23:45:11 +0300",
+    "createTimeUTC": 1785962711,
     "relatedPages": [],
     "autoSummary": "Eid e kosovës ishte sistemi kombëtar për menaxhimin e identiteteve elektronike të qytetarëve. Identiteti elektrik është një certifikatë digjitale falas, e lëshuar nga qeveria e republikës së kosova.",
     "similarByContent": [],
