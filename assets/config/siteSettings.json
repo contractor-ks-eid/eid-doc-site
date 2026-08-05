@@ -292,10 +292,10 @@
         "autentifikacija"
       ],
       "excerpt": "integracija, api, eid, kosovo, postovati, trecih, ili, softver, poseduje, uslovima",
-      "lastUpdate": "2026-08-05 18:15:50 +0300",
+      "lastUpdate": "2026-08-05 19:48:10 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-08-05 18:15:50 +0300",
-      "createTimeUTC": 1785942950,
+      "createTime": "2026-08-05 19:48:10 +0300",
+      "createTimeUTC": 1785948490,
       "relatedPages": [
         {
           "title": "eID API Dok",
@@ -350,10 +350,10 @@
         "identitet"
       ],
       "excerpt": "aplikacije, ios, mobilne, desktop, dokumenta, elektronskim, koristite, koriscenjem, sertifikata, ubuntu",
-      "lastUpdate": "2026-08-05 18:15:50 +0300",
+      "lastUpdate": "2026-08-05 19:48:10 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-08-05 18:15:50 +0300",
-      "createTimeUTC": 1785942950,
+      "createTime": "2026-08-05 19:48:10 +0300",
+      "createTimeUTC": 1785948490,
       "relatedPages": [
         {
           "title": "Sign Documents",
@@ -408,10 +408,10 @@
         "identitet"
       ],
       "excerpt": "signatures, cades, documents, apps, pdf, pades, certificate, xades, adobe, mobile",
-      "lastUpdate": "2026-07-26 21:48:30 +0300",
+      "lastUpdate": "2026-08-05 19:48:10 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-07-26 21:48:30 +0300",
-      "createTimeUTC": 1785091710,
+      "createTime": "2026-08-05 19:48:10 +0300",
+      "createTimeUTC": 1785948490,
       "relatedPages": [
         {
           "title": "Aplikacije za potpisivanje",
@@ -451,10 +451,10 @@
         "outlook"
       ],
       "excerpt": "dokumentaciji, pdf, microsoft, office, sertifikat, mail, funkcionalnosti, digitalnog, odmah, graficki",
-      "lastUpdate": "2026-08-05 18:15:50 +0300",
+      "lastUpdate": "2026-08-05 19:48:10 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-08-05 18:15:50 +0300",
-      "createTimeUTC": 1785942950,
+      "createTime": "2026-08-05 19:48:10 +0300",
+      "createTimeUTC": 1785948490,
       "relatedPages": [
         {
           "title": "Sign Documents",
@@ -562,10 +562,10 @@
         "novčanik"
       ],
       "excerpt": "kredencijal, novcanik, kosovo, aplikacijama, prikazani, organizovanje, primenljivo, funkcionalnost, sertifikata, ekosistema",
-      "lastUpdate": "2026-08-05 18:15:50 +0300",
+      "lastUpdate": "2026-08-05 19:48:10 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-08-05 18:15:50 +0300",
-      "createTimeUTC": 1785942950,
+      "createTime": "2026-08-05 19:48:10 +0300",
+      "createTimeUTC": 1785948490,
       "relatedPages": [
         {
           "title": "Kosovo novčanik",
@@ -617,10 +617,10 @@
         "pečat"
       ],
       "excerpt": "registracije, eid, enrollment, kosovo, digitalnog, kredencijale, email, wallet, arc, stamping",
-      "lastUpdate": "2026-07-26 21:48:30 +0300",
+      "lastUpdate": "2026-08-05 19:48:10 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-07-26 21:48:30 +0300",
-      "createTimeUTC": 1785091710,
+      "createTime": "2026-08-05 19:48:10 +0300",
+      "createTimeUTC": 1785948490,
       "relatedPages": [
         {
           "title": "Manage eID",
@@ -662,10 +662,10 @@
         "identitet"
       ],
       "excerpt": "kosovo, eid, registracije, instalirajte, certificate, partnerskim, njima, digitally, novcanik, pecat",
-      "lastUpdate": "2026-07-26 21:48:30 +0300",
+      "lastUpdate": "2026-08-05 19:48:10 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-07-26 21:48:30 +0300",
-      "createTimeUTC": 1785091710,
+      "createTime": "2026-08-05 19:48:10 +0300",
+      "createTimeUTC": 1785948490,
       "relatedPages": [
         {
           "title": "Get eID",
@@ -699,10 +699,10 @@
         "pečat"
       ],
       "excerpt": "certificates, password, portal, access, self, service, enrollment, profile, unlock, user",
-      "lastUpdate": "2026-07-26 21:48:30 +0300",
+      "lastUpdate": "2026-08-05 19:48:10 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-07-26 21:48:30 +0300",
-      "createTimeUTC": 1785091710,
+      "createTime": "2026-08-05 19:48:10 +0300",
+      "createTimeUTC": 1785948490,
       "relatedPages": [
         {
           "title": "Get eID",
@@ -773,7 +773,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 1
@@ -808,7 +808,7 @@
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Potpis Office dokumenata",
@@ -818,17 +818,17 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 8
@@ -848,7 +848,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 3
@@ -888,17 +888,17 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 7
@@ -943,7 +943,7 @@
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Potpis Office dokumenata",
@@ -953,17 +953,17 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 8
@@ -988,7 +988,7 @@
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Potpis Office dokumenata",
@@ -1013,12 +1013,12 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 2
@@ -1028,7 +1028,7 @@
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 1
@@ -1038,7 +1038,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 1
@@ -1085,7 +1085,7 @@
         {
           "title": "Introduction",
           "permalink": "/intro/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 1
@@ -1130,7 +1130,7 @@
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Potpis Office dokumenata",
@@ -1150,7 +1150,7 @@
         {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Potpis Office dokumenata",
@@ -1165,7 +1165,7 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 1
@@ -1175,12 +1175,12 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         },
         {
           "title": "Manage eID",
           "permalink": "/manage-eid/",
-          "lastUpdate": "26-Jul-2026"
+          "lastUpdate": "05-Aug-2026"
         }
       ],
       "numPages": 2
