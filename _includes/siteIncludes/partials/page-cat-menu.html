@@ -23,7 +23,7 @@
         <li class="nav-item">
             {% assign rawCatUrl = "/cat-info?cat=" | append: cat %}
             {% assign fullRawCatUrl = lang_prefix | append: rawCatUrl %}
-            {% assign sanitizedCatUrl = fullRawCatUrl | sanitize_url %}
+            {% assign sanitizedCatUrl = fullRawCatUrl | encode_sanitize_url %}
             <a 
                 siteFunction="menuItemLevel1" 
                 class="fs-6 nav-link" 
@@ -52,7 +52,7 @@
                         {% for cat in catMenu.secondLevelMenuItems %}
                             {% assign rawCatUrl = "/cat-info?cat=" | append: cat %}
                             {% assign fullRawCatUrl = lang_prefix | append: rawCatUrl %}
-                            {% assign sanitizedCatUrl = fullRawCatUrl | sanitize_url %}
+                            {% assign sanitizedCatUrl = fullRawCatUrl | encode_sanitize_url %}
                             <li class="px-4">
                                 <a 
                                     siteFunction="menuItemLevel2" 
