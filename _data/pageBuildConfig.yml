@@ -5,7 +5,7 @@
     header_section:
       title: "Welcome to Kosovo eID Documentation"
       text: > 
-        Here you’ll find everything you need to understand, integrate, and use the Kosovo eID system — from technical specifications and APIs to user manuals, security guidelines, and best practices. Whether you're building a new service, integrating digital signing, or just using eID, this is your starting point.
+        Këtu do të gjeni gjithçka që ju nevojitet për të kuptuar, integruar dhe përdorur sistemin e eID-së në Kosovë — nga specifikimet teknike dhe API-të deri te manualet e përdoruesit, udhëzimet e sigurisë dhe praktikat më të mira. Pavarësisht nëse po ndërtoni një shërbim të ri, po integroni nënshkrimin dixhital apo thjesht po përdorni eID, kjo është pika juaj e fillimit.
       startBtnText: "Let's start"
       featuredMedia: >
         <img fetchpriority="high" width="600" height="400" src="assets/img/home.webp" alt="Kosovo eID Docs" decoding="async" loading="eager" style="display:block;" loading="lazy">
