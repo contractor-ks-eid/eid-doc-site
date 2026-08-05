@@ -965,7 +965,8 @@ algolia = {
                     tagItemColorClass = 'btn-success';
                     numPages = getTagPages(tag);
                 } else {
-                    numPages = tagDetails[tag].numPages;
+                    //numPages = tagDetails[tag].numPages; // raise error toast_algolia_integrate_js_retrieve_pagination_error (see in locales en.json)
+                    numPages = 1;
                 }
                 const fullUrl = `${algolia.getPageFullUrl(null)}/tag-info?tag=${tag}`;
                 return (
@@ -1022,7 +1023,8 @@ algolia = {
                     catItemColorClass = 'text-success';
                     numPages = getCatPages(cat);
                 } else {
-                    numPages = catDetails[cat].numPages;
+                    //numPages = catDetails[cat].numPages; // raise error toast_algolia_integrate_js_retrieve_pagination_error  (see in locales en.json)
+                    numPages = 1;
                 }
                 
                 const fullUrl = `${algolia.getPageFullUrl(null)}/cat-info?cat=${cat}`;
