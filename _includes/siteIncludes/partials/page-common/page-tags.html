@@ -35,7 +35,7 @@
       <div sitefunction="pageSiteTagButton" class="d-inline-flex align-items-center">
         {% assign rawPageTagUrl = "/tag-info?tag=" | append: pageTag %}
         {% assign fullRawPageTagUrl = lang_prefix | append: rawPageTagUrl %}
-        {% assign sanitizedPageTagUrl = fullRawPageTagUrl | sanitize_url %}
+        {% assign sanitizedPageTagUrl = fullRawPageTagUrl | encode_sanitize_url %}
         <a 
           href="{{sanitizedPageTagUrl}}" 
           siteFunction="pageTagButton" 
