@@ -43,6 +43,7 @@
     {% ImgFullPath {{source}} %}
  {% endcapture %}
 
+ {% assign full_path = full_path | strip %}
  {% assign full_path = lang_prefix | append: fullPath %}
 
  {% assign alt = "" %}
