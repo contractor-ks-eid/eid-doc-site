@@ -1,5 +1,5 @@
 
-You must have at least Android 5.0 for installing the mobile signing app.
+Morate imati najmanje Android 5.0 za instaliranje mobilne aplikacije za potpisivanje.
 
 {% include elements/image.html 
   source="partials/media/wallet/google-play.svg"

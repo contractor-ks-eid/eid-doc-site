@@ -1,1 +1,1 @@
-Install the desktop and/or mobile signing app and start signing and stamping documents.
+Instalirajte desktop i/ili mobilnu aplikaciju za potpisivanje i počnite da potpisujete i pečatite dokumente.

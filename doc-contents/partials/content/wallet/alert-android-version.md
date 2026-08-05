@@ -1,5 +1,5 @@
 
-You must have at least Android 5.0 for installing Kosovo Wallet.
+Morate imati najmanje Android 5.0 za instaliranje Kosovo novčanika.
 
 {% include elements/image.html 
   source="partials/media/wallet/google-play.svg"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Use Kosovo Wallet
+title: Koristite Kosovo novčanik
 permalink: /wallet/use-wallet/
 categories: [Wallet]
 tags: [wallet]
@@ -8,29 +8,29 @@ nav_order: 2
 start: false
 ---
 
-# Intro
-Kosovo Wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device, organise credentials and use the credentials in applications that are in the Kosovo eID ecosystem and offers strong authentication with Kosovo Wallet.
+# Uvod
+Kosovo novčanik vam pruža niz funkcionalnosti koje omogućavaju bezbedno čuvanje i zaštitu kredencijala vašeg sertifikata na uređaju, organizovanje kredencijala i njihovo korišćenje u aplikacijama koje su deo Kosovo eID ekosistema, kao i snažnu autentifikaciju putem Kosovo novčanika.
 
-# Features
-After the wallet installation is complete, you will get access to the wallet features which are:
-- **`Show credentials`**: displays the list of the credentials that you have in your wallet. In the context of eID, you shall have **`one digital ID credential`** (illustrated as a **`blue card with blue header`**) and (if applicable for you) **`one or many digital seals credentials`** (illustrated as a **`blue card with golden header`**)
-- **`Show credential`**: displays a selected credential from the list of credentials
-- **`Scan QR`**: allows scanning the QR code generated for the strong authentication with the wallet
-- **`Notifications`**: displays the notifications received by your Kosovo wallet
-- **`Settings`**: allows you to see or set some parameters for your Kosovo Wallet
+# Funkcionalnosti
+Nakon završetka instalacije novčanika, imaćete pristup sledećim funkcionalnostima:
+- **`Prikaži kredencijale`**: prikazuje listu kredencijala koje imate u svom novčaniku. U okviru eID sistema, trebalo bi da imate **`jedan digitalni ID kredencijal`** (prikazan kao **`plava kartica sa plavim zaglavljem`**) i, ukoliko je to primenljivo za vas **`jedan ili više kredencijala digitalnih pečata`** (prikazani kao **`plava kartica sa zlatnim zaglavljem`**)
+- **`Prikaži kredencijal`**: prikazuje izabrani kredencijal sa liste kredencijala
+- **`Skeniraj QR`**: omogućava skeniranje QR koda generisanog za snažnu autentifikaciju putem novčanika
+- **`Obaveštenja`**: prikazuje obaveštenja primljena u vašem Kosovo novčaniku.
+- **`Podešavanja`**: omogućava pregled ili podešavanje određenih parametara vašeg Kosovo novčanika.
 
 {% include elements/alert.html 
   class="primary" 
-  content="Except for **`Show credential`** feature, all wallet features can be used by tapping on the related icon on the **`bottom menu bar`**.  **`Show credential`** feature can be used by tapping on a specific credential from the credentials list."
-  title="Features"
+  content="Osim funkcionalnosti **`Prikaži kredencijal`** sve funkcionalnosti novčanika mogu se koristiti dodirom na odgovarajuću ikonu u **`donjoj traci menija`**. Funkcionalnosti **`Prikaži kredencijal`** može se pristupiti dodirom na određeni kredencijal sa liste kredencijala."
+  title="Funkcionalnosti"
 %}
 
 {% capture img %}
-    source="partials/media/wallet/wallet-screen-credentials.png"|caption="Credentials"|captionBorder="true",
-    source="partials/media/wallet/wallet-screen-credential.png"|caption="Credential"|captionBorder="true",
-    source="partials/media/wallet/wallet-screen-scan-qr.png"|caption="Scan QR"|captionBorder="true",
-    source="partials/media/wallet/wallet-screen-notifications.png"|caption="Notifications"|captionBorder="true",
-    source="partials/media/wallet/wallet-screen-settings.png"|caption="Settings"|captionBorder="true"
+    source="partials/media/wallet/wallet-screen-credentials.png"|caption="Kredencijali"|captionBorder="true",
+    source="partials/media/wallet/wallet-screen-credential.png"|caption="Kredencijal"|captionBorder="true",
+    source="partials/media/wallet/wallet-screen-scan-qr.png"|caption="Skeniraj QR"|captionBorder="true",
+    source="partials/media/wallet/wallet-screen-notifications.png"|caption="Obaveštenja"|captionBorder="true",
+    source="partials/media/wallet/wallet-screen-settings.png"|caption="Podešavanja"|captionBorder="true"
 {% endcapture %}
 
 {% include elements/image-gallery.html 
@@ -40,18 +40,18 @@ After the wallet installation is complete, you will get access to the wallet fea
   oneRow="all" 
 %}
 
-## Show credentials
-This feature displays the list of the credentials that you have in your wallet. In the context of eID, you shall have **`one digital ID credential`** (illustrated as a **`blue card with blue header`**) and (if applicable for you) **`one or many digital seals credentials`** (illustrated as a **`blue card with golden header`**). The list of credentials is the starting point from which you can further select and manage a certain credential.
+## Prikaži kredencijale
+Ova funkcionalnost prikazuje listu kredencijala koje imate u svom novčaniku. U okviru eID sistema, trebalo bi da imate **`jedan digitalni ID kredencijal`** (prikazan kao **`plava kartica sa plavim zaglavljem`**) i, ukoliko je to primenljivo za vas, **`jedan ili više kredencijala digitalnih pečata`** (prikazani kao **`plava kartica sa zlatnim zaglavljem`**). Lista kredencijala predstavlja početnu tačku od koje možete dalje izabrati i upravljati određenim kredencijalom.
 
-## Show credential
-This feature displays a selected credential from the list of credentials. Here you can visualise all data related to the selected credentials and its linked digital certificate. Visualisation of the data can be made by expanding the categories shown under the credential card.
+## Prikaži kredencijal
+Ova funkcionalnost prikazuje izabrani kredencijal sa liste kredencijala. Ovde možete pregledati sve podatke povezane sa izabranim kredencijalom i njegovim povezanim digitalnim sertifikatom. Prikaz podataka se može proširiti otvaranjem kategorija prikazanih ispod kartice kredencijala.
 
-Here you can also remove a credential from the wallet. You will notice a **`Delete`** icon shown on the credential card. Tapping on the icon and confirming the removal will have as result the removal of the credential from your wallet. You will not see the credential anymore in the list of credentials.
+Ovde takođe možete ukloniti kredencijal iz novčanika. Na kartici kredencijala videćete ikonu **`Obriši`** Dodirom na ikonu i potvrdom uklanjanja, kredencijal će biti uklonjen iz vašeg novčanika. Nakon toga više nećete videti taj kredencijal na listi kredencijala.
 
 {% include elements/alert.html 
   class="warning" 
-  content="There is no way to use the wallet to undo a credential removal,"
-  title="Undo removal"
+  content="Ne postoji mogućnost da putem novčanika poništite uklanjanje kredencijala,"
+  title="Poništavanje uklanjanja"
 %}
 
 {% capture c %}
@@ -74,8 +74,8 @@ Here you can also remove a credential from the wallet. You will notice a **`Dele
   title="Restore credential"
 %}
 
-## Scan QR
-This feature allows you to scan the QR code generated for the strong authentication with the wallet and to complete the strong authentication flow.
+## Skeniraj QR
+Ova funkcionalnost omogućava skeniranje QR koda generisanog za snažnu autentifikaciju putem novčanika i završetak procesa snažne autentifikacije.
 
 {% include elements/link-btn.html 
     type="primary" 
@@ -85,27 +85,27 @@ This feature allows you to scan the QR code generated for the strong authenticat
     newTab="true" 
 %}
 
-## Notifications
-This is the place where wallet notifications are shown. Notifications can be sent by various applications that are integrated with Kosovo wallet. The most relevant example of wallet notification is the one received at the end of the enrollment process or when you connect the wallet with a certain certificate using the self service portal. In the mentioned cases, you will receive a notification that a new credential was issued for your certificate and it is time to store it in the wallet. Tapping on the notification will save the credential in your wallet and you will be able to see it in the credentials list.
+## Obaveštenja
+Ovo je mesto gde se prikazuju obaveštenja novčanika. Obaveštenja mogu slati različite aplikacije koje su integrisane sa Kosovo novčanikom. Najznačajniji primer obaveštenja novčanika je ono koje se prima nakon završetka procesa registracije ili kada povežete novčanik sa određenim sertifikatom putem portala za samousluživanje. U navedenim slučajevima, primićete obaveštenje da je izdat novi kredencijal za vaš sertifikat i da je potrebno da ga sačuvate u novčaniku. Dodirom na obaveštenje, kredencijal će biti sačuvan u vašem novčaniku i moći ćete da ga vidite na listi kredencijala.
 
-## Settings
-This feature allows you to see or set some parameters for your Kosovo Wallet.
+## Podešavanja
+Ova funkcionalnost omogućava pregled ili podešavanje određenih parametara vašeg Kosovo novčanika.
 
-The parameters are:
-- **`Wallet version`**: shows the version of the Kosovo wallet installed on your mobile phone
-- **`Biometric authentication`**: enable/disable biometric authentication to your wallet (finger print or face recognition)
-- **`Change access PIN`**: allows you to change the PIN used to authenticate to your wallet
-- **`Terms and conditions`**: shows the terms and conditions for using Kosovo wallet
-- **`Advanced settings`**: a group of additional settings detailed below
-- **`Language`**: set the wallet language (Albanian, Serbian or English)
+Parametri su:
+- **`Verzija novčanika`**: prikazuje verziju Kosovo novčanika instaliranu na vašem mobilnom telefonu.
+- **`Biometrijska autentifikacija`**: omogućava/isključuje biometrijsku autentifikaciju za pristup vašem novčaniku (otisak prsta ili prepoznavanje lica).
+- **`Promena pristupnog PIN-a`**: omogućava promenu PIN-a koji se koristi za autentifikaciju pristupa vašem novčaniku.
+- **`Uslovi korišćenja`**: prikazuje uslove korišćenja Kosovo novčanika.
+- **`Napredna podešavanja`**: grupa dodatnih podešavanja detaljno opisanih u nastavku.
+- **`Jezik`**: omogućava podešavanje jezika novčanika (albanski, srpski ili engleski).
 
 {% include elements/alert.html 
   class="warning" 
-  content="We highly recommend to protect your credentials with your biometrics and to keep **`Biometric authentication`** enabled at least for finger print. This will make your wallet even more secure." 
-  title="Wallet authentication"
+  content="Preporučujemo da zaštitite svoje kredencijale biometrijskom autentifikacijom i da opcija **`Biometrijska autentifikacija`** bude omogućena najmanje za otisak prsta. Na ovaj način vaš novčanik će biti još bezbedniji." 
+  title="Autentifikacija novčanika"
 %}
 
-The **`Advanced settings`** are:
-- **`My ID`**: displays a series of public information about your wallet.
-- **`Update credential status`**: updates the status of all credentials stored in your wallet. For example, if you revoke your certificate using the self service portal, the status of the related credential will not be automatically updated. You will not be able to use it anymore for signing or for strong authentication, but in the wallet the relate credential may still be shown as active. Using this feature you can update the credential status at any time.
-- **`Delete user`**: This will clear the whole content of your wallet. Please use this feature with care. Restoring the list of credentials after using this feature means to use the self service portal for each certificate and re-connect the wallet with each certificate 
+**`Napredna podešavanja`** are:
+- **`Moj ID`**: prikazuje niz javno dostupnih informacija o vašem novčaniku.
+- **`Ažuriraj status kredencijala`**: ažurira status svih kredencijala sačuvanih u vašem novčaniku. Na primer, ako opozovete svoj sertifikat putem portala za samousluživanje, status povezanog kredencijala neće se automatski ažurirati. Više nećete moći da ga koristite za potpisivanje ili snažnu autentifikaciju, ali u novčaniku povezani kredencijal i dalje može biti prikazan kao aktivan. Korišćenjem ove funkcionalnosti možete u bilo kom trenutku ažurirati status kredencijala.
+- **`Obriši korisnika`**: briše celokupan sadržaj vašeg novčanika. Molimo vas da ovu funkcionalnost koristite pažljivo. Vraćanje liste kredencijala nakon korišćenja ove funkcionalnosti zahteva korišćenje portala za samousluživanje za svaki sertifikat i ponovno povezivanje novčanika sa svakim sertifikatom.

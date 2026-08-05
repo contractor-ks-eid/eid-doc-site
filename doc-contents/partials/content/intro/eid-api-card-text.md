@@ -1,1 +1,1 @@
-Apply for eID API integration and get onboard. Let your users to login with the wallet and sign documents directly from your app.
+Podnesite zahtev za eID API integraciju i započnite proces uključivanja. Omogućite svojim korisnicima da se prijave putem novčanika i potpisuju dokumente direktno iz vaše aplikacije.

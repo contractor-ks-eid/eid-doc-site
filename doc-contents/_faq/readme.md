@@ -1,1 +1,1 @@
-This folder can be used to store Q&A files in their specific format.
+Ova fascikla može se koristiti za čuvanje datoteka sa pitanjima i odgovorima (Q&A) u njihovom odgovarajućem formatu.

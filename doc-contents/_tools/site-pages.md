@@ -1,7 +1,7 @@
 ---
 layout: site-pages
 permalink: /site-pages
-title: Documents
+title: Dokumenti
 nav_order: 1
-excerpt: "Advanced doc search. Manage your own organisation. Share with teammates."
+excerpt: "Napredna pretraga dokumenata. Upravljajte svojom organizacijom. Delite sa članovima tima."
 ---

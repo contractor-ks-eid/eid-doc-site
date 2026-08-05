@@ -1,1 +1,1 @@
-Get your digital ID and/or seal(s) through the enrollment process and manage them with the self-service portal.
+Dobijte svoj digitalni ID i/ili pečat(e) putem procesa registracije i upravljajte njima koristeći portal za samousluživanje.

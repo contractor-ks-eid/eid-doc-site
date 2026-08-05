@@ -1,5 +1,5 @@
 
-We highly recommend to store the credentials of your eID and/or digital seal(s) in the wallet in order to get access to available authentication services or to other services that may become available in the future. However, the wallet is not necessary if you intend to use your eID only to digitally sign documents. In any case, even if you do not connect your wallet during enrollment, you can use later the self-service portal to connect your wallet to your eID or seal(s).
+Preporučujemo da čuvate kredencijale svog eID-a i/ili digitalnog pečata u novčaniku kako biste imali pristup dostupnim uslugama autentifikacije ili drugim uslugama koje mogu postati dostupne u budućnosti. Međutim, novčanik nije neophodan ukoliko nameravate da koristite svoj eID isključivo za digitalno potpisivanje dokumenata. U svakom slučaju, čak i ako ne povežete novčanik tokom procesa registracije, kasnije možete koristiti portal za samousluživanje kako biste povezali svoj novčanik sa eID-om ili digitalnim pečatom.
 
 {% capture buttons %}
     type=primary|outline=false|text=Wallet docs|href="/wallet/intro/"|newTab=false,

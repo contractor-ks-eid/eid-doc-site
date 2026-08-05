@@ -1,5 +1,5 @@
 
-You must have at least Windows 10 for installing the signing app.
+Morate imati najmanje Windows 10 za instaliranje aplikacije za potpisivanje.
 
 {% include elements/downloads.html 
     type="primary" 

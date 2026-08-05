@@ -1,6 +1,6 @@
 ---
 img: partials/media/intro/wallet-screens.webp
-cardTitle: Kosovo Wallet
+cardTitle: Kosovo novčanik
 file: partials/content/intro/wallet-card-text.md
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: cat
 permalink: /cat-info
-title: Categories
+title: Kategorije
 nav_order: 2
-excerpt: "Explore site categories and your own custom categories. Organise as you want by using custom categories."
+excerpt: "Istražite kategorije sajta i svoje prilagođene kategorije. Organizujte sadržaj na način koji vam odgovara koristeći prilagođene kategorije."
 ---

@@ -1,34 +1,34 @@
 ---
 layout: page
-title: Signing Apps
+title: Aplikacije za potpisivanje
 permalink: /sign-apps/intro/
-categories: [Signature, Seal]
-tags: [seal, signature, identity]
+categories: [potpis, pečat]
+tags: [pečat, potpis, identitet]
 nav_order: 1
 start: true
 ---
 
-# Intro
-The desktop and mobile signing apps are used to allow using the electronic ID for signing and stamping documents. The desktop signing app is available for Windows, MacOS and Linux (Ubuntu distro). The mobile signing app is available for iOS and Android. Installation and usage, without any limitations, are free of charge.
+# Uvod
+Desktop i mobilne aplikacije za potpisivanje koriste se za elektronsko potpisivanje i pečaćenje dokumenata pomoću elektronskog identiteta. Desktop aplikacija za potpisivanje dostupna je za Windows, macOS i Linux (Ubuntu distribuciju), dok je mobilna aplikacija dostupna za iOS i Android. Instalacija i korišćenje, bez ikakvih ograničenja, besplatni su.
 
-# Purpose
-In the context of Kosovo eID, the purpose of the signing apps is to verify the certificate that you want to use for signing or stamping against the eID database and to not allow signature for invalid certificates.
+# Svrha
+U okviru sistema Kosovo eID, svrha aplikacija za potpisivanje jeste da provere sertifikat koji želite da koristite za potpisivanje ili pečaćenje u odnosu na eID bazu podataka i da ne dozvole potpisivanje korišćenjem nevažećih sertifikata.
 
 {% include elements/alert.html 
   class="primary" 
-  content="Using a signing app may be considered as a main difference between signing documents with your national ID and signing with any other certificate. By using such signing apps any person inspecting the document can be sure that the signature belongs to a citizen of Kosovo having a valid national electronic ID. In case of digital seal, any person inspecting the document can be sure that the stamp was applied by somebody who is fully authorised by a company to stamp company's documents."
-  title="Important"
+  content="Korišćenje aplikacije za potpisivanje može se smatrati jednom od glavnih razlika između potpisivanja dokumenata nacionalnim elektronskim identitetom i potpisivanja bilo kojim drugim sertifikatom. Korišćenjem ovih aplikacija, svako ko proverava dokument može biti siguran da potpis pripada građaninu Kosova koji poseduje važeći nacionalni elektronski identitet. U slučaju digitalnog pečata, svako ko proverava dokument može biti siguran da je pečat primenilo lice koje je ovlašćeno od strane kompanije da pečatira dokumenta kompanije."
+  title="Važno"
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="The signing apps are checking the validity of your certificate each time when you use that certificate. For this reason you will need to have a functional internet connection when signing/stamping documents."
-  title="Important"
+  content="Aplikacije za potpisivanje proveravaju važenje vašeg sertifikata svaki put kada ga koristite za potpisivanje. Iz tog razloga, potrebno je da imate aktivnu internet vezu prilikom potpisivanja ili pečaćenja dokumenata."
+  title="Važno"
 %}
 
-# Install
+# Instalacija
 
-## Desktop
+## Desktop aplikacija
 {% include elements/scroll-spy.html
     source="partials/content/sign-apps/install-tabs" 
     h="200px" 
@@ -39,7 +39,7 @@ In the context of Kosovo eID, the purpose of the signing apps is to verify the c
     spyBorder="true"
 %}
 
-## Mobile
+## Mobilna aplikacija
 {% include elements/scroll-spy.html
     source="partials/content/sign-apps/install-tabs-mobile" 
     h="200px" 
@@ -50,13 +50,13 @@ In the context of Kosovo eID, the purpose of the signing apps is to verify the c
     spyBorder="true"
 %}
 
-# Support
-We offer technical support for users of signing apps.
+# Podrška
+Pružamo tehničku podršku korisnicima aplikacija za potpisivanje.
 
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="User support" 
+    text="Korisnička podrška" 
     href="https://ks-eid.com/support" 
     newTab="true" 
 %}

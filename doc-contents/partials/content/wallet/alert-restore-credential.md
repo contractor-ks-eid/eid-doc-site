@@ -1,5 +1,5 @@
 
-Do not panic if you removed a credential by mistake. You can always use the self service portal to reconnect your wallet with the related certificate and get back the credential in the wallet.
+Nemojte paničiti ukoliko ste greškom uklonili kredencijal. Uvek možete koristiti portal za samousluživanje da ponovo povežete svoj novčanik sa povezanim sertifikatom i vratite kredencijal u novčanik.
 
 {% capture buttons %}
     type=primary|outline=false|text=Manage eID|href="/manage-eid/"|newTab=false,

@@ -1,1 +1,1 @@
-Install your wallet (Android or iOS), store your ID or Seals and use it to access partner eServices.
+Instalirajte svoj novčanik (Android ili iOS), sačuvajte svoj ID ili pečate i koristite ga za pristup partnerskim e-uslugama.

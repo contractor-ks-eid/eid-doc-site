@@ -216,21 +216,21 @@
   },
   "pageList": [
     {
-      "title": "eID API Docs",
+      "title": "eID API Dok",
       "permalink": "/api/api-docs/",
       "categories": [
-        "Integration",
+        "Integracija",
         "API"
       ],
       "tags": [
-        "wallet",
-        "integration",
-        "signature",
-        "seal",
-        "authentication",
-        "identity"
+        "novčanik",
+        "integracija",
+        "potpis",
+        "pečat",
+        "autentifikacija",
+        "identitet"
       ],
-      "excerpt": "authentication, api, authorise, wallet, eid, strong, kosovo, features, useful, requires",
+      "excerpt": "funkcionalnosti, skupa, api, autorizaciju, kosovo, eid, pruza, njih, pokriva, prijavljivanja",
       "lastUpdate": "2026-07-26 21:48:30 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-07-26 21:48:30 +0300",
@@ -241,15 +241,15 @@
           "permalink": "/api/intro/"
         },
         {
-          "title": "Introduction",
-          "permalink": "/intro/"
+          "title": "Kosovo novčanik",
+          "permalink": "/wallet/intro/"
         },
         {
-          "title": "Get eID",
-          "permalink": "/get-eid/"
+          "title": "Aplikacije za potpisivanje",
+          "permalink": "/sign-apps/intro/"
         }
       ],
-      "autoSummary": "Strong authentication is a very useful and powerful feature provided by eid. This feature will allow your users to . Strong authentication be aware that we cannot authorise your users inside your systems. We can only authenticate them. Test it for implementing the strong authentication with kosovo wallet in the.",
+      "autoSummary": "Eid pruža dva odvojena skupa api-ja, pri čemu svaki od njih služi određenoj svrsi. I pokriva specifičan opseg: za integraciju snažne autentifikacije sa kosovo wallet novčanik.",
       "similarByContent": [
         {
           "permalink": "/api/intro/",
@@ -257,7 +257,19 @@
         },
         {
           "permalink": "/wallet/use-wallet/",
-          "title": "Use Kosovo Wallet"
+          "title": "Koristite Kosovo novčanik"
+        },
+        {
+          "permalink": "/wallet/intro/",
+          "title": "Kosovo novčanik"
+        },
+        {
+          "permalink": "/sign-apps/sign-office-docs/",
+          "title": "Sign Office Documents"
+        },
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacije za potpisivanje"
         }
       ],
       "readingTime": 2,
@@ -279,16 +291,12 @@
         "identity",
         "authentication"
       ],
-      "excerpt": "api, integrate, integrators, eid, submit, kosovo, authentication, backend, contact, ask",
+      "excerpt": "integracija, api, eid, kosovo, postovati, trecih, ili, softver, poseduje, uslovima",
       "lastUpdate": "2026-07-26 21:48:30 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-07-26 21:48:30 +0300",
       "createTimeUTC": 1785091710,
       "relatedPages": [
-        {
-          "title": "eID API Docs",
-          "permalink": "/api/api-docs/"
-        },
         {
           "title": "Introduction",
           "permalink": "/intro/"
@@ -296,13 +304,33 @@
         {
           "title": "Get eID",
           "permalink": "/get-eid/"
+        },
+        {
+          "title": "eID API Dok",
+          "permalink": "/api/api-docs/"
         }
       ],
-      "autoSummary": "The eid API is available for third-party integrators who want to add kosovo eid features into their own systems. Any software — web, mobile, or backend — that has a permanent internet connection can connect to the eidapi.",
+      "autoSummary": "Eidapi je dostupan integratorima trećih strana koji žele da dodaju funkcionalnosti kosovo eid-a u svoje sisteme. Integrator mora biti pravno lice registrovano na kosovu i mora imati validan poslovni slučaj.",
       "similarByContent": [
         {
+          "permalink": "/wallet/use-wallet/",
+          "title": "Koristite Kosovo novčanik"
+        },
+        {
           "permalink": "/api/api-docs/",
-          "title": "eID API Docs"
+          "title": "eID API Dok"
+        },
+        {
+          "permalink": "/wallet/intro/",
+          "title": "Kosovo novčanik"
+        },
+        {
+          "permalink": "/sign-apps/sign-office-docs/",
+          "title": "Sign Office Documents"
+        },
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacije za potpisivanje"
         }
       ],
       "readingTime": 3,
@@ -310,41 +338,53 @@
       "parent": ""
     },
     {
-      "title": "Signing Apps",
+      "title": "Aplikacije za potpisivanje",
       "permalink": "/sign-apps/intro/",
       "categories": [
-        "Signature",
-        "Seal"
+        "potpis",
+        "pečat"
       ],
       "tags": [
-        "seal",
-        "signature",
-        "identity"
+        "pečat",
+        "potpis",
+        "identitet"
       ],
-      "excerpt": "signing, macos, certificates, app, stamp, document, download, validity, verify, desktop",
+      "excerpt": "aplikacije, ios, mobilne, desktop, dokumenta, elektronskim, koristite, koriscenjem, sertifikata, ubuntu",
       "lastUpdate": "2026-07-26 21:48:30 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-07-26 21:48:30 +0300",
       "createTimeUTC": 1785091710,
       "relatedPages": [
         {
-          "title": "Sign Documents",
-          "permalink": "/sign-apps/sign-docs/"
-        },
-        {
           "title": "Sign Office Documents",
           "permalink": "/sign-apps/sign-office-docs/"
         },
         {
-          "title": "Manage eID",
-          "permalink": "/manage-eid/"
+          "title": "eID API Dok",
+          "permalink": "/api/api-docs/"
         }
       ],
-      "autoSummary": "Desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. Installation and usage, without any limitations, are free of charge.",
+      "autoSummary": "Desktop aplikacija za potpisivanje dostupna je za windows, macos i linux ( Ubuntu distribuciju) mobilna aplika za ios i android. Instalacija i korišćenje, bez ikakvih ograničenja, besplatni su u okviru sistema kosovo eid.",
       "similarByContent": [
         {
-          "permalink": "/sign-apps/sign-docs/",
-          "title": "Sign Documents"
+          "permalink": "/wallet/intro/",
+          "title": "Kosovo novčanik"
+        },
+        {
+          "permalink": "/api/intro/",
+          "title": "eID API"
+        },
+        {
+          "permalink": "/api/api-docs/",
+          "title": "eID API Dok"
+        },
+        {
+          "permalink": "/sign-apps/sign-office-docs/",
+          "title": "Sign Office Documents"
+        },
+        {
+          "permalink": "/wallet/use-wallet/",
+          "title": "Koristite Kosovo novčanik"
         }
       ],
       "readingTime": 2,
@@ -370,29 +410,20 @@
       "createTimeUTC": 1785091710,
       "relatedPages": [
         {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/"
-        },
-        {
-          "title": "Sign Office Documents",
-          "permalink": "/sign-apps/sign-office-docs/"
+          "title": "Introduction",
+          "permalink": "/intro/"
         },
         {
           "title": "Get eID",
           "permalink": "/get-eid/"
+        },
+        {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/"
         }
       ],
       "autoSummary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature.",
-      "similarByContent": [
-        {
-          "permalink": "/sign-apps/intro/",
-          "title": "Signing Apps"
-        },
-        {
-          "permalink": "/sign-apps/sign-office-docs/",
-          "title": "Sign Office Documents"
-        }
-      ],
+      "similarByContent": [],
       "readingTime": 3,
       "hasDynamicContent": false,
       "parent": ""
@@ -401,13 +432,13 @@
       "title": "Sign Office Documents",
       "permalink": "/sign-apps/sign-office-docs/",
       "categories": [
-        "Signature",
-        "Seal"
+        "potpis",
+        "pečat"
       ],
       "tags": [
-        "seal",
-        "signature",
-        "identity",
+        "pečat",
+        "potpis",
+        "identitet",
         "microsoft",
         "office",
         "word",
@@ -415,30 +446,42 @@
         "powerpoint",
         "outlook"
       ],
-      "excerpt": "signatures, outlook, document, microsoft, office, limitations, password, client, certification, ribbon",
+      "excerpt": "dokumentaciji, pdf, microsoft, office, sertifikat, mail, funkcionalnosti, digitalnog, odmah, graficki",
       "lastUpdate": "2026-07-26 21:48:30 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-07-26 21:48:30 +0300",
       "createTimeUTC": 1785091710,
       "relatedPages": [
         {
-          "title": "Sign Documents",
-          "permalink": "/sign-apps/sign-docs/"
-        },
-        {
-          "title": "Signing Apps",
+          "title": "Aplikacije za potpisivanje",
           "permalink": "/sign-apps/intro/"
         },
         {
-          "title": "Manage eID",
-          "permalink": "/manage-eid/"
+          "title": "eID API Dok",
+          "permalink": "/api/api-docs/"
         }
       ],
-      "autoSummary": "You can sign microsoft office documents using your eid certificate and your digital seals. The minimum office version allowing digital signatures with certificates is office2007. Any newer version or office365 provides signature features.",
+      "autoSummary": "Dokumente iz microsoft office paketa možete potpisivati koristeći svoj eid sertifikat i digitalne pečate. Office 365 podržavaju funkcionalnosti digitalnog potp Isivanja.",
       "similarByContent": [
         {
-          "permalink": "/sign-apps/sign-docs/",
-          "title": "Sign Documents"
+          "permalink": "/api/intro/",
+          "title": "eID API"
+        },
+        {
+          "permalink": "/wallet/use-wallet/",
+          "title": "Koristite Kosovo novčanik"
+        },
+        {
+          "permalink": "/api/api-docs/",
+          "title": "eID API Dok"
+        },
+        {
+          "permalink": "/wallet/intro/",
+          "title": "Kosovo novčanik"
+        },
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacije za potpisivanje"
         }
       ],
       "readingTime": 3,
@@ -446,47 +489,47 @@
       "parent": ""
     },
     {
-      "title": "Kosovo Wallet",
+      "title": "Kosovo novčanik",
       "permalink": "/wallet/intro/",
       "categories": [
-        "Wallet"
+        "Novčanik"
       ],
       "tags": [
-        "wallet",
-        "authentication"
+        "novčanik",
+        "autentifikacija"
       ],
-      "excerpt": "kosovo, wallet, authentication, application, developer, api, ios, license, storing, google",
+      "excerpt": "aplikacija, novcanik, kosovo, kredencijale, mobilna, testirajte, vaseg, instalirati, digitalnih, android",
       "lastUpdate": "2026-07-26 21:48:30 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-07-26 21:48:30 +0300",
       "createTimeUTC": 1785091710,
       "relatedPages": [
         {
-          "title": "Use Kosovo Wallet",
-          "permalink": "/wallet/use-wallet/"
-        },
-        {
-          "title": "eID API Docs",
+          "title": "eID API Dok",
           "permalink": "/api/api-docs/"
-        },
-        {
-          "title": "eID API",
-          "permalink": "/api/intro/"
         }
       ],
-      "autoSummary": "Kosovo wallet is a mobile app used to safely store the credentials of your electronic id or your electronic seal(s) It can be installed as any other mobile application from google play (for android) or from app store (for ios). Installation and usage, without any limitations, are free of charge.",
+      "autoSummary": "Kosovo novčanik je mobilna aplikacija koja se koristi za bezbedno čuvanje kredencijala vašeg elektronskog identiteta ili vaše pečata. Instalacija, bez ikakvih ograničenja, su besplatni.",
       "similarByContent": [
         {
-          "permalink": "/intro/",
-          "title": "Introduction"
+          "permalink": "/api/intro/",
+          "title": "eID API"
+        },
+        {
+          "permalink": "/api/api-docs/",
+          "title": "eID API Dok"
+        },
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacije za potpisivanje"
         },
         {
           "permalink": "/wallet/use-wallet/",
-          "title": "Use Kosovo Wallet"
+          "title": "Koristite Kosovo novčanik"
         },
         {
-          "permalink": "/get-eid/",
-          "title": "Get eID"
+          "permalink": "/sign-apps/sign-office-docs/",
+          "title": "Sign Office Documents"
         }
       ],
       "readingTime": 1,
@@ -494,7 +537,7 @@
       "parent": ""
     },
     {
-      "title": "Use Kosovo Wallet",
+      "title": "Koristite Kosovo novčanik",
       "permalink": "/wallet/use-wallet/",
       "categories": [
         "Wallet"
@@ -502,45 +545,41 @@
       "tags": [
         "wallet"
       ],
-      "excerpt": "authentication, credential, kosovo, wallet, notifications, features, certificate, access, select, modal",
+      "excerpt": "kredencijal, novcanik, kosovo, aplikacijama, prikazani, organizovanje, primenljivo, funkcionalnost, sertifikata, ekosistema",
       "lastUpdate": "2026-07-26 21:48:30 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-07-26 21:48:30 +0300",
       "createTimeUTC": 1785091710,
       "relatedPages": [
         {
-          "title": "Kosovo Wallet",
-          "permalink": "/wallet/intro/"
-        },
-        {
-          "title": "Get eID",
-          "permalink": "/get-eid/"
-        },
-        {
-          "title": "eID API Docs",
-          "permalink": "/api/api-docs/"
+          "title": "Introduction",
+          "permalink": "/intro/"
         }
       ],
-      "autoSummary": "Kosovo wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device. You can organise credentials and use the credentials in applications that are in the kosovo eid ecosystem and offers strong authentication.",
+      "autoSummary": "Kosovo novčanik vam pruža niz funkcionalnosti koje omogućavaju bezbedno čuvanje i zaštitu kredencijala vašeg sertifikata na uređaju.",
       "similarByContent": [
         {
-          "permalink": "/get-eid/",
-          "title": "Get eID"
-        },
-        {
-          "permalink": "/manage-eid/",
-          "title": "Manage eID"
+          "permalink": "/api/intro/",
+          "title": "eID API"
         },
         {
           "permalink": "/api/api-docs/",
-          "title": "eID API Docs"
+          "title": "eID API Dok"
+        },
+        {
+          "permalink": "/sign-apps/sign-office-docs/",
+          "title": "Sign Office Documents"
         },
         {
           "permalink": "/wallet/intro/",
-          "title": "Kosovo Wallet"
+          "title": "Kosovo novčanik"
+        },
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacije za potpisivanje"
         }
       ],
-      "readingTime": 4,
+      "readingTime": 3,
       "hasDynamicContent": false,
       "parent": ""
     },
@@ -557,42 +596,30 @@
         "identity",
         "seal"
       ],
-      "excerpt": "authentication, eid, wallet, certificate, enrollment, kosovo, digitally, arbk, email, seals",
+      "excerpt": "registracije, eid, enrollment, kosovo, digitalnog, kredencijale, email, wallet, arc, stamping",
       "lastUpdate": "2026-07-26 21:48:30 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-07-26 21:48:30 +0300",
       "createTimeUTC": 1785091710,
       "relatedPages": [
         {
+          "title": "Manage eID",
+          "permalink": "/manage-eid/"
+        },
+        {
           "title": "Introduction",
           "permalink": "/intro/"
         },
         {
-          "title": "eID API Docs",
-          "permalink": "/api/api-docs/"
-        },
-        {
-          "title": "Manage eID",
-          "permalink": "/manage-eid/"
+          "title": "eID API",
+          "permalink": "/api/intro/"
         }
       ],
-      "autoSummary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc). For a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available. This is intentional, to ensure the highest possible.",
+      "autoSummary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc) for a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available.",
       "similarByContent": [
         {
           "permalink": "/manage-eid/",
           "title": "Manage eID"
-        },
-        {
-          "permalink": "/wallet/use-wallet/",
-          "title": "Use Kosovo Wallet"
-        },
-        {
-          "permalink": "/intro/",
-          "title": "Introduction"
-        },
-        {
-          "permalink": "/wallet/intro/",
-          "title": "Kosovo Wallet"
         }
       ],
       "readingTime": 4,
@@ -614,7 +641,7 @@
         "seal",
         "identity"
       ],
-      "excerpt": "kosovo, authenticate, eid, ebanking, certificate, api, identities, enrollment, wallet, digitally",
+      "excerpt": "kosovo, eid, registracije, instalirajte, certificate, partnerskim, njima, digitally, novcanik, pecat",
       "lastUpdate": "2026-07-26 21:48:30 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-07-26 21:48:30 +0300",
@@ -625,25 +652,16 @@
           "permalink": "/get-eid/"
         },
         {
-          "title": "eID API Docs",
-          "permalink": "/api/api-docs/"
-        },
-        {
           "title": "eID API",
           "permalink": "/api/intro/"
-        }
-      ],
-      "autoSummary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. Citizens can get their electronic id by going through a enrollment process at the civil registration offices ( ) counters. In a similar way, citizens can obtain an electronic seal through the enrollment process.",
-      "similarByContent": [
-        {
-          "permalink": "/wallet/intro/",
-          "title": "Kosovo Wallet"
         },
         {
-          "permalink": "/get-eid/",
-          "title": "Get eID"
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/"
         }
       ],
+      "autoSummary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. An electronic id is a free digital certificate issued by the government of kOSOVO. With it, citizens can securely sign (or stamp) documents and access digital services.",
+      "similarByContent": [],
       "readingTime": 2,
       "hasDynamicContent": false,
       "parent": ""
@@ -671,8 +689,8 @@
           "permalink": "/get-eid/"
         },
         {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/"
+          "title": "Sign Documents",
+          "permalink": "/sign-apps/sign-docs/"
         },
         {
           "title": "Introduction",
@@ -684,10 +702,6 @@
         {
           "permalink": "/get-eid/",
           "title": "Get eID"
-        },
-        {
-          "permalink": "/wallet/use-wallet/",
-          "title": "Use Kosovo Wallet"
         }
       ],
       "readingTime": 2,
@@ -696,15 +710,21 @@
     }
   ],
   "tagList": [
+    "autentifikacija",
     "authentication",
     "docs",
     "enrollment",
     "excel",
+    "identitet",
     "identity",
+    "integracija",
     "integration",
     "microsoft",
+    "novčanik",
     "office",
     "outlook",
+    "pečat",
+    "potpis",
     "powerpoint",
     "seal",
     "self-service",
@@ -713,25 +733,30 @@
     "word"
   ],
   "tagDetails": {
-    "authentication": {
+    "autentifikacija": {
       "pages": [
         {
-          "title": "eID API Docs",
+          "title": "eID API Dok",
           "permalink": "/api/api-docs/",
           "lastUpdate": "26-Jul-2026"
         },
         {
-          "title": "eID API",
-          "permalink": "/api/intro/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
-          "title": "Kosovo Wallet",
+          "title": "Kosovo novčanik",
           "permalink": "/wallet/intro/",
           "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 3
+      "numPages": 2
+    },
+    "authentication": {
+      "pages": [
+        {
+          "title": "eID API",
+          "permalink": "/api/intro/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
     },
     "docs": {
       "pages": [
@@ -768,31 +793,36 @@
       ],
       "numPages": 1
     },
-    "identity": {
+    "identitet": {
       "pages": [
         {
-          "title": "eID API Docs",
+          "title": "eID API Dok",
           "permalink": "/api/api-docs/",
           "lastUpdate": "26-Jul-2026"
         },
+        {
+          "title": "Aplikacije za potpisivanje",
+          "permalink": "/sign-apps/intro/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 3
+    },
+    "identity": {
+      "pages": [
         {
           "title": "eID API",
           "permalink": "/api/intro/",
           "lastUpdate": "26-Jul-2026"
         },
         {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
-          "title": "Sign Office Documents",
-          "permalink": "/sign-apps/sign-office-docs/",
           "lastUpdate": "26-Jul-2026"
         },
         {
@@ -811,15 +841,20 @@
           "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 8
+      "numPages": 5
+    },
+    "integracija": {
+      "pages": [
+        {
+          "title": "eID API Dok",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
     },
     "integration": {
       "pages": [
-        {
-          "title": "eID API Docs",
-          "permalink": "/api/api-docs/",
-          "lastUpdate": "26-Jul-2026"
-        },
         {
           "title": "eID API",
           "permalink": "/api/intro/",
@@ -831,7 +866,7 @@
           "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 3
+      "numPages": 2
     },
     "microsoft": {
       "pages": [
@@ -842,6 +877,21 @@
         }
       ],
       "numPages": 1
+    },
+    "novčanik": {
+      "pages": [
+        {
+          "title": "eID API Dok",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Kosovo novčanik",
+          "permalink": "/wallet/intro/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 2
     },
     "office": {
       "pages": [
@@ -863,6 +913,46 @@
       ],
       "numPages": 1
     },
+    "pečat": {
+      "pages": [
+        {
+          "title": "eID API Dok",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Aplikacije za potpisivanje",
+          "permalink": "/sign-apps/intro/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 3
+    },
+    "potpis": {
+      "pages": [
+        {
+          "title": "eID API Dok",
+          "permalink": "/api/api-docs/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Aplikacije za potpisivanje",
+          "permalink": "/sign-apps/intro/",
+          "lastUpdate": "26-Jul-2026"
+        },
+        {
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 3
+    },
     "powerpoint": {
       "pages": [
         {
@@ -876,28 +966,13 @@
     "seal": {
       "pages": [
         {
-          "title": "eID API Docs",
-          "permalink": "/api/api-docs/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
           "title": "eID API",
           "permalink": "/api/intro/",
           "lastUpdate": "26-Jul-2026"
         },
         {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
-          "title": "Sign Office Documents",
-          "permalink": "/sign-apps/sign-office-docs/",
           "lastUpdate": "26-Jul-2026"
         },
         {
@@ -916,7 +991,7 @@
           "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 8
+      "numPages": 5
     },
     "self-service": {
       "pages": [
@@ -931,18 +1006,8 @@
     "signature": {
       "pages": [
         {
-          "title": "eID API Docs",
-          "permalink": "/api/api-docs/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
           "title": "eID API",
           "permalink": "/api/intro/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/",
           "lastUpdate": "26-Jul-2026"
         },
         {
@@ -951,37 +1016,22 @@
           "lastUpdate": "26-Jul-2026"
         },
         {
-          "title": "Sign Office Documents",
-          "permalink": "/sign-apps/sign-office-docs/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
           "title": "Introduction",
           "permalink": "/intro/",
           "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 6
+      "numPages": 3
     },
     "wallet": {
       "pages": [
-        {
-          "title": "eID API Docs",
-          "permalink": "/api/api-docs/",
-          "lastUpdate": "26-Jul-2026"
-        },
         {
           "title": "eID API",
           "permalink": "/api/intro/",
           "lastUpdate": "26-Jul-2026"
         },
         {
-          "title": "Kosovo Wallet",
-          "permalink": "/wallet/intro/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
-          "title": "Use Kosovo Wallet",
+          "title": "Koristite Kosovo novčanik",
           "permalink": "/wallet/use-wallet/",
           "lastUpdate": "26-Jul-2026"
         },
@@ -1001,7 +1051,7 @@
           "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 7
+      "numPages": 5
     },
     "word": {
       "pages": [
@@ -1019,16 +1069,20 @@
     "Certificates",
     "Enrollment",
     "General",
+    "Integracija",
     "Integration",
+    "Novčanik",
     "Seal",
     "Signature",
-    "Wallet"
+    "Wallet",
+    "pečat",
+    "potpis"
   ],
   "catDetails": {
     "API": {
       "pages": [
         {
-          "title": "eID API Docs",
+          "title": "eID API Dok",
           "permalink": "/api/api-docs/",
           "lastUpdate": "26-Jul-2026"
         },
@@ -1075,51 +1129,71 @@
       ],
       "numPages": 1
     },
-    "Integration": {
+    "Integracija": {
       "pages": [
         {
-          "title": "eID API Docs",
+          "title": "eID API Dok",
           "permalink": "/api/api-docs/",
           "lastUpdate": "26-Jul-2026"
-        },
+        }
+      ],
+      "numPages": 1
+    },
+    "Integration": {
+      "pages": [
         {
           "title": "eID API",
           "permalink": "/api/intro/",
           "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 2
+      "numPages": 1
+    },
+    "Novčanik": {
+      "pages": [
+        {
+          "title": "Kosovo novčanik",
+          "permalink": "/wallet/intro/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
     },
     "Seal": {
       "pages": [
         {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
           "lastUpdate": "26-Jul-2026"
-        },
-        {
-          "title": "Sign Office Documents",
-          "permalink": "/sign-apps/sign-office-docs/",
-          "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 3
+      "numPages": 1
     },
     "Signature": {
       "pages": [
         {
-          "title": "Signing Apps",
-          "permalink": "/sign-apps/intro/",
-          "lastUpdate": "26-Jul-2026"
-        },
-        {
           "title": "Sign Documents",
           "permalink": "/sign-apps/sign-docs/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "Wallet": {
+      "pages": [
+        {
+          "title": "Koristite Kosovo novčanik",
+          "permalink": "/wallet/use-wallet/",
+          "lastUpdate": "26-Jul-2026"
+        }
+      ],
+      "numPages": 1
+    },
+    "pečat": {
+      "pages": [
+        {
+          "title": "Aplikacije za potpisivanje",
+          "permalink": "/sign-apps/intro/",
           "lastUpdate": "26-Jul-2026"
         },
         {
@@ -1128,18 +1202,18 @@
           "lastUpdate": "26-Jul-2026"
         }
       ],
-      "numPages": 3
+      "numPages": 2
     },
-    "Wallet": {
+    "potpis": {
       "pages": [
         {
-          "title": "Kosovo Wallet",
-          "permalink": "/wallet/intro/",
+          "title": "Aplikacije za potpisivanje",
+          "permalink": "/sign-apps/intro/",
           "lastUpdate": "26-Jul-2026"
         },
         {
-          "title": "Use Kosovo Wallet",
-          "permalink": "/wallet/use-wallet/",
+          "title": "Sign Office Documents",
+          "permalink": "/sign-apps/sign-office-docs/",
           "lastUpdate": "26-Jul-2026"
         }
       ],

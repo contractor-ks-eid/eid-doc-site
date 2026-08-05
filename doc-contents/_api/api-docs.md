@@ -1,44 +1,44 @@
 ---
 layout: page
-title: eID API Docs
+title: eID API Dok
 permalink: /api/api-docs/
-categories: [Integration, API]
-tags: [wallet, integration, signature, seal, authentication, identity]
+categories: [Integracija, API]
+tags: [novčanik, integracija, potpis, pečat, autentifikacija, identitet]
 nav_order: 2
 start: false
 ---
 
-# API Scope
-eID provides two separate API sets, each of it serving a certain purpose and covering a specific scope:
-- **`Kosovo Wallet API`**: for integrating strong authentication with Kosovo Wallet
-- **`Signing API`**: for integrating digital signature/seal and time stamping features
+# Opseg API-ja
+eID pruža dva odvojena skupa API-ja, pri čemu svaki od njih služi određenoj svrsi i pokriva specifičan opseg:
+- **`Kosovo Wallet API`**: za integraciju snažne autentifikacije sa Kosovo Wallet novčanikom
+- **`Signing API`**: za integraciju funkcionalnosti digitalnog potpisa/pečata i vremenskog žiga
 
-# Strong authentication
-Strong authentication is a very useful and powerful feature provided by eID. This feature will allow your users to **`login to your systems using their national eID and their Kosovo Wallet`**.  
+# Snažna autentifikacija
+Snažna autentifikacija je veoma korisna i moćna funkcionalnost koju pruža eID. Ova funkcionalnost omogućava vašim korisnicima da se **`prijave na vaše sisteme koristeći svoju nacionalnu eID karticu i Kosovo Wallet novčanik`**.  
 
 {% include elements/alert.html 
   class="primary" 
-  content="Be aware that we cannot authorise your users inside your systems. We can only authenticate them. After successful passing the login flow with Kosovo Wallet we will return to you the user information that you may need for further authorisation inside your system, according to your authorisation policies."
-  title="Strong Authentication" 
+  content="Imajte na umu da ne možemo autorizovati vaše korisnike unutar vaših sistema. Možemo ih samo autentifikovati. Nakon uspešnog završetka procesa prijave putem Kosovo Wallet novčanika, vratićemo vam informacije o korisniku koje vam mogu biti potrebne za dalju autorizaciju unutar vašeg sistema, u skladu sa vašim politikama autorizacije."
+  title="Snažna autentifikacija" 
 %}
 
-The most important advantage of using strong authentication with Kosovo Wallet is that the user does not need username and password, thus making the authentication process very simple and secure. Combining this with the fact that the user needs to use the Kosovo Wallet from his device (which is protected by user's biometrics) will make this authentication flow as the most simple and secure way to login to any application.
+Najvažnija prednost korišćenja snažne autentifikacije putem Kosovo Wallet novčanika jeste to što korisnik ne mora da koristi korisničko ime i lozinku, čime se proces autentifikacije čini veoma jednostavnim i sigurnim. Kombinacija ove funkcionalnosti sa činjenicom da korisnik mora da koristi Kosovo Wallet novčanik sa svog uređaja (koji je zaštićen korisnikovim biometrijskim podacima) čini ovaj tok autentifikacije najjednostavnijim i najsigurnijim načinom prijavljivanja na bilo koju aplikaciju.
 
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="Test it" 
+    text="Testirajte je." 
     href="https://api-eid.rks-gov.net/universal-verifier/" 
     newTab="true" 
 %}
 
-For implementing the strong authentication with Kosovo Wallet in the right way, we made available some resources that you will find next. 
-First, we advise you to download the detailed presentation of the integration process:
+Za pravilnu implementaciju snažne autentifikacije putem Kosovo Wallet novčanika, pripremili smo nekoliko resursa koji su dostupni u nastavku.
+Pre svega, preporučujemo da preuzmete detaljnu prezentaciju procesa integracije:
 
 {% include elements/downloads.html 
     type="primary" 
     outline="false" 
-    text="Download" 
+    text="Preuzmi" 
     file="api/wallet.pptx"
     downloadName="wallet.pptx" 
     downloadsDir="true"   
@@ -55,8 +55,8 @@ Second, we invite you to check out code examples for the most frequent tech stac
 
 {% include elements/link-btn-group.html buttons=buttons %}
 
-# Sign/Stamp
-This API allows you to **`implement the specific signature (or stamping, or time stamping) flow in your app`**. This flow is illustrated next (click to enlarge picture).
+# Potpis/Pečat
+Ovaj API vam omogućava da **`implementirate specifičan tok potpisivanja (ili pečaćenja, odnosno vremenskog žigosanja) u vašoj aplikaciji`**. Ovaj tok je prikazan u nastavku (kliknite na sliku za uvećanje).
 
 {% capture img %}
     source="partials/media/api/api-sign-flow-s.png"|caption="Sign/Stamp API flow"|captionBorder="true"
@@ -70,15 +70,15 @@ This API allows you to **`implement the specific signature (or stamping, or time
 
 {% include elements/alert.html 
   class="warning" 
-  content="Please observe that the correct implementation of the signature flow requires to modify a little bit your app. We provide only the full API set for signing, we do not store any raw or signed document. For this reason, you may need to implement a storage feature inside your app. The storage feature will have the role to allow the user to upload raw documents and to receive from us the signed documents, further allowing the user to download them (if needed)."
-  title="Signature flow implementation" 
+  content="Imajte na umu da pravilna implementacija toka potpisivanja zahteva određene izmene u vašoj aplikaciji. Pružamo samo kompletan skup API-ja za potpisivanje; ne čuvamo nijedan originalni niti potpisani dokument. Iz tog razloga, možda ćete morati da implementirate funkcionalnost skladištenja unutar vaše aplikacije. Funkcionalnost skladištenja će omogućiti korisniku da otpremi originalne dokumente i da od nas primi potpisane dokumente, kao i da ih, po potrebi, preuzme."
+  title="Implementacija toka potpisivanja" 
 %}
 
-For implementing the signing (or stamping, or time stamping) flow in the right way, we made available some resources that you will find next. These resources are the detailed API docs and the POSTMAN environments and collections to explore the API. API docs is valid for both test and production environments, while the POSTMAN collections are given individually for each environment.
+Za pravilnu implementaciju toka potpisivanja (ili pečaćenja, odnosno vremenskog žigosanja), pripremili smo nekoliko resursa koji su dostupni u nastavku. Ovi resursi uključuju detaljnu API dokumentaciju i POSTMAN okruženja i kolekcije za istraživanje API-ja. API dokumentacija važi za testno i produkciono okruženje, dok su POSTMAN kolekcije dostupne odvojeno za svako okruženje.
 
 {% capture downloads %}
       type=primary|outline=false|text=API Docs|file="api/eID platform API_v1.2.pdf"|downloadName="eID platform API_v1.2.pdf"|downloadsDir="true",
-      type=secondary|outline=false|text=Test Env|file="api/pre-production-postman.zip"|downloadName="pre-production-postman.zip"|downloadsDir="true",
+      type=secondary|outline=false|text=Testno okruženje|file="api/pre-production-postman.zip"|downloadName="pre-production-postman.zip"|downloadsDir="true",
       type=success|outline=false|text=Production Env|file="api/production-postman.zip"|downloadName="production-postman.zip"|downloadsDir="true"
 {% endcapture %}
 {% include elements/downloads-group.html downloads=downloads %}

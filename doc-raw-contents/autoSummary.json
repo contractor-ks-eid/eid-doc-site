@@ -2,15 +2,15 @@
     "summaries": [
         {
             "permalink": "/api/api-docs/",
-            "summary": "Strong authentication is a very useful and powerful feature provided by eid. This feature will allow your users to . Strong authentication be aware that we cannot authorise your users inside your systems. We can only authenticate them. Test it for implementing the strong authentication with kosovo wallet in the."
+            "summary": "Eid pru\u017ea dva odvojena skupa api-ja, pri \u010demu svaki od njih slu\u017ei odre\u0111enoj svrsi. I pokriva specifi\u010dan opseg: za integraciju sna\u017ene autentifikacije sa kosovo wallet nov\u010danik."
         },
         {
             "permalink": "/api/intro/",
-            "summary": "The eid API is available for third-party integrators who want to add kosovo eid features into their own systems. Any software \u2014 web, mobile, or backend \u2014 that has a permanent internet connection can connect to the eidapi."
+            "summary": "Eidapi je dostupan integratorima tre\u0107ih strana koji \u017eele da dodaju funkcionalnosti kosovo eid-a u svoje sisteme. Integrator mora biti pravno lice registrovano na kosovu i mora imati validan poslovni slu\u010daj."
         },
         {
             "permalink": "/sign-apps/intro/",
-            "summary": "Desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. Installation and usage, without any limitations, are free of charge."
+            "summary": "Desktop aplikacija za potpisivanje dostupna je za windows, macos i linux ( Ubuntu distribuciju) mobilna aplika za ios i android. Instalacija i kori\u0161\u0107enje, bez ikakvih ograni\u010denja, besplatni su u okviru sistema kosovo eid."
         },
         {
             "permalink": "/sign-apps/sign-docs/",
@@ -18,23 +18,23 @@
         },
         {
             "permalink": "/sign-apps/sign-office-docs/",
-            "summary": "You can sign microsoft office documents using your eid certificate and your digital seals. The minimum office version allowing digital signatures with certificates is office2007. Any newer version or office365 provides signature features."
+            "summary": "Dokumente iz microsoft office paketa mo\u017eete potpisivati koriste\u0107i svoj eid sertifikat i digitalne pe\u010date. Office 365 podr\u017eavaju funkcionalnosti digitalnog potp Isivanja."
         },
         {
             "permalink": "/wallet/intro/",
-            "summary": "Kosovo wallet is a mobile app used to safely store the credentials of your electronic id or your electronic seal(s) It can be installed as any other mobile application from google play (for android) or from app store (for ios). Installation and usage, without any limitations, are free of charge."
+            "summary": "Kosovo nov\u010danik je mobilna aplikacija koja se koristi za bezbedno \u010duvanje kredencijala va\u0161eg elektronskog identiteta ili va\u0161e pe\u010data. Instalacija, bez ikakvih ograni\u010denja, su besplatni."
         },
         {
             "permalink": "/wallet/use-wallet/",
-            "summary": "Kosovo wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device. You can organise credentials and use the credentials in applications that are in the kosovo eid ecosystem and offers strong authentication."
+            "summary": "Kosovo nov\u010danik vam pru\u017ea niz funkcionalnosti koje omogu\u0107avaju bezbedno \u010duvanje i za\u0161titu kredencijala va\u0161eg sertifikata na ure\u0111aju."
         },
         {
             "permalink": "/get-eid/",
-            "summary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc). For a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available. This is intentional, to ensure the highest possible."
+            "summary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc) for a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available."
         },
         {
             "permalink": "/intro/",
-            "summary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. Citizens can get their electronic id by going through a enrollment process at the civil registration offices ( ) counters. In a similar way, citizens can obtain an electronic seal through the enrollment process."
+            "summary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. An electronic id is a free digital certificate issued by the government of kOSOVO. With it, citizens can securely sign (or stamp) documents and access digital services."
         },
         {
             "permalink": "/manage-eid/",

@@ -1,6 +1,6 @@
 ---
 img: partials/media/intro/eid-menu-img-2.png
-cardTitle: Signing Apps
+cardTitle: Aplikacije za potpisivanje
 file: partials/content/intro/signing-apps-card-text.md
 ---
 

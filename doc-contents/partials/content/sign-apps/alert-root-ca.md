@@ -1,5 +1,5 @@
 
-Download here the Root Certificate.
+Preuzmite ovde korenski sertifikat.
 
 {% include elements/downloads.html 
     type="primary" 

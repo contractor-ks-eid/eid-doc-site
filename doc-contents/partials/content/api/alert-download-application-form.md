@@ -1,5 +1,5 @@
 
-Download the API integration Application Form to understand more about what would be the conditions that must be respected for using eID features inside your system.
+Preuzmite obrazac za prijavu API integracije kako biste saznali više o uslovima koje je potrebno ispuniti za korišćenje eID funkcionalnosti u vašem sistemu.
 
 {% include elements/downloads.html 
     type="primary" 

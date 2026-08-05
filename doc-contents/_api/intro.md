@@ -8,25 +8,25 @@ nav_order: 1
 start: true
 ---
 
-# Intro
-The eID API is available for third-party integrators who want to add Kosovo eID features into their own systems. Any software — web, mobile, or backend — that has a permanent internet connection can connect to the eID API.
+# Uvod
+eID API je dostupan integratorima trećih strana koji žele da dodaju funkcionalnosti Kosovo eID-a u svoje sisteme. Bilo koji softver — veb, mobilna aplikacija ili pozadinski sistem — koji ima stalnu internet vezu može da se poveže sa eID API-jem.
 
-That said, the integrator (the company that owns the system or app) must be a legal entity registered in Kosovo and have a valid business case in order to be approved for eID integration.
+Ipak, integrator (kompanija koja poseduje sistem ili aplikaciju) mora biti pravno lice registrovano na Kosovu i mora imati validan poslovni slučaj kako bi bio odobren za eID integraciju.
 
-The API itself is free to use, but you will need credentials to access it. These credentials are issued by the eID authority after your integration application is reviewed and approved.
+Sam API je besplatan za korišćenje, ali su vam potrebni pristupni podaci za pristup. Ovi podaci se izdaju od strane eID autoriteta nakon što vaša prijava za integraciju bude pregledana i odobrena.
 
-# Procedure
-## Application
-The first step to integrate with eID is simple: apply.
+# Procedura
+## Prijava
+Prvi korak za integraciju sa eID-jem je jednostavan: podnesite prijavu.
 
-To do that, you need to fill in and submit the API Integration Application Form. Inside the form, you will find:
-- the **`General Terms`** that need to be accepted and respected
-- a **`Power of Attorney`** (if the application is not submitted by the company’s legal representative)
-- the **`Integration Agreement`**, which is the contract between the integrator and the eID authority
-- a detailed description of your **`Business Case`** (how you plan to use eID features)
-- and a description of the **`Technical Environment`** where the integration will run
+Da biste to uradili, potrebno je da popunite i podnesete Obrazac za prijavu integracije API-ja. U okviru obrasca pronaći ćete:
+- **`Opšte uslove`** koje je potrebno prihvatiti i poštovati
+- **`Punomoćje`** (ukoliko prijavu ne podnosi zakonski zastupnik kompanije)
+- **`Ugovor o integraciji`**, koji predstavlja ugovor između integratora i eID autoriteta
+- detaljan opis vašeg **`Poslovnog slučaja`** (način na koji planirate da koristite eID funkcionalnosti)
+- i opis **`Tehničkog okruženja`** u kojem će se integracija izvršavati.
 
-Once everything is completed and submitted, the review process can begin.
+Nakon što sve bude popunjeno i podneto, može započeti proces pregleda.
 
 {% capture c %}
     {% ExternalSiteContent  {
@@ -65,36 +65,36 @@ Once everything is completed and submitted, the review process can begin.
 {% include elements/alert.html 
   class="success" 
   content=c 
-  title="Submit Application"
+  title="Podnesite prijavu"
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="The application form requires you to send some additional information. One piece of information is your logo. Please embed the logo as `png` into the application form and `do not send it separatelly`." 
+  content="Obrazac za prijavu zahteva slanje dodatnih informacija. Jedna od traženih informacija je vaš logo. Molimo vas da logo ubacite u obrazac za prijavu kao `png` datoteku i `nemojte ga slati odvojeno.`." 
 %}
 
-## Evaluation
-Once we receive your application, we will review it. If something is missing, we will be in direct contact with you and we will ask for clarifications. For this reason, please **`do not forget to provide the contact email and phone`**, this is the only contact information that we will be further using for communication with you.
+## Evaluacija
+Nakon što primimo vašu prijavu, izvršićemo njen pregled. Ukoliko nešto nedostaje, direktno ćemo vas kontaktirati i zatražiti dodatna pojašnjenja. Iz tog razloga, molimo vas da **`ne zaboravite da navedete kontakt email adresu i broj telefona`**, jer su to jedine kontakt informacije koje ćemo dalje koristiti za komunikaciju sa vama.
 
-## Build
-If we approve your application, you will have to continue with the development and testing your integration. 
-We will make the following items available for you:
-- the **`eID test environment`**
-- the **`credentials`** for using the eID test environment
-- the **`test version`** of Kosovo Wallet
-- five (5) **`test certificates`** that you will be using these certificates when developing your integration
+## Izrada
+Ukoliko odobrimo vašu prijavu, moraćete da nastavite sa razvojem i testiranjem vaše integracije.
+Obezbedićemo vam sledeće stavke:
+- **`eID testno okruženje`**
+- **`pristupne podatke`** za korišćenje eID testnog okruženja
+- **`testnu verziju`** Kosovo Wallet novčanika
+- pet (5) **`testnih sertifikata`** koje ćete koristiti tokom razvoja vaše integracije.
 
 
 {% include elements/alert.html 
   class="primary" 
-  content="If you want to integrate the feature of strong authentication with Kosovo Wallet, you will then need to store the certificates credentials in the test version of Kosovo Wallet"
-  title="Strong Authentication" 
+  content="Ukoliko želite da integrišete funkcionalnost snažne autentifikacije putem Kosovo Wallet novčanika, biće potrebno da sačuvate kredencijale sertifikata u testnoj verziji Kosovo Wallet novčanika."
+  title="Snažna autentifikacija" 
 %}
 
 {% include elements/alert.html 
   class="primary" 
-  content="If you want to integrate only the digital signature/stamping flow, you will not need Kosovo Wallet."
-  title="API signing and stamping" 
+  content="Ukoliko želite da integrišete samo tok digitalnog potpisivanja/pečaćenja, nećete morati da koristite Kosovo Wallet novčanik."
+  title="API potpisivanje i pečaćenje" 
 %}
 
 {% include elements/alert.html 
@@ -103,31 +103,31 @@ We will make the following items available for you:
   title="Integration scope" 
 %}
 
-## Test
-Once you are done with the development, we would like to test your integration. For this reason, we may ask you to provide us with necessary information for being able to test your work. If everything goes well, we will give you the **`green light`** to deploy your integration in the eID production environment.
+## Testiranje
+Kada završite sa razvojem, želeli bismo da testiramo vašu integraciju. Iz tog razloga, možemo vas zamoliti da nam dostavite neophodne informacije kako bismo mogli da testiramo vaš rad. Ukoliko sve bude u redu, daćemo vam **`zeleno svetlo`** za postavljanje vaše integracije u eID produkciono okruženje.
 
 {% include elements/alert.html 
   class="warning" 
-  content="Please be aware that, according to the **`Integration Agreement`** we may ask you to give access to the integration code and to allow us to perform code inspection."
-  title="Code inspection" 
+  content="Imajte na umu da, u skladu sa **`Ugovorom o integraciji`** možemo zatražiti da nam omogućite pristup integracionom kodu i da nam dozvolite izvršavanje inspekcije koda."
+  title="Inspekcija koda" 
 %}
 
-## Deploy
-Once your integration is approved for production, you will receive the needed credentials for migrating from the eID test environment to the eID live/production environment. Usually, migrating to production should not require anything else than changing the test environment credentials with the production environment credentials. This may be one of the aspects that we can verify if we ask for a code inspection. If your integration requires consistent modification for migrating to production environment, you may be requested to re-build it in the right way.
+## Postavljanje
+Kada vaša integracija bude odobrena za produkciono okruženje, dobićete potrebne pristupne podatke za prelazak sa eID testnog okruženja na eID produkciono okruženje. Uobičajeno je da prelazak na produkciju ne zahteva ništa drugo osim zamene pristupnih podataka testnog okruženja sa pristupnim podacima produkcionog okruženja. Ovo može biti jedan od aspekata koji možemo proveriti ukoliko zatražimo inspekciju koda. Ukoliko vaša integracija zahteva značajne izmene radi prelaska na produkciono okruženje, od vas se može zahtevati da je ponovo izgradite na odgovarajući način..
 
 {% include elements/alert.html 
   class="warning" 
-  content="Besides the credentials for the test/production environments which you will be receiving from us, there is one critical parameter that depends on you, the **`Redirect URI`** for the test/production environments. Please to not forget to mention it in the **`Application Form`**."
+  content="Pored pristupnih podataka za testno/produkciono okruženje koje ćete dobiti od nas, postoji jedan kritičan parametar koji zavisi od vas **`Redirect URI`** za testno/produkciono okruženje. Molimo vas da ne zaboravite da ga navedete u **`Obrascu za prijavu`**."
   title="Redirect URI" 
 %}
 
-# Go live
-Once you finalise the migration to the production environment your integration is live. Any eID holder can use it. We will continue to monitor your integration just to be sure that everything works well and secure. You can benefit on our support services when needed.
+# Prelazak u radno okruženje
+Kada završite migraciju na produkciono okruženje, vaša integracija je aktivna. Svaki korisnik eID-a može je koristiti. Nastavićemo da pratimo vašu integraciju kako bismo bili sigurni da sve funkcioniše ispravno i bezbedno. Po potrebi možete koristiti naše usluge podrške.
 
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="API Support" 
+    text="API podrška" 
     href="https://ks-eid.atlassian.net/servicedesk/customer/portal/1" 
     newTab="true" 
 %}

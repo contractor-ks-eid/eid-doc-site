@@ -1,6 +1,6 @@
 ---
 img: partials/media/intro/eID-img.png
-cardTitle: Digital Id and Seal
+cardTitle: Digitalni ID i pečat
 file: partials/content/intro/id-and-seal-card-text.md
 ---
 

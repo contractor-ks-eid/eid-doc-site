@@ -3,46 +3,46 @@
     {
       "permalink": "/api/api-docs/",
       "keywords": [
-        "authentication",
+        "funkcionalnosti",
+        "skupa",
         "api",
-        "authorise",
-        "wallet",
-        "eid",
-        "strong",
+        "autorizaciju",
         "kosovo",
-        "features",
-        "useful",
-        "requires"
+        "eid",
+        "pruza",
+        "njih",
+        "pokriva",
+        "prijavljivanja"
       ]
     },
     {
       "permalink": "/api/intro/",
       "keywords": [
+        "integracija",
         "api",
-        "integrate",
-        "integrators",
         "eid",
-        "submit",
         "kosovo",
-        "authentication",
-        "backend",
-        "contact",
-        "ask"
+        "postovati",
+        "trecih",
+        "ili",
+        "softver",
+        "poseduje",
+        "uslovima"
       ]
     },
     {
       "permalink": "/sign-apps/intro/",
       "keywords": [
-        "signing",
-        "macos",
-        "certificates",
-        "app",
-        "stamp",
-        "document",
-        "download",
-        "validity",
-        "verify",
-        "desktop"
+        "aplikacije",
+        "ios",
+        "mobilne",
+        "desktop",
+        "dokumenta",
+        "elektronskim",
+        "koristite",
+        "koriscenjem",
+        "sertifikata",
+        "ubuntu"
       ]
     },
     {
@@ -63,76 +63,76 @@
     {
       "permalink": "/sign-apps/sign-office-docs/",
       "keywords": [
-        "signatures",
-        "outlook",
-        "document",
+        "dokumentaciji",
+        "pdf",
         "microsoft",
         "office",
-        "limitations",
-        "password",
-        "client",
-        "certification",
-        "ribbon"
+        "sertifikat",
+        "mail",
+        "funkcionalnosti",
+        "digitalnog",
+        "odmah",
+        "graficki"
       ]
     },
     {
       "permalink": "/wallet/intro/",
       "keywords": [
+        "aplikacija",
+        "novcanik",
         "kosovo",
-        "wallet",
-        "authentication",
-        "application",
-        "developer",
-        "api",
-        "ios",
-        "license",
-        "storing",
-        "google"
+        "kredencijale",
+        "mobilna",
+        "testirajte",
+        "vaseg",
+        "instalirati",
+        "digitalnih",
+        "android"
       ]
     },
     {
       "permalink": "/wallet/use-wallet/",
       "keywords": [
-        "authentication",
-        "credential",
+        "kredencijal",
+        "novcanik",
         "kosovo",
-        "wallet",
-        "notifications",
-        "features",
-        "certificate",
-        "access",
-        "select",
-        "modal"
+        "aplikacijama",
+        "prikazani",
+        "organizovanje",
+        "primenljivo",
+        "funkcionalnost",
+        "sertifikata",
+        "ekosistema"
       ]
     },
     {
       "permalink": "/get-eid/",
       "keywords": [
-        "authentication",
+        "registracije",
         "eid",
-        "wallet",
-        "certificate",
         "enrollment",
         "kosovo",
-        "digitally",
-        "arbk",
+        "digitalnog",
+        "kredencijale",
         "email",
-        "seals"
+        "wallet",
+        "arc",
+        "stamping"
       ]
     },
     {
       "permalink": "/intro/",
       "keywords": [
         "kosovo",
-        "authenticate",
         "eid",
-        "ebanking",
+        "registracije",
+        "instalirajte",
         "certificate",
-        "api",
-        "identities",
-        "enrollment",
-        "wallet",
-        "digitally"
+        "partnerskim",
+        "njima",
+        "digitally",
+        "novcanik",
+        "pecat"
       ]
     },
     {

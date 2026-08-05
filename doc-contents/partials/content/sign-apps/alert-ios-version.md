@@ -1,5 +1,5 @@
 
-You must have at least iOS 13 for installing the mobile signing app.
+Morate imati najmanje iOS 13 za instaliranje mobilne aplikacije za potpisivanje.
 
 {% include elements/image.html 
   source="partials/media/wallet/app-store.svg"

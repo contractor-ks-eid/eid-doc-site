@@ -1,1 +1,1 @@
-This folder can be used to store reusable content. The folder can contain a multi-level structure os sub-folders, as it may be needed.
+Ova fascikla se može koristiti za čuvanje sadržaja koji se može ponovo koristiti. Fascikla može sadržati višeslojnu strukturu podfascikli, u zavisnosti od potreba.

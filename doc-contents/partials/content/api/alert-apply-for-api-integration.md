@@ -1,5 +1,5 @@
 
-Once you filled-in and signed the Application Form (we accept eID based digital signature), you can submit it to us and start the application evaluation.
+Nakon što popunite i potpišete obrazac za prijavu (prihvatamo digitalni potpis zasnovan na eID-u), možete nam ga dostaviti i započeti proces evaluacije prijave.
 
 {% include elements/link-btn.html 
     type="primary" 

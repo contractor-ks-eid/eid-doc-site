@@ -7,12 +7,12 @@
         "permalink": "/api/intro/"
       },
       {
-        "title": "Introduction",
-        "permalink": "/intro/"
+        "title": "Kosovo novčanik",
+        "permalink": "/wallet/intro/"
       },
       {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
+        "title": "Aplikacije za potpisivanje",
+        "permalink": "/sign-apps/intro/"
       }
     ]
   },
@@ -20,16 +20,16 @@
     "permalink": "/api/intro/",
     "related": [
       {
-        "title": "eID API Docs",
-        "permalink": "/api/api-docs/"
-      },
-      {
         "title": "Introduction",
         "permalink": "/intro/"
       },
       {
         "title": "Get eID",
         "permalink": "/get-eid/"
+      },
+      {
+        "title": "eID API Dok",
+        "permalink": "/api/api-docs/"
       }
     ]
   },
@@ -37,16 +37,12 @@
     "permalink": "/sign-apps/intro/",
     "related": [
       {
-        "title": "Sign Documents",
-        "permalink": "/sign-apps/sign-docs/"
-      },
-      {
         "title": "Sign Office Documents",
         "permalink": "/sign-apps/sign-office-docs/"
       },
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
+        "title": "eID API Dok",
+        "permalink": "/api/api-docs/"
       }
     ]
   },
@@ -54,16 +50,16 @@
     "permalink": "/sign-apps/sign-docs/",
     "related": [
       {
-        "title": "Signing Apps",
-        "permalink": "/sign-apps/intro/"
-      },
-      {
-        "title": "Sign Office Documents",
-        "permalink": "/sign-apps/sign-office-docs/"
+        "title": "Introduction",
+        "permalink": "/intro/"
       },
       {
         "title": "Get eID",
         "permalink": "/get-eid/"
+      },
+      {
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
       }
     ]
   },
@@ -71,16 +67,12 @@
     "permalink": "/sign-apps/sign-office-docs/",
     "related": [
       {
-        "title": "Sign Documents",
-        "permalink": "/sign-apps/sign-docs/"
-      },
-      {
-        "title": "Signing Apps",
+        "title": "Aplikacije za potpisivanje",
         "permalink": "/sign-apps/intro/"
       },
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
+        "title": "eID API Dok",
+        "permalink": "/api/api-docs/"
       }
     ]
   },
@@ -88,16 +80,8 @@
     "permalink": "/wallet/intro/",
     "related": [
       {
-        "title": "Use Kosovo Wallet",
-        "permalink": "/wallet/use-wallet/"
-      },
-      {
-        "title": "eID API Docs",
+        "title": "eID API Dok",
         "permalink": "/api/api-docs/"
-      },
-      {
-        "title": "eID API",
-        "permalink": "/api/intro/"
       }
     ]
   },
@@ -105,16 +89,8 @@
     "permalink": "/wallet/use-wallet/",
     "related": [
       {
-        "title": "Kosovo Wallet",
-        "permalink": "/wallet/intro/"
-      },
-      {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
-      },
-      {
-        "title": "eID API Docs",
-        "permalink": "/api/api-docs/"
+        "title": "Introduction",
+        "permalink": "/intro/"
       }
     ]
   },
@@ -122,16 +98,16 @@
     "permalink": "/get-eid/",
     "related": [
       {
+        "title": "Manage eID",
+        "permalink": "/manage-eid/"
+      },
+      {
         "title": "Introduction",
         "permalink": "/intro/"
       },
       {
-        "title": "eID API Docs",
-        "permalink": "/api/api-docs/"
-      },
-      {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
+        "title": "eID API",
+        "permalink": "/api/intro/"
       }
     ]
   },
@@ -143,12 +119,12 @@
         "permalink": "/get-eid/"
       },
       {
-        "title": "eID API Docs",
-        "permalink": "/api/api-docs/"
-      },
-      {
         "title": "eID API",
         "permalink": "/api/intro/"
+      },
+      {
+        "title": "Sign Documents",
+        "permalink": "/sign-apps/sign-docs/"
       }
     ]
   },
@@ -160,8 +136,8 @@
         "permalink": "/get-eid/"
       },
       {
-        "title": "Signing Apps",
-        "permalink": "/sign-apps/intro/"
+        "title": "Sign Documents",
+        "permalink": "/sign-apps/sign-docs/"
       },
       {
         "title": "Introduction",

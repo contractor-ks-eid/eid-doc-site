@@ -1,5 +1,5 @@
 
-Signing or stamping documents with your eID requires the installation of the `signing apps` (desktop and/or mobile) and a `connection to internet`. `Signing apps` are required because each time when you sign a document, your certificate is verified against the national eID database.
+Potpisivanje ili pečaćenje dokumenata pomoću vašeg eID-a zahteva instalaciju `aplikacija za potpisivanje` (desktop i/ili mobilnih) i `internet vezu`. `Aplikacije za potpisivanje` su potrebne zato što se svaki put kada potpisujete dokument vaš sertifikat proverava u odnosu na nacionalnu eID bazu podataka.
 
 {% include elements/link-btn.html 
     type="primary" 

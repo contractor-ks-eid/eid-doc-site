@@ -1,22 +1,22 @@
 Permalink: /api/api-docs/
 File: _api/api-docs.md
-Language detected: en
-No misspellings detected.
+Language detected: hr
+Language not supported for spellcheck (possible missing dictionary).
 
 Permalink: /api/intro/
 File: _api/intro.md
-Language detected: en
-No misspellings detected.
+Language detected: hr
+Language not supported for spellcheck (possible missing dictionary).
 
 Permalink: /get-eid/
 File: get-eid.md
 Language detected: en
-No misspellings detected.
+Misspelled words: ako, autentifikacije, biste, budućnosti, da, digitalnim, digitalno, digitalnog, dokumenata, dostupne, dostupnim, drugim, ili, imali, isključivo, kako, kasnije, koje, koristite, koristiti, kredencijale, međutim, mogu, možete, nameravate, ne, neophodan, nije, novčanik, novčaniku, om, pečata, pečatom, postati, potpisivanje, povezali, povežete, preporučujemo, pristup, procesa, registracije, sa, samousluživanje, slučaju, svakom, svog, svoj, tokom, ukoliko, uslugama, za, čak, čuvate
 
 Permalink: /intro/
 File: intro.md
-Language detected: en
-No misspellings detected.
+Language detected: hr
+Language not supported for spellcheck (possible missing dictionary).
 
 Permalink: /manage-eid/
 File: manage-eid.md
@@ -25,8 +25,8 @@ No misspellings detected.
 
 Permalink: /sign-apps/intro/
 File: _sign-apps/intro.md
-Language detected: en
-No misspellings detected.
+Language detected: hr
+Language not supported for spellcheck (possible missing dictionary).
 
 Permalink: /sign-apps/sign-docs/
 File: _sign-apps/sign-docs.md
@@ -35,16 +35,16 @@ No misspellings detected.
 
 Permalink: /sign-apps/sign-office-docs/
 File: _sign-apps/sign-msoffice.md
-Language detected: en
-No misspellings detected.
+Language detected: hr
+Language not supported for spellcheck (possible missing dictionary).
 
 Permalink: /wallet/intro/
 File: _wallet/intro.md
-Language detected: en
-No misspellings detected.
+Language detected: hr
+Language not supported for spellcheck (possible missing dictionary).
 
 Permalink: /wallet/use-wallet/
 File: _wallet/use-wallet.md
-Language detected: en
-No misspellings detected.
+Language detected: hr
+Language not supported for spellcheck (possible missing dictionary).
 

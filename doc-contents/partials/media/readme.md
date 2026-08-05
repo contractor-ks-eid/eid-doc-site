@@ -1,1 +1,1 @@
-This folder can be used to store media files (images). The folder can contain a multi-level structure os sub-folders, as it may be needed.
+Ova fascikla se može koristiti za čuvanje medijskih datoteka (slika). Fascikla može sadržati višeslojnu strukturu podfascikli, u zavisnosti od potreba.
