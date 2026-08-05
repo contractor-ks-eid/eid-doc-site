@@ -42,15 +42,15 @@
 
             {% case key %}
                 {% when "source" %}
-                    {% assign source = val %}
+                    {% assign source = val | strip %}
                 {% when "caption" %}
-                    {% assign caption = val %}
+                    {% assign caption = val | strip %}
                 {% when "captionBorder" %}
-                    {% assign captionBorder = val %}
+                    {% assign captionBorder = val | strip %}
                 {% when "imgLink" %}
-                    {% assign imgLink = val  %}
+                    {% assign imgLink = val | strip %}
                 {% when "imgLinkNewTab" %}
-                    {% assign imgLinkNewTab = val %}
+                    {% assign imgLinkNewTab = val | strip %}
             {% endcase %}
         {% endfor %}
 
