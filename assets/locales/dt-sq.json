@@ -1,6 +1,6 @@
 {
     "emptyTable": "Nuk ka të dhëna në tabelë",
-    "info": "Duke shfaqur_deri në_ to _END_ nga gjithsej _TOTAL_ regjistrime",
+    "info": "Duke shfaqur_START_ to _END_ nga gjithsej _TOTAL_ regjistrime",
     "infoEmpty": "Duke shfaqur 0 deri në 0 nga 0 regjistrime",
     "infoFiltered": "(filtruar nga gjithsej _MAX_ regjistrime)",
     "infoThousands": ",",
