@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction
+title: Hyrje
 permalink: /intro/
 categories: [Të përgjithshme]
 tags: [dok, Kuleta, Regjistrimi, Integrimi, Nënshkrimi, Vula, Identiteti]
