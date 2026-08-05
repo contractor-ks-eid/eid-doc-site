@@ -125,16 +125,16 @@ just_the_docs:
       nav_fold: true
 
     wallet:
-      name: Kosovo Wallet
+      name: Novčanik
       nav_fold: true
 
     sign-apps:
-      name: Sign and Stamp
+      name: Potpis i pečat
       nav_fold: true
 
     # default collections (last position(s)) --- do not modify
     tools:
-      name: Tools
+      name: Alati
       nav_fold: true
 
 # MARKER COLLECTIONS END
