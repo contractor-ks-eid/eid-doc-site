@@ -1,5 +1,5 @@
 
-`eID API` allows any 3rd party eService provider (from public administration or private sector) to integrate strong authentication with Kosovo wallet and document signing/stamping directly in their systems.
+`eID API` u mundëson çdo ofruesi të shërbimeve elektronike të palës së tretë (nga administrata publike ose sektori privat) të integrojë autentifikimin e fortë me Kosovo Wallet dhe nënshkrimin/vulosjen e dokumenteve drejtpërdrejt në sistemet e tyre.
 
 {% include elements/link-btn.html 
     type="primary" 

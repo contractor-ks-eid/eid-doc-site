@@ -1,1 +1,1 @@
-Apply for eID API integration and get onboard. Let your users to login with the wallet and sign documents directly from your app.
+Aplikoni për integrimin me eID API dhe bëhuni pjesë e ekosistemit. Lejoni përdoruesit tuaj të kyçen me kuletën dhe të nënshkruajnë dokumente drejtpërdrejt nga aplikacioni juaj.

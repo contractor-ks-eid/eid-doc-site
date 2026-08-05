@@ -1,5 +1,5 @@
 
-Download here the Root Certificate.
+Shkarkoni këtu Root Certificate.
 
 {% include elements/downloads.html 
     type="primary" 

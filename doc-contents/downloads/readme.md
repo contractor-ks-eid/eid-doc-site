@@ -1,1 +1,1 @@
-This folder can be used to store the downloads. The folder can contain a multi-level structure os sub-folders, as it may be needed.
+Kjo dosje mund të përdoret për ruajtjen e shkarkimeve. Dosja mund të përmbajë një strukturë shumë-nivelëshe të nën-dosjeve, sipas nevojës.

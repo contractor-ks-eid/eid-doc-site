@@ -1,5 +1,5 @@
 
-You must have at least macOS 11.0 for installing the signing app.
+Duhet të keni të paktën macOS 11.0 për të instaluar aplikacionin e nënshkrimit.
 
 {% include elements/downloads.html 
     type="primary" 

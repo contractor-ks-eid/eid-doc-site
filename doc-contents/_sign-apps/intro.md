@@ -1,32 +1,32 @@
 ---
 layout: page
-title: Signing Apps
+title: Aplikacionet e nënshkrimit
 permalink: /sign-apps/intro/
-categories: [Signature, Seal]
-tags: [seal, signature, identity]
+categories: [Nënshkrimi,  Vula]
+tags: [vula, nënshkrimi, identiteti]
 nav_order: 1
 start: true
 ---
 
-# Intro
-The desktop and mobile signing apps are used to allow using the electronic ID for signing and stamping documents. The desktop signing app is available for Windows, MacOS and Linux (Ubuntu distro). The mobile signing app is available for iOS and Android. Installation and usage, without any limitations, are free of charge.
+# Hyrje
+Aplikacionet e nënshkrimit për desktop dhe pajisje mobile përdoren për të mundësuar përdorimin e identitetit elektronik për nënshkrimin dhe vulosjen e dokumenteve. Aplikacioni i nënshkrimit për desktop është i disponueshëm për Windows, macOS dhe Linux (distribucioni Ubuntu). Aplikacioni i nënshkrimit për pajisje mobile është i disponueshëm për iOS dhe Android. Instalimi dhe përdorimi, pa asnjë kufizim, janë pa pagesë.
 
-# Purpose
-In the context of Kosovo eID, the purpose of the signing apps is to verify the certificate that you want to use for signing or stamping against the eID database and to not allow signature for invalid certificates.
+# Qëllimi
+Në kuadër të eID-së së Kosovës, qëllimi i aplikacioneve të nënshkrimit është të verifikojnë certifikatën që dëshironi ta përdorni për nënshkrim ose vulosje kundrejt bazës së të dhënave eID dhe të mos lejojnë nënshkrimin për certifikata të pavlefshme.
 
 {% include elements/alert.html 
   class="primary" 
-  content="Using a signing app may be considered as a main difference between signing documents with your national ID and signing with any other certificate. By using such signing apps any person inspecting the document can be sure that the signature belongs to a citizen of Kosovo having a valid national electronic ID. In case of digital seal, any person inspecting the document can be sure that the stamp was applied by somebody who is fully authorised by a company to stamp company's documents."
-  title="Important"
+  content="Përdorimi i një aplikacioni të nënshkrimit mund të konsiderohet si dallimi kryesor ndërmjet nënshkrimit të dokumenteve me identitetin tuaj kombëtar dhe nënshkrimit me çdo certifikatë tjetër. Përmes përdorimit të këtyre aplikacioneve të nënshkrimit, çdo person që verifikon dokumentin mund të jetë i sigurt se nënshkrimi i përket një qytetari të Kosovës që posedon një identitet elektronik kombëtar të vlefshëm. Në rastin e vulës elektronike, çdo person që verifikon dokumentin mund të jetë i sigurt se vula është aplikuar nga një person i cili është plotësisht i autorizuar nga një kompani për të vulosur dokumentet e kompanisë."
+  title="E rëndësishme"
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="The signing apps are checking the validity of your certificate each time when you use that certificate. For this reason you will need to have a functional internet connection when signing/stamping documents."
-  title="Important"
+  content="Aplikacionet e nënshkrimit kontrollojnë vlefshmërinë e certifikatës suaj sa herë që e përdorni atë certifikatë. Për këtë arsye, gjatë nënshkrimit/vulosjes së dokumenteve do t’ju nevojitet një lidhje funksionale me internetin."
+  title="E rëndësishme"
 %}
 
-# Install
+# Instalimi
 
 ## Desktop
 {% include elements/scroll-spy.html
@@ -39,7 +39,7 @@ In the context of Kosovo eID, the purpose of the signing apps is to verify the c
     spyBorder="true"
 %}
 
-## Mobile
+## Pajisje mobile
 {% include elements/scroll-spy.html
     source="partials/content/sign-apps/install-tabs-mobile" 
     h="200px" 
@@ -50,13 +50,13 @@ In the context of Kosovo eID, the purpose of the signing apps is to verify the c
     spyBorder="true"
 %}
 
-# Support
-We offer technical support for users of signing apps.
+# Mbështetja
+Ne ofrojmë mbështetje teknike për përdoruesit e aplikacioneve të nënshkrimit.
 
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="User support" 
+    text="Mbështetja për përdoruesit" 
     href="https://ks-eid.com/support" 
     newTab="true" 
 %}

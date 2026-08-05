@@ -1,1 +1,1 @@
-Get your digital ID and/or seal(s) through the enrollment process and manage them with the self-service portal.
+Merrni ID-në tuaj digjitale dhe/ose vulën/vulat tuaja elektronike përmes procesit të regjistrimit dhe menaxhojini ato me portalin e vetë-shërbimit.

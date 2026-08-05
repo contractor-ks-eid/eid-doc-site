@@ -1,9 +1,9 @@
 
-Getting the `electronic ID` and/or the `digital Seal` require physical presence at the counter. The registration officer will verify your national ID, will collect your personal data and will issue the digital certificate(s) based on your personal data.
+Marrja e `ID-së elektronike` dhe/ose `Vulës digjitale` kërkon praninë fizike në sportel. Zyrtari i regjistrimit do të verifikojë letërnjoftimin tuaj, do të mbledhë të dhënat tuaja personale dhe do të lëshojë certifikatën/certifikatat digjitale bazuar në të dhënat tuaja personale.
 
 {% capture buttons %}
-    type=primary|outline=false|text=Manage eID|href="/manage-eid/"|newTab=false,
-    type=success|outline=false|text=Kosovo Wallet|href="/wallet/intro/"|newTab=false
+    type=primary|outline=false|text=Menaxho eID|href="/manage-eid/"|newTab=false,
+    type=success|outline=false|text=Kuleta e Kosovës|href="/wallet/intro/"|newTab=false
 {% endcapture %}
 
 {% include elements/link-btn-group.html buttons=buttons %}

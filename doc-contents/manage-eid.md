@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Manage eID
+title: Menaxhimi i eID-së
 permalink: /manage-eid/
-categories: [Certificates]
-tags: [wallet, self-service, identity, seal]
+categories: [Certifikatat]
+tags: [Kuleta, vetë-shërbim, Identiteti, Vula]
 nav_order: 3
 ---
 
-# Intro
-The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password). The self service portal can be accessed from any browser, from desktop and from mobile devices.
+# Hyrje
+Portali i vetë-shërbimit është mjeti që ju mundëson të menaxhoni certifikatën(at) tuaja dhe të migroni Kuletën kur ndërroni pajisjen tuaj. Për të hyrë në Portalin e Vetë-shërbimit, ju nevojiten të dhënat e certifikatës që keni marrë gjatë procesit të regjistrimit (emri i përdoruesit dhe fjalëkalimi i certifikatës). Portali i Vetë-shërbimit mund të aksesohet nga çdo shfletues, si në kompjuter ashtu edhe në pajisjet mobile.
 
-# Lost info
-In the case when you did not save the certificate information, the self **`service portal allows you to change or recover the missing part of the certificate information`**. What you need to **`always remember is the email used for enrollment and your Kosovo personal number`**. Using this information and following the instructions **`you can recover the Emergengy Recovery Code (ERC) and your user name or you can reset your password`**.
+# Humbja e të dhënave
+Në rast se nuk i keni ruajtur të dhënat e certifikatës, Portali i Vetë **`shërbimit ju mundëson të ndryshoni ose të rikuperoni informacionin që mungon`**. Të dhënat që duhet **`t’i mbani gjithmonë mend janë adresa e emailit e përdorur gjatë regjistrimit dhe numri juaj personal i Kosovës`**. Duke përdorur këto të dhëna dhe duke ndjekur udhëzimet **`mund të rikuperoni Kodin e Rikuperimit Emergjent (ERC), emrin e përdoruesit ose të rivendosni fjalëkalimin tuaj`**.
 
 {% include elements/link-btn.html 
     type="primary" 
@@ -23,19 +23,19 @@ In the case when you did not save the certificate information, the self **`servi
 
 {% include elements/alert.html 
   class="warning" 
-  content="Be aware that the certificate information belongs to a specific certificates. For example, if you have one digital ID and two digital seals you will have 3 sets of certificate information (user name, password, ERC)."
-  title="Self service login"
+  content="Kini parasysh se të dhënat e certifikatës janë unike për secilën certifikatë. Për shembull, nëse keni një identitet elektronik dhe dy vula elektronike, do të dispononi tri grupe të ndryshme të dhënash të certifikatës (emrin e përdoruesit, fjalëkalimin dhe Kodin e Rikuperimit Emergjent (ERC))"
+  title="Hyrja në Portalin e Vetë-shërbimit"
 %}
 
-# Functionality
+# Funksionalitetet
 
-## Profile info
-You can see your profile information by accessing the related option after click on the user icon on the top-right of the screen.
+## Të dhënat e profilit
+Të dhënat e profilit tuaj mund t’i shihni duke zgjedhur opsionin përkatës pasi të klikoni ikonën e përdoruesit në këndin e sipërm djathtas të ekranit.
 
 {% include elements/alert.html 
   class="primary" 
-  content="Your profile information is encoded in the certificate at enrollment time, thus you are not allowed to modify it in the self-service portal. The only information related to your profile that you can modify is the password for accessing the self-service portal."
-  title="Profile info"
+  content="Të dhënat e profilit tuaj kodohen në certifikatë gjatë procesit të regjistrimit, prandaj ato nuk mund të ndryshohen përmes Portalit të Vetë-shërbimit. I vetmi informacion i profilit që mund të ndryshoni është fjalëkalimi për qasje në Portalin e Vetë-shërbimit."
+  title="Të dhënat e profilit"
 %}
 
 {% capture img %}
@@ -50,8 +50,8 @@ You can see your profile information by accessing the related option after click
   oneRow="all" 
 %}
 
-## Security info
-You can manage the certification security information by clicking the **`User Information`** option from the left sidebar menu. Using this option you can change the PIN or PUK and you can recover the Emergency Recovery Code (ERC) as well as you can unlock the PIN in case it was locked by 3 times wrong PIN usage.
+## Të dhënat e sigurisë
+Informacionin e sigurisë së certifikatës mund ta menaxhoni duke zgjedhur opsionin **`User Information`** nga menyja anësore në të majtë. Përmes këtij opsioni mund të ndryshoni PIN-in ose PUK-un, të rikuperoni Kodin e Rikuperimit Emergjent (ERC), si dhe të zhbllokoni PIN-in në rast se është bllokuar pas tri përpjekjeve të pasuksesshme për ta vendosur atë.
 
 {% capture img %}
     source="partials/media/manage-eid/cert-info.png"|caption="Security Info"|captionBorder="true",
@@ -65,24 +65,24 @@ You can manage the certification security information by clicking the **`User In
   oneRow="all" 
 %}
 
-## Manage certificate
-You can manage the certification security information by clicking the **`Identity management`** option from the left sidebar menu. 
+## Menaxhimi i certifikatës
+Menaxhimin e certifikatës mund ta kryeni duke zgjedhur opsionin **`Menaxhimi i identitetit`** nga menyja anësore në të majtë. 
 
-The operations that you can do are:
-- **`Revoke certificate`**: revoke your certificate in case you believe it was compromised or if you simply don't want to use it anymore
-- Download your certificate: download a local copy of the certificate
-- Connect or **`Migrate wallet`**: connect your wallet if you did not do it during enrollment or move the wallet on another mobile phone
+Përmes këtij seksioni mund të kryeni këto veprime:
+- **`Revokoni certifikatën`**: Revokoni certifikatën nëse dyshoni se është komprometuar ose nëse nuk dëshironi ta përdorni më.no lij
+- Shkarkoni certifikatën: Shkarkoni një kopje lokale të certifikatës.
+- Lidhni ose **`migroni Kuletën`**: Lidhni Kuletën nëse nuk e keni bërë gjatë procesit të regjistrimit ose migrojeni atë në një pajisje tjetër celulare.
 
 {% include elements/alert.html 
   class="warning" 
-  content="Be aware that a certificate credentials can be active on a single mobile phone. Migrating the wallet to a new phone will automatically disable the certificate credentials on the initial one. Be also aware that the **`phone on which the certificate credentials is stored must have the phone number you were using during the enrollment`**."
-  title="Migrate wallet"
+  content="Kini parasysh se kredencialet e certifikatës mund të jenë aktive vetëm në një pajisje celulare. Migrimi i Kuletës në një pajisje të re do t’i çaktivizojë automatikisht kredencialet e certifikatës në pajisjen e mëparshme. Gjithashtu, sigurohuni që **`pajisja celulare në të cilën ruhen kredencialet e certifikatës të përdorë të njëjtin numër telefoni që është përdorur gjatë procesit të regjistrimit`**."
+  title="Migroni Kuletën"
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="Be aware that **`there is no way to un-revoke a revoked certificate`**. You may have to pass again through the enrollment process at one ARC or ARBK office to get a new certificate."
-  title="Revoke certificate"
+  content="Kini parasysh se **`një certifikatë e revokuar nuk mund të rikthehet në gjendjen e mëparshme`**. Për t'u pajisur me një certifikatë të re, mund t'ju duhet ta kaloni përsëri procesin e regjistrimit në një nga zyrat e ARC-së ose ARBK-së."
+  title="Revokoni certifikatën"
 %}
 
 {% capture img %}
@@ -97,6 +97,6 @@ The operations that you can do are:
   oneRow="all" 
 %}
 
-## Certificate contract
-You can access and download the contract between you and the Government for using the certificate by clicking the **`My contracts`** option from the left sidebar menu. The contract is in PDF format and is signed with the certificate during the enrollment process.
+## Kontrata e certifikatës
+Kontratën ndërmjet jush dhe Qeverisë së Republikës së Kosovës për përdorimin e certifikatës mund ta shihni dhe ta shkarkoni duke zgjedhur opsionin **`Kontratat e mia`** nga menyja anësore në të majtë. Kontrata është në format PDF dhe është nënshkruar me certifikatën gjatë procesit të regjistrimit.
 

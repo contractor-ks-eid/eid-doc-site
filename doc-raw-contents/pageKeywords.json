@@ -3,61 +3,61 @@
     {
       "permalink": "/intro/",
       "keywords": [
-        "kosovo",
-        "authenticate",
+        "kosoves",
+        "certifikate",
+        "sistemi",
         "eid",
-        "ebanking",
-        "certificate",
-        "api",
-        "identities",
-        "enrollment",
-        "wallet",
-        "digitally"
+        "dokumente",
+        "eshte",
+        "kombetar",
+        "nenshkrimi",
+        "elektronike",
+        "dhe"
       ]
     },
     {
       "permalink": "/get-eid/",
       "keywords": [
-        "authentication",
+        "pajisja",
+        "regjistrimi",
+        "verifikimit",
+        "zgjat",
+        "procesi",
+        "kosoves",
+        "dokumenteve",
+        "nevojshme",
         "eid",
-        "wallet",
-        "certificate",
-        "enrollment",
-        "kosovo",
-        "digitally",
-        "arbk",
-        "email",
-        "seals"
+        "eshte"
       ]
     },
     {
       "permalink": "/manage-eid/",
       "keywords": [
-        "certificates",
-        "password",
-        "portal",
-        "access",
-        "self",
-        "service",
-        "enrollment",
-        "profile",
-        "unlock",
-        "user"
+        "certifikate",
+        "vete",
+        "portali",
+        "shfletues",
+        "mjeti",
+        "regjistrimit",
+        "pajisjen",
+        "dhena",
+        "gjate",
+        "ndryshme"
       ]
     },
     {
       "permalink": "/wallet/intro/",
       "keywords": [
-        "kosovo",
-        "wallet",
-        "authentication",
-        "application",
-        "developer",
-        "api",
-        "ios",
-        "license",
-        "storing",
-        "google"
+        "kuleta",
+        "kredencialet",
+        "kosove",
+        "instalohet",
+        "aplikacion",
+        "aplikimi",
+        "qellimi",
+        "eshte",
+        "mobil",
+        "elektronike"
       ]
     },
     {
@@ -108,16 +108,16 @@
     {
       "permalink": "/wallet/use-wallet/",
       "keywords": [
-        "authentication",
-        "credential",
+        "kredenciali",
         "kosovo",
-        "wallet",
-        "notifications",
-        "features",
-        "certificate",
-        "access",
-        "select",
-        "modal"
+        "certifikates",
+        "qasje",
+        "kuader",
+        "paraqitura",
+        "funksionalitetesh",
+        "cilat",
+        "njoftimet",
+        "perkatese"
       ]
     },
     {
@@ -138,16 +138,16 @@
     {
       "permalink": "/sign-apps/sign-office-docs/",
       "keywords": [
-        "signatures",
-        "outlook",
-        "document",
+        "dokumentet",
+        "pdf",
+        "certifikaten",
         "microsoft",
         "office",
-        "limitations",
-        "password",
-        "client",
-        "certification",
-        "ribbon"
+        "elektronike",
+        "konfigurime",
+        "nenshkrimi",
+        "skedareve",
+        "cdo"
       ]
     }
   ]

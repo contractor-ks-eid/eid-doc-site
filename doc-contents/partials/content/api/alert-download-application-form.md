@@ -1,10 +1,10 @@
 
-Download the API integration Application Form to understand more about what would be the conditions that must be respected for using eID features inside your system.
+Shkarkoni Formularin e Aplikimit për Integrimin API për të kuptuar më shumë rreth kushteve që duhet të respektohen për përdorimin e funksionaliteteve të eID brenda sistemit tuaj.
 
 {% include elements/downloads.html 
     type="primary" 
     outline="false" 
-    text="Download" 
+    text="Shkarko" 
     file="api/eID-application-form.docx"
     downloadName="eID-application-form.docx" 
     downloadsDir="true"   

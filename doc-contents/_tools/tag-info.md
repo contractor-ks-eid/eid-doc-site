@@ -1,7 +1,7 @@
 ---
 layout: tag
 permalink: /tag-info
-title: Tags
+title: Etiketat
 nav_order: 3
-excerpt: "Explore site tags and your own custom tags. Organise as you want by using custom tags."
+excerpt: "Eksploroni etiketat e faqes dhe etiketat tuaja të personalizuara. Organizojini sipas dëshirës duke përdorur etiketa të personalizuara."
 ---

@@ -1,5 +1,5 @@
 
-You must have at least Ubuntu 20.04 for installing the signing app.
+Duhet të keni të paktën Ubuntu 20.04 për të instaluar aplikacionin e nënshkrimit.
 
 {% include elements/downloads.html 
     type="primary" 

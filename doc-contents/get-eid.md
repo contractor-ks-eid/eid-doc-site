@@ -1,25 +1,25 @@
 ---
 layout: page
-title: Get eID
+title: Pajisuni me eID
 permalink: /get-eid/
-categories: [Enrollment, Certificates]
-tags: [wallet, enrollment, identity, seal]
+categories: [Regjistrimi, Certifikatat]
+tags: [Kuleta, Regjistrimi, Identiteti, Vula]
 nav_order: 2
 ---
 
-# Intro
-Getting your eID is quick and straightforward. To obtain an electronic ID, you will need to go through the enrollment process at the Civil Registration Offices (ARC). For a digital Seal, the process takes place at the Kosovo Business Registration Agency (ARBK).
+# Hyrje
+Pajisja me eID është një proces i shpejtë dhe i thjeshtë. Për t'u pajisur me identitet elektronik, duhet të kaloni procesin e regjistrimit në zyrat e Agjencisë së Regjistrimit Civil (ARC). Për t'u pajisur me vulë elektronike, procesi zhvillohet në Agjencinë për Regjistrimin e Bizneseve të Kosovës (ARBK).
 
-For now, online enrollment is not available. This is intentional, to ensure the highest possible level of assurance and identity verification.
+Aktualisht, regjistrimi online nuk ofrohet. Kjo është bërë për të garantuar nivelin më të lartë të sigurisë dhe verifikimit të identitetit.
 
-During enrollment, a Registration Officer will verify your identity, collect the necessary data to issue your digital ID or Seal, and — if needed — help you store your credentials safely in your Wallet. The whole process usually takes no more than 5 minutes.
+Gjatë procesit të regjistrimit, një zyrtar i regjistrimit do të verifikojë identitetin tuaj, do të mbledhë të dhënat e nevojshme për lëshimin e identitetit ose vulës elektronike dhe, nëse është e nevojshme, do t'ju ndihmojë t'i ruani në mënyrë të sigurt kredencialet tuaja në Kuletë. I gjithë procesi zakonisht zgjat jo më shumë se 5 minuta.
 
-# What do you need
-To get your eID or digital Seal(s) you will need:
-- your **`Kosovo ID`** card for eID or a **`recognised ID document`** for the digital seal
-- a **`mobile phone`** (iOS or Android) with **`Kosovo phone number`** and **`mobile data connection`**
-- an **`email account`** configured and readable from the mobile phone
-- only for the digital seals you need a **`valid Power of Attorney`** from a company stating that you are in title to receive a digital seal for stamping company documents
+# Çfarë ju nevojitet
+Për t'u pajisur me identitet elektronik ose vulë(a) elektronike, ju nevojiten:
+- **`Letërnjoftimi i Kosovës`** për identitetin elektronik ose një **`dokument identifikimi të pranuar`** për vulën elektronike.
+- Një **`telefon celular`** (iOS ose Android) me **`numër telefoni të Kosovës`** dhe **`lidhje aktive në internet përmes të dhënave celulare`**
+- Një **`adresë emaili`** e konfiguruar dhe e qasshme nga telefoni celular
+- Vetëm për vulën elektronike një **`Prokurë e vlefshme`** nga kompania, që vërteton se jeni i autorizuar të pajiseni me vulë elektronike për vulosjen e dokumenteve të kompanisë
 
 {% capture c %}
     {% ExternalSiteContent  {
@@ -38,79 +38,79 @@ To get your eID or digital Seal(s) you will need:
 {% include elements/alert.html 
   class="primary" 
   content=c 
-  title="Kosovo Wallet"
+  title="Kuleta e Kosovës"
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="For Kosovo Wallet you need minimum iOS 13 or Android 5.0."
-  title="Mobile OS" 
+  content="Për Kuletën e Kosovës nevojitet së paku iOS 13 ose Android 5.0."
+  title="Sistemi operativ mobil" 
 %}
 
-# Enrollment
-The enrollment process will be carried out in several steps:
+# Regjistrimi
+Procesi i regjistrimit do të realizohet në disa hapa:
 
-## Collect data
-The registration officer **`collects your personal data`**, scans and store the pictures of the front and back of your ID card (or your ID document and the Power of Attorney for digital seals)
+## Mbledhja e të dhënave
+Zyrtari i regjistrimit **`mbledh të dhënat tuaja personale`**, skanon dhe ruan fotografitë e pjesës së përparme dhe të pasme të letërnjoftimit tuaj (ose dokumentit tuaj të identifikimit dhe Prokurës për vulat elektronike)
 
-## Verify contact
-The registration officer **`verifies your contact information`**. You will receive an email and you must open it on your mobile phone. Click the link from that email, accept the Term and Conditions and ask for a One Time Password (OTP). You will receive an SMS with a code; you have to input that code into the dedicated space and to send it. Once the code is received by the system, your contact information has been verified.
+## Verifikimi i kontaktit
+Zyrtari i regjistrimit **`verifikon të dhënat tuaja të kontaktit`**. Do të pranoni një email të cilin duhet ta hapni në telefonin tuaj celular. Klikoni lidhjen në atë email, pranoni Kushtet dhe Rregullat dhe kërkoni një Fjalëkalim njëpërdorimësh (OTP). Do të pranoni një SMS me një kod; duhet ta vendosni atë kod në fushën përkatëse dhe ta dërgoni. Pasi kodi të pranohet nga sistemi, të dhënat tuaja të kontaktit do të jenë verifikuar.
 
 {% include elements/alert.html 
   class="danger" 
-  content="Once your contact information has been verified, it cannot be changed anymore"
-  title="Contact information"
+  content="Pasi të jenë verifikuar të dhënat tuaja të kontaktit, ato nuk mund të ndryshohen më"
+  title="Të dhënat e kontaktit"
 %}
 
-## Approve request
-The registration officer will **`approve your request for issuing a digital ID (or seal)`**. You will receive another email with a code protected PDF file attached and a new SMS message containing the code for opening the PDF file. The email contains important information about your certificate such as **`your user name and Emergency Recovery Code (ERC)`** and the **`PDF contains the password associated to your user name`**. The email contains also a link you have to click to continue the enrollment with the next steps.
+## Miratimi i kërkesës
+Zyrtari i regjistrimit do të **`miratojë kërkesën tuaj për lëshimin e identitetit elektronik (ose vulës elektronike)`**. Do të pranoni një email tjetër me një skedar PDF të mbrojtur me kod, si dhe një mesazh të ri SMS që përmban kodin për hapjen e skedarit PDF. Emaili përmban të dhëna të rëndësishme për certifikatën tuaj, si **`emrin e përdoruesit dhe Kodin e Rikuperimit Emergjent (ERC)`** ndërsa skedari **`PDF përmban fjalëkalimin e lidhur me emrin tuaj të përdoruesit`**. Emaili përmban gjithashtu një lidhje të cilën duhet ta klikoni për të vazhduar me hapat e mëtejshëm të regjistrimit.
 
 {% include elements/alert.html 
   class="warning" 
-  content="You will need the user name, password and Emergency Recovery Code (ERC) to access the self-service portal and manage your certificate. We recommend to save this information in a safe location which can be on your phone, but protected by your biometrics or a strong password."
-  title="Certificate information"
+  content="Për të hyrë në Portalin e Vetë-shërbimit dhe për të menaxhuar certifikatën tuaj, do t'ju nevojiten emri i përdoruesit, fjalëkalimi dhe Kodi i Rikuperimit Emergjent (ERC). Rekomandohet që këto të dhëna t’i ruani në një vend të sigurt, i cili mund të jetë edhe në telefonin tuaj, por i mbrojtur me të dhënat tuaja biometrike ose me një fjalëkalim të fortë."
+  title="Të dhënat e certifikatës"
 %}
 
 {% include elements/alert.html 
   class="primary" 
-  content="The certificate information is associated with only one certificate. This means that you may have multiple sets of such type of information if you will have a digital ID and multiple digital seals."
-  title="Certificate information"
+  content="Të dhënat e certifikatës janë të lidhura vetëm me një certifikatë të vetme. Kjo do të thotë se mund të keni disa grupe të këtyre të dhënave nëse do të keni një identitet elektronik dhe disa vula elektronike."
+  title="Të dhënat e certifikatës"
 %}
 
 {% include elements/alert.html 
   class="primary" 
-  content="Do not panic if you forget/lose the certificate information, the self-service portal provides you with features that will help you to recover/change them."
-  title="Forgetting information"
+  content="Mos u shqetësoni nëse harroni ose humbni të dhënat e certifikatës. Portali i Vetë-shërbimit ofron funksionalitete që ju ndihmojnë t’i rikuperoni ose ndryshoni ato."
+  title="Rikuperimi i të dhënave"
 %}
 
-## Security info
-Click on the link from the last email you received and you will be directed to the next steps which are **`setting the certificate security information (PIN and PUK)`** and **`connecting the wallet`** to store the certificate credentials into it. Read and accept the **`contract between you and the Government for using the certificate`**. Set the PIN and PUK and advance to the **`Connect Wallet`** or **`Sign`** step. 
+## Të dhënat e sigurisë
+Klikoni lidhjen në emailin e fundit që keni pranuar dhe do të drejtoheni te hapat e mëtejshëm, të cilët përfshijnë **`vendosjen e të dhënave të sigurisë së certifikatës (PIN dhe PUK)`** dhe **`lidhjen e Kuletës`** për të ruajtur kredencialet e certifikatës në të. Lexoni dhe pranoni **`kontratën ndërmjet jush dhe Qeverisë për përdorimin e certifikatës`**. Vendosni PIN-in dhe PUK-un dhe vazhdoni te hapi **`Lidhni Kuletën`** ose **`Nënshkrimi`**. 
 
-## Connect wallet
-If you want to connect the wallet during enrollment, select **`Connect Wallet`**.
+## Lidhni Kuletën
+Nëse dëshironi ta lidhni Kuletën gjatë procesit të regjistrimit, zgjidhni **`Lidhni Kuletën`**.
 
 {% include elements/alert.html 
   class="primary" 
-  content="We highly recommend to connect your wallet during the enrollment process because the registration officer is there to assist you if something does not goes as expected. However, using the self-service portal you can connect your wallet later."
-  title="Connect wallet"
+  content="Rekomandohet fuqimisht që ta lidhni Kuletën gjatë procesit të regjistrimit, pasi zyrtari i regjistrimit është i pranishëm për t'ju ndihmuar nëse diçka nuk funksionon siç pritet. Megjithatë, përmes Portalit të Vetë-shërbimit mund ta lidhni Kuletën edhe më vonë."
+  title="Lidhni Kuletën"
 %}
 
-## Sign certificate
-The last step is to **`sign the certificate`**. You have to click on **`Sign`**, wait for another One Time Password (SMS message), input it in the related place and send it back. Then your new certificate will be **`issued and will become valid for the next 2 years`**.
+## Nënshkruani certifikatën
+Hapi i fundit është **`nënshkrimi i certifikatës`**. Duhet të klikoni **`Nënshkruaj`**, të prisni për një Fjalëkalim njëpërdorimësh (mesazh SMS), ta vendosni atë në fushën përkatëse dhe ta dërgoni. Më pas, certifikata juaj e re do të **`lëshohet dhe do të jetë e vlefshme për 2 vitet e ardhshme`**.
 
 {% include elements/alert.html 
   class="primary" 
-  content="Do not panic if you forget/lose the PIN or PUK, the self-service portal provides you with features that will help you to recover/change them."
+  content="Mos u shqetësoni nëse harroni ose humbni PIN-in ose PUK-un. Portali i Vetë-shërbimit ofron funksionalitete që ju ndihmojnë t’i rikuperoni ose ndryshoni ato."
   title="PIN/PUK"
 %}
 
-# Enrollment moments
+# Momentet e regjistrimit
 {% capture img %}
-    source="partials/media/get-eid/verify-contacts.png"|caption="Verify Contacts"|captionBorder="true",
-    source="partials/media/get-eid/request-approved.png"|caption="Request Approved"|captionBorder="true",
-    source="partials/media/get-eid/end-of-enrollment-wallet-not-connected.png"|caption="End of Enrollment (wallet not connected)"|captionBorder="true",
-    source="partials/media/get-eid/end-of-enrollment-wallet-connected.png"|caption="End of Enrollment (wallet connected)"|captionBorder="true",
-    source="partials/media/get-eid/end-of-enrollment-wallet.png"|caption="End of Enrollment (wallet)"|captionBorder="true",
+    source="partials/media/get-eid/verify-contacts.png"|caption="Verifikimi i kontakteve"|captionBorder="true",
+    source="partials/media/get-eid/request-approved.png"|caption="Kërkesa u miratua"|captionBorder="true",
+    source="partials/media/get-eid/end-of-enrollment-wallet-not-connected.png"|caption="Përfundimi i regjistrimit (Kuleta nuk është lidhur)"|captionBorder="true",
+    source="partials/media/get-eid/end-of-enrollment-wallet-connected.png"|caption="Përfundimi i regjistrimit (Kuleta është lidhur)"|captionBorder="true",
+    source="partials/media/get-eid/end-of-enrollment-wallet.png"|caption="Përfundimi i regjistrimit (Kuleta)"|captionBorder="true",
 {% endcapture %}
 
 {% include elements/image-gallery.html 
@@ -121,8 +121,8 @@ The last step is to **`sign the certificate`**. You have to click on **`Sign`**,
 %}
 
 
-# Self service
-You can manage your certificate using the **`self-service portal`**.
+# Vetë-shërbimi
+Ju mund ta menaxhoni certifikatën tuaj duke përdorur **`Portalin e Vetë-shërbimit`**.
 
 {% include elements/link-btn.html 
     type="primary" 
@@ -132,8 +132,8 @@ You can manage your certificate using the **`self-service portal`**.
     newTab="false" 
 %}
 
-# Support
-During the period of validity of your certificate, if you experience problems, you can always use the **`eID technical support`**.
+# Mbështetja
+Gjatë periudhës së vlefshmërisë së certifikatës suaj, nëse hasni probleme, mund të përdorni gjithmonë **`mbështetjen teknike eID`**.
 
 {% include elements/link-btn.html 
     type="primary" 

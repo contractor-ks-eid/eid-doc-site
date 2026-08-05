@@ -2,16 +2,16 @@
 layout: page
 title: Introduction
 permalink: /intro/
-categories: [General]
-tags: [docs, wallet, enrollment, integration, signature, seal, identity]
+categories: [Të përgjithshme]
+tags: [dok, Kuleta, Regjistrimi, Integrimi, Nënshkrimi, Vula, Identiteti]
 nav_order: 1
 ---
 
-# 👋 About Kosovo eID
-Kosovo eID is the national system that manages electronic identities for citizens of Kosovo. An electronic ID is a free digital certificate issued by the Government of Kosovo, valid for 2 years. With it, citizens can securely sign (or stamp) documents and access digital services that partner with the Kosovo eID system.
+# 👋 Rreth eID-së së Kosovës
+eID e Kosovës është sistemi kombëtar për menaxhimin e identiteteve elektronike të qytetarëve të Kosovës. Identiteti elektronik është një certifikatë digjitale falas, e lëshuar nga Qeveria e Republikës së Kosovës, me vlefshmëri prej 2 vitesh. Nëpërmjet tij, qytetarët mund të nënshkruajnë (ose vulosin) dokumente në mënyrë të sigurt dhe të qasen në shërbimet digjitale të integruara me sistemin e eID-së së Kosovës.
 
-# 🧩 Components
-The Kosovo eID system brings together a few key pieces: the **`electronic ID`** (and **`electronic Seal`**), the **`Kosovo Wallet`**, the **`Signing Apps`**, and the **`eID integration`** engine (or **`eID API`**).
+# 🧩 Komponentët
+Sistemi eID i Kosovës përbëhet nga disa komponentë kryesorë::  **`identiteti elektronik`** (dhe **`vula elektronike`**),  **`Kuleta e Kosovës`**,  **`aplikacionet për nënshkrim`**, dhe mekanizmi i **`integrimit eID`**  (ose **`eID API`**).
 
 
 {% include elements/card-gallery-from-folder.html 
@@ -19,8 +19,8 @@ The Kosovo eID system brings together a few key pieces: the **`electronic ID`** 
   oneRow=true
 %}
 
-# 🚀 Enrollment
-Citizens can get their electronic ID by going through a enrollment process at the Civil Registration Offices (`ARC`) counters. Once issued, the ID can be securely stored in the Kosovo Wallet. In a similar way, citizens can obtain an electronic Seal through the enrollment process at the Kosovo Business Registration Agency (`ARBK`) counters.
+# 🚀 Regjistrimi
+Qytetarët mund të pajisen me identitetin e tyre elektronik duke kaluar procesin e regjistrimit në sportelet e Agjencisë së Regjistrimit Civil (`ARC`) . Pas lëshimit, identiteti elektronik mund të ruhet në mënyrë të sigurt në Kuletën e Kosovës. Në mënyrë të ngjashme, subjektet juridike mund të pajisen me vulën elektronike përmes procesit të regjistrimit në sportelet e Agjencisë për Regjistrimin e Bizneseve të Kosovës (ARBK) .
 
 {% include elements/youtube.html 
     id="BqPljJ9CLbs" 
@@ -46,11 +46,11 @@ Citizens can get their electronic ID by going through a enrollment process at th
 {% include elements/alert.html 
   class="warning" 
   content=c 
-  title="Enrollment"
+  title="Regjistrimi"
 %}
 
-# 📝 Signing
-With an electronic ID (or electronic Seal) and the signing app, citizens and businesses can digitally sign or stamp documents. By law, an electronic signature has the same legal value as a handwritten one.
+# 📝 Nënshkrimi
+Me identitetin elektronik (ose vulën elektronike) dhe aplikacionin për nënshkrim, qytetarët dhe subjektet juridike mund të nënshkruajnë ose vulosin dokumente në mënyrë digjitale. Sipas legjislacionit në fuqi, nënshkrimi elektronik ka të njëjtën vlefshmëri juridike si nënshkrimi me dorë.
 
 {% include elements/youtube.html 
     id="T5iE-oR_Tcg" 
@@ -76,12 +76,12 @@ With an electronic ID (or electronic Seal) and the signing app, citizens and bus
 {% include elements/alert.html 
   class="warning" 
   content=c 
-  title="Signing"
+  title="Nënshkrimi"
 %}
 
 
-# 🤝 Integration
-Using the electronic ID together with the Kosovo Wallet, citizens can also log in and authenticate to online services — such as eKosova or eBanking — once those services become Kosovo eID partners and integrate eID features through the integration engine (**`eID API`**).
+# 🤝 Integrimi
+Duke përdorur identitetin elektronik së bashku me Kuletën e Kosovës, qytetarët mund të identifikohen dhe të autentifikohen edhe në shërbimet elektronike – si eKosova apo e-Banking – pasi këto shërbime të integrohen me sistemin e eID-së së Kosovës dhe të zbatojnë funksionalitetet e eID-së përmes mekanizmit të integrimit (**`eID API`**).
 
 {% include elements/youtube.html 
     id="kZW6FRZVlZU" 

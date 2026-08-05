@@ -1,53 +1,53 @@
 ---
 layout: page
-title: Sign Office Documents
+title: Nënshkrimi i dokumenteve Office
 permalink: /sign-apps/sign-office-docs/
-categories: [Signature, Seal]
-tags: [seal, signature, identity, microsoft, office, word, excel, powerpoint, outlook]
+categories: [Nënshkrimi, Vula]
+tags: [vula, nënshkrimi, identiteti, microsoft, office, word, excel, powerpoint, outlook]
 nav_order: 2
 ---
 
-# Intro
-You can sign Microsoft Office documents using your eID certificate and your digital seals. However, signing Microsoft Office documents comes, by design, with some limitations imposed by Microsoft Office. According to Microsoft documentation, the minimum Office version allowing digital signatures with certificates is Office2007. Any newer version or Office365 provides signature features.
+# Hyrje
+Ju mund të nënshkruani dokumente Microsoft Office duke përdorur certifikatën tuaj eID dhe vulat tuaja elektronike. Megjithatë, nënshkrimi i dokumenteve Microsoft Office, sipas mënyrës se si është projektuar, shoqërohet me disa kufizime të vendosura nga Microsoft Office. Sipas dokumentacionit të Microsoft, versioni minimal i Office që mbështet nënshkrimet elektronike me certifikata është Office 2007. Çdo version më i ri ose Office 365 ofron funksionalitete për nënshkrim.
 
-# Configuration
+# Konfigurimi
 
 {% include elements/alert.html 
   class="warning" 
-  content="Signing Microsoft Office documents and emails do not come out-of-the-box like in the case of Adobe Acrobat and PDF files. You need to do some configurations before using it as it will be explained below."
-  title="Configuration"
+  content="Nënshkrimi i dokumenteve dhe email-eve në Microsoft Office nuk funksionon automatikisht, si në rastin e Adobe Acrobat dhe skedarëve PDF. Përpara se ta përdorni, duhet të kryeni disa konfigurime, siç shpjegohet më poshtë."
+  title="Konfigurimi"
 %}
 
-# Limitations
+# Kufizimet
 
 {% include elements/alert.html 
   class="primary" 
-  content="Microsoft Office signature does not allow the graphical visualisation of the signature. The signed document will carry a marker shown when the document is open and mentioning that the document is marked as final and signed. Signed emails will carry a specific ribbon."
-  title="Graphical signature"
-%}
-
-{% include elements/alert.html 
-  class="primary" 
-  content="Microsoft Office documents do not allow multiple signatures. Once a new signature is applied, the previous one is automatically removed."
-  title="Multiple signatures"
+  content="Nënshkrimi në Microsoft Office nuk mbështet paraqitjen grafike të nënshkrimit. Dokumenti i nënshkruar do të përmbajë një tregues që shfaqet kur dokumenti hapet, duke treguar se dokumenti është shënuar si përfundimtar dhe i nënshkruar. Email-et e nënshkruara do të shfaqin një shirit (ribbon) të veçantë."
+  title="Nënshkrimi grafik"
 %}
 
 {% include elements/alert.html 
   class="primary" 
-  content="Signed Microsoft Office documents are marked as final and edit feature is disabled. When enabling the edit feature, the digital signature is automatically removed."
-  title="Edit a signed document"
+  content="Dokumentet Microsoft Office nuk mbështesin nënshkrime të shumëfishta. Pasi të aplikohet një nënshkrim i ri, nënshkrimi i mëparshëm hiqet automatikisht."
+  title="Nënshkrime të shumëfishta"
 %}
 
 {% include elements/alert.html 
   class="primary" 
-  content="Signed emails carries a specific ribbon marking that the email is signed. This ribbon can be visible only in Outlook. If the recipient use other email client, the signature marker may be shown if the email client can understand that the email is signed or is completely ignored and not shown if the email client does not have digital signature features. Outlook-to-Outlook may preserve the signature ribbon and may shown it correctly."
-  title="Signed emails"
+  content="Dokumentet e nënshkruara Microsoft Office shënohen si përfundimtare dhe funksioni i redaktimit çaktivizohet. Nëse aktivizoni funksionin e redaktimit, nënshkrimi elektronik hiqet automatikisht."
+  title="Redaktimi i një dokumenti të nënshkruar"
 %}
 
-# Root certificate
-To sign Microsoft Office documents it may be necessary to install the Root Certificate. This action is caused by the fact the Certification Authority of Kosovo is not yet on the European TSP list (Trusted Service Providers).
+{% include elements/alert.html 
+  class="primary" 
+  content="Email-et e nënshkruara shfaqin një shirit (ribbon) të veçantë që tregon se email-i është i nënshkruar. Ky shirit mund të jetë i dukshëm vetëm në Outlook. Nëse marrësi përdor një klient tjetër të email-it, treguesi i nënshkrimit mund të shfaqet nëse ai klient e mbështet njohjen e email-eve të nënshkruara, ose mund të mos shfaqet fare nëse nuk mbështet funksionalitetin e nënshkrimit elektronik. Komunikimi Outlook-me-Outlook mund ta ruajë shiritin e nënshkrimit dhe ta shfaqë atë siç duhet."
+  title="Email-et e nënshkruara"
+%}
 
-## Download
+# Certifikata rrënjësore
+Për të nënshkruar dokumente Microsoft Office, mund të jetë e nevojshme të instaloni Certifikatën Rrënjësore. Kjo nevojë vjen për shkak se Autoriteti Certifikues i Kosovës ende nuk është pjesë e listës evropiane të Ofruesve të Besuar të Shërbimeve (Trusted Service Providers – TSP).
+
+## Shkarkimi
 {% capture c %}
     {% ExternalSiteContent  {
         "markdown": true,
@@ -67,42 +67,42 @@ To sign Microsoft Office documents it may be necessary to install the Root Certi
   content=c 
 %}
 
-After downloading, install the root certificate into the **`Trusted Root Certification Authorities`**. 
+Pas shkarkimit, instaloni certifikatën rrënjësore në **`Trusted Root Certification Authorities`**. 
 
-## Install on Windows
-1. right click on the certificate and select **`Install Certificate`**
-2. click **`Open`** when asked to open the file
-3. (recommended) select **`Local Machine`** when asked to select the scope of the installation
-4. click **`Next`** and allow changes (if asked)
-5. select **`Place all certificates in the following store`**, click **`Browse`** and select **`Trusted Root Certification Authorities`**
-6. click **`Next`** and then click **`Finish`**
+## Instalimi në Windows
+1. Klikoni me të djathtën mbi certifikatën dhe zgjidhni **`Instalo certifikatën`**
+2. Klikoni **`Hap`** kur t'ju kërkohet të hapni skedarin.
+3. (Rekomandohet) zgjidhni **`Kompjuteri lokal`** kur t'ju kërkohet të zgjidhni fushën e instalimit.
+4. Klikoni **`Tjetër`** dhe lejoni ndryshimet (nëse kërkohet).
+5. Zgjidhni **`Vendosi të gjitha certifikatat në magazinën e mëposhtme`**, klikoni **`Shfleto`** dhe zgjidhni **`Trusted Root Certification Authorities`**
+6. Klikoni **`Tjetër`** dhe më pas klikoni **`Përfundo`**
 
-To check if the root certificate was installed with success:
-1. press **`Win+R`**, type **`certmgr.msc`** and hit **`Enter`** or click **`OK`** 
-2. inspect the list of installed certificates in **`Trusted Root Certification Authorities`**, you should see a certificate issued by **`Republic of Kosovo`**
+Për të verifikuar nëse certifikata rrënjësore është instaluar me sukses:
+1. Shtypni **`Win+R`**, shkruani **`certmgr.msc`** dhe shtypni **`Enter`** ose klikoni **`OK`** 
+2. Kontrolloni listën e certifikatave të instaluara te **`Trusted Root Certification Authorities`**, Duhet të shihni një certifikatë të lëshuar nga **`Republika e Kosovës`**
 
-## Install on MacOS 
-1. open **`Keychain Access`** (search with Spotlight).
-2. In the left pane, select **`System keychain`** (not "System Roots") Certificates category
-3. **`Drag the .crt file`** into the window, **`or choose File → Import Items`**.
-4. Authenticate with your administrator password or Touch ID.
-5. Locate the imported certificate and double-click it.
-6. Expand the **`Trust section`**.
-7. Set When using this certificate to **`Always Trust`**.
-8. **`Close the window and authenticate again`** to save the trust settings.
+## Instalimi në macOS
+1. Hapni **`Keychain Access`** (kërkojeni me Spotlight).
+2. Në panelin e majtë, zgjidhni **`System keychain`** (jo "System Roots") dhe kategorinë Certificates.
+3. **`Tërhiqeni skedarin .crt`** në dritare, **`ose zgjidhni File → Import Items`**.
+4. Autentifikohuni me fjalëkalimin e administratorit ose me Touch ID.
+5. Gjeni certifikatën e importuar dhe klikoni dy herë mbi të.
+6. Zgjeroni seksionin **`Trust`**.
+7. Tek When using this certificate zgjidhni **`Always Trust`**.
+8. **`Mbyllni dritaren dhe autentifikohuni përsëri`** për të ruajtur cilësimet e besimit.
 
-# How to use it
-For Microsoft Office documents, depending on the Office version, you need to locate the **`Protect document`** section and follow the instruction under **`Add a Digital Signature`** option. For example, in Office365 these actions are under **`File -> Info`** section. You will be required to select the certificate that you want to use for signing, select your eID certificate (or a digital seal certificate). You will be then required to input the One-Time-Password, and that should be all.
+# Si ta përdorni
+Për dokumentet Microsoft Office, varësisht nga versioni i Office, duhet të gjeni seksionin **`Protect document`** dhe të ndiqni udhëzimet te opsioni **`Add a Digital Signature`** Për shembull, në Office 365, këto veprime gjenden te **`File -> Info`** Do t'ju kërkohet të zgjidhni certifikatën që dëshironi të përdorni për nënshkrim; zgjidhni certifikatën tuaj eID (ose certifikatën e vulës elektronike). Më pas, do t'ju kërkohet të vendosni Fjalëkalimin Njëpërdorimësh (OTP) dhe kjo është e gjitha.
 
-For Outlook emails, depending on the version, you need to locate the **`Trust Center`** and select **`Trust Center Settings`**. Then select **`Email security`** and create the digital signature setting that you want to use for signing emails by clicking **`Settings`**, followed by choosing the certificate. Before saving the settings check if **`Hash Algorithm = SHA256`** and **`Encryption Algorithm = AES(256-bit)`**. To sign an email, open the email composer, write your email, then click on the **`Sign`** button and click **`Send`**. You will be required to input the One-Time-Password before the email is sent.
+Për email-et në Outlook, varësisht nga versioni, duhet të gjeni **`Trust Center`** dhe të zgjidhni **`Trust Center Settings`**. Më pas, zgjidhni **`Email security`** dhe krijoni konfigurimin e nënshkrimit elektronik që dëshironi të përdorni për nënshkrimin e email-eve duke klikuar **`Settings`**, e më pas duke zgjedhur certifikatën. Përpara se t'i ruani cilësimet, kontrolloni që **`Hash Algorithm = SHA256`** dhe **`Encryption Algorithm = AES(256-bit)`**. Për të nënshkruar një email, hapni dritaren e hartimit të email-it, shkruani email-in tuaj, më pas klikoni butonin **`Sign`** dhe klikoni **`Send`**. Përpara se email-i të dërgohet, do t'ju kërkohet të vendosni Fjalëkalimin Njëpërdorimësh (OTP).
 
-# Support
-Contact us for assistance if you encounter problems.
+# Mbështetja
+Na kontaktoni për asistencë nëse hasni probleme.
 
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="User support" 
+    text="Mbështetje për përdoruesit" 
     href="https://ks-eid.com/support" 
     newTab="true" 
 %}

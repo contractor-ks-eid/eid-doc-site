@@ -2,31 +2,31 @@
 layout: page
 title: eID API
 permalink: /api/intro/
-categories: [Integration, API]
-tags: [wallet, integration, signature, seal, identity, authentication]
+categories: [Integrimi, API]
+tags: [kuleta, integrimi, Nënshkrimi, Vula, Identiteti, Autentifikimi]
 nav_order: 1
 start: true
 ---
 
-# Intro
-The eID API is available for third-party integrators who want to add Kosovo eID features into their own systems. Any software — web, mobile, or backend — that has a permanent internet connection can connect to the eID API.
+# Hyrje
+API eID është në dispozicion për integruesit e palëve të treta që dëshirojnë të shtojnë funksionalitetet e eID-së së Kosovës në sistemet e tyre. Çdo softuer — qoftë ueb, aplikacion mobil ose sistem backend — që ka lidhje të përhershme me internetin mund të lidhet me API-në eID.
 
-That said, the integrator (the company that owns the system or app) must be a legal entity registered in Kosovo and have a valid business case in order to be approved for eID integration.
+Megjithatë, integruesi (kompania që zotëron sistemin ose aplikacionin) duhet të jetë një person juridik i regjistruar në Kosovë dhe të ketë një rast të vlefshëm biznesi për t'u miratuar për integrimin me eID.
 
-The API itself is free to use, but you will need credentials to access it. These credentials are issued by the eID authority after your integration application is reviewed and approved.
+Vetë API-ja është falas për përdorim, por do t'ju nevojiten kredenciale për ta aksesuar atë. Këto kredenciale lëshohen nga autoriteti eID pasi aplikimi juaj për integrim të jetë shqyrtuar dhe miratuar.
 
-# Procedure
-## Application
-The first step to integrate with eID is simple: apply.
+# Procedura
+## Aplikimi
+Hapi i parë për integrimin me eID është i thjeshtë: aplikoni.
 
-To do that, you need to fill in and submit the API Integration Application Form. Inside the form, you will find:
-- the **`General Terms`** that need to be accepted and respected
-- a **`Power of Attorney`** (if the application is not submitted by the company’s legal representative)
-- the **`Integration Agreement`**, which is the contract between the integrator and the eID authority
-- a detailed description of your **`Business Case`** (how you plan to use eID features)
-- and a description of the **`Technical Environment`** where the integration will run
+Për ta bërë këtë, duhet të plotësoni dhe dorëzoni Formularin e Aplikimit për Integrimin me API-në. Brenda formularit do të gjeni:
+- **`Kushtet e Përgjithshme`** që duhet të pranohen dhe të respektohen
+- Një **`Prokurë`** (nëse aplikimi nuk dorëzohet nga përfaqësuesi ligjor i kompanisë)
+- **`Marrëveshjen e Integrimit`**, e cila është kontrata ndërmjet integruesit dhe autoritetit eID
+- Një përshkrim të detajuar të **`Rastit të Biznesit`** (si planifikoni të përdorni funksionalitetet e eID-së)
+- Një përshkrim të **`Mjedisit Teknik`** ku do të realizohet integrimi
 
-Once everything is completed and submitted, the review process can begin.
+Pasi gjithçka të jetë plotësuar dhe dorëzuar, mund të fillojë procesi i shqyrtimit.
 
 {% capture c %}
     {% ExternalSiteContent  {
@@ -45,7 +45,7 @@ Once everything is completed and submitted, the review process can begin.
 {% include elements/alert.html 
   class="primary" 
   content=c 
-  title="Application form"
+  title="Formulari i aplikimit"
 %}
 
 {% capture c %}
@@ -65,64 +65,63 @@ Once everything is completed and submitted, the review process can begin.
 {% include elements/alert.html 
   class="success" 
   content=c 
-  title="Submit Application"
+  title="Dorëzoni aplikimin"
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="The application form requires you to send some additional information. One piece of information is your logo. Please embed the logo as `png` into the application form and `do not send it separatelly`." 
+  content="Formulari i aplikimit kërkon që të dërgoni disa informacione shtesë. Një nga këto informacione është logoja juaj. Ju lutemi, vendoseni logon në formatin `png` brenda formularit të aplikimit dhe `mos e dërgoni atë veçmas.`." 
 %}
 
-## Evaluation
-Once we receive your application, we will review it. If something is missing, we will be in direct contact with you and we will ask for clarifications. For this reason, please **`do not forget to provide the contact email and phone`**, this is the only contact information that we will be further using for communication with you.
+## Vlerësimi
+Pasi ta pranojmë aplikimin tuaj, do ta shqyrtojmë atë. Nëse mungon ndonjë informacion, do t'ju kontaktojmë drejtpërdrejt dhe do t'ju kërkojmë sqarime. Për këtë arsye, ju lutemi **`mos harroni të jepni adresën e emailit dhe numrin e telefonit të kontaktit`**, këto do të jenë të vetmet të dhëna kontakti që do t'i përdorim më tej për komunikim me ju.
 
-## Build
-If we approve your application, you will have to continue with the development and testing your integration. 
-We will make the following items available for you:
-- the **`eID test environment`**
-- the **`credentials`** for using the eID test environment
-- the **`test version`** of Kosovo Wallet
-- five (5) **`test certificates`** that you will be using these certificates when developing your integration
+## Zhvillimi
+Nëse e miratojmë aplikimin tuaj, do të duhet të vazhdoni me zhvillimin dhe testimin e integrimit tuaj. 
+Ne do t’ju vëmë në dispozicion elementet e mëposhtme:
+- **`Mjedisin e testimit eID`**
+- **`Kredencialet`** për përdorimin e mjedisit të testimit eID
+- **`Versionin testues`** të Kuletës së Kosovës
+- Pesë (5) **`certifikata testimi`** që do t’i përdorni gjatë zhvillimit të integrimit tuaj
 
 
 {% include elements/alert.html 
   class="primary" 
-  content="If you want to integrate the feature of strong authentication with Kosovo Wallet, you will then need to store the certificates credentials in the test version of Kosovo Wallet"
-  title="Strong Authentication" 
+  content="Nëse dëshironi të integroni funksionalitetin e autentifikimit të fortë me Kuletën e Kosovës, atëherë do t’ju duhet të ruani kredencialet e certifikatave në versionin testues të Kuletës së Kosovës." 
 %}
 
 {% include elements/alert.html 
   class="primary" 
-  content="If you want to integrate only the digital signature/stamping flow, you will not need Kosovo Wallet."
-  title="API signing and stamping" 
+  content="Nëse dëshironi të integroni vetëm rrjedhën e nënshkrimit/vulosjes elektronike, nuk do të keni nevojë për Kuletën e Kosovës."
+  title="API për nënshkrim dhe vulosje" 
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="Do not forget to mention on the **`Application Form`** the scope of out integration (**`Strong Authentication`** or **`Digital Signature and/or Digital Seal`** or both)."
-  title="Integration scope" 
+  content="Mos harroni të specifikoni në **`Formularin e Aplikimit`** fushën e integrimit tuaj (**`Autentifikimi i fortë`** ose **`Nënshkrimi Elektronik dhe/ose Vula Elektronike`** ose të dyja)."
+  title="Fusha e integrimit" 
 %}
 
-## Test
-Once you are done with the development, we would like to test your integration. For this reason, we may ask you to provide us with necessary information for being able to test your work. If everything goes well, we will give you the **`green light`** to deploy your integration in the eID production environment.
+## Testimi
+Pasi të përfundoni zhvillimin, ne do të dëshironim të testojmë integrimin tuaj. Për këtë arsye, mund t’ju kërkojmë të na ofroni informacionin e nevojshëm për të mundësuar testimin e punës suaj. Nëse gjithçka shkon mirë, do t’ju japim **`miratimin`** për të vendosur integrimin tuaj në mjedisin e prodhimit eID.
 
 {% include elements/alert.html 
   class="warning" 
-  content="Please be aware that, according to the **`Integration Agreement`** we may ask you to give access to the integration code and to allow us to perform code inspection."
-  title="Code inspection" 
+  content="Ju lutemi, kini parasysh se, në përputhje me **`Marrëveshjen e Integrimit`** mund t’ju kërkojmë të na jepni qasje në kodin e integrimit dhe të na lejoni të kryejmë inspektimin e kodit."
+  title="Inspektimi i kodit" 
 %}
 
-## Deploy
-Once your integration is approved for production, you will receive the needed credentials for migrating from the eID test environment to the eID live/production environment. Usually, migrating to production should not require anything else than changing the test environment credentials with the production environment credentials. This may be one of the aspects that we can verify if we ask for a code inspection. If your integration requires consistent modification for migrating to production environment, you may be requested to re-build it in the right way.
+## Vendosja në prodhim
+Pasi integrimi juaj të miratohet për mjedisin e prodhimit, do të merrni kredencialet e nevojshme për të kaluar nga mjedisi i testimit eID në mjedisin aktiv/të prodhimit eID. Zakonisht, kalimi në prodhim nuk duhet të kërkojë asgjë tjetër përveç zëvendësimit të kredencialeve të mjedisit të testimit me kredencialet e mjedisit të prodhimit. Ky mund të jetë një nga aspektet që mund të verifikojmë nëse kërkojmë inspektim të kodit. Nëse integrimi juaj kërkon ndryshime të vazhdueshme për kalimin në mjedisin e prodhimit, mund t’ju kërkohet ta rindërtoni atë në mënyrën e duhur.
 
 {% include elements/alert.html 
   class="warning" 
-  content="Besides the credentials for the test/production environments which you will be receiving from us, there is one critical parameter that depends on you, the **`Redirect URI`** for the test/production environments. Please to not forget to mention it in the **`Application Form`**."
+  content="Përveç kredencialeve për mjediset e testimit/prodhimit që do t’i merrni nga ne, ekziston një parametër kritik që varet nga ju **`URI-ja e ridrejtimit`** për mjediset e testimit/prodhimit. Ju lutemi, mos harroni ta specifikoni atë në **`Formularin e Aplikimit`**."
   title="Redirect URI" 
 %}
 
-# Go live
-Once you finalise the migration to the production environment your integration is live. Any eID holder can use it. We will continue to monitor your integration just to be sure that everything works well and secure. You can benefit on our support services when needed.
+# Kalimi në përdorim
+Pasi të përfundoni migrimin në mjedisin e prodhimit, integrimi juaj do të jetë aktiv. Çdo mbajtës i eID-së mund ta përdorë atë. Ne do të vazhdojmë të monitorojmë integrimin tuaj për t’u siguruar që gjithçka funksionon siç duhet dhe në mënyrë të sigurt. Ju mund të përfitoni nga shërbimet tona të mbështetjes kur të jetë e nevojshme.
 
 {% include elements/link-btn.html 
     type="primary" 

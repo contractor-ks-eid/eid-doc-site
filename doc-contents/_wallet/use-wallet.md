@@ -1,36 +1,36 @@
 ---
 layout: page
-title: Use Kosovo Wallet
+title: Përdorimi i Kuletës së Kosovës
 permalink: /wallet/use-wallet/
-categories: [Wallet]
-tags: [wallet]
+categories: [Kuleta]
+tags: [Kuleta]
 nav_order: 2
 start: false
 ---
 
-# Intro
-Kosovo Wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device, organise credentials and use the credentials in applications that are in the Kosovo eID ecosystem and offers strong authentication with Kosovo Wallet.
+# Hyrje
+Kuleta e Kosovës ju ofron një sërë funksionalitetesh që mund të përdoren për t’i mbajtur të sigurta dhe të mbrojtura kredencialet e certifikatës suaj në pajisjen tuaj, për të organizuar kredencialet dhe për t’i përdorur ato në aplikacionet që janë pjesë e ekosistemit Kosovo eID dhe që ofrojnë autentifikim të fortë me Kuletën e Kosovës.
 
-# Features
-After the wallet installation is complete, you will get access to the wallet features which are:
-- **`Show credentials`**: displays the list of the credentials that you have in your wallet. In the context of eID, you shall have **`one digital ID credential`** (illustrated as a **`blue card with blue header`**) and (if applicable for you) **`one or many digital seals credentials`** (illustrated as a **`blue card with golden header`**)
-- **`Show credential`**: displays a selected credential from the list of credentials
-- **`Scan QR`**: allows scanning the QR code generated for the strong authentication with the wallet
-- **`Notifications`**: displays the notifications received by your Kosovo wallet
-- **`Settings`**: allows you to see or set some parameters for your Kosovo Wallet
+# Funksionalitetet
+Pas përfundimit të instalimit të kuletës, do të keni qasje në funksionalitetet e kuletës, të cilat janë:
+- **`Shfaq kredencialet`**: shfaq listën e kredencialeve që keni në kuletën tuaj. Në kuadër të eID, duhet të keni **`një kredencial të ID-së digjitale`** (i paraqitur si një **`kartë blu me kokë blu`**) dhe (nëse është e aplikueshme për ju) **`një ose më shumë kredenciale të vulave digjitale`** (të paraqitura si një **`kartë blu me kokë ngjyrë ari`**)
+- **`Shfaq kredencialin`**: shfaq një kredencial të zgjedhur nga lista e kredencialeve.
+- **`Skano QR`**: mundëson skanimin e kodit QR të gjeneruar për autentifikimin e fortë me kuletën
+- **`Njoftimet`**: shfaq njoftimet e pranuara nga Kuleta juaj e Kosovës.
+- **`Cilësimet`**: ju mundëson të shihni ose të vendosni disa parametra për Kuoletën tuaj të Kosovës.
 
 {% include elements/alert.html 
   class="primary" 
-  content="Except for **`Show credential`** feature, all wallet features can be used by tapping on the related icon on the **`bottom menu bar`**.  **`Show credential`** feature can be used by tapping on a specific credential from the credentials list."
-  title="Features"
+  content="Përveç funksionalitetit **`Shfaq kredencialin`** të gjitha funksionalitetet e kuletës mund të përdoren duke prekur ikonën përkatëse në **`shiritin e menysë në fund të ekranit`**. Funksionaliteti  **`Shfaq kredencialin`** mund të përdoret duke prekur një kredencial specifik nga lista e kredencialeve."
+  title="Funksionalitetet"
 %}
 
 {% capture img %}
-    source="partials/media/wallet/wallet-screen-credentials.png"|caption="Credentials"|captionBorder="true",
-    source="partials/media/wallet/wallet-screen-credential.png"|caption="Credential"|captionBorder="true",
-    source="partials/media/wallet/wallet-screen-scan-qr.png"|caption="Scan QR"|captionBorder="true",
-    source="partials/media/wallet/wallet-screen-notifications.png"|caption="Notifications"|captionBorder="true",
-    source="partials/media/wallet/wallet-screen-settings.png"|caption="Settings"|captionBorder="true"
+    source="partials/media/wallet/wallet-screen-credentials.png"|caption="Kredencialet"|captionBorder="true",
+    source="partials/media/wallet/wallet-screen-credential.png"|caption="Kredenciali"|captionBorder="true",
+    source="partials/media/wallet/wallet-screen-scan-qr.png"|caption="Skanoni QR"|captionBorder="true",
+    source="partials/media/wallet/wallet-screen-notifications.png"|caption="Njoftimet"|captionBorder="true",
+    source="partials/media/wallet/wallet-screen-settings.png"|caption="Cilësimet"|captionBorder="true"
 {% endcapture %}
 
 {% include elements/image-gallery.html 
@@ -40,18 +40,18 @@ After the wallet installation is complete, you will get access to the wallet fea
   oneRow="all" 
 %}
 
-## Show credentials
-This feature displays the list of the credentials that you have in your wallet. In the context of eID, you shall have **`one digital ID credential`** (illustrated as a **`blue card with blue header`**) and (if applicable for you) **`one or many digital seals credentials`** (illustrated as a **`blue card with golden header`**). The list of credentials is the starting point from which you can further select and manage a certain credential.
+## Shfaq kredencialet
+Ky funksionalitet shfaq listën e kredencialeve që keni në kuletën tuaj. Në kuadër të eID, duhet të keni **`një kredencial të ID-së digjitale`** (i paraqitur si një **`kartë blu me kokë blu`**) dhe (nëse është e aplikueshme për ju) **`një ose më shumë kredenciale të vulave digjitale`** (të paraqitura si një **`kartë blu me kokë ngjyrë ari`**). Lista e kredencialeve është pika fillestare nga e cila mund të zgjidhni më tej dhe të menaxhoni një kredencial të caktuar.
 
-## Show credential
-This feature displays a selected credential from the list of credentials. Here you can visualise all data related to the selected credentials and its linked digital certificate. Visualisation of the data can be made by expanding the categories shown under the credential card.
+## Shfaq kredencialin
+Ky funksionalitet shfaq një kredencial të zgjedhur nga lista e kredencialeve. Këtu mund të shihni të gjitha të dhënat që lidhen me kredencialin e zgjedhur dhe certifikatën e tij digjitale të lidhur. Paraqitja e të dhënave mund të bëhet duke zgjeruar kategoritë e shfaqura poshtë kartës së kredencialit.
 
-Here you can also remove a credential from the wallet. You will notice a **`Delete`** icon shown on the credential card. Tapping on the icon and confirming the removal will have as result the removal of the credential from your wallet. You will not see the credential anymore in the list of credentials.
+Këtu mund të hiqni gjithashtu një kredencial nga kuleta. Do të vini re ikonën **`Fshi`** të shfaqur në kartën e kredencialit. Duke prekur ikonën dhe duke konfirmuar heqjen, kredenciali do të hiqet nga kuleta juaj. Nuk do ta shihni më kredencialin në listën e kredencialeve.
 
 {% include elements/alert.html 
   class="warning" 
-  content="There is no way to use the wallet to undo a credential removal,"
-  title="Undo removal"
+  content="Nuk ka asnjë mënyrë për të përdorur kuletën për të rikthyer heqjen e një kredenciali,"
+  title="Zhbërja e heqjes"
 %}
 
 {% capture c %}
@@ -71,41 +71,41 @@ Here you can also remove a credential from the wallet. You will notice a **`Dele
 {% include elements/alert.html 
   class="primary" 
   content=c 
-  title="Restore credential"
+  title="Rikthe kredencialin"
 %}
 
-## Scan QR
-This feature allows you to scan the QR code generated for the strong authentication with the wallet and to complete the strong authentication flow.
+## Skanoni QR
+Ky funksionalitet ju mundëson të skanoni kodin QR të gjeneruar për autentifikimin e fortë me kuletën dhe të përfundoni procesin e autentifikimit të fortë.
 
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="Test it" 
+    text="Testojeni" 
     href="https://api-eid.rks-gov.net/universal-verifier/" 
     newTab="true" 
 %}
 
-## Notifications
-This is the place where wallet notifications are shown. Notifications can be sent by various applications that are integrated with Kosovo wallet. The most relevant example of wallet notification is the one received at the end of the enrollment process or when you connect the wallet with a certain certificate using the self service portal. In the mentioned cases, you will receive a notification that a new credential was issued for your certificate and it is time to store it in the wallet. Tapping on the notification will save the credential in your wallet and you will be able to see it in the credentials list.
+## Njoftimet
+Ky është vendi ku shfaqen njoftimet e kuletës. Njoftimet mund të dërgohen nga aplikacione të ndryshme që janë të integruara me Kuletën e Kosovës. Shembulli më i rëndësishëm i një njoftimi të kuletës është ai që merret në fund të procesit të regjistrimit ose kur lidhni kuletën me një certifikatë të caktuar duke përdorur portalin e vetë-shërbimit. Në rastet e përmendura, do të merrni një njoftim se është lëshuar një kredencial i ri për certifikatën tuaj dhe se është koha ta ruani atë në kuletë. Duke prekur njoftimin, kredenciali do të ruhet në kuletën tuaj dhe do të mund ta shihni atë në listën e kredencialeve.
 
-## Settings
-This feature allows you to see or set some parameters for your Kosovo Wallet.
+## Cilësimet
+Ky funksionalitet ju mundëson të shihni ose të vendosni disa parametra për Kuletën tuaj të Kosovës.
 
-The parameters are:
-- **`Wallet version`**: shows the version of the Kosovo wallet installed on your mobile phone
-- **`Biometric authentication`**: enable/disable biometric authentication to your wallet (finger print or face recognition)
-- **`Change access PIN`**: allows you to change the PIN used to authenticate to your wallet
-- **`Terms and conditions`**: shows the terms and conditions for using Kosovo wallet
-- **`Advanced settings`**: a group of additional settings detailed below
-- **`Language`**: set the wallet language (Albanian, Serbian or English)
+Parametrat janë:
+- **`Versioni i kuletës`**: shfaq versionin e Kuletës së Kosovës të instaluar në telefonin tuaj mobil.
+- **`Autentifikimi biometrik`**: aktivizon/çaktivizon autentifikimin biometrik në kuletën tuaj (gjurmë gishti ose njohje të fytyrës).
+- **`Ndrysho PIN-in e qasjes`**: ju mundëson të ndryshoni PIN-in e përdorur për autentifikimin në kuletën tuaj.
+- **`Kushtet dhe rregullat`**: shfaq kushtet dhe rregullat për përdorimin e Kuletës së Kosovës.
+- **`Cilësimet e avancuara`**: një grup cilësimesh shtesë të detajuara më poshtë.
+- **`Gjuha`**: vendos gjuhën e kuletës (shqip, serbisht ose anglisht).
 
 {% include elements/alert.html 
   class="warning" 
-  content="We highly recommend to protect your credentials with your biometrics and to keep **`Biometric authentication`** enabled at least for finger print. This will make your wallet even more secure." 
-  title="Wallet authentication"
+  content="Ne rekomandojmë fuqimisht që t’i mbroni kredencialet tuaja me biometrikë dhe ta mbani të aktivizuar **`Autentifikimin biometrik`** të paktën për gjurmën e gishtit. Kjo do ta bëjë kuletën tuaj edhe më të sigurt." 
+  title="Autentifikimi i kuletës"
 %}
 
-The **`Advanced settings`** are:
-- **`My ID`**: displays a series of public information about your wallet.
-- **`Update credential status`**: updates the status of all credentials stored in your wallet. For example, if you revoke your certificate using the self service portal, the status of the related credential will not be automatically updated. You will not be able to use it anymore for signing or for strong authentication, but in the wallet the relate credential may still be shown as active. Using this feature you can update the credential status at any time.
-- **`Delete user`**: This will clear the whole content of your wallet. Please use this feature with care. Restoring the list of credentials after using this feature means to use the self service portal for each certificate and re-connect the wallet with each certificate 
+**`Cilësimet e avancuara`** janë:
+- **`ID-ja ime`**: shfaq një sërë informacionesh publike rreth kuletës suaj.
+- **`Përditëso statusin e kredencialeve`**: përditëson statusin e të gjitha kredencialeve të ruajtura në kuletën tuaj. Për shembull, nëse e revokoni certifikatën tuaj duke përdorur portalin e vetë-shërbimit, statusi i kredencialit përkatës nuk do të përditësohet automatikisht. Ju nuk do të mund ta përdorni më atë për nënshkrim ose për autentifikim të fortë, por në kuletë kredenciali përkatës mund të shfaqet ende si aktiv. Duke përdorur këtë funksionalitet, mund ta përditësoni statusin e kredencialit në çdo kohë.
+- **`Fshi përdoruesin`**: Ky veprim do të pastrojë të gjithë përmbajtjen e kuletës suaj. Ju lutemi përdoreni këtë funksionalitet me kujdes. Rikthimi i listës së kredencialeve pas përdorimit të këtij funksionaliteti kërkon përdorimin e portalit të vetë-shërbimit për secilën certifikatë dhe rilidhjen e kuletës me secilën certifikatë.

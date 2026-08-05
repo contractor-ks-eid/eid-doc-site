@@ -1,5 +1,5 @@
 
-You must have at least Windows 10 for installing the signing app.
+Duhet të keni të paktën Windows 10 për të instaluar aplikacionin e nënshkrimit.
 
 {% include elements/downloads.html 
     type="primary" 

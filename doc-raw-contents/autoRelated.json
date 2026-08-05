@@ -11,7 +11,7 @@
         "permalink": "/intro/"
       },
       {
-        "title": "Get eID",
+        "title": "Pajisuni me eID",
         "permalink": "/get-eid/"
       }
     ]
@@ -20,7 +20,7 @@
     "permalink": "/api/intro/",
     "related": [
       {
-        "title": "eID API Docs",
+        "title": "Dok API",
         "permalink": "/api/api-docs/"
       },
       {
@@ -28,7 +28,7 @@
         "permalink": "/intro/"
       },
       {
-        "title": "Get eID",
+        "title": "Pajisuni me eID",
         "permalink": "/get-eid/"
       }
     ]
@@ -37,16 +37,12 @@
     "permalink": "/sign-apps/intro/",
     "related": [
       {
-        "title": "Sign Documents",
-        "permalink": "/sign-apps/sign-docs/"
-      },
-      {
-        "title": "Sign Office Documents",
+        "title": "Nënshkrimi i dokumenteve Office",
         "permalink": "/sign-apps/sign-office-docs/"
       },
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
+        "title": "Nënshkrimi i dokumenteve",
+        "permalink": "/sign-apps/sign-docs/"
       }
     ]
   },
@@ -54,16 +50,12 @@
     "permalink": "/sign-apps/sign-docs/",
     "related": [
       {
-        "title": "Signing Apps",
-        "permalink": "/sign-apps/intro/"
-      },
-      {
-        "title": "Sign Office Documents",
+        "title": "Nënshkrimi i dokumenteve Office",
         "permalink": "/sign-apps/sign-office-docs/"
       },
       {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
+        "title": "Aplikacionet e nënshkrimit",
+        "permalink": "/sign-apps/intro/"
       }
     ]
   },
@@ -71,16 +63,12 @@
     "permalink": "/sign-apps/sign-office-docs/",
     "related": [
       {
-        "title": "Sign Documents",
-        "permalink": "/sign-apps/sign-docs/"
-      },
-      {
-        "title": "Signing Apps",
+        "title": "Aplikacionet e nënshkrimit",
         "permalink": "/sign-apps/intro/"
       },
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
+        "title": "Nënshkrimi i dokumenteve",
+        "permalink": "/sign-apps/sign-docs/"
       }
     ]
   },
@@ -88,16 +76,16 @@
     "permalink": "/wallet/intro/",
     "related": [
       {
-        "title": "Use Kosovo Wallet",
+        "title": "Përdorimi i Kuletës së Kosovës",
         "permalink": "/wallet/use-wallet/"
       },
       {
-        "title": "eID API Docs",
-        "permalink": "/api/api-docs/"
+        "title": "Introduction",
+        "permalink": "/intro/"
       },
       {
-        "title": "eID API",
-        "permalink": "/api/intro/"
+        "title": "Pajisuni me eID",
+        "permalink": "/get-eid/"
       }
     ]
   },
@@ -105,16 +93,8 @@
     "permalink": "/wallet/use-wallet/",
     "related": [
       {
-        "title": "Kosovo Wallet",
+        "title": "Kuleta e Kosovës",
         "permalink": "/wallet/intro/"
-      },
-      {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
-      },
-      {
-        "title": "eID API Docs",
-        "permalink": "/api/api-docs/"
       }
     ]
   },
@@ -126,12 +106,12 @@
         "permalink": "/intro/"
       },
       {
-        "title": "eID API Docs",
-        "permalink": "/api/api-docs/"
+        "title": "Menaxhimi i eID-së",
+        "permalink": "/manage-eid/"
       },
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
+        "title": "Dok API",
+        "permalink": "/api/api-docs/"
       }
     ]
   },
@@ -139,16 +119,16 @@
     "permalink": "/intro/",
     "related": [
       {
-        "title": "Get eID",
+        "title": "Pajisuni me eID",
         "permalink": "/get-eid/"
       },
       {
-        "title": "eID API Docs",
+        "title": "Dok API",
         "permalink": "/api/api-docs/"
       },
       {
-        "title": "eID API",
-        "permalink": "/api/intro/"
+        "title": "Menaxhimi i eID-së",
+        "permalink": "/manage-eid/"
       }
     ]
   },
@@ -156,16 +136,16 @@
     "permalink": "/manage-eid/",
     "related": [
       {
-        "title": "Get eID",
+        "title": "Pajisuni me eID",
         "permalink": "/get-eid/"
-      },
-      {
-        "title": "Signing Apps",
-        "permalink": "/sign-apps/intro/"
       },
       {
         "title": "Introduction",
         "permalink": "/intro/"
+      },
+      {
+        "title": "Dok API",
+        "permalink": "/api/api-docs/"
       }
     ]
   }

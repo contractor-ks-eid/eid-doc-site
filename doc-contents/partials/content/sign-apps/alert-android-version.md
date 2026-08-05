@@ -1,5 +1,5 @@
 
-You must have at least Android 5.0 for installing the mobile signing app.
+Duhet të keni të paktën Android 5.0 për të instaluar aplikacionin mobil të nënshkrimit.
 
 {% include elements/image.html 
   source="partials/media/wallet/google-play.svg"

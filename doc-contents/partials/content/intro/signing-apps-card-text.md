@@ -1,1 +1,1 @@
-Install the desktop and/or mobile signing app and start signing and stamping documents.
+Instaloni aplikacionin/aplikacionet e nënshkrimit për desktop dhe/ose mobil dhe filloni të nënshkruani dhe vulosni dokumente.

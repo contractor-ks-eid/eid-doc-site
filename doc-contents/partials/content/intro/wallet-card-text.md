@@ -1,1 +1,1 @@
-Install your wallet (Android or iOS), store your ID or Seals and use it to access partner eServices.
+Instaloni kuletën tuaj (Android ose iOS), ruani ID-në ose vulat tuaja dhe përdoreni atë për të aksesuar shërbimet elektronike të partnerëve.

@@ -2,19 +2,19 @@
     "summaries": [
         {
             "permalink": "/intro/",
-            "summary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. Citizens can get their electronic id by going through a enrollment process at the civil registration offices ( ) counters. In a similar way, citizens can obtain an electronic seal through the enrollment process."
+            "summary": "Eid e kosov\u00ebs ishte sistemi komb\u00ebtar p\u00ebr menaxhimin e identiteteve elektronike t\u00eb qytetar\u00ebve. Identiteti elektrik \u00ebsht\u00eb nj\u00eb certifikat\u00eb digjitale falas, e l\u00ebshuar nga qeveria e republik\u00ebs s\u00eb kosova."
         },
         {
             "permalink": "/get-eid/",
-            "summary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc). For a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available. This is intentional, to ensure the highest possible."
+            "summary": "Pajisja me eid ishte nj\u00eb proces i shpejt\u00eb dhe i thjesht\u00eb. Procesi zhvillohet n\u00eb agjencin\u00eb p\u00ebr regjistrimin e bizneseve t\u00eb kosov\u00ebs (arbk)."
         },
         {
             "permalink": "/manage-eid/",
-            "summary": "The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password)."
+            "summary": "Portali i vet\u00eb-sh\u00ebrbimit \u00ebsht\u00eb mjeti q\u00eb ju mund\u00ebson t\u00eb menaxhoni certifikat\u00ebn(at) tuaja dhe t\u00eb migroni kulet\u00ebn kur nd\u00ebrroni pajisjen tuaj."
         },
         {
             "permalink": "/wallet/intro/",
-            "summary": "Kosovo wallet is a mobile app used to safely store the credentials of your electronic id or your electronic seal(s) It can be installed as any other mobile application from google play (for android) or from app store (for ios). Installation and usage, without any limitations, are free of charge."
+            "summary": "Kuleta e kosov\u00ebs \u00ebsht\u00eb nj\u00eb aplikacion mobil q\u00eb p\u00ebrdoret p\u00ebr t\u00eb ruajtur n\u00eb m\u00ebnyr\u00eb t\u00eb sigurt kredencialet e id-s\u00eb tuaj elektronike ose t\u00eb vul\u00ebsvulave tuaja. Instalimi dhe p\u00ecrdorimi, pa asnj\u00eb kufizim, jan\u00eb pa pages\u00eb."
         },
         {
             "permalink": "/api/intro/",
@@ -30,7 +30,7 @@
         },
         {
             "permalink": "/wallet/use-wallet/",
-            "summary": "Kosovo wallet provides you with a series of features that can be used to keep your certificate credentials safe and protected on your device. You can organise credentials and use the credentials in applications that are in the kosovo eid ecosystem and offers strong authentication."
+            "summary": "Kuleta e kosov\u00ebs ju ofron nj\u00eb s\u00ebr\u00eb funksionalitetesh q\u00eb mund t\u00eb p\u00ebrdoren p\u00ebr ti mbajtur t\u00eb sigurta dhe t\u00eb mbrojtura kredencialet e certifikat\u00ebs suaj."
         },
         {
             "permalink": "/sign-apps/sign-docs/",
@@ -38,7 +38,7 @@
         },
         {
             "permalink": "/sign-apps/sign-office-docs/",
-            "summary": "You can sign microsoft office documents using your eid certificate and your digital seals. The minimum office version allowing digital signatures with certificates is office2007. Any newer version or office365 provides signature features."
+            "summary": "Ju mund t\u00eb n\u00ebnshkruani dokumente microsoft office duke p\u00ebrdorur certifikat\u00ebn tuaj eid dhe vulat tuaja elektronike."
         }
     ]
 }

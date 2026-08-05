@@ -1,1 +1,1 @@
-This folder can be used to store Q&A files in their specific format.
+Kjo dosje mund të përdoret për ruajtjen e skedarëve Q&A në formatin e tyre specifik.

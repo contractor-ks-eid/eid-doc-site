@@ -1,47 +1,47 @@
 ---
 layout: page
-title: Sign Documents
+title: Nënshkrimi i dokumenteve
 permalink: /sign-apps/sign-docs/
-categories: [Signature, Seal]
-tags: [seal, signature, identity]
+categories: [Nënshkrimi, Vula]
+tags: [Vula, Nënshkrimi, identiteti]
 nav_order: 2
 ---
 
-# Intro
-We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. Signing a document on desktop or laptop involves the usage of the signature features provided by different applications (Adobe or Office or similar). Our desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature. The desktop signing app will always check if the certificate is valid at the moment of signing and will ensure that the person who signs is the owner of the certificate by requiring the input of a One-Time-Password before aplying the signature.
+# Hyrje
+Ne ofrojmë mundësinë e nënshkrimit të dokumenteve si në kompjuterë desktop ose laptopë, ashtu edhe në pajisje mobile. Nënshkrimi i një dokumenti në desktop ose laptop realizohet duke përdorur funksionalitetet e nënshkrimit që ofrohen nga aplikacione të ndryshme (si Adobe, Office ose të ngjashme). Aplikacioni ynë i nënshkrimit për desktop vetëm sa lehtëson procesin e nënshkrimit, duke siguruar verifikimin e certifikatës së përdorur sa herë që ajo përdoret për nënshkrim. Aplikacioni kontrollon gjithmonë nëse certifikata është e vlefshme në momentin e nënshkrimit dhe siguron që personi që nënshkruan është pronari i certifikatës, duke kërkuar vendosjen e një Fjalëkalimi Njëpërdorimësh (OTP) përpara aplikimit të nënshkrimit.
 
-Since the mobile apps are, usually, not providing signing features, additional to the certificate verification and One-Time-Password, the mobile signing app provides full signing features. 
+Meqenëse aplikacionet mobile zakonisht nuk ofrojnë funksionalitete për nënshkrim, aplikacioni ynë i nënshkrimit për pajisje mobile, përveç verifikimit të certifikatës dhe përdorimit të Fjalëkalimit Njëpërdorimësh (OTP), ofron edhe funksionalitet të plotë për nënshkrimin e dokumenteve.
 
-# What can be signed
-Technically, any type of document can be signed since the most frequent signature standards (PAdES, CAdES, XAdES) are provided. 
+# Çfarë mund të nënshkruhet
+Nga pikëpamja teknike, mund të nënshkruhet çdo lloj dokumenti, pasi mbështeten standardet më të përdorura të nënshkrimit (PAdES, CAdES dhe XAdES).
 
 {% include elements/alert.html 
   class="warning" 
-  content="Except for the case when the used app (such as Adobe Acrobat or Microsoft Office) provides features to visualize a signed document and the signature(s) applied to it, the result of the signing process will be an ecrypted file that cannot be open in a classical way (using its specific app). First, a special app must be used to extract the original file from the encrypted signed file and, second, the file can be then open with its specific app."
-  title="Signed documentd"
+  content="Përveç rasteve kur aplikacioni i përdorur (si Adobe Acrobat, Microsoft Office ose të ngjashëm) ofron funksionalitete për të shfaqur një dokument të nënshkruar dhe nënshkrimet e aplikuara në të, rezultati i procesit të nënshkrimit do të jetë një skedar i enkriptuar, i cili nuk mund të hapet në mënyrën e zakonshme me aplikacionin përkatës. Fillimisht, duhet të përdoret një aplikacion i posaçëm për të nxjerrë skedarin origjinal nga skedari i nënshkruar dhe i enkriptuar, dhe vetëm më pas skedari mund të hapet me aplikacionin përkatës."
+  title="Dokumentet e nënshkruara"
 %}
 
 {% include elements/alert.html 
   class="primary" 
-  content="Only PDF signing will provide the feature of signature visualisation in a graphical way on the document. The way in which the signature marker will be visible on other types of documents depends on the specific signature feature provided by the app used to sign."
-  title="Graphical signature"
+  content="Vetëm nënshkrimi i dokumenteve PDF ofron mundësinë e paraqitjes grafike të nënshkrimit brenda dokumentit. Mënyra se si shfaqet treguesi i nënshkrimit në llojet e tjera të dokumenteve varet nga funksionalitetet e nënshkrimit që ofron aplikacioni i përdorur për nënshkrim."
+  title="Nënshkrimi grafik"
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="Only PDF files allows multiple signature since Adobe Acrobat signing feature allows this. Other apps (files) may not allow multiple signature. For example, Microsof Office files cannot be signed multiple times, each new signature will automatically remove the existing signature on the document."
-  title="Multiple signatures"
+  content="Vetëm skedarët PDF lejojnë vendosjen e nënshkrimeve të shumta, pasi kjo mbështetet nga funksionaliteti i nënshkrimit në Adobe Acrobat. Aplikacionet e tjera (dhe formatet përkatëse të skedarëve) mund të mos e mbështesin këtë funksionalitet. Për shembull, dokumentet Microsoft Office nuk mund të nënshkruhen disa herë; çdo nënshkrim i ri do ta zëvendësojë automatikisht nënshkrimin ekzistues në dokument."
+  title="Nënshkrime të shumëfishta"
 %}
 
 {% include elements/alert.html 
   class="danger" 
-  content="Currently, the One-Time-Password needed for signing is sent by SMS to the mobile phone number used during the eID registration/enrollment process. You need to have the mobile device with that phone number active when signing, otherwise, signing will not be possible. The phone number associated to a digital eID certificate cannot be changed."
-  title="One-Time-Password"
+  content="Aktualisht, Fjalëkalimi Njëpërdorimësh (OTP) i nevojshëm për nënshkrim dërgohet me SMS në numrin e telefonit celular të përdorur gjatë procesit të regjistrimit të eID-së. Gjatë nënshkrimit, duhet ta keni aktiv pajisjen mobile me atë numër telefoni; në të kundërt, nënshkrimi nuk do të jetë i mundur. Numri i telefonit i lidhur me një certifikatë elektronike eID nuk mund të ndryshohet."
+  title="Fjalëkalimi Njëpërdorimësh (OTP)"
 %}
 
-# Sign
+# Nënshkrimi
 ## Desktop
-After installing the desktop signing app, follow the instructions from the next video to understand how to use this app to sign documents.
+Pasi të instaloni aplikacionin e nënshkrimit për desktop, ndiqni udhëzimet në videon e mëposhtme për të mësuar se si ta përdorni këtë aplikacion për të nënshkruar dokumente.
 
 {% include elements/youtube.html 
     id="OTNiEsfceuc" 
@@ -50,31 +50,31 @@ After installing the desktop signing app, follow the instructions from the next 
     moments=moments
 %}
 
-## Mobile
-After installing the mobile signing app, follow the instructions below to understand how to use this app to sign documents:
-1. open the Kosovo eSign app and go to **`Identity`** tab (bottom of the screen)
-2. click **`+`** sign and add your identity (you need the certificate username and password which you received during the registration/enrollment process)
-3. go to **`Settings`** tab (bottom of the screen) and set **`Enable graphic signature`** and **`Auto georeferencing`** (if not already set)
+## Pajisje mobile
+Pasi të instaloni aplikacionin e nënshkrimit për pajisje mobile, ndiqni udhëzimet e mëposhtme për të mësuar se si ta përdorni atë për të nënshkruar dokumente:
+1. Hapni aplikacionin Kosovo eSign dhe shkoni te skeda **`Identiteti`** (në fund të ekranit).
+2. Klikoni shenjën **`+`** the shtoni identitetin tuaj (do t'ju nevojiten emri i përdoruesit dhe fjalëkalimi i certifikatës që i keni marrë gjatë procesit të regjistrimit).
+3. Shkoni te skeda **`Cilësimet`** (në fund të ekranit) dhe aktivizoni **`Nënshkrimin grafik`** the **`Gjeoreferencimin automatik`** (nëse nuk janë tashmë të aktivizuara)
 
 {% include elements/alert.html 
   class="primary" 
-  content="You can add as many identities as you have. For example, you can add your eID and all your digital seals."
-  title="Identities"
+  content="Mund të shtoni aq identitete sa posedoni. Për shembull, mund të shtoni eID-në tuaj dhe të gjitha vulat tuaja elektronike."
+  title="Identitetet"
 %}
 
-To sign:
-1. open the Kosovo eSign app, go to **`Home`** tab (bottom of the screen) and select **`Sign`** from the tool bar
-2. select the file you want to sign
-3. select the signing standard (we recommend PAdES for PDF files and any other one for other files)
-4. check **`Apply Timestamp`** if needed (we recommed to check it)
-5. tap **`Next`**
-6. for PDF filed you will be required to place the signature on the document
-7. input the certificate PIN code and **`tap the arrow icon on the right of the PIN input form`**
-8. wait for the One-Time-Password and input it
-9. save the signed document
+TPër të nënshkruar:
+1. Hapni aplikacionin Kosovo eSign, shkoni te skeda **`Ballina`** (në fund të ekranit) dhe zgjidhni **`Nënshkruaj`** nga shiriti i veglave.
+2. Zgjidhni skedarin që dëshironi të nënshkruani.
+3. Zgjidhni standardin e nënshkrimit (rekomandojmë PAdES për skedarët PDF dhe një nga standardet e tjera për llojet e tjera të skedarëve).
+4. Aktivizoni opsionin **`Apliko vulën kohore`** nëse është e nevojshme (rekomandojmë ta aktivizoni).
+5. Prekni **`Tjetër`**
+6. Për skedarët PDF, do t'ju kërkohet të vendosni nënshkrimin në dokument.
+7. Vendosni PIN-in e certifikatës dhe **`prekni ikonën e shigjetës në anën e djathtë të fushës së PIN-it.`**
+8. Prisni të merrni Fjalëkalimin Njëpërdorimësh (OTP) dhe vendoseni atë.
+9. Ruani dokumentin e nënshkruar.
 
-# Support
-We offer technical support for users of signing apps.
+# Mbështetja
+Ne ofrojmë mbështetje teknike për përdoruesit e aplikacioneve të nënshkrimit.
 
 {% include elements/link-btn.html 
     type="primary" 

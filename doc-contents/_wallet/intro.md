@@ -1,34 +1,34 @@
 ---
 layout: page
-title: Kosovo Wallet
+title: Kuleta e Kosovës
 permalink: /wallet/intro/
-categories: [Wallet]
-tags: [wallet, authentication]
+categories: [Kuleta]
+tags: [Kuleta, autentifikimi]
 nav_order: 1
 start: true
 ---
 
-# Intro
-Kosovo wallet is a mobile app used to safely store the credentials of your electronic ID or your electronic seal(s). Kosovo wallet can be installed as any other mobile application from Google Play (for Android) or from App Store (for iOS). Installation and usage, without any limitations, are free of charge.
+# Hyrje
+Kuleta e Kosovës është një aplikacion mobil që përdoret për të ruajtur në mënyrë të sigurt kredencialet e ID-së tuaj elektronike ose të vulës/vulave tuaja elektronike. Kuleta e Kosovës mund të instalohet si çdo aplikacion tjetër mobil nga Google Play (për Android) ose nga App Store (për iOS). Instalimi dhe përdorimi, pa asnjë kufizim, janë pa pagesë.
 
-# Purpose
-In the context of Kosovo eID, the purpose of the wallet is to safely store the credentials of your electronic ID or your electronic seal(s) and to be used for strong authentication to electronic services that will be part of the eID ecosystem and will integrate eID features.
+# Qëllimi
+Në kuadër të Kosovo eID, qëllimi i kuletës është të ruajë në mënyrë të sigurt kredencialet e ID-së tuaj elektronike ose të vulës/vulave tuaja elektronike dhe të përdoret për autentifikim të fortë në shërbimet elektronike që do të jenë pjesë e ekosistemit eID dhe që do të integrojnë funksionalitetet e eID-së.
 
 {% capture buttons %}
-    type=primary|outline=false|text=Wallet site|href="https://ks-eid.com/wallet"|newTab=true,
-    type=secondary|outline=false|text=API docs|href="/api/api-docs/"|newTab=false,
-    type=success|outline=false|text=Test it|href="https://api-eid.rks-gov.net/universal-verifier/"|newTab=true,
-    type=warning|outline=false|text=API Application|href="https://ks-eid.com/api-application"|newTab=true
+    type=primary|outline=false|text=Faqja e kuletës|href="https://ks-eid.com/wallet"|newTab=true,
+    type=secondary|outline=false|text=Dok API|href="/api/api-docs/"|newTab=false,
+    type=success|outline=false|text=Testojeni|href="https://api-eid.rks-gov.net/universal-verifier/"|newTab=true,
+    type=warning|outline=false|text=Aplikimi API|href="https://ks-eid.com/api-application"|newTab=true
 {% endcapture %}
 
 {% include elements/link-btn-group.html buttons=buttons %}
 
 {% include elements/alert.html 
   class="success" 
-  content="Kosovo wallet is **`open to safely store other digital items`** as this will be further developed by the Government or by the private sector. These documents can be, as example, the driver license or university diploma or any subscriptions/tickets. If you are a company registered in Kosovo and want to use Kosovo wallet for storing digital items **`just get in contact with us`** and we will do our best to assist you."
+  content="Kuleta e Kosovës është**`e hapur për të ruajtur në mënyrë të sigurt edhe artikuj të tjerë digjitalë`** pasi ky funksionalitet do të zhvillohet më tej nga Qeveria ose nga sektori privat. Këto dokumente mund të jenë, për shembull, patentë shoferi, diplomë universitare ose çdo lloj abonimi/tikete. Nëse jeni një kompani e regjistruar në Kosovë dhe dëshironi të përdorni Kuletën e Kosovës për ruajtjen e artikujve digjitalë **`na kontaktoni`** dhe ne do të bëjmë çmos t'ju asistojmë."
 %}
 
-# Install
+# Instalimi
 
 {% include elements/scroll-spy.html
     source="partials/content/wallet/install-tabs" 
@@ -40,12 +40,12 @@ In the context of Kosovo eID, the purpose of the wallet is to safely store the c
     spyBorder="true"
 %}
 
-# Support
-We offer technical support for both users and integrators of Kosovo Wallet.
+# Mbështetja
+Ne ofrojmë mbështetje teknike për përdoruesit dhe integruesit e Kuletës së Kosovës.
 
 {% capture buttons %}
-    type=primary|outline=false|text=User support|href="https://ks-eid.com/support"|newTab=true,
-    type=success|outline=false|text=Developer support|href="https://ks-eid.atlassian.net/servicedesk/customer/portal/1"|newTab=true
+    type=primary|outline=false|text=Mbështetja për përdoruesit|href="https://ks-eid.com/support"|newTab=true,
+    type=success|outline=false|text=Mbështetja për zhvilluesit|href="https://ks-eid.atlassian.net/servicedesk/customer/portal/1"|newTab=true
 {% endcapture %}
 
 {% include elements/link-btn-group.html buttons=buttons %}
