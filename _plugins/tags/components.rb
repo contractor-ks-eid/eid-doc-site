@@ -121,7 +121,7 @@ module Jekyll
                 fullPath = fullPath.gsub("//", "/").strip        
                 fullPath = Globals.remove_leading_underscore_from_path_if_collection(fullPath, site)
 
-                fullPath
+                fullPath.strip
             end
             
         end
