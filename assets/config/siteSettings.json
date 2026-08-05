@@ -212,7 +212,7 @@
       "rowsPerPage": 5,
       "maxRowHeight": 75
     },
-    "siteTitle": "eID Docs"
+    "siteTitle": "eID Dok"
   },
   "pageList": [
     {
@@ -731,17 +731,26 @@
     "Nënshkrimi",
     "Regjistrimi",
     "Vula",
+    "autentifikacija",
     "autentifikimi",
     "dok",
     "excel",
+    "identitet",
     "identiteti",
+    "integracija",
     "integrimi",
     "kuleta",
     "microsoft",
+    "novčanik",
     "nënshkrimi",
     "office",
     "outlook",
+    "pečat",
+    "potpis",
     "powerpoint",
+    "registracija",
+    "samoposluživanje",
+    "signature",
     "vetë-shërbim",
     "vula",
     "word"
@@ -917,6 +926,9 @@
       ],
       "numPages": 6
     },
+    "autentifikacija": {
+      "pages": []
+    },
     "autentifikimi": {
       "pages": [
         {
@@ -947,6 +959,9 @@
       ],
       "numPages": 1
     },
+    "identitet": {
+      "pages": []
+    },
     "identiteti": {
       "pages": [
         {
@@ -966,6 +981,9 @@
         }
       ],
       "numPages": 3
+    },
+    "integracija": {
+      "pages": []
     },
     "integrimi": {
       "pages": [
@@ -996,6 +1014,9 @@
         }
       ],
       "numPages": 1
+    },
+    "novčanik": {
+      "pages": []
     },
     "nënshkrimi": {
       "pages": [
@@ -1032,6 +1053,12 @@
       ],
       "numPages": 1
     },
+    "pečat": {
+      "pages": []
+    },
+    "potpis": {
+      "pages": []
+    },
     "powerpoint": {
       "pages": [
         {
@@ -1041,6 +1068,15 @@
         }
       ],
       "numPages": 1
+    },
+    "registracija": {
+      "pages": []
+    },
+    "samoposluživanje": {
+      "pages": []
+    },
+    "signature": {
+      "pages": []
     },
     "vetë-shërbim": {
       "pages": [
@@ -1081,10 +1117,17 @@
   "catList": [
     "API",
     "Certifikatat",
+    "General",
+    "Integracija",
     "Integrimi",
     "Kuleta",
+    "Novčanik",
     "Nënshkrimi",
+    "Pečat",
+    "Potpis",
+    "Registracija",
     "Regjistrimi",
+    "Sertifikati",
     "Të përgjithshme",
     "Vula"
   ],
@@ -1119,6 +1162,12 @@
       ],
       "numPages": 2
     },
+    "General": {
+      "pages": []
+    },
+    "Integracija": {
+      "pages": []
+    },
     "Integrimi": {
       "pages": [
         {
@@ -1149,6 +1198,9 @@
       ],
       "numPages": 2
     },
+    "Novčanik": {
+      "pages": []
+    },
     "Nënshkrimi": {
       "pages": [
         {
@@ -1169,6 +1221,15 @@
       ],
       "numPages": 3
     },
+    "Pečat": {
+      "pages": []
+    },
+    "Potpis": {
+      "pages": []
+    },
+    "Registracija": {
+      "pages": []
+    },
     "Regjistrimi": {
       "pages": [
         {
@@ -1178,6 +1239,9 @@
         }
       ],
       "numPages": 1
+    },
+    "Sertifikati": {
+      "pages": []
     },
     "Të përgjithshme": {
       "pages": [
