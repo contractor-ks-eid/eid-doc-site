@@ -15,8 +15,8 @@ Misspelled words: ako, autentifikacije, biste, budućnosti, da, digitalnim, digi
 
 Permalink: /intro/
 File: intro.md
-Language detected: hr
-Language not supported for spellcheck (possible missing dictionary).
+Language detected: en
+Misspelled words: aplikacije, aplikaciju, autentifikaciju, bazu, bilo, da, digitalni, digitalno, direktno, dobijanje, dobijte, dokumenata, dokument, dokumente, ili, instalaciju, instalirajte, integriše, iz, izdati, javne, kada, kartu, kom, koristeći, koristite, lične, ličnih, lično, ličnu, mobilnih, mobilnu, na, nacionalnu, njima, novčanik, novčanika, odnosu, omogućava, osnovu, partnerskim, pečat, pečate, pečatite, pečaćenje, podataka, podatke, pomoću, potpisivanje, potpisujete, potrebne, počnite, prikupiti, pristup, prisustvo, privatnog, procesa, proverava, proveriti, pružaocu, putem, registracije, registraciju, samousluživanje, sačuvajte, se, sektora, sertifikat, sisteme, službenik, snažnu, strane, su, svaki, svoj, svoje, treće, uprave, upravljajte, usluga, uslugama, vaš, vaše, vašeg, vaših, vašu, za, zahteva, zato, će, šalteru, što
 
 Permalink: /manage-eid/
 File: manage-eid.md
