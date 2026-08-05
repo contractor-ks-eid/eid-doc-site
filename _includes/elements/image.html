@@ -58,6 +58,7 @@
    {% endif %}
 
    <figure class="figure {{additionalFigureClass}} my-1">
+    {% assign full_path = full_path | remove: ' ' %}
     <img  id="figure-{{imgid}}" src="{{full_path}}" class="figure-img img-fluid rounded" {{alt}} imgLink="{{imgLink}}" linkNewTab="{{imgLinkNewTab}}">
 
     {% assign captionBorderClass = "" %}
