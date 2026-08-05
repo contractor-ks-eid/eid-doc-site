@@ -28,6 +28,16 @@ File: _sign-apps/intro.md
 Language detected: en
 No misspellings detected.
 
+Permalink: /sign-apps/sign-docs/
+File: _sign-apps/sign-docs.md
+Language detected: en
+Misspelled words: aplying, cades, documentd, ecrypted, esign, microsof, pades, recommed, xades
+
+Permalink: /sign-apps/sign-office-docs/
+File: _sign-apps/sign-msoffice.md
+Language detected: en
+No misspellings detected.
+
 Permalink: /wallet/intro/
 File: _wallet/intro.md
 Language detected: en
