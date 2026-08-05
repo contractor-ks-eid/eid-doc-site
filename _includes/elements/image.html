@@ -10,7 +10,7 @@
 {% assign lang_path = siteLanguage | strip %}
 {% assign lang_prefix = '' %}
 {% unless lang_path == '' %}
-  {% assign lang_prefix = '/' | append: lang_path %}
+  {% assign lang_prefix = '/' | append: lang_path | strip %}
 {% endunless %}
 
 {% assign source = include.source %}
