@@ -1,14 +1,14 @@
 {
-    "emptyTable": "No data available in table",
-    "info": "Showing _START_ to _END_ of _TOTAL_ entries",
-    "infoEmpty": "Showing 0 to 0 of 0 entries",
-    "infoFiltered": "(filtered from _MAX_ total entries)",
+     "emptyTable": "Nema dostupnih podataka u tabeli",
+    "info": "Prikazano od _START_ do _END_ od ukupno _TOTAL_ zapisa",
+    "infoEmpty": "Prikazano 0 do 0 od 0 zapisa",
+    "infoFiltered": "(filtrirano od ukupno _MAX_ zapisa)",
     "infoThousands": ",",
-    "lengthMenu": "Show _MENU_ ",
-    "loadingRecords": "Loading...",
+    "lengthMenu": "Prikaži _MENU_ ",
+    "loadingRecords": "Učitavanje...",
     "processing": "",
-    "search": "Search:",
-    "zeroRecords": "No matching records found",
+    "search": "Pretraga:",
+    "zeroRecords": "Nisu pronađeni odgovarajući zapisi",
     "thousands": ",",
     "paginate": {
         "first": "«",
@@ -17,227 +17,227 @@
         "previous": "‹"
     },
     "aria": {
-        "sortAscending": ": activate to sort column ascending",
-        "sortDescending": ": activate to sort column descending"
+        "sortAscending": ": aktivirajte za sortiranje kolone uzlaznim redosledom",
+        "sortDescending": ": aktivirajte za sortiranje kolone silaznim redosledom"
     },
     "autoFill": {
-        "cancel": "Cancel",
-        "fill": "Fill all cells with <i>%d<\/i>",
-        "fillHorizontal": "Fill cells horizontally",
-        "fillVertical": "Fill cells vertically"
+        "cancel": "Otkaži",
+        "fill": "Popuni sve ćelije sa <i>%d<\/i>",
+        "fillHorizontal": "Popuni ćelije horizontalno",
+        "fillVertical": "Popuni ćelije vertikalno"
     },
-    "buttons": {
-        "collection": "Collection <span class='ui-button-icon-primary ui-icon ui-icon-triangle-1-s'\/>",
-        "colvis": "Columns",
-        "colvisRestore": "Restore visibility",
-        "copy": "Copy",
-        "copyKeys": "Press ctrl or u2318 + C to copy the table data to your system clipboard.<br><br>To cancel, click this message or press escape.",
+     "buttons": {
+        "collection": "Kolekcija <span class='ui-button-icon-primary ui-icon ui-icon-triangle-1-s'\/>",
+        "colvis": "Kolone",
+        "colvisRestore": "Vrati vidljivost",
+        "copy": "Kopiraj",
+        "copyKeys": "Pritisnite ctrl ili u2318 + C da biste kopirali podatke iz tabele u sistemski međumemoriju.<br><br>Da biste otkazali, kliknite na ovu poruku ili pritisnite Escape.",
         "copySuccess": {
-            "1": "Copied 1 row to clipboard",
-            "_": "Copied %d rows to clipboard"
+            "1": "1 red je kopiran u međumemoriju",
+            "_": "%d redova je kopirano u međumemoriju"
         },
-        "copyTitle": "Copy to Clipboard",
+        "copyTitle": "Kopiraj u međumemoriju",
         "csv": "CSV",
         "excel": "Excel",
         "pageLength": {
-            "-1": "Show all rows",
-            "_": "Show %d rows"
+            "-1": "Prikaži sve redove",
+            "_": "Prikaži %d redova"
         },
         "pdf": "PDF",
-        "print": "Print",
-        "updateState": "Update",
-        "stateRestore": "State %d",
-        "savedStates": "Saved States",
-        "renameState": "Rename",
-        "removeState": "Remove",
-        "removeAllStates": "Remove All States",
-        "createState": "Create State"
+        "print": "Štampaj",
+        "updateState": "Ažuriraj",
+        "stateRestore": "Stanje %d",
+        "savedStates": "Sačuvana stanja",
+        "renameState": "Preimenuj",
+        "removeState": "Ukloni",
+        "removeAllStates": "Ukloni sva stanja",
+        "createState": "Kreiraj stanje"
     },
     "searchBuilder": {
-        "add": "Add Condition",
+        "add": "Dodaj uslov",
         "button": {
-            "0": "Search Builder",
-            "_": "Search Builder (%d)"
+            "0": "Kreator pretrage",
+            "_": "Kreator pretrage (%d)"
         },
-        "clearAll": "Clear All",
-        "condition": "Condition",
+        "clearAll": "Obriši sve",
+        "condition": "Uslov",
         "conditions": {
             "date": {
-                "after": "After",
-                "before": "Before",
-                "between": "Between",
-                "empty": "Empty",
-                "equals": "Equals",
-                "not": "Not",
-                "notBetween": "Not Between",
-                "notEmpty": "Not Empty"
+                "after": "Posle",
+                "before": "Pre",
+                "between": "Između",
+                "empty": "Prazno",
+                "equals": "Jednako",
+                "not": "Nije",
+                "notBetween": "Nije između",
+                "notEmpty": "Nije prazno"
             },
             "number": {
-                "between": "Between",
-                "empty": "Empty",
-                "equals": "Equals",
-                "gt": "Greater Than",
-                "gte": "Greater Than Equal To",
-                "lt": "Less Than",
-                "lte": "Less Than Equal To",
-                "not": "Not",
-                "notBetween": "Not Between",
-                "notEmpty": "Not Empty"
+                "between": "Između",
+                "empty": "Prazno",
+                "equals": "Jednako",
+                "gt": "Veće od",
+                "gte": "Veće ili jednako od",
+                "lt": "Manje od",
+                "lte": "Manje ili jednako od",
+                "not": "Nije",
+                "notBetween": "Nije između",
+                "notEmpty": "Nije prazno"
             },
-            "string": {
-                "contains": "Contains",
-                "empty": "Empty",
-                "endsWith": "Ends With",
-                "equals": "Equals",
-                "not": "Not",
-                "notEmpty": "Not Empty",
-                "startsWith": "Starts With",
-                "notContains": "Does Not Contain",
-                "notStartsWith": "Does Not Start With",
-                "notEndsWith": "Does Not End With"
+           "string": {
+                "contains": "Sadrži",
+                "empty": "Prazno",
+                "endsWith": "Završava se sa",
+                "equals": "Jednako",
+                "not": "Nije",
+                "notEmpty": "Nije prazno",
+                "startsWith": "Počinje sa",
+                "notContains": "Ne sadrži",
+                "notStartsWith": "Ne počinje sa",
+                "notEndsWith": "Ne završava se sa"
             },
             "array": {
-                "without": "Without",
-                "notEmpty": "Not Empty",
-                "not": "Not",
-                "contains": "Contains",
-                "empty": "Empty",
-                "equals": "Equals"
+                "without": "Bez",
+                "notEmpty": "Nije prazno",
+                "not": "Nije",
+                "contains": "Sadrži",
+                "empty": "Prazno",
+                "equals": "Jednako"
             }
         },
-        "data": "Data",
-        "deleteTitle": "Delete filtering rule",
-        "leftTitle": "Outdent Criteria",
-        "logicAnd": "And",
-        "logicOr": "Or",
-        "rightTitle": "Indent Criteria",
+         "data": "Podaci",
+        "deleteTitle": "Obriši pravilo filtriranja",
+        "leftTitle": "Uvuci kriterijume",
+        "logicAnd": "I",
+        "logicOr": "Ili",
+        "rightTitle": "Uvuci kriterijume",
         "title": {
-            "0": "Search Builder",
-            "_": "Search Builder (%d)"
+            "0": "Kreator pretrage",
+            "_": "Kreator pretrage (%d)"
         },
-        "value": "Value"
+        "value": "Vrednost"
     },
     "searchPanes": {
-        "clearMessage": "Clear All",
+        "clearMessage": "Obriši sve",
         "collapse": {
-            "0": "Filters",
-            "_": "Filters (%d)"
+            "0": "Filteri",
+            "_": "Filteri (%d)"
         },
         "count": "{total}",
         "countFiltered": "{shown} ({total})",
-        "emptyPanes": "No SearchPanes",
-        "loadMessage": "Loading SearchPanes",
-        "title": "Filters Active - %d",
-        "showMessage": "Show All",
-        "collapseMessage": "Collapse All"
+        "emptyPanes": "Nema panela za pretragu",
+        "loadMessage": "Učitavanje panela za pretragu",
+        "title": "Aktivni filteri - %d",
+        "showMessage": "Prikaži sve",
+        "collapseMessage": "Sakrij sve"
     },
-    "select": {
+     "select": {
         "cells": {
-            "1": "1 cell selected",
-            "_": "%d cells selected"
+            "1": "1 ćelija je izabrana",
+            "_": "%d ćelija je izabrano"
         },
         "columns": {
-            "1": "1 column selected",
-            "_": "%d columns selected"
+            "1": "1 kolona je izabrana",
+            "_": "%d kolona je izabrano"
         },
         "rows": {
-            "1": "1 row selected",
-            "_": "%d rows selected"
+            "1": "1 red je izabran",
+            "_": "%d redova je izabrano"
         }
     },
     "datetime": {
-        "previous": "Previous",
-        "next": "Next",
-        "hours": "Hour",
-        "minutes": "Minute",
-        "seconds": "Second",
+        "previous": "Prethodno",
+        "next": "Sledeće",
+        "hours": "Sat",
+        "minutes": "Minut",
+        "seconds": "Sekunda",
         "unknown": "-",
         "amPm": [
             "am",
             "pm"
         ],
         "weekdays": [
-            "Sun",
-            "Mon",
-            "Tue",
-            "Wed",
-            "Thu",
-            "Fri",
-            "Sat"
+            "Ned",
+            "Pon",
+            "Uto",
+            "Sre",
+            "Čet",
+            "Pet",
+            "Sub"
         ],
         "months": [
-            "January",
-            "February",
-            "March",
+            "Januar",
+            "Februar",
+            "Mart",
             "April",
-            "May",
-            "June",
-            "July",
-            "August",
-            "September",
-            "October",
-            "November",
-            "December"
+            "Maj",
+            "Jun",
+            "Jul",
+            "Avgust",
+            "Septembar",
+            "Oktobar",
+            "Novembar",
+            "Decembar"
         ]
     },
     "editor": {
-        "close": "Close",
+        "close": "Zatvori",
         "create": {
-            "button": "New",
-            "title": "Create new entry",
-            "submit": "Create"
+            "button": "Novo",
+            "title": "Kreiraj novi unos",
+            "submit": "Kreiraj"
         },
         "edit": {
-            "button": "Edit",
-            "title": "Edit Entry",
-            "submit": "Update"
+            "button": "Uredi",
+            "title": "Uredi unos",
+            "submit": "Ažuriraj"
         },
         "remove": {
-            "button": "Delete",
-            "title": "Delete",
-            "submit": "Delete",
+            "button": "Obriši",
+            "title": "Obriši",
+            "submit": "Obriši",
             "confirm": {
-                "_": "Are you sure you wish to delete %d rows?",
-                "1": "Are you sure you wish to delete 1 row?"
+                "_": "Da li ste sigurni da želite da obrišete %d redova?",
+                "1": "Da li ste sigurni da želite da obrišete 1 red?"
             }
         },
         "error": {
-            "system": "A system error has occurred (<a target=\"\\\" rel=\"nofollow\" href=\"\\\">More information<\/a>)."
+            "system": "Došlo je do sistemske greške (<a target=\"\\\" rel=\"nofollow\" href=\"\\\">Više informacija<\/a>)."
         },
         "multi": {
-            "title": "Multiple Values",
-            "info": "The selected items contain different values for this input. To edit and set all items for this input to the same value, click or tap here, otherwise they will retain their individual values.",
-            "restore": "Undo Changes",
-            "noMulti": "This input can be edited individually, but not part of a group. "
+            "title": "Višestruke vrednosti",
+            "info": "Izabrane stavke sadrže različite vrednosti za ovaj unos. Da biste uredili i postavili istu vrednost za sve stavke ovog unosa, kliknite ili dodirnite ovde, u suprotnom će zadržati svoje pojedinačne vrednosti.",
+            "restore": "Poništi izmene",
+            "noMulti": "Ovaj unos se može uređivati pojedinačno, ali ne kao deo grupe. "
         }
     },
     "stateRestore": {
-        "renameTitle": "Rename State",
-        "renameLabel": "New Name for %s:",
-        "renameButton": "Rename",
-        "removeTitle": "Remove State",
-        "removeSubmit": "Remove",
-        "removeJoiner": " and ",
-        "removeError": "Failed to remove state.",
-        "removeConfirm": "Are you sure you want to remove %s?",
-        "emptyStates": "No saved states",
-        "emptyError": "Name cannot be empty.",
-        "duplicateError": "A state with this name already exists.",
+        "renameTitle": "Preimenuj stanje",
+        "renameLabel": "Novi naziv za %s:",
+        "renameButton": "Preimenuj",
+        "removeTitle": "Ukloni stanje",
+        "removeSubmit": "Ukloni",
+        "removeJoiner": " i ",
+        "removeError": "Uklanjanje stanja nije uspelo.",
+        "removeConfirm": "Da li ste sigurni da želite da uklonite %s?",
+        "emptyStates": "Nema sačuvanih stanja",
+        "emptyError": "Naziv ne može biti prazan.",
+        "duplicateError": "Stanje sa ovim nazivom već postoji.",
         "creationModal": {
-            "toggleLabel": "Includes:",
-            "title": "Create New State",
-            "select": "Select",
-            "searchBuilder": "SearchBuilder",
-            "search": "Search",
-            "scroller": "Scroll Position",
-            "paging": "Paging",
-            "order": "Sorting",
-            "name": "Name:",
+            "toggleLabel": "Uključuje:",
+            "title": "Kreiraj novo stanje",
+            "select": "Izaberi",
+            "searchBuilder": "Kreator pretrage",
+            "search": "Pretraga",
+            "scroller": "Pozicija pomeranja",
+            "paging": "Paginacija",
+            "order": "Sortiranje",
+            "name": "Naziv:",
             "columns": {
-                "visible": "Column Visibility",
-                "search": "Column Search"
+                "visible": "Vidljivost kolona",
+                "search": "Pretraga kolona"
             },
-            "button": "Create"
+            "button": "Kreiraj"
         }
     }
-} 
+}

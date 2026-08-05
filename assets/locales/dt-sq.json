@@ -1,14 +1,14 @@
 {
-    "emptyTable": "No data available in table",
-    "info": "Showing _START_ to _END_ of _TOTAL_ entries",
-    "infoEmpty": "Showing 0 to 0 of 0 entries",
-    "infoFiltered": "(filtered from _MAX_ total entries)",
+    "emptyTable": "Nuk ka të dhëna në tabelë",
+    "info": "Duke shfaqur_deri në_ to _END_ nga gjithsej _TOTAL_ regjistrime",
+    "infoEmpty": "Duke shfaqur 0 deri në 0 nga 0 regjistrime",
+    "infoFiltered": "(filtruar nga gjithsej _MAX_ regjistrime)",
     "infoThousands": ",",
-    "lengthMenu": "Show _MENU_ ",
-    "loadingRecords": "Loading...",
+    "lengthMenu": "Shfaq _MENU_ ",
+    "loadingRecords": "Duke u ngarkuar...",
     "processing": "",
-    "search": "Search:",
-    "zeroRecords": "No matching records found",
+    "search": "Kërko:",
+    "zeroRecords": "Nuk u gjetën regjistrime përkatëse",
     "thousands": ",",
     "paginate": {
         "first": "«",
@@ -21,223 +21,223 @@
         "sortDescending": ": activate to sort column descending"
     },
     "autoFill": {
-        "cancel": "Cancel",
-        "fill": "Fill all cells with <i>%d<\/i>",
-        "fillHorizontal": "Fill cells horizontally",
-        "fillVertical": "Fill cells vertically"
+        "cancel": "Anulo",
+        "fill": "Plotëso të gjitha qelizat me  <i>%d<\/i>",
+        "fillHorizontal": "Plotëso qelizat horizontalisht",
+        "fillVertical": "Plotëso qelizat vertikalisht"
     },
     "buttons": {
-        "collection": "Collection <span class='ui-button-icon-primary ui-icon ui-icon-triangle-1-s'\/>",
-        "colvis": "Columns",
-        "colvisRestore": "Restore visibility",
-        "copy": "Copy",
-        "copyKeys": "Press ctrl or u2318 + C to copy the table data to your system clipboard.<br><br>To cancel, click this message or press escape.",
+        "collection": "Koleksioni <span class='ui-button-icon-primary ui-icon ui-icon-triangle-1-s'\/>",
+        "colvis": "Shtyllat",
+        "colvisRestore": "Rikthe dukshmërinë",
+        "copy": "Kopjo",
+        "copyKeys": "Shtypni Ctrl ose u2318 + C për të kopjuar të dhënat e tabelës në kujtesën e sistemit.<br><br>To cancel, click this message or press escape.",
         "copySuccess": {
-            "1": "Copied 1 row to clipboard",
-            "_": "Copied %d rows to clipboard"
+            "1": "U kopjua 1 rresht në kujtesën e fragmenteve",
+            "_": "U kopjuan %d rreshta në kujtesën e fragmenteve"
         },
-        "copyTitle": "Copy to Clipboard",
+        "copyTitle": "Kopjo në kujtesën e fragmenteve",
         "csv": "CSV",
         "excel": "Excel",
         "pageLength": {
-            "-1": "Show all rows",
-            "_": "Show %d rows"
+            "-1": "Shfaq të gjithë rreshtat",
+            "_": "Shfaq %d rreshta"
         },
         "pdf": "PDF",
-        "print": "Print",
-        "updateState": "Update",
-        "stateRestore": "State %d",
-        "savedStates": "Saved States",
-        "renameState": "Rename",
-        "removeState": "Remove",
-        "removeAllStates": "Remove All States",
-        "createState": "Create State"
+        "print": "Shtyp",
+        "updateState": "Përditëso",
+        "stateRestore": "Gjendja %d",
+        "savedStates": "Gjendjet e ruajtura",
+        "renameState": "Riemërto",
+        "removeState": "Hiq",
+        "removeAllStates": "Hiq të gjitha gjendjet",
+        "createState": "Krijo gjendje"
     },
     "searchBuilder": {
-        "add": "Add Condition",
+        "add": "Shto kusht",
         "button": {
-            "0": "Search Builder",
-            "_": "Search Builder (%d)"
+            "0": "Ndërtuesi i kërkimit",
+            "_": "Ndërtuesi i kërkimit (%d)"
         },
-        "clearAll": "Clear All",
-        "condition": "Condition",
+        "clearAll": "Pastro të gjitha",
+        "condition": "Kushti",
         "conditions": {
             "date": {
-                "after": "After",
-                "before": "Before",
-                "between": "Between",
-                "empty": "Empty",
-                "equals": "Equals",
-                "not": "Not",
-                "notBetween": "Not Between",
-                "notEmpty": "Not Empty"
+                "after": "Pas",
+                "before": "Para",
+                "between": "Ndërmjet",
+                "empty": "Bosh",
+                "equals": "Është e barabartë",
+                "not": "Nuk është",
+                "notBetween": "Jo ndërmjet",
+                "notEmpty": "Jo bosh"
             },
             "number": {
-                "between": "Between",
-                "empty": "Empty",
-                "equals": "Equals",
-                "gt": "Greater Than",
-                "gte": "Greater Than Equal To",
-                "lt": "Less Than",
-                "lte": "Less Than Equal To",
-                "not": "Not",
-                "notBetween": "Not Between",
-                "notEmpty": "Not Empty"
+                "between": "Ndërmjet",
+                "empty": "Bos",
+                "equals": "Është e barabartë",
+                "gt": "Më i madh se",
+                "gte": "Më i madh ose i barabartë me",
+                "lt": "Më i vogël se",
+                "lte": "Më i vogël ose i barabartë me",
+                "not": "Nuk është",
+                "notBetween": "Jo ndërmjet",
+                "notEmpty": "Jo bosh"
             },
             "string": {
-                "contains": "Contains",
-                "empty": "Empty",
-                "endsWith": "Ends With",
-                "equals": "Equals",
-                "not": "Not",
-                "notEmpty": "Not Empty",
-                "startsWith": "Starts With",
-                "notContains": "Does Not Contain",
-                "notStartsWith": "Does Not Start With",
-                "notEndsWith": "Does Not End With"
+                "contains": "Përmban",
+                "empty": "Bosh",
+                "endsWith": "Përfundon me",
+                "equals": "Është e barabartë",
+                "not": "Nuk është",
+                "notEmpty": "Jo bosh",
+                "startsWith": "Fillon me",
+                "notContains": "Nuk përmban",
+                "notStartsWith": "Nuk fillon me",
+                "notEndsWith": "Nuk përfundon me"
             },
             "array": {
-                "without": "Without",
-                "notEmpty": "Not Empty",
-                "not": "Not",
-                "contains": "Contains",
-                "empty": "Empty",
-                "equals": "Equals"
+                "without": "Pa",
+                "notEmpty": "Jo bosh",
+                "not": "Nuk është",
+                "contains": "Përmban",
+                "empty": "Bosh",
+                "equals": "Është e barabartë"
             }
         },
-        "data": "Data",
-        "deleteTitle": "Delete filtering rule",
-        "leftTitle": "Outdent Criteria",
-        "logicAnd": "And",
-        "logicOr": "Or",
-        "rightTitle": "Indent Criteria",
+        "data": "Të dhënat",
+        "deleteTitle": "Fshi rregullin e filtrimit",
+        "leftTitle": "Ul nivelin e kritereve",
+        "logicAnd": "Dhe",
+        "logicOr": "Ose",
+        "rightTitle": "Rrit nivelin e kritereve",
         "title": {
-            "0": "Search Builder",
-            "_": "Search Builder (%d)"
+            "0": "Ndërtuesi i kërkimit",
+            "_": "Ndërtuesi i kërkimit (%d)"
         },
-        "value": "Value"
+        "value": "Vlera"
     },
     "searchPanes": {
-        "clearMessage": "Clear All",
+        "clearMessage": "Pastro të gjitha",
         "collapse": {
-            "0": "Filters",
-            "_": "Filters (%d)"
+            "0": "Filtrat",
+            "_": "Filtrat (%d)"
         },
         "count": "{total}",
         "countFiltered": "{shown} ({total})",
-        "emptyPanes": "No SearchPanes",
-        "loadMessage": "Loading SearchPanes",
-        "title": "Filters Active - %d",
-        "showMessage": "Show All",
-        "collapseMessage": "Collapse All"
+        "emptyPanes": "Nuk ka filtra",
+        "loadMessage": "Duke ngarkuar filtrat",
+        "title": "Filtrat aktivë - %d",
+        "showMessage": "Shfaq të gjitha",
+        "collapseMessage": "Palos të gjitha"
     },
     "select": {
         "cells": {
-            "1": "1 cell selected",
-            "_": "%d cells selected"
+            "1": "Është përzgjedhur 1 qelizë",
+            "_": "Janë përzgjedhur %d qeliza"
         },
         "columns": {
-            "1": "1 column selected",
-            "_": "%d columns selected"
+            "1": "Është përzgjedhur 1 kolonë",
+            "_": "Janë përzgjedhur %d kolona"
         },
         "rows": {
-            "1": "1 row selected",
-            "_": "%d rows selected"
+            "1": "Është përzgjedhur 1 rresht",
+            "_": "Janë përzgjedhur %d rreshta"
         }
     },
     "datetime": {
-        "previous": "Previous",
-        "next": "Next",
-        "hours": "Hour",
-        "minutes": "Minute",
-        "seconds": "Second",
+        "previous": "I mëparshmi",
+        "next": "Tjetri",
+        "hours": "Ora",
+        "minutes": "Minuta",
+        "seconds": "Sekonda",
         "unknown": "-",
         "amPm": [
             "am",
             "pm"
         ],
         "weekdays": [
-            "Sun",
-            "Mon",
-            "Tue",
-            "Wed",
-            "Thu",
-            "Fri",
-            "Sat"
+            "Die",
+            "Hën",
+            "Mar",
+            "Mër",
+            "Enj",
+            "Pre",
+            "Sht"
         ],
         "months": [
-            "January",
-            "February",
-            "March",
-            "April",
-            "May",
-            "June",
-            "July",
-            "August",
-            "September",
-            "October",
-            "November",
-            "December"
+            "Janar",
+            "Shkurt",
+            "Mars",
+            "Prill",
+            "Maj",
+            "Qershor",
+            "Korrik",
+            "Gusht",
+            "Shtator",
+            "Tetor",
+            "Nëntor",
+            "Dhjetor"
         ]
     },
     "editor": {
-        "close": "Close",
+        "close": "Mbyll",
         "create": {
-            "button": "New",
-            "title": "Create new entry",
-            "submit": "Create"
+            "button": "I ri",
+            "title": "Krijo regjistrim të ri",
+            "submit": "Krijo"
         },
         "edit": {
-            "button": "Edit",
-            "title": "Edit Entry",
-            "submit": "Update"
+            "button": "Ndrysho",
+            "title": "Ndrysho regjistrimin",
+            "submit": "Përditëso"
         },
         "remove": {
-            "button": "Delete",
-            "title": "Delete",
-            "submit": "Delete",
+            "button": "Fshi",
+            "title": "Fshi",
+            "submit": "Fshi",
             "confirm": {
-                "_": "Are you sure you wish to delete %d rows?",
-                "1": "Are you sure you wish to delete 1 row?"
+                "_": "A jeni të sigurt që dëshironi të fshini %d rreshta?",
+                "1": "A jeni të sigurt që dëshironi të fshini 1 rresht?"
             }
         },
         "error": {
-            "system": "A system error has occurred (<a target=\"\\\" rel=\"nofollow\" href=\"\\\">More information<\/a>)."
+            "system": "Ka ndodhur një gabim i sistemit (<a target=\"\\\" rel=\"nofollow\" href=\"\\\">More information<\/a>)."
         },
         "multi": {
-            "title": "Multiple Values",
-            "info": "The selected items contain different values for this input. To edit and set all items for this input to the same value, click or tap here, otherwise they will retain their individual values.",
-            "restore": "Undo Changes",
-            "noMulti": "This input can be edited individually, but not part of a group. "
+            "title": "Vlera të shumëfishta",
+            "info": "Elementet e përzgjedhura përmbajnë vlera të ndryshme për këtë fushë. Për t'i ndryshuar dhe vendosur të gjitha elementet me të njëjtën vlerë, klikoni këtu. Përndryshe, secili element do ta ruajë vlerën e vet",
+            "restore": "Zhbëj ndryshimet",
+            "noMulti": "Kjo fushë mund të ndryshohet individualisht, por jo si pjesë e një grupi. "
         }
     },
     "stateRestore": {
-        "renameTitle": "Rename State",
-        "renameLabel": "New Name for %s:",
-        "renameButton": "Rename",
-        "removeTitle": "Remove State",
-        "removeSubmit": "Remove",
-        "removeJoiner": " and ",
-        "removeError": "Failed to remove state.",
-        "removeConfirm": "Are you sure you want to remove %s?",
-        "emptyStates": "No saved states",
-        "emptyError": "Name cannot be empty.",
-        "duplicateError": "A state with this name already exists.",
+        "renameTitle": "Riemërto gjendjen",
+        "renameLabel": "Emri i ri për for %s:",
+        "renameButton": "Riemërto",
+        "removeTitle": "Hiq gjendjen",
+        "removeSubmit": "Hiq",
+        "removeJoiner": " dhe ",
+        "removeError": "Heqja e gjendjes dështoi.",
+        "removeConfirm": "A jeni të sigurt që dëshironi ta hiqni %s?",
+        "emptyStates": "Nuk ka gjendje të ruajtura",
+        "emptyError": "Emri nuk mund të jetë bosh.",
+        "duplicateError": "Ekziston tashmë një gjendje me këtë emër.",
         "creationModal": {
-            "toggleLabel": "Includes:",
-            "title": "Create New State",
-            "select": "Select",
-            "searchBuilder": "SearchBuilder",
-            "search": "Search",
-            "scroller": "Scroll Position",
-            "paging": "Paging",
-            "order": "Sorting",
-            "name": "Name:",
+            "toggleLabel": "Përfshin:",
+            "title": "Krijo gjendje të re",
+            "select": "Përzgjidh",
+            "searchBuilder": "Ndërtuesi i kërkimit",
+            "search": "Kërko",
+            "scroller": "Pozicioni i lëvizjes",
+            "paging": "Faqëzimi",
+            "order": "Renditja",
+            "name": "Emri:",
             "columns": {
-                "visible": "Column Visibility",
-                "search": "Column Search"
+                "visible": "Dukshmëria e kolonave",
+                "search": "Kërkimi në kolona"
             },
-            "button": "Create"
+            "button": "Krijo"
         }
     }
 } 
