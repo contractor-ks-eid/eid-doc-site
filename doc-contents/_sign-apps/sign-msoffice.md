@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Sign Office Documents
+title: Potpis Office dokumenata
 permalink: /sign-apps/sign-office-docs/
-categories: [potpis, pečat]
+categories: [Potpis, Pečat]
 tags: [pečat, potpis, identitet, microsoft, office, word, excel, powerpoint, outlook]
 nav_order: 2
 ---

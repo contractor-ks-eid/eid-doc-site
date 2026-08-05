@@ -30,16 +30,16 @@
     "title": "eID API",
     "permalink": "/api/intro/",
     "categories": [
-      "Integration",
+      "Integracija",
       "API"
     ],
     "tags": [
-      "wallet",
-      "integration",
-      "signature",
-      "seal",
-      "identity",
-      "authentication"
+      "novčanik",
+      "integracija",
+      "potpis",
+      "pečat",
+      "identitet",
+      "autentifikacija"
     ],
     "excerpt": "integracija, api, eid, kosovo, postovati, trecih, ili, softver, poseduje, uslovima",
     "lastUpdate": "2026-08-05 18:15:50 +0300",
@@ -57,8 +57,8 @@
     "title": "Aplikacije za potpisivanje",
     "permalink": "/sign-apps/intro/",
     "categories": [
-      "potpis",
-      "pečat"
+      "Potpis",
+      "Pečat"
     ],
     "tags": [
       "pečat",
@@ -81,13 +81,13 @@
     "title": "Sign Documents",
     "permalink": "/sign-apps/sign-docs/",
     "categories": [
-      "Signature",
-      "Seal"
+      "Potpis",
+      "Pečat"
     ],
     "tags": [
-      "seal",
-      "signature",
-      "identity"
+      "pečat",
+      "potpis",
+      "identitet"
     ],
     "excerpt": "signatures, cades, documents, apps, pdf, pades, certificate, xades, adobe, mobile",
     "lastUpdate": "2026-07-26 21:48:30 +0300",
@@ -102,11 +102,11 @@
     "parent": ""
   },
   {
-    "title": "Sign Office Documents",
+    "title": "Potpis Office dokumenata",
     "permalink": "/sign-apps/sign-office-docs/",
     "categories": [
-      "potpis",
-      "pečat"
+      "Potpis",
+      "Pečat"
     ],
     "tags": [
       "pečat",
@@ -157,10 +157,10 @@
     "title": "Koristite Kosovo novčanik",
     "permalink": "/wallet/use-wallet/",
     "categories": [
-      "Wallet"
+      "Novčanik"
     ],
     "tags": [
-      "wallet"
+      "novčanik"
     ],
     "excerpt": "kredencijal, novcanik, kosovo, aplikacijama, prikazani, organizovanje, primenljivo, funkcionalnost, sertifikata, ekosistema",
     "lastUpdate": "2026-08-05 18:15:50 +0300",
@@ -178,14 +178,14 @@
     "title": "Get eID",
     "permalink": "/get-eid/",
     "categories": [
-      "Enrollment",
-      "Certificates"
+      "Registracija",
+      "Sertifikati"
     ],
     "tags": [
-      "wallet",
-      "enrollment",
-      "identity",
-      "seal"
+      "novčanik",
+      "registracija",
+      "identitet",
+      "pečat"
     ],
     "excerpt": "registracije, eid, enrollment, kosovo, digitalnog, kredencijale, email, wallet, arc, stamping",
     "lastUpdate": "2026-07-26 21:48:30 +0300",
@@ -206,13 +206,13 @@
       "General"
     ],
     "tags": [
-      "docs",
-      "wallet",
-      "enrollment",
-      "integration",
+      "dok",
+      "novčanik",
+      "registracija",
+      "integracija",
       "signature",
-      "seal",
-      "identity"
+      "pečat",
+      "identitet"
     ],
     "excerpt": "kosovo, eid, registracije, instalirajte, certificate, partnerskim, njima, digitally, novcanik, pecat",
     "lastUpdate": "2026-07-26 21:48:30 +0300",
@@ -230,13 +230,13 @@
     "title": "Manage eID",
     "permalink": "/manage-eid/",
     "categories": [
-      "Certificates"
+      "Sertifikati"
     ],
     "tags": [
-      "wallet",
-      "self-service",
-      "identity",
-      "seal"
+      "novčanik",
+      "samoposluživanje",
+      "identitet",
+      "pečat"
     ],
     "excerpt": "certificates, password, portal, access, self, service, enrollment, profile, unlock, user",
     "lastUpdate": "2026-07-26 21:48:30 +0300",

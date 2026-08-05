@@ -3,7 +3,7 @@ layout: page
 title: Introduction
 permalink: /intro/
 categories: [General]
-tags: [docs, wallet, enrollment, integration, signature, seal, identity]
+tags: [dok, novčanik, registracija, integracija, signature, pečat, identitet]
 nav_order: 1
 ---
 

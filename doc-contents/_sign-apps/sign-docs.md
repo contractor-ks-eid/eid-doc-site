@@ -2,8 +2,8 @@
 layout: page
 title: Sign Documents
 permalink: /sign-apps/sign-docs/
-categories: [Signature, Seal]
-tags: [seal, signature, identity]
+categories: [Potpis, Pečat]
+tags: [pečat, potpis, identitet]
 nav_order: 2
 ---
 

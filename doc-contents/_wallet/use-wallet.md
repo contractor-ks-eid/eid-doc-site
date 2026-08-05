@@ -2,8 +2,8 @@
 layout: page
 title: Koristite Kosovo novčanik
 permalink: /wallet/use-wallet/
-categories: [Wallet]
-tags: [wallet]
+categories: [Novčanik]
+tags: [novčanik]
 nav_order: 2
 start: false
 ---

@@ -2,8 +2,8 @@
 layout: page
 title: Get eID
 permalink: /get-eid/
-categories: [Enrollment, Certificates]
-tags: [wallet, enrollment, identity, seal]
+categories: [Registracija, Sertifikati]
+tags: [novčanik, registracija, identitet, pečat]
 nav_order: 2
 ---
 

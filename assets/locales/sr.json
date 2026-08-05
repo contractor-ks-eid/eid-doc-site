@@ -149,7 +149,7 @@
     "page_page_info_notes": "Beleške",
     "page_page_info_read_time_text": "min. čitanja",
     "page_page_info_last_update_badge_text": "Poslednje ažuriranje",
-    "page_page_info_doc_info_btn": "Informacije o dokumentu",
+    "page_page_info_doc_info_btn": "Info Dok",
     "page_page_info_support_btn": "Podrška",
     "page_page_info_support_btn_title": "Idite na odeljak Povratne informacije i podrška za ovaj dokument",
     "page_page_info_doc_info_btn_title": "Prikaži detaljne informacije o dokumentu",
@@ -171,7 +171,7 @@
     "page_related_section_title": "Povezano",
 
     "dt_custom_buttons_go_to_tags_btn_title": "Idi na informacije o oznakama",
-    "dt_custom_buttons_go_to_tags_btn_text": "Informacije o oznakama",
+    "dt_custom_buttons_go_to_tags_btn_text": "Oznake",
     "dt_custom_buttons_go_to_cats_btn_title": "Idi na informacije o kategorijama",
     "dt_custom_buttons_go_to_cats_btn_text": "Kategorije",
     "dt_search_panes_button_title": "Napredni filteri",
@@ -308,7 +308,7 @@
     "main_menu_jtd_search_box_placeholder": "Pretraga",
     "main_menu_jtd_search_box_no_result_text": "Nema rezultata",
 
-    "page_full_info_header_title": "Informacije o dokumentu",
+    "page_full_info_header_title": "Info Dok",
     "page_full_info_gen_section_title": "Opšte informacije i beleške",
     "page_full_info_gen_page_title": "Naslov",
     "page_full_info_gen_page_last_update": "Poslednje ažuriranje",

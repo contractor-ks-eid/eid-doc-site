@@ -3,7 +3,7 @@
   startPermalink: "/intro/"
   sections:
     header_section:
-      title: "Welcome to Kosovo eID Documentation"
+      title: "Dobro došli u dokumentaciju Kosovo eID"
       text: > 
         Ovde ćete pronaći sve što vam je potrebno da razumete, integrišete i koristite kosovski sistem elektronske identifikacije — od tehničkih specifikacija i API-ja do korisničkih uputstava, bezbednosnih smernica i najboljih praksi. Bez obzira da li gradite novu uslugu, integrišete digitalno potpisivanje ili samo koristite elektronsku identifikaciju, ovo je vaša početna tačka.
       startBtnText: "Let's start"

@@ -2,8 +2,8 @@
 layout: page
 title: Manage eID
 permalink: /manage-eid/
-categories: [Certificates]
-tags: [wallet, self-service, identity, seal]
+categories: [Sertifikati]
+tags: [novčanik, samoposluživanje, identitet, pečat]
 nav_order: 3
 ---
 

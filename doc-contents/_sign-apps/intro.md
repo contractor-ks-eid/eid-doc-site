@@ -2,7 +2,7 @@
 layout: page
 title: Aplikacije za potpisivanje
 permalink: /sign-apps/intro/
-categories: [potpis, pečat]
+categories: [Potpis, Pečat]
 tags: [pečat, potpis, identitet]
 nav_order: 1
 start: true

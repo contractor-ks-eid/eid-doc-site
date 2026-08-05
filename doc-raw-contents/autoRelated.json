@@ -7,12 +7,12 @@
         "permalink": "/api/intro/"
       },
       {
-        "title": "Kosovo novčanik",
-        "permalink": "/wallet/intro/"
+        "title": "Introduction",
+        "permalink": "/intro/"
       },
       {
-        "title": "Aplikacije za potpisivanje",
-        "permalink": "/sign-apps/intro/"
+        "title": "Get eID",
+        "permalink": "/get-eid/"
       }
     ]
   },
@@ -20,16 +20,16 @@
     "permalink": "/api/intro/",
     "related": [
       {
+        "title": "eID API Dok",
+        "permalink": "/api/api-docs/"
+      },
+      {
         "title": "Introduction",
         "permalink": "/intro/"
       },
       {
         "title": "Get eID",
         "permalink": "/get-eid/"
-      },
-      {
-        "title": "eID API Dok",
-        "permalink": "/api/api-docs/"
       }
     ]
   },
@@ -37,12 +37,16 @@
     "permalink": "/sign-apps/intro/",
     "related": [
       {
-        "title": "Sign Office Documents",
+        "title": "Sign Documents",
+        "permalink": "/sign-apps/sign-docs/"
+      },
+      {
+        "title": "Potpis Office dokumenata",
         "permalink": "/sign-apps/sign-office-docs/"
       },
       {
-        "title": "eID API Dok",
-        "permalink": "/api/api-docs/"
+        "title": "eID API",
+        "permalink": "/api/intro/"
       }
     ]
   },
@@ -50,22 +54,26 @@
     "permalink": "/sign-apps/sign-docs/",
     "related": [
       {
-        "title": "Introduction",
-        "permalink": "/intro/"
+        "title": "Aplikacije za potpisivanje",
+        "permalink": "/sign-apps/intro/"
+      },
+      {
+        "title": "Potpis Office dokumenata",
+        "permalink": "/sign-apps/sign-office-docs/"
       },
       {
         "title": "Get eID",
         "permalink": "/get-eid/"
-      },
-      {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
       }
     ]
   },
   {
     "permalink": "/sign-apps/sign-office-docs/",
     "related": [
+      {
+        "title": "Sign Documents",
+        "permalink": "/sign-apps/sign-docs/"
+      },
       {
         "title": "Aplikacije za potpisivanje",
         "permalink": "/sign-apps/intro/"
@@ -80,6 +88,14 @@
     "permalink": "/wallet/intro/",
     "related": [
       {
+        "title": "Koristite Kosovo novčanik",
+        "permalink": "/wallet/use-wallet/"
+      },
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
+      },
+      {
         "title": "eID API Dok",
         "permalink": "/api/api-docs/"
       }
@@ -88,6 +104,10 @@
   {
     "permalink": "/wallet/use-wallet/",
     "related": [
+      {
+        "title": "Kosovo novčanik",
+        "permalink": "/wallet/intro/"
+      },
       {
         "title": "Introduction",
         "permalink": "/intro/"
@@ -106,8 +126,8 @@
         "permalink": "/intro/"
       },
       {
-        "title": "eID API",
-        "permalink": "/api/intro/"
+        "title": "eID API Dok",
+        "permalink": "/api/api-docs/"
       }
     ]
   },
@@ -123,8 +143,8 @@
         "permalink": "/api/intro/"
       },
       {
-        "title": "Sign Documents",
-        "permalink": "/sign-apps/sign-docs/"
+        "title": "eID API Dok",
+        "permalink": "/api/api-docs/"
       }
     ]
   },

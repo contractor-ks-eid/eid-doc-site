@@ -2,8 +2,8 @@
 layout: page
 title: eID API
 permalink: /api/intro/
-categories: [Integration, API]
-tags: [wallet, integration, signature, seal, identity, authentication]
+categories: [Integracija, API]
+tags: [novčanik, integracija, potpis, pečat, identitet, autentifikacija]
 nav_order: 1
 start: true
 ---
