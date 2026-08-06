@@ -127,8 +127,8 @@
         "permalink": "/api/api-docs/"
       },
       {
-        "title": "Menaxhimi i eID-së",
-        "permalink": "/manage-eid/"
+        "title": "eID API",
+        "permalink": "/api/intro/"
       }
     ]
   },

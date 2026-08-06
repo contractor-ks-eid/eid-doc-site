@@ -18,7 +18,7 @@
         },
         {
             "permalink": "/api/intro/",
-            "summary": "The eid API is available for third-party integrators who want to add kosovo eid features into their own systems. Any software \u2014 web, mobile, or backend \u2014 that has a permanent internet connection can connect to the eidapi."
+            "summary": "Api eid \u00ebsht\u00eb n\u00eb dispozicion p\u00ebr integruesit e pal\u00ebve t\u00eb treta q\u00eb d\u00ebshirojn\u00eb t\u00eb shtohen funksionalitetet e eid-s\u00eb s\u00eb kosov\u00ebs. Integruesi (kompania q\u00eb zot\u00ebron sistemin ose aplikacionin) duhet t\u00eb jet\u00eb nj\u00eb person juridik i regjistruar nga kosova."
         },
         {
             "permalink": "/sign-apps/intro/",
@@ -26,7 +26,7 @@
         },
         {
             "permalink": "/api/api-docs/",
-            "summary": "Strong authentication is a very useful and powerful feature provided by eid. This feature will allow your users to . Strong authentication be aware that we cannot authorise your users inside your systems. We can only authenticate them. Test it for implementing the strong authentication with kosovo wallet in the."
+            "summary": "Eid ofron dy grupe t\u00eb ve\u00e7anta api-sh. Secili prej tyre sh\u00ebrben p\u00ebr nj\u00eb q\u00ebllim t\u00eb caktuar."
         },
         {
             "permalink": "/wallet/use-wallet/",
