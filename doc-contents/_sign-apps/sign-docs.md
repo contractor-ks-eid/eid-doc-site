@@ -1,47 +1,47 @@
 ---
 layout: page
-title: Sign Documents
+title: Potpisivanje dokumenata
 permalink: /sign-apps/sign-docs/
 categories: [Potpis, Pečat]
 tags: [pečat, potpis, identitet]
 nav_order: 2
 ---
 
-# Intro
-We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. Signing a document on desktop or laptop involves the usage of the signature features provided by different applications (Adobe or Office or similar). Our desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature. The desktop signing app will always check if the certificate is valid at the moment of signing and will ensure that the person who signs is the owner of the certificate by requiring the input of a One-Time-Password before applying the signature.
+# Uvod
+Omogućavamo potpisivanje dokumenata na desktop i laptop računarima, kao i na mobilnim uređajima. Potpisivanje dokumenta na desktop ili laptop računaru vrši se korišćenjem funkcija za digitalno potpisivanje koje pružaju različite aplikacije (Adobe, Office i slične). Naša aplikacija za potpisivanje na desktop računarima olakšava proces potpisivanja tako što pri svakoj upotrebi za potpisivanje vrši proveru sertifikata koji se koristi. Aplikacija uvek proverava da li je sertifikat važeći u trenutku potpisivanja i potvrđuje da je potpisnik vlasnik sertifikata tako što zahteva unos jednokratne lozinke (One-Time Password – OTP) pre primene digitalnog potpisa.
 
-Since the mobile apps are, usually, not providing signing features, additional to the certificate verification and One-Time-Password, the mobile signing app provides full signing features. 
+S obzirom na to da mobilne aplikacije obično ne pružaju funkcionalnosti za digitalno potpisivanje, mobilna aplikacija za potpisivanje, pored provere sertifikata i potvrde putem jednokratne lozinke (OTP), omogućava i potpunu funkcionalnost za digitalno potpisivanje dokumenata. 
 
-# What can be signed
-Technically, any type of document can be signed since the most frequent signature standards (PAdES, CAdES, XAdES) are provided. 
+# Šta se može potpisati
+Tehnički, može se potpisati bilo koja vrsta dokumenta, jer su podržani najčešće korišćeni standardi za elektronski potpis (PAdES, CAdES i XAdES). 
 
 {% include elements/alert.html 
   class="warning" 
-  content="Except for the case when the used app (such as Adobe Acrobat or Microsoft Office) provides features to visualize a signed document and the signature(s) applied to it, the result of the signing process will be an encrypted file that cannot be open in a classical way (using its specific app). First, a special app must be used to extract the original file from the encrypted signed file and, second, the file can be then open with its specific app."
-  title="Signed documents"
+  content="Osim u slučajevima kada aplikacija koja se koristi (kao što su Adobe Acrobat ili Microsoft Office) omogućava prikaz potpisanog dokumenta i potpisa koji su na njemu primenjeni, rezultat procesa potpisivanja biće šifrovana datoteka koja se ne može otvoriti na uobičajen način pomoću odgovarajuće aplikacije. Najpre je potrebno koristiti posebnu aplikaciju za izdvajanje originalne datoteke iz šifrovane potpisane datoteke, nakon čega se originalna datoteka može otvoriti u odgovarajućoj aplikaciji."
+  title="Potpisani dokumenti"
 %}
 
 {% include elements/alert.html 
   class="primary" 
-  content="Only PDF signing will provide the feature of signature visualisation in a graphical way on the document. The way in which the signature marker will be visible on other types of documents depends on the specific signature feature provided by the app used to sign."
-  title="Graphical signature"
+  content="Samo potpisivanje PDF dokumenata omogućava grafički prikaz potpisa na samom dokumentu. Način na koji će oznaka potpisa biti prikazana na drugim vrstama dokumenata zavisi od funkcionalnosti za digitalno potpisivanje koje pruža aplikacija korišćena za potpisivanje."
+  title="Grafički prikaz potpisa"
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="Only PDF files allows multiple signature since Adobe Acrobat signing feature allows this. Other apps (files) may not allow multiple signature. For example, Microsoft Office files cannot be signed multiple times, each new signature will automatically remove the existing signature on the document."
-  title="Multiple signatures"
+  content="Samo PDF dokumenti omogućavaju višestruko potpisivanje, jer funkcionalnost za digitalno potpisivanje u aplikaciji Adobe Acrobat to podržava. Druge aplikacije (odnosno formati datoteka) možda ne omogućavaju višestruko potpisivanje. Na primer, Microsoft Office dokumenti ne mogu biti potpisani više puta, jer svaki novi potpis automatski uklanja postojeći potpis sa dokumenta."
+  title="Višestruki potpisi"
 %}
 
 {% include elements/alert.html 
   class="danger" 
-  content="Currently, the One-Time-Password needed for signing is sent by SMS to the mobile phone number used during the eID registration/enrollment process. You need to have the mobile device with that phone number active when signing, otherwise, signing will not be possible. The phone number associated to a digital eID certificate cannot be changed."
-  title="One-Time-Password"
+  content="Trenutno se jednokratna lozinka (OTP) potrebna za potpisivanje šalje putem SMS poruke na broj mobilnog telefona koji je korišćen tokom procesa registracije, odnosno izdavanja eID-a. Prilikom potpisivanja potrebno je da mobilni uređaj sa tim brojem telefona bude aktivan; u suprotnom, potpisivanje neće biti moguće. Broj telefona povezan sa digitalnim eID sertifikatom ne može se menjati."
+  title="Jednokratna lozinka (OTP)"
 %}
 
-# Sign
+# Potpisivanje
 ## Desktop
-After installing the desktop signing app, follow the instructions from the next video to understand how to use this app to sign documents.
+Nakon instalacije desktop aplikacije za potpisivanje, pratite uputstva iz sledećeg video-snimka kako biste se upoznali sa načinom korišćenja ove aplikacije za potpisivanje dokumenata.
 
 {% include elements/youtube.html 
     id="OTNiEsfceuc" 
@@ -50,36 +50,36 @@ After installing the desktop signing app, follow the instructions from the next 
     moments=moments
 %}
 
-## Mobile
-After installing the mobile signing app, follow the instructions below to understand how to use this app to sign documents:
-1. open the Kosovo eSign app and go to **`Identity`** tab (bottom of the screen)
-2. click **`+`** sign and add your identity (you need the certificate username and password which you received during the registration/enrollment process)
-3. go to **`Settings`** tab (bottom of the screen) and set **`Enable graphic signature`** and **`Auto georeferencing`** (if not already set)
+## Mobilni uređaji
+Nakon instalacije mobilne aplikacije za potpisivanje, pratite uputstva u nastavku kako biste se upoznali sa načinom korišćenja ove aplikacije za potpisivanje dokumenata:
+1. otvorite aplikaciju **`Identitet`** i idite na karticu Identitet (na dnu ekrana).
+2. kliknite na znak **`+`** i dodajte svoj identitet (biće vam potrebno korisničko ime i lozinka sertifikata koje ste dobili tokom procesa registracije, odnosno izdavanja eID-a).
+3. Idite na karticu **`Podešavanja`** (na dnu ekrana) i omogućite opcije **`Grafički prikaz potpisa i Automatsko georeferenciranje`** (ukoliko već nisu omogućene).
 
 {% include elements/alert.html 
   class="primary" 
-  content="You can add as many identities as you have. For example, you can add your eID and all your digital seals."
-  title="Identities"
+  content="Možete dodati onoliko identiteta koliko ih posedujete. Na primer, možete dodati svoj eID i sve svoje digitalne pečate."
+  title="Identiteti"
 %}
 
-To sign:
-1. open the Kosovo eSign app, go to **`Home`** tab (bottom of the screen) and select **`Sign`** from the tool bar
-2. select the file you want to sign
-3. select the signing standard (we recommend PAdES for PDF files and any other one for other files)
-4. check **`Apply Timestamp`** if needed (we recommend to check it)
-5. tap **`Next`**
-6. for PDF filed you will be required to place the signature on the document
-7. input the certificate PIN code and **`tap the arrow icon on the right of the PIN input form`**
-8. wait for the One-Time-Password and input it
-9. save the signed document
+Za potpisivanje dokumenta:
+1. otvorite aplikaciju Kosovo eSign, idite na karticu **`Početna`** (na dnu ekrana) i izaberite opciju **`Potpiši`** na traci sa alatkama
+2. izaberite datoteku koju želite da potpišete.
+3. izaberite standard za potpisivanje (preporučujemo PAdES za PDF dokumente, a bilo koji drugi podržani standard za ostale vrste datoteka).
+4. po potrebi označite opciju **`Primeni vremenski žig`** (preporučujemo da bude označena).
+5. dodirnite **`Dalje`**
+6. za PDF dokumente biće potrebno da postavite potpis na dokument.
+7. unesite PIN kod sertifikata i **`dodirnite ikonu strelice sa desne strane polja za unos PIN koda`**
+8. sačekajte jednokratnu lozinku (OTP) i unesite je
+9. sačuvajte potpisani dokument.
 
-# Support
-We offer technical support for users of signing apps.
+# Podrška
+Pružamo tehničku podršku korisnicima aplikacija za digitalno potpisivanje.
 
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="User support" 
+    text="Korisnička podrška" 
     href="https://ks-eid.com/support" 
     newTab="true" 
 %}

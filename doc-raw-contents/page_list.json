@@ -78,7 +78,7 @@
     "parent": ""
   },
   {
-    "title": "Sign Documents",
+    "title": "Potpisivanje dokumenata",
     "permalink": "/sign-apps/sign-docs/",
     "categories": [
       "Potpis",
@@ -89,13 +89,13 @@
       "potpis",
       "identitet"
     ],
-    "excerpt": "signatures, cades, documents, apps, pdf, pades, certificate, xades, adobe, mobile",
+    "excerpt": "dokumenta, aplikacije, mobilne, password, sertifikat, laptop, adobe, potpis, otp, digitalnog",
     "lastUpdate": "2026-08-05 19:48:10 +0300",
     "lastUpdateUTC": 1785948490,
     "createTime": "2026-08-05 19:48:10 +0300",
     "createTimeUTC": 1785948490,
     "relatedPages": [],
-    "autoSummary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature.",
+    "autoSummary": "Potp isto vrši se korišćenjem funkcija za digitalno potpise. Aplikacije ( Adobe, office i slične).",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,

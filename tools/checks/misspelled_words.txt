@@ -30,8 +30,8 @@ Language not supported for spellcheck (possible missing dictionary).
 
 Permalink: /sign-apps/sign-docs/
 File: _sign-apps/sign-docs.md
-Language detected: en
-No misspellings detected.
+Language detected: hr
+Language not supported for spellcheck (possible missing dictionary).
 
 Permalink: /sign-apps/sign-office-docs/
 File: _sign-apps/sign-msoffice.md

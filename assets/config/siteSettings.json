@@ -356,7 +356,7 @@
       "createTimeUTC": 1785948490,
       "relatedPages": [
         {
-          "title": "Sign Documents",
+          "title": "Potpisivanje dokumenata",
           "permalink": "/sign-apps/sign-docs/"
         },
         {
@@ -396,7 +396,7 @@
       "parent": ""
     },
     {
-      "title": "Sign Documents",
+      "title": "Potpisivanje dokumenata",
       "permalink": "/sign-apps/sign-docs/",
       "categories": [
         "Potpis",
@@ -407,7 +407,7 @@
         "potpis",
         "identitet"
       ],
-      "excerpt": "signatures, cades, documents, apps, pdf, pades, certificate, xades, adobe, mobile",
+      "excerpt": "dokumenta, aplikacije, mobilne, password, sertifikat, laptop, adobe, potpis, otp, digitalnog",
       "lastUpdate": "2026-08-05 19:48:10 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-08-05 19:48:10 +0300",
@@ -426,7 +426,7 @@
           "permalink": "/api/api-docs/"
         }
       ],
-      "autoSummary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature.",
+      "autoSummary": "Potp isto vrši se korišćenjem funkcija za digitalno potpise. Aplikacije ( Adobe, office i slične).",
       "similarByContent": [],
       "readingTime": 3,
       "hasDynamicContent": false,
@@ -457,7 +457,7 @@
       "createTimeUTC": 1785948490,
       "relatedPages": [
         {
-          "title": "Sign Documents",
+          "title": "Potpisivanje dokumenata",
           "permalink": "/sign-apps/sign-docs/"
         },
         {
@@ -796,7 +796,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Sign Documents",
+          "title": "Potpisivanje dokumenata",
           "permalink": "/sign-apps/sign-docs/",
           "lastUpdate": "05-Aug-2026"
         },
@@ -931,7 +931,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Sign Documents",
+          "title": "Potpisivanje dokumenata",
           "permalink": "/sign-apps/sign-docs/",
           "lastUpdate": "05-Aug-2026"
         },
@@ -976,7 +976,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Sign Documents",
+          "title": "Potpisivanje dokumenata",
           "permalink": "/sign-apps/sign-docs/",
           "lastUpdate": "05-Aug-2026"
         },
@@ -1118,7 +1118,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Sign Documents",
+          "title": "Potpisivanje dokumenata",
           "permalink": "/sign-apps/sign-docs/",
           "lastUpdate": "05-Aug-2026"
         },
@@ -1138,7 +1138,7 @@
           "lastUpdate": "05-Aug-2026"
         },
         {
-          "title": "Sign Documents",
+          "title": "Potpisivanje dokumenata",
           "permalink": "/sign-apps/sign-docs/",
           "lastUpdate": "05-Aug-2026"
         },
