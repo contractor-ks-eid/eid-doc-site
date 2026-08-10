@@ -617,10 +617,10 @@
         "pečat"
       ],
       "excerpt": "registracija, vaseg, identitet, agenciji, kosova, dobijanje, eid, interneta, arbk, postupak",
-      "lastUpdate": "2026-08-05 19:48:10 +0300",
+      "lastUpdate": "2026-08-10 11:53:33 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-08-05 19:48:10 +0300",
-      "createTimeUTC": 1785948490,
+      "createTime": "2026-08-10 11:53:33 +0300",
+      "createTimeUTC": 1786352013,
       "relatedPages": [
         {
           "title": "Uvod",
@@ -657,10 +657,10 @@
         "identitet"
       ],
       "excerpt": "kosovo, identitet, registracije, pecat, eid, digitalnim, upravljajte, sertifikat, partnerskim, građani",
-      "lastUpdate": "2026-08-05 19:48:10 +0300",
+      "lastUpdate": "2026-08-10 11:53:33 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-08-05 19:48:10 +0300",
-      "createTimeUTC": 1785948490,
+      "createTime": "2026-08-10 11:53:33 +0300",
+      "createTimeUTC": 1786352013,
       "relatedPages": [
         {
           "title": "Dobijte eID",
@@ -694,10 +694,10 @@
         "pečat"
       ],
       "excerpt": "registracije, sertifikatom, portal, samouslugu, mobilnih, uređaj, profilu, info, novcanik, procesa",
-      "lastUpdate": "2026-08-05 19:48:10 +0300",
+      "lastUpdate": "2026-08-10 11:53:33 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-08-05 19:48:10 +0300",
-      "createTimeUTC": 1785948490,
+      "createTime": "2026-08-10 11:53:33 +0300",
+      "createTimeUTC": 1786352013,
       "relatedPages": [
         {
           "title": "Dobijte eID",
@@ -763,7 +763,7 @@
         {
           "title": "Uvod",
           "permalink": "/intro/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 1
@@ -808,17 +808,17 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         },
         {
           "title": "Uvod",
           "permalink": "/intro/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         },
         {
           "title": "Upravljanje eID-om",
           "permalink": "/manage-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 8
@@ -838,7 +838,7 @@
         {
           "title": "Uvod",
           "permalink": "/intro/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 3
@@ -878,17 +878,17 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         },
         {
           "title": "Uvod",
           "permalink": "/intro/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         },
         {
           "title": "Upravljanje eID-om",
           "permalink": "/manage-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 7
@@ -943,17 +943,17 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         },
         {
           "title": "Uvod",
           "permalink": "/intro/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         },
         {
           "title": "Upravljanje eID-om",
           "permalink": "/manage-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 8
@@ -1003,12 +1003,12 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         },
         {
           "title": "Uvod",
           "permalink": "/intro/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 2
@@ -1018,7 +1018,7 @@
         {
           "title": "Upravljanje eID-om",
           "permalink": "/manage-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 1
@@ -1028,7 +1028,7 @@
         {
           "title": "Uvod",
           "permalink": "/intro/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 1
@@ -1105,7 +1105,7 @@
         {
           "title": "Uvod",
           "permalink": "/intro/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 1
@@ -1155,7 +1155,7 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 1
@@ -1165,12 +1165,12 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         },
         {
           "title": "Upravljanje eID-om",
           "permalink": "/manage-eid/",
-          "lastUpdate": "05-Aug-2026"
+          "lastUpdate": "10-Aug-2026"
         }
       ],
       "numPages": 2
