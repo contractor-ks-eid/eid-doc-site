@@ -65,9 +65,7 @@
     },
     {
         "permalink": "/get-eid/",
-        "similarFiles": [
-            "/manage-eid/"
-        ]
+        "similarFiles": []
     },
     {
         "permalink": "/intro/",
@@ -75,8 +73,6 @@
     },
     {
         "permalink": "/manage-eid/",
-        "similarFiles": [
-            "/get-eid/"
-        ]
+        "similarFiles": []
     }
 ]

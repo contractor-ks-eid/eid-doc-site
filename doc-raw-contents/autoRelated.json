@@ -7,11 +7,11 @@
         "permalink": "/api/intro/"
       },
       {
-        "title": "Introduction",
+        "title": "Uvod",
         "permalink": "/intro/"
       },
       {
-        "title": "Get eID",
+        "title": "Dobijte eID",
         "permalink": "/get-eid/"
       }
     ]
@@ -24,11 +24,11 @@
         "permalink": "/api/api-docs/"
       },
       {
-        "title": "Introduction",
+        "title": "Uvod",
         "permalink": "/intro/"
       },
       {
-        "title": "Get eID",
+        "title": "Dobijte eID",
         "permalink": "/get-eid/"
       }
     ]
@@ -62,8 +62,8 @@
         "permalink": "/sign-apps/sign-office-docs/"
       },
       {
-        "title": "Get eID",
-        "permalink": "/get-eid/"
+        "title": "eID API Dok",
+        "permalink": "/api/api-docs/"
       }
     ]
   },
@@ -109,8 +109,8 @@
         "permalink": "/wallet/intro/"
       },
       {
-        "title": "Introduction",
-        "permalink": "/intro/"
+        "title": "Upravljanje eID-om",
+        "permalink": "/manage-eid/"
       }
     ]
   },
@@ -118,16 +118,16 @@
     "permalink": "/get-eid/",
     "related": [
       {
-        "title": "Manage eID",
-        "permalink": "/manage-eid/"
-      },
-      {
-        "title": "Introduction",
+        "title": "Uvod",
         "permalink": "/intro/"
       },
       {
-        "title": "eID API Dok",
-        "permalink": "/api/api-docs/"
+        "title": "Upravljanje eID-om",
+        "permalink": "/manage-eid/"
+      },
+      {
+        "title": "eID API",
+        "permalink": "/api/intro/"
       }
     ]
   },
@@ -135,7 +135,7 @@
     "permalink": "/intro/",
     "related": [
       {
-        "title": "Get eID",
+        "title": "Dobijte eID",
         "permalink": "/get-eid/"
       },
       {
@@ -152,16 +152,16 @@
     "permalink": "/manage-eid/",
     "related": [
       {
-        "title": "Get eID",
+        "title": "Dobijte eID",
         "permalink": "/get-eid/"
       },
       {
-        "title": "Sign Documents",
-        "permalink": "/sign-apps/sign-docs/"
+        "title": "Uvod",
+        "permalink": "/intro/"
       },
       {
-        "title": "Introduction",
-        "permalink": "/intro/"
+        "title": "eID API",
+        "permalink": "/api/intro/"
       }
     ]
   }

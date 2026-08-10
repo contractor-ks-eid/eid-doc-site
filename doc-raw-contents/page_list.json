@@ -175,7 +175,7 @@
     "parent": ""
   },
   {
-    "title": "Get eID",
+    "title": "Dobijte eID",
     "permalink": "/get-eid/",
     "categories": [
       "Registracija",
@@ -187,23 +187,23 @@
       "identitet",
       "pečat"
     ],
-    "excerpt": "registracije, eid, enrollment, kosovo, digitalnog, kredencijale, email, wallet, arc, stamping",
+    "excerpt": "registracija, vaseg, identitet, agenciji, kosova, dobijanje, eid, interneta, arbk, postupak",
     "lastUpdate": "2026-08-05 19:48:10 +0300",
     "lastUpdateUTC": 1785948490,
     "createTime": "2026-08-05 19:48:10 +0300",
     "createTimeUTC": 1785948490,
     "relatedPages": [],
-    "autoSummary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc) for a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available.",
+    "autoSummary": "Dobijanje vašeg eid-a je brzo i jednostavno. Potrebno je da proľete kroz proces registracije u kancelarijama agencije za civilnu registracija (arc) Postupak se obavlja u agencji za registracIJu biznisa kosova (arbk).",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,
     "parent": ""
   },
   {
-    "title": "Introduction",
+    "title": "Uvod",
     "permalink": "/intro/",
     "categories": [
-      "General"
+      "Opšte"
     ],
     "tags": [
       "dok",
@@ -214,20 +214,20 @@
       "pečat",
       "identitet"
     ],
-    "excerpt": "kosovo, eid, registracije, instalirajte, certificate, partnerskim, njima, digitally, novcanik, pecat",
+    "excerpt": "kosovo, identitet, registracije, pecat, eid, digitalnim, upravljajte, sertifikat, partnerskim, građani",
     "lastUpdate": "2026-08-05 19:48:10 +0300",
     "lastUpdateUTC": 1785948490,
     "createTime": "2026-08-05 19:48:10 +0300",
     "createTimeUTC": 1785948490,
     "relatedPages": [],
-    "autoSummary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. An electronic id is a free digital certificate issued by the government of kOSOVO. With it, citizens can securely sign (or stamp) documents and access digital services.",
+    "autoSummary": "Kosovo eid je nacionalni sistem koji upravlja elektronskim identitetima građana kosova. Digitalni id i pečat dobijte svoj digitalni Id iili pečatom putem procesa registracije.",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,
     "parent": ""
   },
   {
-    "title": "Manage eID",
+    "title": "Upravljanje eID-om",
     "permalink": "/manage-eid/",
     "categories": [
       "Sertifikati"
@@ -238,13 +238,13 @@
       "identitet",
       "pečat"
     ],
-    "excerpt": "certificates, password, portal, access, self, service, enrollment, profile, unlock, user",
+    "excerpt": "registracije, sertifikatom, portal, samouslugu, mobilnih, uređaj, profilu, info, novcanik, procesa",
     "lastUpdate": "2026-08-05 19:48:10 +0300",
     "lastUpdateUTC": 1785948490,
     "createTime": "2026-08-05 19:48:10 +0300",
     "createTimeUTC": 1785948490,
     "relatedPages": [],
-    "autoSummary": "The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password).",
+    "autoSummary": "Portal za samouslugu je alat koji vam omogućava da upravljate svojim sert ifikatomsertifikatima.",
     "similarByContent": [],
     "readingTime": 0,
     "hasDynamicContent": false,

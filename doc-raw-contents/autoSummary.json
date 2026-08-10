@@ -30,15 +30,15 @@
         },
         {
             "permalink": "/get-eid/",
-            "summary": "To obtain an electronic id, you will need to go through the enrollment process at the civil registration offices (arc) for a digital seal, the process takes place at the kosovo business registration agency (arbk) for now, online enrollment is not available."
+            "summary": "Dobijanje va\u0161eg eid-a je brzo i jednostavno. Potrebno je da pro\u013eete kroz proces registracije u kancelarijama agencije za civilnu registracija (arc) Postupak se obavlja u agencji za registracIJu biznisa kosova (arbk)."
         },
         {
             "permalink": "/intro/",
-            "summary": "Kosovo eid is the national system that manages electronic identities for citizens of kosovo. An electronic id is a free digital certificate issued by the government of kOSOVO. With it, citizens can securely sign (or stamp) documents and access digital services."
+            "summary": "Kosovo eid je nacionalni sistem koji upravlja elektronskim identitetima gra\u0111ana kosova. Digitalni id i pe\u010dat dobijte svoj digitalni Id iili pe\u010datom putem procesa registracije."
         },
         {
             "permalink": "/manage-eid/",
-            "summary": "The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password)."
+            "summary": "Portal za samouslugu je alat koji vam omogu\u0107ava da upravljate svojim sert ifikatomsertifikatima."
         }
     ]
 }

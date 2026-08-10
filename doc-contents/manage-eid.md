@@ -1,46 +1,46 @@
 ---
 layout: page
-title: Manage eID
+title: Upravljanje eID-om
 permalink: /manage-eid/
 categories: [Sertifikati]
 tags: [novčanik, samoposluživanje, identitet, pečat]
 nav_order: 3
 ---
 
-# Intro
-The self service portal is the tool that allows you to manage your certificate(s) and to migrate the wallet when you change your device. To access the self-service portal you would need the certificate information that you received during the enrollment process (the certificate user name and password). The self service portal can be accessed from any browser, from desktop and from mobile devices.
+# Uvod
+Portal za samouslugu je alat koji vam omogućava da upravljate svojim sertifikatom/sertifikatima i da migrirate novčanik kada promenite uređaj. Za pristup portalu za samouslugu potrebni su vam podaci o sertifikatu koje ste dobili tokom procesa registracije (korisničko ime sertifikata i lozinka). Portalu za samouslugu možete pristupiti putem bilo kog pregledača, sa računara ili mobilnih uređaja.
 
-# Lost info
-In the case when you did not save the certificate information, the self **`service portal allows you to change or recover the missing part of the certificate information`**. What you need to **`always remember is the email used for enrollment and your Kosovo personal number`**. Using this information and following the instructions **`you can recover the Emergengy Recovery Code (ERC) and your user name or you can reset your password`**.
+# Izgubljeni podaci
+U slučaju da niste sačuvali podatke o sertifikatu **` portal za samouslugu vam omogućava da promenite ili povratite izgubljeni deo podataka o sertifikatu`**. Ono što morate **`uvek zapamtiti jeste e-mail adresa korišćena tokom registracije i vaš lični broj na Kosovu`**. Korišćenjem ovih podataka i praćenjem uputstava **`možete povratiti kod za hitni oporavak (ERC) i svoje korisničko ime ili možete resetovati lozinku`**.
 
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="Self service" 
+    text="Samousluga" 
     href="https://eid-lcm.rks-gov.net/login" 
     newTab="true" 
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="Be aware that the certificate information belongs to a specific certificates. For example, if you have one digital ID and two digital seals you will have 3 sets of certificate information (user name, password, ERC)."
-  title="Self service login"
+  content="Imajte na umu da podaci o sertifikatu pripadaju određenom sertifikatu. Na primer, ako imate jedan digitalni identitet i dva digitalna pečata, imaćete 3 skupa podataka o sertifikatu (korisničko ime, lozinka, ERC)."
+  title="Prijava za samouslugu"
 %}
 
-# Functionality
+# Funkcionalnosti
 
-## Profile info
-You can see your profile information by accessing the related option after click on the user icon on the top-right of the screen.
+## Informacije o profilu
+Svoje informacije o profilu možete videti tako što ćete pristupiti odgovarajućoj opciji nakon što kliknete na ikonu korisnika u gornjem desnom uglu ekrana.
 
 {% include elements/alert.html 
   class="primary" 
-  content="Your profile information is encoded in the certificate at enrollment time, thus you are not allowed to modify it in the self-service portal. The only information related to your profile that you can modify is the password for accessing the self-service portal."
-  title="Profile info"
+  content="Vaše informacije o profilu su kodirane u sertifikatu u trenutku registracije, zbog čega nije moguće da ih izmenite putem portala za samouslugu. Jedina informacija u vezi sa vašim profilom koju možete izmeniti jeste lozinka za pristup portalu za samouslugu."
+  title="Informacije o profilu"
 %}
 
 {% capture img %}
-    source="partials/media/manage-eid/lcm-profile.png"|caption="Profile"|captionBorder="true",
-    source="partials/media/manage-eid/lcm-profile-data.png"|caption="Profile data"|captionBorder="true"
+    source="partials/media/manage-eid/lcm-profile.png"|caption="Profil"|captionBorder="true",
+    source="partials/media/manage-eid/lcm-profile-data.png"|caption="Podaci o profilu"|captionBorder="true"
 {% endcapture %}
 
 {% include elements/image-gallery.html 
@@ -50,12 +50,12 @@ You can see your profile information by accessing the related option after click
   oneRow="all" 
 %}
 
-## Security info
-You can manage the certification security information by clicking the **`User Information`** option from the left sidebar menu. Using this option you can change the PIN or PUK and you can recover the Emergency Recovery Code (ERC) as well as you can unlock the PIN in case it was locked by 3 times wrong PIN usage.
+## Bezbednosne informacije
+Bezbednosnim informacijama sertifikata možete upravljati klikom na opciju **`Korisničke informacije`** u meniju leve bočne trake. Korišćenjem ove opcije možete promeniti PIN ili PUK, kao i povratiti Kod za hitni oporavak (ERC). Takođe možete otključati PIN u slučaju da je zaključan nakon tri uzastopna unosa pogrešnog PIN-a.
 
 {% capture img %}
-    source="partials/media/manage-eid/cert-info.png"|caption="Security Info"|captionBorder="true",
-    source="partials/media/manage-eid/cert-info-data.png"|caption="Manage security info"|captionBorder="true"
+    source="partials/media/manage-eid/cert-info.png"|caption="Bezbednosne informacije"|captionBorder="true",
+    source="partials/media/manage-eid/cert-info-data.png"|caption="Upravljanje bezbednošću"|captionBorder="true"
 {% endcapture %}
 
 {% include elements/image-gallery.html 
@@ -65,29 +65,29 @@ You can manage the certification security information by clicking the **`User In
   oneRow="all" 
 %}
 
-## Manage certificate
-You can manage the certification security information by clicking the **`Identity management`** option from the left sidebar menu. 
+## Upravljanje sertifikatom
+Bezbednosnim informacijama sertifikata možete upravljati klikom na opciju **`Upravljanje identitetom`** u meniju leve bočne trake. 
 
-The operations that you can do are:
-- **`Revoke certificate`**: revoke your certificate in case you believe it was compromised or if you simply don't want to use it anymore
-- Download your certificate: download a local copy of the certificate
-- Connect or **`Migrate wallet`**: connect your wallet if you did not do it during enrollment or move the wallet on another mobile phone
+Operacije koje možete izvršiti su:
+- **`Opoziv sertifikata`**: opozovite svoj sertifikat u slučaju da smatrate da je kompromitovan ili ako jednostavno više ne želite da ga koristite
+- Preuzimanje sertifikata: preuzmite lokalnu kopiju sertifikata
+- Povezivanje ili **`Migracija novčanika`**: povežite svoj novčanik ako to niste uradili tokom registracije ili premestite novčanik na drugi mobilni telefon.
 
 {% include elements/alert.html 
   class="warning" 
-  content="Be aware that a certificate credentials can be active on a single mobile phone. Migrating the wallet to a new phone will automatically disable the certificate credentials on the initial one. Be also aware that the **`phone on which the certificate credentials is stored must have the phone number you were using during the enrollment`**."
-  title="Migrate wallet"
+  content="Imajte na umu da akreditivi sertifikata mogu biti aktivni samo na jednom mobilnom telefonu. Migracija novčanika na novi telefon automatski će deaktivirati akreditive sertifikata na prethodnom uređaju. Takođe, imajte na umu da **`mobilni telefon na kojem su sačuvani akreditivi sertifikata mora imati broj telefona koji ste koristili tokom registracije`**."
+  title="Migracija novčanika"
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="Be aware that **`there is no way to un-revoke a revoked certificate`**. You may have to pass again through the enrollment process at one ARC or ARBK office to get a new certificate."
-  title="Revoke certificate"
+  content="Imajte na umu da **`ne postoji mogućnost poništavanja opoziva sertifikata koji je već opozvan`**. Možda ćete morati ponovo da prođete kroz proces registracije u jednoj od kancelarija ARC-a ili ARBK-a kako biste dobili novi sertifikat."
+  title="Opozovi sertifikat"
 %}
 
 {% capture img %}
-    source="partials/media/manage-eid/manage-id.png"|caption="Certificate"|captionBorder="true",
-    source="partials/media/manage-eid/manage-id-data.png"|caption="Manage certificate"|captionBorder="true"
+    source="partials/media/manage-eid/manage-id.png"|caption="Sertifikat"|captionBorder="true",
+    source="partials/media/manage-eid/manage-id-data.png"|caption="Upravljanje sertifikatom"|captionBorder="true"
 {% endcapture %}
 
 {% include elements/image-gallery.html 
@@ -97,6 +97,6 @@ The operations that you can do are:
   oneRow="all" 
 %}
 
-## Certificate contract
-You can access and download the contract between you and the Government for using the certificate by clicking the **`My contracts`** option from the left sidebar menu. The contract is in PDF format and is signed with the certificate during the enrollment process.
+## Ugovor o sertifikatu
+Ugovor između vas i Vlade o korišćenju sertifikata možete otvoriti i preuzeti klikom na opciju **`Moji ugovori`** u meniju leve bočne trake. Ugovor je u PDF formatu i potpisan je sertifikatom tokom procesa registracije.
 

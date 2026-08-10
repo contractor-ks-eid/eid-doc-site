@@ -108,46 +108,46 @@
     {
       "permalink": "/get-eid/",
       "keywords": [
-        "registracije",
+        "registracija",
+        "vaseg",
+        "identitet",
+        "agenciji",
+        "kosova",
+        "dobijanje",
         "eid",
-        "enrollment",
-        "kosovo",
-        "digitalnog",
-        "kredencijale",
-        "email",
-        "wallet",
-        "arc",
-        "stamping"
+        "interneta",
+        "arbk",
+        "postupak"
       ]
     },
     {
       "permalink": "/intro/",
       "keywords": [
         "kosovo",
-        "eid",
+        "identitet",
         "registracije",
-        "instalirajte",
-        "certificate",
+        "pecat",
+        "eid",
+        "digitalnim",
+        "upravljajte",
+        "sertifikat",
         "partnerskim",
-        "njima",
-        "digitally",
-        "novcanik",
-        "pecat"
+        "građani"
       ]
     },
     {
       "permalink": "/manage-eid/",
       "keywords": [
-        "certificates",
-        "password",
+        "registracije",
+        "sertifikatom",
         "portal",
-        "access",
-        "self",
-        "service",
-        "enrollment",
-        "profile",
-        "unlock",
-        "user"
+        "samouslugu",
+        "mobilnih",
+        "uređaj",
+        "profilu",
+        "info",
+        "novcanik",
+        "procesa"
       ]
     }
   ]

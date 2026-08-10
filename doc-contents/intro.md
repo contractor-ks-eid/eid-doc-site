@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Introduction
+title: Uvod
 permalink: /intro/
-categories: [General]
+categories: [Opšte]
 tags: [dok, novčanik, registracija, integracija, signature, pečat, identitet]
 nav_order: 1
 ---
 
-# 👋 About Kosovo eID
-Kosovo eID is the national system that manages electronic identities for citizens of Kosovo. An electronic ID is a free digital certificate issued by the Government of Kosovo, valid for 2 years. With it, citizens can securely sign (or stamp) documents and access digital services that partner with the Kosovo eID system.
+# 👋 O sistemu Kosovo eID
+Kosovo eID je nacionalni sistem koji upravlja elektronskim identitetima građana Kosova. Elektronski identitet (eID) je besplatan digitalni sertifikat koji izdaje Vlada Kosova i koji važi 2 godine. Pomoću njega građani mogu bezbedno da potpisuju (ili overavaju pečatom) dokumenta i pristupaju digitalnim uslugama koje su povezane sa sistemom Kosovo eID.
 
-# 🧩 Components
-The Kosovo eID system brings together a few key pieces: the **`electronic ID`** (and **`electronic Seal`**), the **`Kosovo Wallet`**, the **`Signing Apps`**, and the **`eID integration`** engine (or **`eID API`**).
+# 🧩 Komponente
+Kosovo eID sistem objedinjuje nekoliko ključnih komponenti: **`elektronski identitet`** (i **`elektronski pečat`**), **`Kosovo novčanik, aplikacije za potpisivanje`**, i mehanizam za **`eID integraciju`** (odnosno **`eID API`**).
 
 
 {% include elements/card-gallery-from-folder.html 
@@ -19,8 +19,8 @@ The Kosovo eID system brings together a few key pieces: the **`electronic ID`** 
   oneRow=true
 %}
 
-# 🚀 Enrollment
-Citizens can get their electronic ID by going through a enrollment process at the Civil Registration Offices (`ARC`) counters. Once issued, the ID can be securely stored in the Kosovo Wallet. In a similar way, citizens can obtain an electronic Seal through the enrollment process at the Kosovo Business Registration Agency (`ARBK`) counters.
+# 🚀 Registracija
+Građani mogu dobiti svoj elektronski identitet prolaskom kroz proces registracije na šalterima Agencije za civilnu registraciju (`ARC`) . Nakon izdavanja, identitet se može bezbedno čuvati u Kosovo novčaniku. Na sličan način, građani mogu dobiti elektronski pečat putem procesa registracije na šalterima Agencije za registraciju biznisa Kosova (`ARBK`) .
 
 {% include elements/youtube.html 
     id="BqPljJ9CLbs" 
@@ -46,11 +46,11 @@ Citizens can get their electronic ID by going through a enrollment process at th
 {% include elements/alert.html 
   class="warning" 
   content=c 
-  title="Enrollment"
+  title="Registracija"
 %}
 
-# 📝 Signing
-With an electronic ID (or electronic Seal) and the signing app, citizens and businesses can digitally sign or stamp documents. By law, an electronic signature has the same legal value as a handwritten one.
+# 📝 Potpisivanje
+Pomoću elektronskog identiteta (ili elektronskog pečata) i aplikacije za potpisivanje, građani i preduzeća mogu digitalno potpisivati ili overavati dokumenta elektronskim pečatom. Prema zakonu, elektronski potpis ima istu pravnu vrednost kao svojeručni potpis.
 
 {% include elements/youtube.html 
     id="T5iE-oR_Tcg" 
@@ -76,12 +76,12 @@ With an electronic ID (or electronic Seal) and the signing app, citizens and bus
 {% include elements/alert.html 
   class="warning" 
   content=c 
-  title="Signing"
+  title="Potpisivanje"
 %}
 
 
-# 🤝 Integration
-Using the electronic ID together with the Kosovo Wallet, citizens can also log in and authenticate to online services — such as eKosova or eBanking — once those services become Kosovo eID partners and integrate eID features through the integration engine (**`eID API`**).
+# 🤝 Integracija
+Korišćenjem elektronskog identiteta zajedno sa Kosovo novčanikom, građani se takođe mogu prijaviti i autentifikovati na mrežne usluge — kao što su eKosova ili eBanking — nakon što te usluge postanu partneri sistema Kosovo eID i integrišu eID funkcionalnosti putem integracionog mehanizma (**`eID API`**).
 
 {% include elements/youtube.html 
     id="kZW6FRZVlZU" 

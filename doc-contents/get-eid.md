@@ -1,25 +1,25 @@
 ---
 layout: page
-title: Get eID
+title: Dobijte eID
 permalink: /get-eid/
 categories: [Registracija, Sertifikati]
 tags: [novčanik, registracija, identitet, pečat]
 nav_order: 2
 ---
 
-# Intro
-Getting your eID is quick and straightforward. To obtain an electronic ID, you will need to go through the enrollment process at the Civil Registration Offices (ARC). For a digital Seal, the process takes place at the Kosovo Business Registration Agency (ARBK).
+# Uvod
+Dobijanje vašeg eID-a je brzo i jednostavno. Da biste dobili elektronski identitet, potrebno je da prođete kroz proces registracije u kancelarijama Agencije za civilnu registraciju (ARC). Za dobijanje digitalnog pečata, postupak se obavlja u Agenciji za registraciju biznisa Kosova (ARBK).
 
-For now, online enrollment is not available. This is intentional, to ensure the highest possible level of assurance and identity verification.
+Trenutno registracija putem interneta nije dostupna. Ovo je namerna odluka kako bi se obezbedio najviši mogući nivo pouzdanosti i verifikacije identiteta.
 
-During enrollment, a Registration Officer will verify your identity, collect the necessary data to issue your digital ID or Seal, and — if needed — help you store your credentials safely in your Wallet. The whole process usually takes no more than 5 minutes.
+Tokom procesa registracije, službenik za registraciju će proveriti vaš identitet, prikupiti potrebne podatke za izdavanje vašeg digitalnog identiteta ili pečata i — ukoliko je potrebno — pomoći vam da bezbedno sačuvate svoje pristupne podatke u vašem novčaniku. Ceo postupak obično traje najviše 5 minuta.
 
-# What do you need
-To get your eID or digital Seal(s) you will need:
-- your **`Kosovo ID`** card for eID or a **`recognised ID document`** for the digital seal
-- a **`mobile phone`** (iOS or Android) with **`Kosovo phone number`** and **`mobile data connection`**
-- an **`email account`** configured and readable from the mobile phone
-- only for the digital seals you need a **`valid Power of Attorney`** from a company stating that you are in title to receive a digital seal for stamping company documents
+# Šta vam je potrebno
+Da biste dobili svoj eID ili digitalni pečat(e), potrebno vam je:
+- vaša **`lična karta Kosova`** za eID ili **`priznati identifikacioni dokument`** za digitalni pečat
+- **`mobilni telefon`** (iOS or Android) sa **`brojem telefona Kosova i mobilnom internet vezom`**
+- **`e-mail nalog`** podešen i dostupan za korišćenje sa mobilnog telefona
+- samo za digitalne pečate potreban vam je **`važeći punomoć`** od kompanije kojim se potvrđuje da ste ovlašćeni da dobijete digitalni pečat za overavanje dokumenata kompanije
 
 {% capture c %}
     {% ExternalSiteContent  {
@@ -38,73 +38,73 @@ To get your eID or digital Seal(s) you will need:
 {% include elements/alert.html 
   class="primary" 
   content=c 
-  title="Kosovo Wallet"
+  title="Kosovo novčanik"
 %}
 
 {% include elements/alert.html 
   class="warning" 
-  content="For Kosovo Wallet you need minimum iOS 13 or Android 5.0."
-  title="Mobile OS" 
+  content="Za Kosovo novčanik potreban je najmanje iOS 13 ili Android 5.0."
+  title="Mobilni OS" 
 %}
 
-# Enrollment
-The enrollment process will be carried out in several steps:
+# Registracija
+Proces registracije će se odvijati kroz nekoliko koraka:
 
-## Collect data
-The registration officer **`collects your personal data`**, scans and store the pictures of the front and back of your ID card (or your ID document and the Power of Attorney for digital seals)
+## Prikupljanje podataka
+Službenik za registraciju **`prikuplja vaše lične podatke`**, skenira i čuva slike prednje i zadnje strane vaše lične karte (ili vašeg identifikacionog dokumenta i punomoći za digitalne pečate).
 
-## Verify contact
-The registration officer **`verifies your contact information`**. You will receive an email and you must open it on your mobile phone. Click the link from that email, accept the Term and Conditions and ask for a One Time Password (OTP). You will receive an SMS with a code; you have to input that code into the dedicated space and to send it. Once the code is received by the system, your contact information has been verified.
+## Verifikacija kontakta
+Službenik za registraciju **`proverava vaše kontakt podatke`**. Dobićete e-mail poruku koju morate otvoriti na svom mobilnom telefonu. Kliknite na link iz te poruke, prihvatite Uslove korišćenja i zatražite jednokratnu lozinku (OTP). Dobićete SMS poruku sa kodom koji je potrebno da unesete u predviđeno polje i pošaljete. Kada sistem primi kod, vaši kontakt podaci će biti uspešno verifikovani.
 
 {% include elements/alert.html 
   class="danger" 
-  content="Once your contact information has been verified, it cannot be changed anymore"
-  title="Contact information"
+  content="Nakon što su vaši kontakt podaci verifikovani, više ih nije moguće menjati."
+  title="Kontakt podaci"
 %}
 
-## Approve request
-The registration officer will **`approve your request for issuing a digital ID (or seal)`**. You will receive another email with a code protected PDF file attached and a new SMS message containing the code for opening the PDF file. The email contains important information about your certificate such as **`your user name and Emergency Recovery Code (ERC)`** and the **`PDF contains the password associated to your user name`**. The email contains also a link you have to click to continue the enrollment with the next steps.
+## Odobravanje zahteva
+Službenik za registraciju će **`odobriti vaš zahtev za izdavanje elektronskog identiteta (ili pečata)`**. Dobićete još jednu e-mail poruku sa priloženom PDF datotekom zaštićenom kodom, kao i novu SMS poruku koja sadrži kod za otvaranje PDF datoteke. E-mail poruka sadrži važne informacije o vašem sertifikatu, kao što su **`vaše korisničko ime i Kod za hitni oporavak (ERC), dok PDF datoteka sadrži lozinku povezanu sa vašim korisničkim imenom.`**. E-mail takođe sadrži link na koji treba da kliknete kako biste nastavili proces registracije kroz sledeće korake.
 
 {% include elements/alert.html 
   class="warning" 
-  content="You will need the user name, password and Emergency Recovery Code (ERC) to access the self-service portal and manage your certificate. We recommend to save this information in a safe location which can be on your phone, but protected by your biometrics or a strong password."
-  title="Certificate information"
+  content="Biće vam potrebni korisničko ime, lozinka i Kod za hitni oporavak (ERC) za pristup portalu za samousluživanje i upravljanje vašim sertifikatom. Preporučujemo da ove podatke sačuvate na bezbednom mestu, koje može biti i na vašem telefonu, ali zaštićeno biometrijom ili snažnom lozinkom."
+  title="Informacije o sertifikatu"
 %}
 
 {% include elements/alert.html 
   class="primary" 
-  content="The certificate information is associated with only one certificate. This means that you may have multiple sets of such type of information if you will have a digital ID and multiple digital seals."
-  title="Certificate information"
+  content="Informacije o sertifikatu povezane su samo sa jednim sertifikatom. To znači da možete imati više skupova ovakvih podataka ukoliko imate elektronski identitet i više digitalnih pečata."
+  title="Informacije o sertifikatu"
 %}
 
 {% include elements/alert.html 
   class="primary" 
-  content="Do not panic if you forget/lose the certificate information, the self-service portal provides you with features that will help you to recover/change them."
-  title="Forgetting information"
+  content="Ne brinite ukoliko zaboravite ili izgubite informacije o sertifikatu. Portal za samousluživanje vam omogućava funkcionalnosti koje će vam pomoći da ih povratite ili promenite."
+  title="Zaboravljene informacije"
 %}
 
-## Security info
-Click on the link from the last email you received and you will be directed to the next steps which are **`setting the certificate security information (PIN and PUK)`** and **`connecting the wallet`** to store the certificate credentials into it. Read and accept the **`contract between you and the Government for using the certificate`**. Set the PIN and PUK and advance to the **`Connect Wallet`** or **`Sign`** step. 
+## Bezbednosne informacije
+Kliknite na link iz poslednje e-mail poruke koju ste primili i bićete usmereni na sledeće korake, koji uključuju **`podešavanje bezbednosnih informacija sertifikata (PIN i PUK) i povezivanje novčanika`** radi čuvanja akreditiva sertifikata u njemu. Pročitajte i prihvatite **`ugovor između vas i Vlade o korišćenju sertifikata`** Podesite PIN i PUK i nastavite na korak **`Poveži novčanik`** ili **`Potpiši`**
 
-## Connect wallet
-If you want to connect the wallet during enrollment, select **`Connect Wallet`**.
+## Poveži novčanik
+Ako želite da povežete novčanik tokom procesa registracije, izaberite **`Poveži novčanik`**.
 
 {% include elements/alert.html 
   class="primary" 
-  content="We highly recommend to connect your wallet during the enrollment process because the registration officer is there to assist you if something does not goes as expected. However, using the self-service portal you can connect your wallet later."
-  title="Connect wallet"
+  content="Preporučujemo da povežete svoj novčanik tokom procesa registracije, jer je tada službenik za registraciju prisutan da vam pomogne ukoliko nešto ne bude išlo prema očekivanjima. Međutim, korišćenjem portala za samousluživanje možete povezati svoj novčanik i kasnije."
+  title="Poveži novčanik"
 %}
 
-## Sign certificate
-The last step is to **`sign the certificate`**. You have to click on **`Sign`**, wait for another One Time Password (SMS message), input it in the related place and send it back. Then your new certificate will be **`issued and will become valid for the next 2 years`**.
+##  Potpisivanje sertifikata
+Poslednji korak je **`potpisivanje sertifikata`**. Potrebno je da kliknete na **`Potpiši`**, sačekate novu jednokratnu lozinku (SMS poruku), unesete je u odgovarajuće polje i pošaljete. Nakon toga, vaš novi sertifikat će biti **`izdat i važiće naredne 2 godine.`**.
 
 {% include elements/alert.html 
   class="primary" 
-  content="Do not panic if you forget/lose the PIN or PUK, the self-service portal provides you with features that will help you to recover/change them."
+  content="Ne brinite ukoliko zaboravite ili izgubite PIN ili PUK. Portal za samousluživanje vam omogućava funkcionalnosti koje će vam pomoći da ih povratite ili promenite."
   title="PIN/PUK"
 %}
 
-# Enrollment moments
+# Koraci registracije
 {% capture img %}
     source="partials/media/get-eid/verify-contacts.png"|caption="Verify Contacts"|captionBorder="true",
     source="partials/media/get-eid/request-approved.png"|caption="Request Approved"|captionBorder="true",
@@ -121,8 +121,8 @@ The last step is to **`sign the certificate`**. You have to click on **`Sign`**,
 %}
 
 
-# Self service
-You can manage your certificate using the **`self-service portal`**.
+# Samousluživanje
+Svoj sertifikat možete upravljati korišćenjem **`portala za samousluživanje`**.
 
 {% include elements/link-btn.html 
     type="primary" 
@@ -132,13 +132,13 @@ You can manage your certificate using the **`self-service portal`**.
     newTab="false" 
 %}
 
-# Support
-During the period of validity of your certificate, if you experience problems, you can always use the **`eID technical support`**.
+# Podrška
+Tokom perioda važenja vašeg sertifikata, ukoliko naiđete na probleme, uvek možete koristiti **`tehničku podršku za eID`**.
 
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="Support" 
+    text="Podrška" 
     href="https://ks-eid.com/support" 
     newTab="true" 
 %}
