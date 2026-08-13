@@ -3,9 +3,9 @@
   startPermalink: "/intro/"
   sections:
     header_section:
-      title: "Mirë se vini në Dokumentacionin e Kosovo eID"
+      title: "Mirë se vini në dokumentacionin e eID-së së Kosovës"
       text: > 
-        Këtu do të gjeni gjithçka që ju nevojitet për të kuptuar, integruar dhe përdorur sistemin e eID-së në Kosovë — nga specifikimet teknike dhe API-të deri te manualet e përdoruesit, udhëzimet e sigurisë dhe praktikat më të mira. Pavarësisht nëse po ndërtoni një shërbim të ri, po integroni nënshkrimin dixhital apo thjesht po përdorni eID, kjo është pika juaj e fillimit.
+        Këtu do të gjeni gjithçka që ju nevojitet për të kuptuar, integruar dhe përdorur sistemin e eID-së së Kosovës, nga specifikimet teknike dhe API-të deri te manualet e përdorimit, udhëzimet për sigurinë dhe praktikat më të mira. Pavarësisht nëse po zhvilloni një shërbim të ri, po integroni nënshkrimin digjital ose thjesht po përdorni eID-në, këtu është pika juaj e fillimit.
       startBtnText: "Let's start"
       featuredMedia: >
         <img fetchpriority="high" width="600" height="400" src="assets/img/home.webp" alt="Kosovo eID Docs" decoding="async" loading="eager" style="display:block;" loading="lazy">
