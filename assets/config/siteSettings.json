@@ -231,10 +231,10 @@
         "identitet"
       ],
       "excerpt": "funkcionalnosti, skupa, api, autorizaciju, kosovo, eid, pruza, njih, pokriva, prijavljivanja",
-      "lastUpdate": "2026-08-13 13:01:59 +0300",
+      "lastUpdate": "2026-08-13 13:12:34 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-08-13 13:01:59 +0300",
-      "createTimeUTC": 1786615319,
+      "createTime": "2026-08-13 13:12:34 +0300",
+      "createTimeUTC": 1786615954,
       "relatedPages": [
         {
           "title": "eID API",
@@ -665,10 +665,10 @@
         "pečat"
       ],
       "excerpt": "registracija, vaseg, identitet, agenciji, kosova, dobijanje, eid, interneta, arbk, postupak",
-      "lastUpdate": "2026-08-10 11:53:33 +0300",
+      "lastUpdate": "2026-08-13 13:12:34 +0300",
       "lastUpdateUTC": 0,
-      "createTime": "2026-08-10 11:53:33 +0300",
-      "createTimeUTC": 1786352013,
+      "createTime": "2026-08-13 13:12:34 +0300",
+      "createTimeUTC": 1786615954,
       "relatedPages": [
         {
           "title": "Uvod",
@@ -914,7 +914,7 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "10-Aug-2026"
+          "lastUpdate": "13-Aug-2026"
         },
         {
           "title": "Uvod",
@@ -984,7 +984,7 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "10-Aug-2026"
+          "lastUpdate": "13-Aug-2026"
         },
         {
           "title": "Uvod",
@@ -1049,7 +1049,7 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "10-Aug-2026"
+          "lastUpdate": "13-Aug-2026"
         },
         {
           "title": "Uvod",
@@ -1109,7 +1109,7 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "10-Aug-2026"
+          "lastUpdate": "13-Aug-2026"
         },
         {
           "title": "Uvod",
@@ -1261,7 +1261,7 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "10-Aug-2026"
+          "lastUpdate": "13-Aug-2026"
         }
       ],
       "numPages": 1
@@ -1271,7 +1271,7 @@
         {
           "title": "Dobijte eID",
           "permalink": "/get-eid/",
-          "lastUpdate": "10-Aug-2026"
+          "lastUpdate": "13-Aug-2026"
         },
         {
           "title": "Upravljanje eID-om",
