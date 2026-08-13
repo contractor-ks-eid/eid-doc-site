@@ -22,7 +22,7 @@ Ju mund të nënshkruani dokumente Microsoft Office duke përdorur certifikatën
 
 {% include elements/alert.html 
   class="primary" 
-  content=Nënshkrimi në Microsoft Office nuk mbështet paraqitjen grafike të nënshkrimit. Dokumenti i nënshkruar do të përmbajë një tregues që shfaqet kur dokumenti hapet, duke treguar se dokumenti është shënuar si përfundimtar dhe i nënshkruar. Email-et e nënshkruara do të shfaqin një shirit (ribbon) të veçantë."
+  content="Nënshkrimi në Microsoft Office nuk mbështet paraqitjen grafike të nënshkrimit. Dokumenti i nënshkruar do të përmbajë një tregues që shfaqet kur dokumenti hapet, duke treguar se dokumenti është shënuar si përfundimtar dhe i nënshkruar. Email-et e nënshkruara do të shfaqin një shirit (ribbon) të veçantë."
   title="Nënshkrimi grafik"
 %}
 
