@@ -3,8 +3,8 @@
         "permalink": "/intro/",
         "similarFiles": [
             "/wallet/use-wallet/",
-            "/sign-apps/sign-office-docs/",
             "/get-eid/",
+            "/sign-apps/sign-office-docs/",
             "/manage-eid/",
             "/wallet/intro/"
         ]
@@ -12,8 +12,8 @@
     {
         "permalink": "/get-eid/",
         "similarFiles": [
-            "/wallet/use-wallet/",
             "/manage-eid/",
+            "/wallet/use-wallet/",
             "/sign-apps/sign-office-docs/",
             "/intro/",
             "/wallet/intro/"

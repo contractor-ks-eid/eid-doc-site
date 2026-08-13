@@ -1,0 +1,253 @@
+[
+  {
+    "title": "Dok API",
+    "permalink": "/api/api-docs/",
+    "categories": [
+      "Integrimi",
+      "API"
+    ],
+    "tags": [
+      "Kuleta",
+      "Integrimi",
+      "Nënshkrimi",
+      "Vula",
+      "Autentifikimi",
+      "Identiteti"
+    ],
+    "excerpt": "ofron, eid, autentifikimit, sistemeve, tyre, qellim, api, mbrohet, kosoves, dhenat",
+    "lastUpdate": "2026-08-05 18:21:48 +0300",
+    "lastUpdateUTC": 1785943308,
+    "createTime": "2026-08-05 18:21:48 +0300",
+    "createTimeUTC": 1785943308,
+    "relatedPages": [],
+    "autoSummary": "Eid ofron dy grupe të veçanta api-sh. Secili prej tyre shërben për një qëllim të caktuar.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "eID API",
+    "permalink": "/api/intro/",
+    "categories": [
+      "Integrimi",
+      "API"
+    ],
+    "tags": [
+      "kuleta",
+      "integrimi",
+      "Nënshkrimi",
+      "Vula",
+      "Identiteti",
+      "Autentifikimi"
+    ],
+    "excerpt": "api, perfaqesuesi, eid, eshte, ndermjet, aplikimi, kosoves, sistemet, integrim, regjistruar",
+    "lastUpdate": "2026-08-05 18:21:48 +0300",
+    "lastUpdateUTC": 1785943308,
+    "createTime": "2026-08-05 18:21:48 +0300",
+    "createTimeUTC": 1785943308,
+    "relatedPages": [],
+    "autoSummary": "Api eid është në dispozicion për integruesit e palëve të treta që dëshirojnë të shtohen funksionalitetet e eid-së së kosovës. Integruesi (kompania që zotëron sistemin ose aplikacionin) duhet të jetë një person juridik i regjistruar nga kosova.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Aplikacionet e nënshkrimit",
+    "permalink": "/sign-apps/intro/",
+    "categories": [
+      "Nënshkrimi",
+      "Vula"
+    ],
+    "tags": [
+      "vula",
+      "nënshkrimi",
+      "identiteti"
+    ],
+    "excerpt": "signing, macos, certificates, app, stamp, document, download, validity, verify, desktop",
+    "lastUpdate": "2026-08-05 18:21:48 +0300",
+    "lastUpdateUTC": 1785943308,
+    "createTime": "2026-08-05 18:21:48 +0300",
+    "createTimeUTC": 1785943308,
+    "relatedPages": [],
+    "autoSummary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The purpose of the signing apps is to verify the certificate that you want to use for signing or stamping against the eid database.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Nënshkrimi i dokumenteve",
+    "permalink": "/sign-apps/sign-docs/",
+    "categories": [
+      "Nënshkrimi",
+      "Vula"
+    ],
+    "tags": [
+      "Vula",
+      "Nënshkrimi",
+      "identiteti"
+    ],
+    "excerpt": "signatures, documentd, cades, apps, pdf, certificate, adobe, pades, xades, mobile",
+    "lastUpdate": "2026-08-13 12:33:30 +0300",
+    "lastUpdateUTC": 1786613610,
+    "createTime": "2026-08-13 12:33:30 +0300",
+    "createTimeUTC": 1786613610,
+    "relatedPages": [],
+    "autoSummary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Nënshkrimi i dokumenteve Office",
+    "permalink": "/sign-apps/sign-office-docs/",
+    "categories": [
+      "Nënshkrimi",
+      "Vula"
+    ],
+    "tags": [
+      "vula",
+      "nënshkrimi",
+      "identiteti",
+      "microsoft",
+      "office",
+      "word",
+      "excel",
+      "powerpoint",
+      "outlook"
+    ],
+    "excerpt": "dokumentet, pdf, certifikaten, microsoft, office, elektronike, konfigurime, nenshkrimi, skedareve, cdo",
+    "lastUpdate": "2026-08-13 12:35:14 +0300",
+    "lastUpdateUTC": 1786613714,
+    "createTime": "2026-08-13 12:35:14 +0300",
+    "createTimeUTC": 1786613714,
+    "relatedPages": [],
+    "autoSummary": "Ju mund të nënshkruani dokumente microsoft office duke përdorur certifikatën tuaj eid dhe vulat tuaja elektronike.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Kuleta e Kosovës",
+    "permalink": "/wallet/intro/",
+    "categories": [
+      "Kuleta"
+    ],
+    "tags": [
+      "Kuleta",
+      "autentifikimi"
+    ],
+    "excerpt": "kuleta, kredencialet, kosove, instalohet, aplikacion, aplikimi, qellimi, eshte, mobil, elektronike",
+    "lastUpdate": "2026-08-05 18:21:48 +0300",
+    "lastUpdateUTC": 1785943308,
+    "createTime": "2026-08-05 18:21:48 +0300",
+    "createTimeUTC": 1785943308,
+    "relatedPages": [],
+    "autoSummary": "Kuleta e kosovës është një aplikacion mobil që përdoret për të ruajtur në mënyrë të sigurt kredencialet e id-së tuaj elektronike ose të vulësvulave tuaja. Instalimi dhe pìrdorimi, pa asnjë kufizim, janë pa pagesë.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Përdorimi i Kuletës së Kosovës",
+    "permalink": "/wallet/use-wallet/",
+    "categories": [
+      "Kuleta"
+    ],
+    "tags": [
+      "Kuleta"
+    ],
+    "excerpt": "kredenciali, kosovo, certifikates, qasje, kuader, paraqitura, funksionalitetesh, cilat, njoftimet, perkatese",
+    "lastUpdate": "2026-08-13 12:33:30 +0300",
+    "lastUpdateUTC": 1786613610,
+    "createTime": "2026-08-13 12:33:30 +0300",
+    "createTimeUTC": 1786613610,
+    "relatedPages": [],
+    "autoSummary": "Kuleta e kosovës ju ofron një sërë funksionalitetesh që mund të përdoren për ti mbajtur të sigurta dhe të mbrojtura kredencialet e certifikatës suaj.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Pajisuni me eID",
+    "permalink": "/get-eid/",
+    "categories": [
+      "Regjistrimi",
+      "Certifikatat"
+    ],
+    "tags": [
+      "Kuleta",
+      "Regjistrimi",
+      "Identiteti",
+      "Vula"
+    ],
+    "excerpt": "pajisja, regjistrimi, verifikimit, zgjat, procesi, kosoves, dokumenteve, nevojshme, eid, eshte",
+    "lastUpdate": "2026-08-13 12:33:30 +0300",
+    "lastUpdateUTC": 1786613610,
+    "createTime": "2026-08-13 12:33:30 +0300",
+    "createTimeUTC": 1786613610,
+    "relatedPages": [],
+    "autoSummary": "Pajisja me eid ishte një proces i shpejtë dhe i thjeshtë. Procesi zhvillohet në agjencinë për regjistrimin e bizneseve të kosovës (arbk).",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Hyrje",
+    "permalink": "/intro/",
+    "categories": [
+      "Të përgjithshme"
+    ],
+    "tags": [
+      "dok",
+      "Kuleta",
+      "Regjistrimi",
+      "Integrimi",
+      "Nënshkrimi",
+      "Vula",
+      "Identiteti"
+    ],
+    "excerpt": "kosoves, certifikate, sistemi, eid, dokumente, eshte, kombetar, nenshkrimi, elektronike, dhe",
+    "lastUpdate": "2026-08-13 12:33:30 +0300",
+    "lastUpdateUTC": 1786613610,
+    "createTime": "2026-08-13 12:33:30 +0300",
+    "createTimeUTC": 1786613610,
+    "relatedPages": [],
+    "autoSummary": "Eid e kosovës ishte sistemi kombëtar për menaxhimin e identiteteve elektronike të qytetarëve. Identiteti elektrik është një certifikatë digjitale falas, e lëshuar nga qeveria e republikës së kosova.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  },
+  {
+    "title": "Menaxhimi i eID-së",
+    "permalink": "/manage-eid/",
+    "categories": [
+      "Certifikatat"
+    ],
+    "tags": [
+      "Kuleta",
+      "vetë-shërbim",
+      "Identiteti",
+      "Vula"
+    ],
+    "excerpt": "certifikate, portali, vetesherbim, shfletues, regjistrimit, mjeti, pajisjen, duhet, eshte, mobile",
+    "lastUpdate": "2026-08-13 12:33:30 +0300",
+    "lastUpdateUTC": 1786613610,
+    "createTime": "2026-08-13 12:33:30 +0300",
+    "createTimeUTC": 1786613610,
+    "relatedPages": [],
+    "autoSummary": "Portali i vetë-shërbimit është mjeti që ju mundëson të menaxhoni certifikatën(at) tuaja dhe të migroni kuletën kur ndërroni pajisjen tuaj.",
+    "similarByContent": [],
+    "readingTime": 0,
+    "hasDynamicContent": false,
+    "parent": ""
+  }
+]
