@@ -4,7 +4,7 @@ Nakon što popunite i potpišete obrazac za prijavu (prihvatamo digitalni potpis
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="Apply" 
+    text="Primeni" 
     href="https://ks-eid.com/api-application" 
     newTab="true" 
 %}

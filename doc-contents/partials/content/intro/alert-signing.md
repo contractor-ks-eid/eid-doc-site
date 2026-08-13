@@ -3,7 +3,7 @@ Potpisivanje ili pečaćenje dokumenata pomoću vašeg eID-a zahteva instalaciju
 
 {% include elements/link-btn.html 
     type="primary" 
-    text="Signing Apps" 
+    text="Aplik. za potpis" 
     href="/sign-apps/intro/"
     newTab="false"  
 %}

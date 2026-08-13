@@ -45,7 +45,7 @@ Nakon što sve bude popunjeno i podneto, može započeti proces pregleda.
 {% include elements/alert.html 
   class="primary" 
   content=c 
-  title="Application form"
+  title="Obrazac za prijavu"
 %}
 
 {% capture c %}
@@ -99,8 +99,8 @@ Obezbedićemo vam sledeće stavke:
 
 {% include elements/alert.html 
   class="warning" 
-  content="Do not forget to mention on the **`Application Form`** the scope of out integration (**`Strong Authentication`** or **`Digital Signature and/or Digital Seal`** or both)."
-  title="Integration scope" 
+  content="Ne zaboravite da u **`Obrascu za prijavu`** navedete obim vaše integracije (**`Jaka autentifikacija`** or **`Digitalni potpis i/ili digitalni pečat`** ili oba)."
+  title="Obim integracije" 
 %}
 
 ## Testiranje

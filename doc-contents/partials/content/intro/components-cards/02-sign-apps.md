@@ -4,4 +4,4 @@ cardTitle: Aplikacije za potpisivanje
 file: partials/content/intro/signing-apps-card-text.md
 ---
 
-type=primary|outline=false|border=false|text=Signing|href="/sign-apps/intro/"|newTab=false
+type=primary|outline=false|border=false|text=Potpisivanje|href="/sign-apps/intro/"|newTab=false

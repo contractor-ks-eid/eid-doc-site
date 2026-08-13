@@ -4,4 +4,4 @@ cardTitle: Kosovo novčanik
 file: partials/content/intro/wallet-card-text.md
 ---
 
-type=primary|outline=false|border=false|text=Wallet|href="/wallet/intro/"|newTab=false
+type=primary|outline=false|border=false|text=Novčanik|href="/wallet/intro/"|newTab=false

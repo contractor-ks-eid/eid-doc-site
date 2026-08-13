@@ -44,7 +44,7 @@ Pre svega, preporučujemo da preuzmete detaljnu prezentaciju procesa integracije
     downloadsDir="true"   
 %}
 
-Second, we invite you to check out code examples for the most frequent tech stacks used in software development today:
+Drugo, pozivamo vas da pogledate primere koda za najčešće korišćene tehnološke stekove u današnjem razvoju softvera:
 
 {% capture buttons %}
     type=primary|outline=false|text=NodeJS|href="https://github.com/validatedid/kosovo-universal-verifier"|newTab=true,
@@ -77,9 +77,9 @@ Ovaj API vam omogućava da **`implementirate specifičan tok potpisivanja (ili p
 Za pravilnu implementaciju toka potpisivanja (ili pečaćenja, odnosno vremenskog žigosanja), pripremili smo nekoliko resursa koji su dostupni u nastavku. Ovi resursi uključuju detaljnu API dokumentaciju i POSTMAN okruženja i kolekcije za istraživanje API-ja. API dokumentacija važi za testno i produkciono okruženje, dok su POSTMAN kolekcije dostupne odvojeno za svako okruženje.
 
 {% capture downloads %}
-      type=primary|outline=false|text=API Docs|file="api/eID platform API_v1.2.pdf"|downloadName="eID platform API_v1.2.pdf"|downloadsDir="true",
+      type=primary|outline=false|text=API Dok|file="api/eID platform API_v1.2.pdf"|downloadName="eID platform API_v1.2.pdf"|downloadsDir="true",
       type=secondary|outline=false|text=Testno okruženje|file="api/pre-production-postman.zip"|downloadName="pre-production-postman.zip"|downloadsDir="true",
-      type=success|outline=false|text=Production Env|file="api/production-postman.zip"|downloadName="production-postman.zip"|downloadsDir="true"
+      type=success|outline=false|text=Produciono okr.|file="api/production-postman.zip"|downloadName="production-postman.zip"|downloadsDir="true"
 {% endcapture %}
 {% include elements/downloads-group.html downloads=downloads %}
 

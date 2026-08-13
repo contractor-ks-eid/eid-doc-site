@@ -71,7 +71,7 @@ Ovde takođe možete ukloniti kredencijal iz novčanika. Na kartici kredencijala
 {% include elements/alert.html 
   class="primary" 
   content=c 
-  title="Restore credential"
+  title="Oporavak kredencijala"
 %}
 
 ## Skeniraj QR
@@ -80,7 +80,7 @@ Ova funkcionalnost omogućava skeniranje QR koda generisanog za snažnu autentif
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="Test it" 
+    text="Testirajte" 
     href="https://api-eid.rks-gov.net/universal-verifier/" 
     newTab="true" 
 %}
