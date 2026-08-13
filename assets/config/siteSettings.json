@@ -317,7 +317,7 @@
         "nënshkrimi",
         "identiteti"
       ],
-      "excerpt": "signing, macos, certificates, app, stamp, document, download, validity, verify, desktop",
+      "excerpt": "aplikacioni, verifikojne, nenshkrim, dhe, identitet, certifikaten, dokumenteve, linux, ndermjet, elektronike",
       "lastUpdate": "2026-08-05 18:21:48 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-08-05 18:21:48 +0300",
@@ -332,11 +332,35 @@
           "permalink": "/sign-apps/sign-docs/"
         }
       ],
-      "autoSummary": "The desktop and mobile signing apps are used to allow using the electronic id for signing and stamping documents. The purpose of the signing apps is to verify the certificate that you want to use for signing or stamping against the eid database.",
+      "autoSummary": "Aplikacionet e nënshkrimit për desktop dhe pajisje mobile përdoren përsëri. Aplikacioneve të ninshkimit verifikojnë certifikatën që d. dhe vulosjen e dokumenteve. Instalimi d and përidorimi, pa asnjë kufizim, janë pa pagesë.",
       "similarByContent": [
+        {
+          "permalink": "/wallet/intro/",
+          "title": "Kuleta e Kosovës"
+        },
         {
           "permalink": "/sign-apps/sign-docs/",
           "title": "Nënshkrimi i dokumenteve"
+        },
+        {
+          "permalink": "/sign-apps/sign-office-docs/",
+          "title": "Nënshkrimi i dokumenteve Office"
+        },
+        {
+          "permalink": "/manage-eid/",
+          "title": "Menaxhimi i eID-së"
+        },
+        {
+          "permalink": "/get-eid/",
+          "title": "Pajisuni me eID"
+        },
+        {
+          "permalink": "/intro/",
+          "title": "Hyrje"
+        },
+        {
+          "permalink": "/wallet/use-wallet/",
+          "title": "Përdorimi i Kuletës së Kosovës"
         }
       ],
       "readingTime": 2,
@@ -373,8 +397,32 @@
       "autoSummary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature.",
       "similarByContent": [
         {
+          "permalink": "/sign-apps/sign-office-docs/",
+          "title": "Nënshkrimi i dokumenteve Office"
+        },
+        {
+          "permalink": "/manage-eid/",
+          "title": "Menaxhimi i eID-së"
+        },
+        {
+          "permalink": "/get-eid/",
+          "title": "Pajisuni me eID"
+        },
+        {
+          "permalink": "/intro/",
+          "title": "Hyrje"
+        },
+        {
+          "permalink": "/wallet/intro/",
+          "title": "Kuleta e Kosovës"
+        },
+        {
           "permalink": "/sign-apps/intro/",
           "title": "Aplikacionet e nënshkrimit"
+        },
+        {
+          "permalink": "/wallet/use-wallet/",
+          "title": "Përdorimi i Kuletës së Kosovës"
         }
       ],
       "readingTime": 3,
@@ -417,6 +465,10 @@
       "autoSummary": "Ju mund të nënshkruani dokumente microsoft office duke përdorur certifikatën tuaj eid dhe vulat tuaja elektronike.",
       "similarByContent": [
         {
+          "permalink": "/sign-apps/sign-docs/",
+          "title": "Nënshkrimi i dokumenteve"
+        },
+        {
           "permalink": "/manage-eid/",
           "title": "Menaxhimi i eID-së"
         },
@@ -435,6 +487,10 @@
         {
           "permalink": "/wallet/intro/",
           "title": "Kuleta e Kosovës"
+        },
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacionet e nënshkrimit"
         }
       ],
       "readingTime": 3,
@@ -472,6 +528,14 @@
       ],
       "autoSummary": "Kuleta e kosovës është një aplikacion mobil që përdoret për të ruajtur në mënyrë të sigurt kredencialet e id-së tuaj elektronike ose të vulësvulave tuaja. Instalimi dhe pìrdorimi, pa asnjë kufizim, janë pa pagesë.",
       "similarByContent": [
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacionet e nënshkrimit"
+        },
+        {
+          "permalink": "/sign-apps/sign-docs/",
+          "title": "Nënshkrimi i dokumenteve"
+        },
         {
           "permalink": "/intro/",
           "title": "Hyrje"
@@ -536,8 +600,16 @@
           "title": "Nënshkrimi i dokumenteve Office"
         },
         {
+          "permalink": "/sign-apps/sign-docs/",
+          "title": "Nënshkrimi i dokumenteve"
+        },
+        {
           "permalink": "/wallet/intro/",
           "title": "Kuleta e Kosovës"
+        },
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacionet e nënshkrimit"
         }
       ],
       "readingTime": 4,
@@ -583,6 +655,10 @@
           "title": "Menaxhimi i eID-së"
         },
         {
+          "permalink": "/sign-apps/sign-docs/",
+          "title": "Nënshkrimi i dokumenteve"
+        },
+        {
           "permalink": "/wallet/use-wallet/",
           "title": "Përdorimi i Kuletës së Kosovës"
         },
@@ -597,6 +673,10 @@
         {
           "permalink": "/wallet/intro/",
           "title": "Kuleta e Kosovës"
+        },
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacionet e nënshkrimit"
         }
       ],
       "readingTime": 4,
@@ -656,8 +736,16 @@
           "title": "Menaxhimi i eID-së"
         },
         {
+          "permalink": "/sign-apps/sign-docs/",
+          "title": "Nënshkrimi i dokumenteve"
+        },
+        {
           "permalink": "/wallet/intro/",
           "title": "Kuleta e Kosovës"
+        },
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacionet e nënshkrimit"
         }
       ],
       "readingTime": 2,
@@ -698,6 +786,10 @@
       "autoSummary": "Portali i vetë-shërbimit është mjeti që ju mundëson të menaxhoni certifikatën(at) tuaja dhe të migroni kuletën kur ndërroni pajisjen tuaj.",
       "similarByContent": [
         {
+          "permalink": "/sign-apps/sign-docs/",
+          "title": "Nënshkrimi i dokumenteve"
+        },
+        {
           "permalink": "/get-eid/",
           "title": "Pajisuni me eID"
         },
@@ -716,6 +808,10 @@
         {
           "permalink": "/wallet/intro/",
           "title": "Kuleta e Kosovës"
+        },
+        {
+          "permalink": "/sign-apps/intro/",
+          "title": "Aplikacionet e nënshkrimit"
         }
       ],
       "readingTime": 2,

@@ -6,32 +6,40 @@
             "/get-eid/",
             "/sign-apps/sign-office-docs/",
             "/manage-eid/",
-            "/wallet/intro/"
+            "/sign-apps/sign-docs/",
+            "/wallet/intro/",
+            "/sign-apps/intro/"
         ]
     },
     {
         "permalink": "/get-eid/",
         "similarFiles": [
             "/manage-eid/",
+            "/sign-apps/sign-docs/",
             "/wallet/use-wallet/",
             "/sign-apps/sign-office-docs/",
             "/intro/",
-            "/wallet/intro/"
+            "/wallet/intro/",
+            "/sign-apps/intro/"
         ]
     },
     {
         "permalink": "/manage-eid/",
         "similarFiles": [
+            "/sign-apps/sign-docs/",
             "/get-eid/",
             "/sign-apps/sign-office-docs/",
             "/wallet/use-wallet/",
             "/intro/",
-            "/wallet/intro/"
+            "/wallet/intro/",
+            "/sign-apps/intro/"
         ]
     },
     {
         "permalink": "/wallet/intro/",
         "similarFiles": [
+            "/sign-apps/intro/",
+            "/sign-apps/sign-docs/",
             "/intro/",
             "/manage-eid/",
             "/sign-apps/sign-office-docs/",
@@ -48,7 +56,13 @@
     {
         "permalink": "/sign-apps/intro/",
         "similarFiles": [
-            "/sign-apps/sign-docs/"
+            "/wallet/intro/",
+            "/sign-apps/sign-docs/",
+            "/sign-apps/sign-office-docs/",
+            "/manage-eid/",
+            "/get-eid/",
+            "/intro/",
+            "/wallet/use-wallet/"
         ]
     },
     {
@@ -64,23 +78,33 @@
             "/get-eid/",
             "/manage-eid/",
             "/sign-apps/sign-office-docs/",
-            "/wallet/intro/"
+            "/sign-apps/sign-docs/",
+            "/wallet/intro/",
+            "/sign-apps/intro/"
         ]
     },
     {
         "permalink": "/sign-apps/sign-docs/",
         "similarFiles": [
-            "/sign-apps/intro/"
+            "/sign-apps/sign-office-docs/",
+            "/manage-eid/",
+            "/get-eid/",
+            "/intro/",
+            "/wallet/intro/",
+            "/sign-apps/intro/",
+            "/wallet/use-wallet/"
         ]
     },
     {
         "permalink": "/sign-apps/sign-office-docs/",
         "similarFiles": [
+            "/sign-apps/sign-docs/",
             "/manage-eid/",
             "/get-eid/",
             "/intro/",
             "/wallet/use-wallet/",
-            "/wallet/intro/"
+            "/wallet/intro/",
+            "/sign-apps/intro/"
         ]
     }
 ]
