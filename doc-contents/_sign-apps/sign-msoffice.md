@@ -22,7 +22,7 @@ Ju mund të nënshkruani dokumente Microsoft Office duke përdorur certifikatën
 
 {% include elements/alert.html 
   class="primary" 
-  content="Nënshkrimi në Microsoft Office nuk mbështet paraqitjen grafike të nënshkrimit. Dokumenti i nënshkruar do të përmbajë një tregues që shfaqet kur dokumenti hapet, duke treguar se dokumenti është shënuar si përfundimtar dhe i nënshkruar. Email-et e nënshkruara do të shfaqin një shirit (ribbon) të veçantë."
+  content=Nënshkrimi në Microsoft Office nuk mbështet paraqitjen grafike të nënshkrimit. Dokumenti i nënshkruar do të përmbajë një tregues që shfaqet kur dokumenti hapet, duke treguar se dokumenti është shënuar si përfundimtar dhe i nënshkruar. Email-et e nënshkruara do të shfaqin një shirit (ribbon) të veçantë."
   title="Nënshkrimi grafik"
 %}
 
@@ -74,7 +74,7 @@ Pas shkarkimit, instaloni certifikatën rrënjësore në **`Trusted Root Certifi
 2. Klikoni **`Hap`** kur t'ju kërkohet të hapni skedarin.
 3. (Rekomandohet) zgjidhni **`Kompjuteri lokal`** kur t'ju kërkohet të zgjidhni fushën e instalimit.
 4. Klikoni **`Tjetër`** dhe lejoni ndryshimet (nëse kërkohet).
-5. Zgjidhni **`Vendosi të gjitha certifikatat në magazinën e mëposhtme`**, klikoni **`Shfleto`** dhe zgjidhni **`Trusted Root Certification Authorities`**
+5. Zgjidhni **`Vendosi të gjitha certifikatat në hapësirën e mëposhtme të certifikatave`**, klikoni **`Shfleto`** dhe zgjidhni **`Autoritetet e besuara të certifikimit rrënjë`**
 6. Klikoni **`Tjetër`** dhe më pas klikoni **`Përfundo`**
 
 Për të verifikuar nëse certifikata rrënjësore është instaluar me sukses:
@@ -88,7 +88,7 @@ Për të verifikuar nëse certifikata rrënjësore është instaluar me sukses:
 4. Autentifikohuni me fjalëkalimin e administratorit ose me Touch ID.
 5. Gjeni certifikatën e importuar dhe klikoni dy herë mbi të.
 6. Zgjeroni seksionin **`Trust`**.
-7. Tek When using this certificate zgjidhni **`Always Trust`**.
+7. Te opsioni When using this certificate zgjidhni **`Always Trust`**.
 8. **`Mbyllni dritaren dhe autentifikohuni përsëri`** për të ruajtur cilësimet e besimit.
 
 # Si ta përdorni

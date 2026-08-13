@@ -11,12 +11,12 @@ nav_order: 3
 Portali i vetë-shërbimit është mjeti që ju mundëson të menaxhoni certifikatën(at) tuaja dhe të migroni Kuletën kur ndërroni pajisjen tuaj. Për të hyrë në Portalin e Vetë-shërbimit, ju nevojiten të dhënat e certifikatës që keni marrë gjatë procesit të regjistrimit (emri i përdoruesit dhe fjalëkalimi i certifikatës). Portali i Vetë-shërbimit mund të aksesohet nga çdo shfletues, si në kompjuter ashtu edhe në pajisjet mobile.
 
 # Humbja e të dhënave
-Në rast se nuk i keni ruajtur të dhënat e certifikatës, Portali i Vetë **`shërbimit ju mundëson të ndryshoni ose të rikuperoni informacionin që mungon`**. Të dhënat që duhet **`t’i mbani gjithmonë mend janë adresa e emailit e përdorur gjatë regjistrimit dhe numri juaj personal i Kosovës`**. Duke përdorur këto të dhëna dhe duke ndjekur udhëzimet **`mund të rikuperoni Kodin e Rikuperimit Emergjent (ERC), emrin e përdoruesit ose të rivendosni fjalëkalimin tuaj`**.
+Në rast se nuk i keni ruajtur të dhënat e certifikatës, **`portali i vetëshërbimit ju mundëson ndryshimin ose rikuperimin e të dhënave të munguara të certifikatës.`**. Ajo që duhet të **`mbani mend gjithmonë është adresa e emailit e përdorur gjatë regjistrimit dhe numri juaj personal i Kosovës`**. Duke përdorur këto të dhëna dhe duke ndjekur udhëzimet përkatëse **`mund të rikuperoni Kodin e Rikuperimit në Rast Urgjence (ERC) dhe emrin e përdoruesit, ose të rivendosni fjalëkalimin tuaj.`**.
 
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="Self service" 
+    text="Vetëshërbim" 
     href="https://eid-lcm.rks-gov.net/login" 
     newTab="true" 
 %}
@@ -51,7 +51,7 @@ Të dhënat e profilit tuaj mund t’i shihni duke zgjedhur opsionin përkatës 
 %}
 
 ## Të dhënat e sigurisë
-Informacionin e sigurisë së certifikatës mund ta menaxhoni duke zgjedhur opsionin **`User Information`** nga menyja anësore në të majtë. Përmes këtij opsioni mund të ndryshoni PIN-in ose PUK-un, të rikuperoni Kodin e Rikuperimit Emergjent (ERC), si dhe të zhbllokoni PIN-in në rast se është bllokuar pas tri përpjekjeve të pasuksesshme për ta vendosur atë.
+Të dhënat e sigurisë së certifikatës mund t’i menaxhoni duke klikuar në opsionin **`Të dhënat e përdoruesit`** në menynë anësore në të majtë. Nëpërmjet këtij opsioni, mund të ndryshoni PIN-in ose PUK-un, të rikuperoni Kodin e Rikuperimit në Rast Urgjence (ERC), si dhe të zhbllokoni PIN-in në rast se është bllokuar pas futjes së gabuar të PIN-it tri herë.
 
 {% capture img %}
     source="partials/media/manage-eid/cert-info.png"|caption="Security Info"|captionBorder="true",
@@ -69,9 +69,9 @@ Informacionin e sigurisë së certifikatës mund ta menaxhoni duke zgjedhur opsi
 Menaxhimin e certifikatës mund ta kryeni duke zgjedhur opsionin **`Menaxhimi i identitetit`** nga menyja anësore në të majtë. 
 
 Përmes këtij seksioni mund të kryeni këto veprime:
-- **`Revokoni certifikatën`**: Revokoni certifikatën nëse dyshoni se është komprometuar ose nëse nuk dëshironi ta përdorni më.no lij
+- **`Revokoni certifikatën`**: Revokoni certifikatën në rast se dyshoni se ajo është komprometuar ose nëse nuk dëshironi ta përdorni më.
 - Shkarkoni certifikatën: Shkarkoni një kopje lokale të certifikatës.
-- Lidhni ose **`migroni Kuletën`**: Lidhni Kuletën nëse nuk e keni bërë gjatë procesit të regjistrimit ose migrojeni atë në një pajisje tjetër celulare.
+- Lidhni ose **`migroni Kuletën`**: Lidhni Kuletën nëse nuk e keni bërë gjatë procesit të regjistrimit ose transferojeni Kuletën në një telefon tjetër celular.
 
 {% include elements/alert.html 
   class="warning" 

@@ -127,7 +127,7 @@ Ju mund ta menaxhoni certifikatën tuaj duke përdorur **`Portalin e Vetë-shër
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="Self service" 
+    text="Vetëshërbim" 
     href="/manage-eid/" 
     newTab="false" 
 %}
@@ -138,7 +138,7 @@ Gjatë periudhës së vlefshmërisë së certifikatës suaj, nëse hasni problem
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="Support" 
+    text="Mbështetje" 
     href="https://ks-eid.com/support" 
     newTab="true" 
 %}

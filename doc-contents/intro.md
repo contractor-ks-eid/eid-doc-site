@@ -20,7 +20,7 @@ Sistemi eID i Kosovës përbëhet nga disa komponentë kryesorë::  **`identitet
 %}
 
 # 🚀 Regjistrimi
-Qytetarët mund të pajisen me identitetin e tyre elektronik duke kaluar procesin e regjistrimit në sportelet e Agjencisë së Regjistrimit Civil (`ARC`) . Pas lëshimit, identiteti elektronik mund të ruhet në mënyrë të sigurt në Kuletën e Kosovës. Në mënyrë të ngjashme, subjektet juridike mund të pajisen me vulën elektronike përmes procesit të regjistrimit në sportelet e Agjencisë për Regjistrimin e Bizneseve të Kosovës (ARBK) .
+Qytetarët mund të pajisen me identitetin e tyre elektronik duke kaluar procesin e regjistrimit në sportelet e Agjencisë së Regjistrimit Civil (`ARC`) . Pas lëshimit, identiteti elektronik mund të ruhet në mënyrë të sigurt në Kuletën e Kosovës. Në mënyrë të ngjashme, subjektet juridike mund të pajisen me vulën elektronike përmes procesit të regjistrimit në sportelet e Agjencisë për Regjistrimin e Bizneseve të Kosovës (`ARBK`) .
 
 {% include elements/youtube.html 
     id="BqPljJ9CLbs" 

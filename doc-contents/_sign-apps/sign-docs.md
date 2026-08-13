@@ -62,14 +62,14 @@ Pasi të instaloni aplikacionin e nënshkrimit për pajisje mobile, ndiqni udhë
   title="Identitetet"
 %}
 
-TPër të nënshkruar:
-1. Hapni aplikacionin Kosovo eSign, shkoni te skeda **`Ballina`** (në fund të ekranit) dhe zgjidhni **`Nënshkruaj`** nga shiriti i veglave.
+Për të nënshkruar:
+1. Hapni aplikacionin Kosovo eSign, shkoni te skeda **`Identiteti`** (në fund të ekranit) dhe zgjidhni **`Nënshkruaj`** nga shiriti i veglave.
 2. Zgjidhni skedarin që dëshironi të nënshkruani.
-3. Zgjidhni standardin e nënshkrimit (rekomandojmë PAdES për skedarët PDF dhe një nga standardet e tjera për llojet e tjera të skedarëve).
+3. Zgjidhni standardin e nënshkrimit (rekomandojmë PAdES për skedarët PDF, ndërsa për llojet e tjera të skedarëve mund të përdoret standardi përkatës).
 4. Aktivizoni opsionin **`Apliko vulën kohore`** nëse është e nevojshme (rekomandojmë ta aktivizoni).
 5. Prekni **`Tjetër`**
 6. Për skedarët PDF, do t'ju kërkohet të vendosni nënshkrimin në dokument.
-7. Vendosni PIN-in e certifikatës dhe **`prekni ikonën e shigjetës në anën e djathtë të fushës së PIN-it.`**
+7. Vendosni kodin PIN të certifikatës dhe **`klikoni ikonën e shigjetës në të djathtë të fushës së vendosjes së PIN-it`**
 8. Prisni të merrni Fjalëkalimin Njëpërdorimësh (OTP) dhe vendoseni atë.
 9. Ruani dokumentin e nënshkruar.
 

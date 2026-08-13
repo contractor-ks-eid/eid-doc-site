@@ -13,11 +13,11 @@ Kuleta e Kosovës ju ofron një sërë funksionalitetesh që mund të përdoren 
 
 # Funksionalitetet
 Pas përfundimit të instalimit të kuletës, do të keni qasje në funksionalitetet e kuletës, të cilat janë:
-- **`Shfaq kredencialet`**: shfaq listën e kredencialeve që keni në kuletën tuaj. Në kuadër të eID, duhet të keni **`një kredencial të ID-së digjitale`** (i paraqitur si një **`kartë blu me kokë blu`**) dhe (nëse është e aplikueshme për ju) **`një ose më shumë kredenciale të vulave digjitale`** (të paraqitura si një **`kartë blu me kokë ngjyrë ari`**)
+- **`Shfaq kredencialet`**: shfaq listën e kredencialeve që keni në kuletën tuaj. Në kuadër të eID, duhet të keni **`një kredencial të identitetit digjital`** (i paraqitur si një **`kartë blu me kokë blu`**) dhe (nëse është e aplikueshme për ju) **`një ose më shumë kredenciale të vulave digjitale`** (të paraqitura si një **`kartë blu me kokë ngjyrë ari`**)
 - **`Shfaq kredencialin`**: shfaq një kredencial të zgjedhur nga lista e kredencialeve.
-- **`Skano QR`**: mundëson skanimin e kodit QR të gjeneruar për autentifikimin e fortë me kuletën
-- **`Njoftimet`**: shfaq njoftimet e pranuara nga Kuleta juaj e Kosovës.
-- **`Cilësimet`**: ju mundëson të shihni ose të vendosni disa parametra për Kuoletën tuaj të Kosovës.
+- **`Skano QR`**: mundëson skanimin e kodit QR të gjeneruar për autentifikim të fuqishëm përmes kuletës
+- **`Njoftimet`**: shfaq njoftimet e pranuara në Kuletën tuaj të Kosovës.
+- **`Cilësimet`**: mundëson shikimin ose përcaktimin e disa parametrave të Kuletës tuaj të Kosovës.
 
 {% include elements/alert.html 
   class="primary" 
