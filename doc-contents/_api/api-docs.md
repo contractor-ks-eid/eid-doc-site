@@ -59,7 +59,7 @@ Drugo, pozivamo vas da pogledate primere koda za najčešće korišćene tehnolo
 Ovaj API vam omogućava da **`implementirate specifičan tok potpisivanja (ili pečaćenja, odnosno vremenskog žigosanja) u vašoj aplikaciji`**. Ovaj tok je prikazan u nastavku (kliknite na sliku za uvećanje).
 
 {% capture img %}
-    source="partials/media/api/api-sign-flow-s.png"|caption="Sign/Stamp API flow"|captionBorder="true"
+    source="partials/media/api/api-sign-flow-s.png"|caption="Tok API-ja za potpisivanje/pečatanje"|captionBorder="true"
 {% endcapture %}
 
 {% include elements/image-gallery.html 

@@ -106,11 +106,11 @@ Poslednji korak je **`potpisivanje sertifikata`**. Potrebno je da kliknete na **
 
 # Koraci registracije
 {% capture img %}
-    source="partials/media/get-eid/verify-contacts.png"|caption="Verify Contacts"|captionBorder="true",
-    source="partials/media/get-eid/request-approved.png"|caption="Request Approved"|captionBorder="true",
-    source="partials/media/get-eid/end-of-enrollment-wallet-not-connected.png"|caption="End of Enrollment (wallet not connected)"|captionBorder="true",
-    source="partials/media/get-eid/end-of-enrollment-wallet-connected.png"|caption="End of Enrollment (wallet connected)"|captionBorder="true",
-    source="partials/media/get-eid/end-of-enrollment-wallet.png"|caption="End of Enrollment (wallet)"|captionBorder="true",
+    source="partials/media/get-eid/verify-contacts.png"|caption="Verifikujte kontakte"|captionBorder="true",
+    source="partials/media/get-eid/request-approved.png"|caption="Zahtev odobren"|captionBorder="true",
+    source="partials/media/get-eid/end-of-enrollment-wallet-not-connected.png"|caption="Kraj registracije (novčanik nije povezan)"|captionBorder="true",
+    source="partials/media/get-eid/end-of-enrollment-wallet-connected.png"|caption="Kraj registracije (novčanik povezan)"|captionBorder="true",
+    source="partials/media/get-eid/end-of-enrollment-wallet.png"|caption="Kraj upisa (novčanik)"|captionBorder="true",
 {% endcapture %}
 
 {% include elements/image-gallery.html 
@@ -127,7 +127,7 @@ Svoj sertifikat možete upravljati korišćenjem **`portala za samousluživanje`
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="Self service" 
+    text="Samoposluživanje" 
     href="/manage-eid/" 
     newTab="false" 
 %}
