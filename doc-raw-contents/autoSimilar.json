@@ -14,9 +14,9 @@
     {
         "permalink": "/get-eid/",
         "similarFiles": [
-            "/manage-eid/",
             "/sign-apps/sign-docs/",
             "/wallet/use-wallet/",
+            "/manage-eid/",
             "/sign-apps/sign-office-docs/",
             "/intro/",
             "/wallet/intro/",
@@ -28,8 +28,8 @@
         "similarFiles": [
             "/sign-apps/sign-docs/",
             "/get-eid/",
-            "/sign-apps/sign-office-docs/",
             "/wallet/use-wallet/",
+            "/sign-apps/sign-office-docs/",
             "/intro/",
             "/wallet/intro/",
             "/sign-apps/intro/"
@@ -59,9 +59,9 @@
             "/wallet/intro/",
             "/sign-apps/sign-docs/",
             "/sign-apps/sign-office-docs/",
-            "/manage-eid/",
             "/get-eid/",
             "/intro/",
+            "/manage-eid/",
             "/wallet/use-wallet/"
         ]
     },
@@ -87,8 +87,8 @@
         "permalink": "/sign-apps/sign-docs/",
         "similarFiles": [
             "/sign-apps/sign-office-docs/",
-            "/manage-eid/",
             "/get-eid/",
+            "/manage-eid/",
             "/intro/",
             "/wallet/intro/",
             "/sign-apps/intro/",
@@ -99,8 +99,8 @@
         "permalink": "/sign-apps/sign-office-docs/",
         "similarFiles": [
             "/sign-apps/sign-docs/",
-            "/manage-eid/",
             "/get-eid/",
+            "/manage-eid/",
             "/intro/",
             "/wallet/use-wallet/",
             "/wallet/intro/",

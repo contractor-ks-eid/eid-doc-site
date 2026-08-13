@@ -39,8 +39,8 @@ Të dhënat e profilit tuaj mund t’i shihni duke zgjedhur opsionin përkatës 
 %}
 
 {% capture img %}
-    source="partials/media/manage-eid/lcm-profile.png"|caption="Profile"|captionBorder="true",
-    source="partials/media/manage-eid/lcm-profile-data.png"|caption="Profile data"|captionBorder="true"
+    source="partials/media/manage-eid/lcm-profile.png"|caption="Profil"|captionBorder="true",
+    source="partials/media/manage-eid/lcm-profile-data.png"|caption="Të dhënat e profilit"|captionBorder="true"
 {% endcapture %}
 
 {% include elements/image-gallery.html 
@@ -54,8 +54,8 @@ Të dhënat e profilit tuaj mund t’i shihni duke zgjedhur opsionin përkatës 
 Të dhënat e sigurisë së certifikatës mund t’i menaxhoni duke klikuar në opsionin **`Të dhënat e përdoruesit`** në menynë anësore në të majtë. Nëpërmjet këtij opsioni, mund të ndryshoni PIN-in ose PUK-un, të rikuperoni Kodin e Rikuperimit në Rast Urgjence (ERC), si dhe të zhbllokoni PIN-in në rast se është bllokuar pas futjes së gabuar të PIN-it tri herë.
 
 {% capture img %}
-    source="partials/media/manage-eid/cert-info.png"|caption="Security Info"|captionBorder="true",
-    source="partials/media/manage-eid/cert-info-data.png"|caption="Manage security info"|captionBorder="true"
+    source="partials/media/manage-eid/cert-info.png"|caption="Informacion mbi Sigurinë"|captionBorder="true",
+    source="partials/media/manage-eid/cert-info-data.png"|caption="Menaxho informacionin e sigurisë"|captionBorder="true"
 {% endcapture %}
 
 {% include elements/image-gallery.html 
@@ -86,8 +86,8 @@ Përmes këtij seksioni mund të kryeni këto veprime:
 %}
 
 {% capture img %}
-    source="partials/media/manage-eid/manage-id.png"|caption="Certificate"|captionBorder="true",
-    source="partials/media/manage-eid/manage-id-data.png"|caption="Manage certificate"|captionBorder="true"
+    source="partials/media/manage-eid/manage-id.png"|caption="Certifikatë"|captionBorder="true",
+    source="partials/media/manage-eid/manage-id-data.png"|caption="Menaxho certifikatën"|captionBorder="true"
 {% endcapture %}
 
 {% include elements/image-gallery.html 

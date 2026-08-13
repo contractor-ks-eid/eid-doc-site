@@ -79,7 +79,7 @@ Ne ofrojmë mbështetje teknike për përdoruesit e aplikacioneve të nënshkrim
 {% include elements/link-btn.html 
     type="primary" 
     outline="false" 
-    text="User support" 
+    text="Mbështetje" 
     href="https://ks-eid.com/support" 
     newTab="true" 
 %}

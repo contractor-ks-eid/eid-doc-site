@@ -50,12 +50,16 @@
     "permalink": "/sign-apps/sign-docs/",
     "related": [
       {
+        "title": "Aplikacionet e nënshkrimit",
+        "permalink": "/sign-apps/intro/"
+      },
+      {
         "title": "Nënshkrimi i dokumenteve Office",
         "permalink": "/sign-apps/sign-office-docs/"
       },
       {
-        "title": "Aplikacionet e nënshkrimit",
-        "permalink": "/sign-apps/intro/"
+        "title": "Pajisuni me eID",
+        "permalink": "/get-eid/"
       }
     ]
   },

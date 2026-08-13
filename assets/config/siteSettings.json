@@ -347,16 +347,16 @@
           "title": "Nënshkrimi i dokumenteve Office"
         },
         {
-          "permalink": "/manage-eid/",
-          "title": "Menaxhimi i eID-së"
-        },
-        {
           "permalink": "/get-eid/",
           "title": "Pajisuni me eID"
         },
         {
           "permalink": "/intro/",
           "title": "Hyrje"
+        },
+        {
+          "permalink": "/manage-eid/",
+          "title": "Menaxhimi i eID-së"
         },
         {
           "permalink": "/wallet/use-wallet/",
@@ -379,34 +379,38 @@
         "Nënshkrimi",
         "identiteti"
       ],
-      "excerpt": "signatures, documentd, cades, apps, pdf, certificate, adobe, pades, xades, mobile",
+      "excerpt": "laptope, certifikates, dokumenteve, nenshkrimit, aplikacioni, ofrojne, njeperdorimesh, mundesine, ndryshme, teknike",
       "lastUpdate": "2026-08-13 12:33:30 +0300",
       "lastUpdateUTC": 0,
       "createTime": "2026-08-13 12:33:30 +0300",
       "createTimeUTC": 1786613610,
       "relatedPages": [
         {
+          "title": "Aplikacionet e nënshkrimit",
+          "permalink": "/sign-apps/intro/"
+        },
+        {
           "title": "Nënshkrimi i dokumenteve Office",
           "permalink": "/sign-apps/sign-office-docs/"
         },
         {
-          "title": "Aplikacionet e nënshkrimit",
-          "permalink": "/sign-apps/intro/"
+          "title": "Pajisuni me eID",
+          "permalink": "/get-eid/"
         }
       ],
-      "autoSummary": "We provide the possibility to sign documents both on desktop or laptop as well as on mobile devices. The desktop signing app is only facilitating the signing process by ensuring the verification of the used certificate each time when is used for signature.",
+      "autoSummary": "Aplikacioni kontrollon gjithmonë nëse certifikata është e vlefshme.",
       "similarByContent": [
         {
           "permalink": "/sign-apps/sign-office-docs/",
           "title": "Nënshkrimi i dokumenteve Office"
         },
         {
-          "permalink": "/manage-eid/",
-          "title": "Menaxhimi i eID-së"
-        },
-        {
           "permalink": "/get-eid/",
           "title": "Pajisuni me eID"
+        },
+        {
+          "permalink": "/manage-eid/",
+          "title": "Menaxhimi i eID-së"
         },
         {
           "permalink": "/intro/",
@@ -469,12 +473,12 @@
           "title": "Nënshkrimi i dokumenteve"
         },
         {
-          "permalink": "/manage-eid/",
-          "title": "Menaxhimi i eID-së"
-        },
-        {
           "permalink": "/get-eid/",
           "title": "Pajisuni me eID"
+        },
+        {
+          "permalink": "/manage-eid/",
+          "title": "Menaxhimi i eID-së"
         },
         {
           "permalink": "/intro/",
@@ -651,16 +655,16 @@
       "autoSummary": "Pajisja me eid ishte një proces i shpejtë dhe i thjeshtë. Procesi zhvillohet në agjencinë për regjistrimin e bizneseve të kosovës (arbk).",
       "similarByContent": [
         {
-          "permalink": "/manage-eid/",
-          "title": "Menaxhimi i eID-së"
-        },
-        {
           "permalink": "/sign-apps/sign-docs/",
           "title": "Nënshkrimi i dokumenteve"
         },
         {
           "permalink": "/wallet/use-wallet/",
           "title": "Përdorimi i Kuletës së Kosovës"
+        },
+        {
+          "permalink": "/manage-eid/",
+          "title": "Menaxhimi i eID-së"
         },
         {
           "permalink": "/sign-apps/sign-office-docs/",
@@ -794,12 +798,12 @@
           "title": "Pajisuni me eID"
         },
         {
-          "permalink": "/sign-apps/sign-office-docs/",
-          "title": "Nënshkrimi i dokumenteve Office"
-        },
-        {
           "permalink": "/wallet/use-wallet/",
           "title": "Përdorimi i Kuletës së Kosovës"
+        },
+        {
+          "permalink": "/sign-apps/sign-office-docs/",
+          "title": "Nënshkrimi i dokumenteve Office"
         },
         {
           "permalink": "/intro/",
