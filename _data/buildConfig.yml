@@ -85,7 +85,7 @@ siteFooter:
         <a href="https://ks-eid.com/sr/cookies" target=_blank>Cookies</a>
     - content: > 
         <i class="bi bi-c-circle"></i> 
-        <a href="https://me.rks-gov.net/sr/" target=_blank>Ministarstvo Ekonomije</a>
+        <a href="https://mdap.rks-gov.net/sr/" target=_blank>Ministarstvo Digitalizacije i Javne Uprave</a>
 googleAnalytics:
   enabled: true #enable/disable GA integration
   ga: "G-S12CV9TTQG"
