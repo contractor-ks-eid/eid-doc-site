@@ -1,5 +1,5 @@
 
-Duhet të keni të paktën Android 5.0 për të instaluar Kosovo Wallet.
+Duhet të keni të paktën Android 5.0 për të instaluar Kosova Wallet.
 
 {% include elements/image.html 
   source="partials/media/wallet/google-play.svg"

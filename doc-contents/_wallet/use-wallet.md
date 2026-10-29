@@ -9,7 +9,7 @@ start: false
 ---
 
 # Hyrje
-Kuleta e Kosovës ju ofron një sërë funksionalitetesh që mund të përdoren për t’i mbajtur të sigurta dhe të mbrojtura kredencialet e certifikatës suaj në pajisjen tuaj, për të organizuar kredencialet dhe për t’i përdorur ato në aplikacionet që janë pjesë e ekosistemit Kosovo eID dhe që ofrojnë autentifikim të fortë me Kuletën e Kosovës.
+Kuleta e Kosovës ju ofron një sërë funksionalitetesh që mund të përdoren për t’i mbajtur të sigurta dhe të mbrojtura kredencialet e certifikatës suaj në pajisjen tuaj, për të organizuar kredencialet dhe për t’i përdorur ato në aplikacionet që janë pjesë e ekosistemit Kosova eID dhe që ofrojnë autentifikim të fortë me Kuletën e Kosovës.
 
 # Funksionalitetet
 Pas përfundimit të instalimit të kuletës, do të keni qasje në funksionalitetet e kuletës, të cilat janë:

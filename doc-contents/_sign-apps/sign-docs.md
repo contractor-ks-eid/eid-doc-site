@@ -52,7 +52,7 @@ Pasi të instaloni aplikacionin e nënshkrimit për desktop, ndiqni udhëzimet n
 
 ## Pajisje mobile
 Pasi të instaloni aplikacionin e nënshkrimit për pajisje mobile, ndiqni udhëzimet e mëposhtme për të mësuar se si ta përdorni atë për të nënshkruar dokumente:
-1. Hapni aplikacionin Kosovo eSign dhe shkoni te skeda **`Identiteti`** (në fund të ekranit).
+1. Hapni aplikacionin Kosova eSign dhe shkoni te skeda **`Identiteti`** (në fund të ekranit).
 2. Klikoni shenjën **`+`** the shtoni identitetin tuaj (do t'ju nevojiten emri i përdoruesit dhe fjalëkalimi i certifikatës që i keni marrë gjatë procesit të regjistrimit).
 3. Shkoni te skeda **`Cilësimet`** (në fund të ekranit) dhe aktivizoni **`Nënshkrimin grafik`** the **`Gjeoreferencimin automatik`** (nëse nuk janë tashmë të aktivizuara)
 
@@ -63,7 +63,7 @@ Pasi të instaloni aplikacionin e nënshkrimit për pajisje mobile, ndiqni udhë
 %}
 
 Për të nënshkruar:
-1. Hapni aplikacionin Kosovo eSign, shkoni te skeda **`Identiteti`** (në fund të ekranit) dhe zgjidhni **`Nënshkruaj`** nga shiriti i veglave.
+1. Hapni aplikacionin Kosova eSign, shkoni te skeda **`Identiteti`** (në fund të ekranit) dhe zgjidhni **`Nënshkruaj`** nga shiriti i veglave.
 2. Zgjidhni skedarin që dëshironi të nënshkruani.
 3. Zgjidhni standardin e nënshkrimit (rekomandojmë PAdES për skedarët PDF, ndërsa për llojet e tjera të skedarëve mund të përdoret standardi përkatës).
 4. Aktivizoni opsionin **`Apliko vulën kohore`** nëse është e nevojshme (rekomandojmë ta aktivizoni).

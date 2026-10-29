@@ -12,7 +12,7 @@ start: true
 Kuleta e Kosovës është një aplikacion mobil që përdoret për të ruajtur në mënyrë të sigurt kredencialet e ID-së tuaj elektronike ose të vulës/vulave tuaja elektronike. Kuleta e Kosovës mund të instalohet si çdo aplikacion tjetër mobil nga Google Play (për Android) ose nga App Store (për iOS). Instalimi dhe përdorimi, pa asnjë kufizim, janë pa pagesë.
 
 # Qëllimi
-Në kuadër të Kosovo eID, qëllimi i kuletës është të ruajë në mënyrë të sigurt kredencialet e ID-së tuaj elektronike ose të vulës/vulave tuaja elektronike dhe të përdoret për autentifikim të fortë në shërbimet elektronike që do të jenë pjesë e ekosistemit eID dhe që do të integrojnë funksionalitetet e eID-së.
+Në kuadër të Kosova eID, qëllimi i kuletës është të ruajë në mënyrë të sigurt kredencialet e ID-së tuaj elektronike ose të vulës/vulave tuaja elektronike dhe të përdoret për autentifikim të fortë në shërbimet elektronike që do të jenë pjesë e ekosistemit eID dhe që do të integrojnë funksionalitetet e eID-së.
 
 {% capture buttons %}
     type=primary|outline=false|text=Faqja e kuletës|href="https://ks-eid.com/wallet"|newTab=true,
