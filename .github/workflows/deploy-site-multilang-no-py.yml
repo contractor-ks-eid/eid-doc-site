@@ -24,11 +24,14 @@ jobs:
         with:
           ruby-version: '3.4'
           bundler-cache: true
-      
+
+      # Python 3.9 is EOL and no longer preinstalled on the runner image, so
+      # setup-python had to download it from GitHub (which returned HTTP 504).
+      # 3.12 is preinstalled, so there is no download step to fail.
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.9'
+          python-version: '3.12'
 
       - name: Install Python minimal dependencies
         run: |
