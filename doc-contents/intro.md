@@ -23,7 +23,7 @@ The Kosovo eID system brings together a few key pieces: the **`electronic ID`** 
 Citizens can get their electronic ID by going through a enrollment process at the Civil Registration Offices (`ARC`) counters. Once issued, the ID can be securely stored in the Kosovo Wallet. In a similar way, citizens can obtain an electronic Seal through the enrollment process at the Kosovo Business Registration Agency (`ARBK`) counters.
 
 {% include elements/youtube.html 
-    id="BqPljJ9CLbs" 
+    id="9smGyzzDG_w" 
     width="640" 
     height="360"
     moments=moments
@@ -53,7 +53,7 @@ Citizens can get their electronic ID by going through a enrollment process at th
 With an electronic ID (or electronic Seal) and the signing app, citizens and businesses can digitally sign or stamp documents. By law, an electronic signature has the same legal value as a handwritten one.
 
 {% include elements/youtube.html 
-    id="T5iE-oR_Tcg" 
+    id="S183Zfz83Dw" 
     width="640" 
     height="360"
     moments=moments
@@ -84,7 +84,7 @@ With an electronic ID (or electronic Seal) and the signing app, citizens and bus
 Using the electronic ID together with the Kosovo Wallet, citizens can also log in and authenticate to online services — such as eKosova or eBanking — once those services become Kosovo eID partners and integrate eID features through the integration engine (**`eID API`**).
 
 {% include elements/youtube.html 
-    id="kZW6FRZVlZU" 
+    id="vGz_VNwEcCE" 
     width="640" 
     height="360"
     moments=moments
