@@ -23,7 +23,7 @@ Kosovo eID sistem objedinjuje nekoliko ključnih komponenti: **`elektronski iden
 Građani mogu dobiti svoj elektronski identitet prolaskom kroz proces registracije na šalterima Agencije za civilnu registraciju (`ARC`) . Nakon izdavanja, identitet se može bezbedno čuvati u Kosovo novčaniku. Na sličan način, građani mogu dobiti elektronski pečat putem procesa registracije na šalterima Agencije za registraciju biznisa Kosova (`ARBK`) .
 
 {% include elements/youtube.html 
-    id="BqPljJ9CLbs" 
+    id="wrAKOwODY7w" 
     width="640" 
     height="360"
     moments=moments
@@ -53,7 +53,7 @@ Građani mogu dobiti svoj elektronski identitet prolaskom kroz proces registraci
 Pomoću elektronskog identiteta (ili elektronskog pečata) i aplikacije za potpisivanje, građani i preduzeća mogu digitalno potpisivati ili overavati dokumenta elektronskim pečatom. Prema zakonu, elektronski potpis ima istu pravnu vrednost kao svojeručni potpis.
 
 {% include elements/youtube.html 
-    id="T5iE-oR_Tcg" 
+    id="N_fEkYNTRWI" 
     width="640" 
     height="360"
     moments=moments
@@ -84,7 +84,7 @@ Pomoću elektronskog identiteta (ili elektronskog pečata) i aplikacije za potpi
 Korišćenjem elektronskog identiteta zajedno sa Kosovo novčanikom, građani se takođe mogu prijaviti i autentifikovati na mrežne usluge — kao što su eKosova ili eBanking — nakon što te usluge postanu partneri sistema Kosovo eID i integrišu eID funkcionalnosti putem integracionog mehanizma (**`eID API`**).
 
 {% include elements/youtube.html 
-    id="kZW6FRZVlZU" 
+    id="_fxwgmLd2Y4" 
     width="640" 
     height="360"
     moments=moments

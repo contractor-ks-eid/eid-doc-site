@@ -44,7 +44,7 @@ Tehnički, može se potpisati bilo koja vrsta dokumenta, jer su podržani najče
 Nakon instalacije desktop aplikacije za potpisivanje, pratite uputstva iz sledećeg video-snimka kako biste se upoznali sa načinom korišćenja ove aplikacije za potpisivanje dokumenata.
 
 {% include elements/youtube.html 
-    id="OTNiEsfceuc" 
+    id="N_fEkYNTRWI" 
     width="640" 
     height="360"
     moments=moments
