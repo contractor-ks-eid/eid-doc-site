@@ -44,7 +44,7 @@ Nga pikëpamja teknike, mund të nënshkruhet çdo lloj dokumenti, pasi mbështe
 Pasi të instaloni aplikacionin e nënshkrimit për desktop, ndiqni udhëzimet në videon e mëposhtme për të mësuar se si ta përdorni këtë aplikacion për të nënshkruar dokumente.
 
 {% include elements/youtube.html 
-    id="OTNiEsfceuc" 
+    id="S183Zfz83Dw" 
     width="640" 
     height="360"
     moments=moments
